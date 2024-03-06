@@ -20,6 +20,7 @@ sys.path.append(lib_path)
 from JQA_XML_parser import *
 
 def grabFiles(folder, length):
+    '''Takes in the folder for the XML docs and how many xml documents you would like to use.'''
     files = []
     for dirpath, dirnames, filenames in os.walk(folder):
         for filename in [f for f in filenames if f.endswith(".xml")]:
@@ -27,6 +28,7 @@ def grabFiles(folder, length):
     return files[:length]
 
 def createDataframe(files):
+    '''Builds dataframe from the files list.'''
     # Build dataframe from XML files.
     # build_dataframe() called from Correspondence_XML_parser
     df = build_dataframe(files)
@@ -139,6 +141,11 @@ def createGraphObject(df_graph):
     return data
 
 def addNames(data):
+    '''
+    This function loads the idtoname.json file, which is a dictionary used to store and track the relationship between
+    the ids and the names of the people. Load the file, and check if the current nodes are tracked in the json file, and if
+    not, we call the PSC names database API to fill in the names and add it to the json.
+    '''
     with open('data/idtoname.json') as f:
         d = json.load(f)
     for node in data['nodes']:
@@ -146,17 +153,22 @@ def addNames(data):
             node['name'] = (d[node['id']]['given_name'] + " " + d[node['id']]['family_name'])
         else:
             request_url = "https://primarysourcecoop.org/mhs-api/ext/names?huscs={}".format(node['id'])
-            response = requests.get(request_url)
+            try:
+                response = requests.get(request_url)
+            except requests.exceptions.RequestException as e:  # This is the correct syntax
+                raise SystemExit(e)
             node['name'] = response.json()['data'][node['id']]['given_name'] + " " + response.json()['data'][node['id']]['family_name']
             d[node['id']] = response.json()['data'][node['id']]
             with open('data/idtoname.json', 'w') as f:
                 json.dump(d, f)
 
 def save(data):
+    '''Simple function just to save the json file to the data folder.'''
     with open("data/jqa_coRef-network.json", "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def main():
+    '''Main argument to parse the args and call all of the requisite functions. Once this runs, you can start a server and check out the index.html file.'''
     parser = argparse.ArgumentParser(description='Create Network Graph')
     parser.add_argument(
         'folder',
