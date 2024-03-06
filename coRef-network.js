@@ -222,7 +222,6 @@ d3.json('data/jqa_coRef-network.json').then(data => {
 
     // Move mouse over/out.
     node.on('mouseover', function(event, d, i) {
-
         // Focus
         let source = d3.select(event.target).datum().__proto__.id;
 
@@ -284,6 +283,13 @@ d3.json('data/jqa_coRef-network.json').then(data => {
             .attr('display', 'block');
         node.style('opacity', 1);
         link.style('opacity', 0.6);
+    })
+
+    // This responds to click events by appending the associated node's id to the url and opening it.
+    node.on('click', function(event, d) {
+        var url = "https://www.primarysourcecoop.org/publications/jqa/explore/person/"
+        url += d.id
+        window.open(url, "_blank")
     })
 
 });
