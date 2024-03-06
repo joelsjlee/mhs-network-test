@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1802-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="352" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v24-1802-02-p356.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1802-01-01" to="1802-01-31"/></bibl>
+
+				<!--D/JQA/24.2719-->
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-01">
+					<head>1 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="352"/>
+						<dateline><hi rend="italic">January 1802.</hi></dateline>
+						<p><date>1. </date>Sent my book-case and some books to the office I have
+							taken in State-Street— <persRef ref="gray-hannah">M<hi
+									rend="superscript">rs:</hi> Wilson</persRef>, <persRef
+								ref="doble-lucy">M<hi rend="superscript">rs:</hi> Doble</persRef>
+							and <persRef ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef> call’d to visit us— Sundry purchases— Dined with
+								<persRef ref="codman-john2">M<hi rend="superscript">r:</hi> John
+								Codman</persRef>— A large company of Gentlemen. <persRef
+								ref="codman-catherine;u;codman-abigail">M<hi rend="superscript"
+									>rs:</hi> and the two Miss Codman’s</persRef> the only ladies—
+							Evening at <persRef ref="smith-william3">M<hi rend="superscript">r:</hi>
+								Smith’s</persRef>— <persRef ref="storer-ebenezer">M<hi
+									rend="superscript">r:</hi> Storer</persRef>, <persRef
+								ref="storer-hannah2;storer-anna;storer-susan">his
+								daughters</persRef> and <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef> with the <persRef
+										ref="welsh-abigail;welsh-harriet;bailey-charlotte">ladies of his
+								family</persRef> were there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-02">
+					<head>2 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Howard</persRef> called this forenoon— I was busied in arrangements
+							to enter my office— <persRef ref="minot-george">Judge Minot</persRef>
+							very ill. Met <persRef ref="quincy-josiah2">Quincy</persRef> and had
+							some conversation with him— Declined his proposition— Called on <persRef
+								ref="shaw-charity">M<hi rend="superscript">rs:</hi> Shaw</persRef>,
+							to enquire the character of a servant— On <persRef ref="amory-thomas">T.
+								Amory</persRef>, and gave him to send to France the duplicate of my
+							letter to <persRef ref="livingston-robert">M<hi rend="superscript"
+									>r:</hi> Livingston</persRef>, with the enclosure for <persRef
+								ref="lafayette">Gen<hi rend="superscript">l:</hi> La
+								Fayette</persRef>— Immediately after dinner, came out to Quincy,
+							with <persRef ref="adams-louisa-catherine">my wife</persRef> and
+								<persRef ref="adams-george">child</persRef>— Road uncommonly rough
+							and bad— Reached <persRef ref="adams-john">my father’s</persRef> house
+							just at dark— Found <persRef ref="beale-benjamin">Capt<hi
+									rend="superscript">n:</hi> Beale</persRef> there. He stay’d all
+							the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-03">
+					<head>3 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>I was up very early this morning, and engaged the whole
+							day in setting papers to rights— The hours of public worship however
+							excepted, which I attended, morning and afternoon. <persRef
+								ref="adams-louisa-catherine">My wife</persRef> was unwell all day;
+							and in the evening quite ill.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-04">
+					<head>4 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>It rain’d and storm’d so much the whole day, that
+								<persRef ref="adams-louisa-catherine">we</persRef> were unable to go
+							into town— My <persRef ref="adams-peter">Uncle Adams</persRef> and
+								<persRef ref="black-moses">M<hi rend="superscript">r:</hi>
+								Black</persRef> called in the morning— About a question concerning
+							the settlement of certain poor— <persRef ref="adams-boylston">Boylston
+								Adams</persRef> in the evening came and consulted me about a claim
+							he has to certain lands— Pass’d the greatest part of the day in the
+							office, arranging papers and reading The Baviad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-05">
+					<head>5 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Cleared up in the night, and the weather became severely
+							cold.— <persRef ref="adams-louisa-catherine">We</persRef> came into
+							town; I took possession of my office in the afternoon— Called at the
+							Bank, and received my dividend upon 8. per Cents. Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-06">
+					<head>6 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Weather soften’d down again— <persRef ref="minot-george"
+								>Judge Minot</persRef>, who died on the 2<hi rend="superscript"
+								>d:</hi> was buried this afternoon— I attended his funeral— In the
+							evening, attended the club at <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> Smith’s</persRef>— Found <persRef
+								ref="welles-john">J. Welles</persRef> there— The conversation
+							principally upon M<hi rend="superscript">r:</hi> Minot’s sudden
+							decease.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-07">
+					<head>7 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date><persRef ref="shaw-benjamin">M<hi rend="superscript"
+									>r:</hi> B. Shaw</persRef> sent for me this morning— M<hi
+								rend="superscript">r:</hi> Shaw had been very ill all night and
+							wanted me to draw up some writings— I went, found <persRef
+								ref="jarvis-charles">D<hi rend="superscript">r:</hi>
+								Jarvis</persRef> there— But M<hi rend="superscript">r:</hi> Shaw
+							appeared to be in no immediate danger— And postponed the drawing of his
+							papers to a future opportunity— Paid <persRef ref="hall-fitch">Fitch
+								Hall</persRef> 3. assessments upon the Middlesex Canal.— Went Before
+							dinner with <persRef ref="quincy-josiah2">Quincy</persRef> to <persRef
+								ref="popkin-john">M<hi rend="superscript">r:</hi> Popkin’s</persRef>
+							but he was not at home— Read a little law and began<hi rend="bold"
+							> </hi>attending to business— At 7. in the evening I went with Quincy to
+							the meeting of the Society to pursue subjects of Natural philosophy—
+							Newly instituted and to consist only of ten members— Signed their
+							Articles and attended the experiments and observations. <persRef
+								ref="frazier-nathan">N. Frazier</persRef> was the lecturer, and
+							magnetism the subject— The text book is <persRef
+								ref="jones-william7;jones-samuel">Jones’s</persRef> edition of
+								<persRef ref="adams-george3">Adams’s</persRef> lectures upon natural
+							and experimental philosophy— By the rules, the lectures commence at 7.
+							in the eve<hi rend="superscript">g:</hi> and close at 10.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-08">
+					<head>8 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>My <persRef ref="adams-peter">Uncle Adams</persRef> and
+							his son <persRef ref="adams-boylston">Boylston</persRef>, called on me,
+							the former at my Office, the latter at my house, respecting Boylston’s
+							claim mentioned some days ago. Spent the principal part of the day at my
+							office. Called in at the Court of Common Pleas after dinner— Evening at
+							home— The commencement of my old profession again, is attended with
+							difficulties somewhat embarrassing, and prospects not very encouraging—
+							But I thank God, I can yet struggle with the ills of life allotted to
+							me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-09">
+					<head>9 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Spent the principal part of the day at my Office,
+							examining some of the points upon which my opinion is required— <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Snow</persRef> called at my
+							office, and desired me to proceed in the action of <persRef ref="u"
+								>Brookins</persRef>— <persRef ref="adams-george">The child</persRef>
+							unwell this afternoon— Sent for <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef>, who came and saw
+							him— Unpack’d a chest of my books in the evening; but have no place to
+							put them in.— Much stinted for want of room.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-10">
+					<head>10 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>Up very early this morning. Weather stormy with heavy
+							rain. In the afternoon it cleared up very cold. <persRef ref="knox-lucy"
+									>M<hi rend="superscript">rs:</hi> Knox</persRef> and <persRef
+								ref="knox-lucy2">her daughter</persRef> came and visited <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— In the forenoon I went to the Old Brick
+							Meeting-house, where <persRef ref="emerson-william">M<hi
+									rend="superscript">r:</hi> Emerson</persRef> is now the
+							successor of <persRef ref="clarke-john">D<hi rend="superscript">r:</hi>
+								Clarke</persRef>— Heard <persRef ref="thacher-peter">D<hi
+									rend="superscript">r:</hi> Thacher</persRef>. In the afternoon,
+							went to the chapel church, and heard <persRef ref="u">M<hi rend="superscript">r:</hi>
+							Freeman’s</persRef> funeral elogy, upon the friend and companion of his youth and
+							childhood, <persRef ref="minot-george">judge Minot</persRef>— It was
+							solemn, instructive and pathetic— Spent the evening at home, principally
+							in reading the Voyage dans la Haute Pensylvanie.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-11">
+					<head>11 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="353" type="ms"/>
+						<p><date>11. </date>At the probate Office, and registry of deeds, upon
+								<persRef ref="adams-boylston">Boylston Adams’s</persRef> business—
+								<persRef ref="beale-nathaniel">Nat<hi rend="superscript">l:</hi>
+								Beale</persRef>, and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Townsend</persRef> at my Office— Attended the meeting
+							of the Union Bank Stockholders— The business to petition for a
+							continuance of the charter of incorporation— <persRef ref="welsh-thomas"
+									>D<hi rend="superscript">r:</hi> Welsh</persRef> called at my
+							Office, and hinted to me the probability that <persRef
+								ref="dawes-thomas">judge Dawes</persRef>, would quit the Bench of
+							the Supreme Court, to take the Offices of probate and municipal judge,
+							and that I might be nominated to supply his place— I afterwards saw D<hi
+								rend="superscript">r.</hi> Welsh again, and told him that I hoped
+							the nomination would not be made, as if it were, I should be obliged
+							from a variety of considerations to decline accepting it.— <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							dined with us— Spent the afternoon at my Office, and the evening at
+							home—reading to <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>, in <persRef
+								ref="locke-john">Locke’s</persRef> treatise upon Education.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-12">
+					<head>12 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Called again at the Offices of Register of Deeds, and of
+							probate— Found some documents to my purpose, in the former—none in the
+							latter— <persRef ref="codman-catherine">M<hi rend="superscript">rs:</hi>
+								Codman</persRef> called to see <persRef ref="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef>; and <persRef
+								ref="sargent-daniel">D. Sargent</persRef> on me— As did <persRef
+								ref="babcock-adam">M<hi rend="superscript">r:</hi>
+							Babcock</persRef>, upon business—to retain me in certain insurance
+							causes upon the ship Martha— Afternoon at my Office, and evening at
+							home— M<hi rend="superscript">rs:</hi> Adams unwell with a head
+							ache.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-13">
+					<head>13 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Called this morning upon <persRef ref="boylston-ward"
+									>M<hi rend="superscript">r:</hi> Boylston</persRef>, but he was
+							not at<hi rend="bold"> </hi>home— Upon <persRef ref="parsons-theophilus"
+									>M<hi rend="superscript">r:</hi> T. Parsons</persRef> and had a
+							couple of hours conversation with him— Went with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> to visit <persRef ref="knox-lucy">M<hi
+									rend="superscript">rs:</hi> Knox</persRef>, <persRef
+										ref="amory-mehitable">M<hi rend="superscript">rs:</hi> Jon<hi
+									rend="superscript">n:</hi> Amory jun<hi rend="superscript"
+									>r:</hi></persRef>
+							<persRef ref="amory-nancy">M<hi rend="superscript">rs:</hi> R.
+								Amory</persRef>, <persRef ref="gray-hannah">M<hi rend="superscript"
+									>rs:</hi> Wilson</persRef> &amp; <persRef ref="doble-lucy">M<hi
+									rend="superscript">rs:</hi> Doble</persRef> and <persRef ref="u"
+								>Miss Allen</persRef>. Saw only the two first. Made some
+							calculations upon the increase of population in the United States— At my
+							office in the afternoon— Spent the evening and supped at <persRef
+								ref="amory-rufus">M<hi rend="superscript">r:</hi> R.
+								Amory’s</persRef>, with a company of about twenty persons.— <persRef
+								ref="knox-henry2;knox-lucy">Gen<hi rend="superscript">l:</hi> &amp;
+									M<hi rend="superscript">rs:</hi> Knox</persRef>; <persRef
+								ref="morton-perez;morton-sarah">M<hi rend="superscript">r:</hi>
+								&amp; M<hi rend="superscript">rs:</hi> Morton</persRef>, <persRef
+								ref="hichborn-hannah">M<hi rend="superscript">rs:</hi>
+								Hichborn</persRef>, <persRef ref="callender-john;u">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Callender</persRef>, <persRef
+								ref="apthorp-john;apthorp-mary">M<hi rend="superscript">r:</hi>
+								&amp; M<hi rend="superscript">rs:</hi> Apthorp</persRef>, <persRef
+								ref="allen-jeremiah">M<hi rend="superscript">r:</hi> Sheriff
+								Allen</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Escher</persRef> a Hamburger— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Andrews</persRef>, (a son of M<hi
+								rend="superscript">rs:</hi> Hichborn) <persRef
+								ref="winthrop-thomas;winthrop-elizabeth">M<hi rend="superscript"
+									>r:</hi> &amp; M<hi rend="superscript">rs:</hi>
+								Winthrop</persRef>, <persRef ref="sears-david">M<hi
+									rend="superscript">r:</hi> D. Sears</persRef> &amp;c— It was
+							almost midnight when we came home—weather cold and fair.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-14">
+					<head>14 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Attended the Court of Common Pleas, but no trials came
+							on in the course of the day. <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> sent an excuse for
+							not going this evening to the Ball— Read in the forenoon the chapter of
+							Abandonment in <persRef ref="park-james">Parke</persRef>— In the
+							afternoon the Imperial epistle of Kien Long to <persRef ref="george-iii"
+								>George 3</persRef>. and in the evening, continued <persRef
+								ref="locke-john">Locke</persRef>, upon Education.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-15">
+					<head>15 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>Saw <persRef ref="jackson-john5">M<hi rend="superscript"
+									>r:</hi> Jackson</persRef> this morning, who promised me some
+							money for 8 per c<hi rend="superscript">ts:</hi> to-morrow morning—
+							Afterwards saw <persRef ref="tufts-cotton2">D<hi rend="superscript"
+									>r:</hi> Tufts</persRef>— Went with <persRef ref="u">D<hi
+									rend="superscript">r:</hi> Parker</persRef> to Franklin place,
+							and look’d over the house for which I have been in Treaty with him, as
+							Executor to <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Howard</persRef>— Agreed to take the house at 6500 dollars.— To pay
+							him 2000 at the Execution of the deeds, and. the remainder on the 1<hi
+								rend="superscript">st:</hi> of next June.— Dined, with <persRef
+								ref="payne-william2">M<hi rend="superscript">r:</hi> W.
+								Payne</persRef> and his sisters. <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Amory</persRef> the old lady, with
+								Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="welles-john">J. Welles</persRef>, <persRef
+								ref="amory-thomas">T. Amory</persRef>, <persRef ref="perkins-james2"
+								>James Perkins</persRef>, and <persRef ref="callender-john">J.
+								Callender</persRef> and <persRef
+								ref="perkins-sarah;amory-elizabeth;u;welles-abigail">their
+								wives</persRef>. <persRef ref="davis-jonathan">Jon<hi
+									rend="superscript">n:</hi> Davis</persRef> and <persRef ref="u"
+								>his wife</persRef>. <persRef ref="sargent-john">J. T.
+								Sargent</persRef> and <persRef ref="thompson-sarah3">Countess
+								Rumford</persRef> were there— In the evening I attended the meeting
+							of the Society for the study of natural philosophy— <persRef
+								ref="frazier-nathan">Frazier</persRef> continued to read—the subject
+							still magnetism. Quincy was called home before we adjourned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-16">
+					<head>16 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Finances</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>At length after a month of waiting, I sold to <persRef
+								ref="jackson-john5">John Jackson</persRef>, broker 3000 dollars of
+							8. per c<hi rend="superscript">t:</hi> stock. Went with him to the
+							loan-office, and transferr’d 1000 dollars of them to <persRef
+								ref="folger-peter">Peter Folger</persRef> of Nantucket, and the
+							remainder to him.— He paid me the money by a check on the Union Bank,
+							which I immediately received.— Paid <persRef ref="cleland-william">M<hi
+									rend="superscript">r:</hi> Cleland</persRef> my note to him,
+							with interest— Dined at <persRef ref="callender-john">J.
+								Callender’s</persRef>, with a company of fourteen or fifteen
+							gentlemen. <persRef ref="u">Captain Wilson</persRef> of Baltimore there—
+							Home early in the evening.— Weather again uncommonly mild.— The town
+							sickly— An inflammatory sore throat prevailing, which in many instances
+							has proved fatal: its operation very rapid.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-17">
+					<head>17 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Heard <persRef ref="emerson-william">M<hi
+									rend="superscript">r</hi> Emerson</persRef> preach in the
+							forenoon, and <persRef ref="willard-joseph2">President Willard</persRef>
+							in the afternoon.— Called in at <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> Smith’s</persRef> for half an hour,
+							after meeting. <persRef ref="knox-henry2">General Knox</persRef> called
+							with <persRef ref="shaw-william">W. Shaw</persRef> to pay us a visit.
+								Eve<hi rend="superscript">g:</hi> at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-18">
+					<head>18 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="354" type="ms"/>
+						<p><date>18. </date>Called this morning on <persRef ref="morrill-james">M<hi
+									rend="superscript">r:</hi> Morrill</persRef>, to enquire
+							concerning a house in Newbury Street— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Soley</persRef> the owner came to my
+							office— <persRef ref="adams-abigail">My mother</persRef> came into town
+							with <persRef ref="smith-louisa">Louisa Smith</persRef> and Susan, and
+							dined with us— They went out to Quincy again after dinner— Bought of
+								<persRef ref="u">D<hi rend="superscript">r:</hi> Parker</persRef>
+								Ex<hi rend="superscript">or:</hi> of <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Howard</persRef>, her house in
+							Franklin place N: 13.— Gave him my bond and mortgage for part of the
+							money to pay 1. June next— <persRef ref="stevenson-william">M<hi
+									rend="superscript">r:</hi> Stevenson</persRef> acknowledged the
+							deeds, and with <persRef ref="russell-joseph2">M<hi rend="superscript"
+									>r:</hi> Jos: Russell</persRef> witnessed them— <persRef
+								ref="greene-john2">M<hi rend="superscript">r:</hi> J. R.
+								Greene</persRef> is to hold the house untill 1. June 1803. and D<hi
+								rend="superscript">r:</hi> Parker answers to me for the rent— I
+							carried both deeds to the register’s office, for record— Went with
+								<persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> to pass the evening at <persRef
+								ref="welsh-thomas">D<hi rend="superscript">r:</hi>
+							Welsh’s</persRef>— There was a fire, which burnt down two houses upon
+							Fort-hill— I went to it— There appeared to me a want of order and of
+							proper engines, in the means of extinguishment, used— <persRef
+								ref="smith-elizabeth2">Eliz: Smith</persRef>, came home to <persRef
+								ref="smith-william3">her brother’s</persRef> with <persRef
+								ref="adams-louisa-catherine ">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-19">
+					<head>19 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Soley</persRef> called upon me this forenoon— I went with him to
+							look at the house he has for sale— Found it would not suit me. Went to
+							hear the debates in the house of Representatives at the new
+							State-house.— They were upon the subject of building a new State
+							prison.— Called at <persRef ref="scott-james2">Captain
+							Scott’s</persRef>, and saw the Ladies there— <persRef
+								ref="hancock-dorothy">M<hi rend="superscript">rs:</hi>
+								Scott</persRef>, <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Sheaffe</persRef> and <persRef ref="u">Miss Quincy</persRef>—
+								<persRef ref="beale-ann3">M<hi rend="superscript">rs:</hi>
+								Beale</persRef> and <persRef ref="beale-ann2">her daughter</persRef>
+							were also there— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> return’d a number of
+							visits— In the afternoon, at my Office— Walked in the mall— In the
+							evening there was a fire, on one of the wharves which consumed a
+							blacksmith’s and a carpenter’s shop— I attended and gave what aid I
+							could to extinguish— In the night between 12 and 1. we were again rous’d
+							from sleep by a cry of fire upon the long wharf, which was however
+							immediately extinguished.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-20">
+					<head>20 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Great part of the forenoon employed upon family
+							concerns— The remainder at my office— And the afternoon. Spent the
+							evening at the club; at <persRef ref="warren-john3">D<hi
+									rend="superscript">r:</hi> Warren’s</persRef>— <persRef
+								ref="vaughan-john">M<hi rend="superscript">r:</hi> John
+								Vaughan</persRef> there— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A</persRef>— pass’d the evening with
+								<persRef ref="smith-hannah">M<hi rend="superscript">rs:</hi>
+								Smith</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-21">
+					<head>21 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Forenoon at my office— Reading <persRef ref="park-james"
+								>Park</persRef> on Insurance, and making some observations on
+								<persRef ref="sullivan-james2">M<hi rend="superscript">r:</hi>
+								Sullivan’s</persRef> history of Land-titles. Dined with <persRef
+								ref="allen-jeremiah">M<hi rend="superscript">r:</hi>
+							Allen</persRef>, the Sheriff; a company of Gentlemen and Ladies—
+								<persRef ref="knox-henry2;knox-lucy">M<hi rend="superscript">r:</hi>
+								and M<hi rend="superscript">rs:</hi> Knox</persRef>, <persRef
+								ref="parkman-samuel">Parkman</persRef>, <persRef
+								ref="coolidge-joseph2">Coolidge</persRef>, <persRef
+								ref="amory-jonathan">Jon<hi rend="superscript">n:</hi>
+								Amory</persRef>, <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Sheaffe</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Sheaffe</persRef>—<persRef
+								ref="scott-james2">Capt<hi rend="superscript">n:</hi>
+								Scott</persRef>, <persRef ref="thompson-sarah3">Countess
+								Rumford</persRef>, <persRef ref="hichborn-benjamin;hichborn-hannah"
+									>M<hi rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Hichborn</persRef> &amp;c. Pass’d the evening with the
+							Society for the study of natural philosophy— But it was a very stormy
+							night, and <persRef ref="frazier-nathan">Frazier</persRef> who was our
+							lecturer for the evening did not appear— We spent the time therefore in
+							general conversation; and agreed to change our weekly evening from
+							Thursday to Friday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-22">
+					<head>22 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Went to the State-house this morning at <persRef
+								ref="quincy-josiah2">Quincy’s</persRef> request to attend the
+							Committee upon the petition for a bridge over the Neponsit river. But
+							they did not sit; and have postponed their meeting untill next
+							Wednesday— Remainder of the day at my Office— <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi> Smith</persRef>
+							called and left a<hi rend="italic"> </hi>letter on business from
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Pitts</persRef>—
+							Began reading <persRef ref="park-james">Park</persRef> on Insurance—
+								Walk<hi rend="italic"> </hi>in the Mall— Spent the Evening at M<hi
+								rend="superscript">r:</hi> Smith’s, with a company of ladies and
+							gentlemen.— Weather grew cold towards night.— I likewise began this
+							morning, before breakfast, upon <persRef ref="adams-george3">George
+								Adams’s</persRef> lectures on experimental philosophy— A subject to
+							which I purpose now to pay attention.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-23">
+					<head>23 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date><persRef ref="smith-william3">M<hi rend="superscript"
+									>r:</hi> Smith</persRef> called at my office this forenoon with
+							a letter from <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Pitts</persRef> relative to an estate left by <persRef
+								ref="boylston-john2">M<hi rend="superscript">r:</hi> John
+								Boylston</persRef> of Bath, for certain charitable purposes—
+								<persRef ref="adams-john">My fathers</persRef> carriage came into
+							town, and in the afternoon we went out to Quincy— <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							came to stay in the house during my absence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-24">
+					<head>24 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>The weather more severely cold than it has yet been this
+							winter— Heard <persRef ref="whitney-peter">M<hi rend="superscript"
+									>r:</hi> Whitney</persRef> the whole day. Read one of <persRef
+								ref="adams-george3">Adams’s</persRef> lectures— My <persRef
+								ref="adams-peter">uncle Adams</persRef>, with his son <persRef
+								ref="adams-boylston">Boylston</persRef><hi rend="bold"> </hi>and
+								<persRef ref="adams-elizabeth4">his wife</persRef>, dined at
+								<persRef ref="adams-john">my father’s</persRef>. Boylston was
+							married the 21<hi rend="superscript">st.</hi>— He was again here in the
+							evening, with his <persRef ref="bass-josiah">brother in Law
+								Bass</persRef>, to consult with me respecting their claim upon
+								<persRef ref="u">Belcher’s</persRef> lands, which I advised them to
+							abandon— I went with my father and spent part of the evening at <persRef
+								ref="black-moses">M<hi rend="superscript">r:</hi>
+								Black’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-25">
+					<head>25 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date><persRef ref="fahrenheit-daniel">Fahrenheit’s</persRef>
+							thermometer this morning at 7. o’clock, was at 4 degrees above 0. But in
+							the course of the day the weather moderated. <persRef
+								ref="adams-louisa-catherine">My wife</persRef> is to spend the week
+							at Quincy. I attempted to get a seat in the stage from Plymouth, but it
+							was full of passengers— <persRef ref="dexter-richard">Dexter</persRef>
+							then took me as far as Roxbury, and from the fourth milestone I walk’d
+							into Boston— Called at my Office for half an hour and spent the
+							remainder of the evening alone at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-26">
+					<head>26 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date><persRef ref="smith-william3">M<hi rend="superscript"
+									>r:</hi> Smith</persRef> called at my Office this forenoon with
+								<persRef ref="boylston-john2">M<hi rend="superscript">r:</hi>
+								Boylston’s</persRef> will and the letters between him and <persRef
+								ref="gill-moses2">M<hi rend="superscript">r:</hi> Gill</persRef>
+							which I read— <persRef ref="ames-fisher">M<hi rend="superscript">r:</hi>
+								Ames</persRef> spoke to me concerning <persRef ref="babcock-adam"
+									>M<hi rend="superscript">r:</hi> Babcock’s</persRef> cause, he
+							being engaged with me in it. In the <pb n="355" type="ms"/>afternoon,
+								I walk’d in the mall— Evening at home, alone—
+								<persRef ref="townsend-horatio">H. Townsend</persRef> likewise
+							called on me this forenoon, at my office— And <persRef
+								ref="gardner-john">J. Gardner</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-27">
+					<head>27 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="adams-john">My father</persRef> came to
+							town— I attended with him a meeting of the Academy of Arts and Sciences:
+							at the State-house— <persRef ref="dearborn-benjamin">M<hi
+									rend="superscript">r:</hi> Dearborn</persRef> presented his
+							scale and his windmill— A Committee of publication chosen— My father,
+								<persRef ref="quincy-josiah2">J. Quincy</persRef> and <persRef
+								ref="shaw-william">Shaw</persRef> dined with me— My father return’d
+							to Quincy in the afternoon— At my Office, a short time— Evening with the
+							club at <persRef ref="welles-john">M<hi rend="superscript">r:</hi> J.
+								Welles’s</persRef>— Went with <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> W. Smith</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-28">
+					<head>28 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>The day, chiefly at my office— In the forenoon reading
+								<persRef ref="park-james">Park</persRef>, and in the afternoon the
+							British critic— Evening at home, alone— Studying <persRef
+								ref="adams-george3">G. Adams</persRef> on air, and chimney fire
+							places— Walk’d in the mall just before night— I feel strong temptation
+							and have great provocation to plunge into political controversy— But I
+							hope to preserve myself from it, by the considerations which have led me
+							to the resolution of renouncing.— A politician in this Country must be
+							the man of a party— I would fain be the man of my whole Country.—
+								<persRef ref="smith-isaac">M<hi rend="superscript">r:</hi> Isaac
+								Smith</persRef> called upon me in the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-29">
+					<head>29 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date><persRef ref="boylston-ward">M<hi rend="superscript"
+									>r:</hi> Boylston</persRef> and <persRef ref="smith-william3"
+									>M<hi rend="superscript">r:</hi> W. Smith</persRef> called at my
+							office in the forenoon— <persRef ref="phillips-john">J.
+								Phillips</persRef> in the afternoon. Phillips was desirous of
+							information whether I would accept the office of Judge at the Supreme
+							Court of this State, vacant by the resignation of <persRef
+								ref="dawes-thomas">M<hi rend="superscript">r:</hi> Dawes</persRef>,
+							who is appointed to the probate and municipal offices— But he did not
+							tell me what was the motive for his curiosity. He said he had heard only
+								three persons mentioned— <persRef
+								ref="sedgwick-theodore">Sedgwick</persRef>— <persRef ref="u"
+								>Thomas</persRef> of Plymouth and me.— I told him that if the
+								<persRef ref="strong-caleb">Governor</persRef>, or any member of the
+							council whose vote was to concur in the appointment wish’d to know my
+							resolution, they might know it, by applying either personally or by any
+							friend directly to me— That I would tell him, I did not want the place;
+							and wished that no friend of mine would move a finger to obtain it for
+							me— But that it would be ridiculous for me to tell any body and every
+							body that I would or would not accept an office which there might be no
+							thoughts of offering me— In the evening I attended the meeting of the
+							Society, which for the want of an apparatus, again pass’d off in
+							miscellaneous conversation; with a few additional ma<hi rend="underline"
+								>g</hi>netical experiments.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-30">
+					<head>30 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Forenoon at my Office, casting up the amount of <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Pitts</persRef> against
+								<persRef ref="gill-moses2">M<hi rend="superscript">r:</hi>
+								Gill’s</persRef> estate. <persRef ref="shaw-william">W.
+								Shaw</persRef> dined with me, and we then went out to Quincy, with
+								<persRef ref="black-moses">M<hi rend="superscript">r:</hi>
+								Black</persRef>, whom we took up at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Clap’s</persRef>— The ladies when we
+							reached Quincy, were out, but soon came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-31">
+					<head>31 January 1802</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>The month of January closes like a day in Spring— The
+							weather has hitherto been unusually mild through<hi rend="bold"
+							> </hi>the winter, thus far— Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r:</hi> Whitney</persRef> preach morning and
+							afternoon— His subject was<hi rend="italic"> </hi>the reproof of anger.
+							In the evening, my <persRef ref="adams-peter">Uncle Adams</persRef>,
+								<persRef ref="adams-boylston">Boylston</persRef> and <persRef
+								ref="adams-elizabeth4">his wife</persRef> and <persRef
+									ref="adams-susanna4">sister</persRef> and M<hi rend="superscript"
+								>r:</hi> &amp; <persRef ref="whitney-jane">M<hi
+									rend="superscript">rs:</hi> Whitney</persRef> visited <persRef
+								ref="adams-louisa-catherine">us</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1802-01-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1802-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>—</date> I rise very irregularly, from 4
+							to 7. o’clock— Make my fire, bring up my accounts and this journal for
+							the preceding day, and read in <persRef ref="adams-george3"
+								>Adams’s</persRef> lectures upon experimental philosophy, till
+							9—breakfast; attend to my necessary domestic details till 11. Spend from
+							that time till 2. p.m. at my office, upon business, or in reading law—
+							Home to dinner— Return to my Office at 1/2 past 3. Stay there untill
+							dark— Walk an hour in the Mall; pass the evening untill 10— At home, at
+							the club, at the Society, or in company— A-bed between 10 and 11.—
+							Saturdays, in the afternoon I come to Quincy; and Monday mornings return
+							to Boston— An object of urgent reform is my mode of study, and the
+							practice of <hi rend="italic">whiling</hi> away time— For the power of
+							commanding the application of my own mind, I can only pray to Heaven.
+							During the course of the present year, I shall<hi rend="bold"
+							> </hi>undertake to <hi rend="italic">do</hi>, little or nothing— My
+							object will be to <hi rend="italic">learn</hi>. It is late, in the
+							progress of my life to complete my education, and perhaps after my age,
+							a man can learn but little— Yet must I not despair.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

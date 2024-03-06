@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1797-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="166"  mhs:precedingFile="JQADiaries-v24-1797-04-p163.xml" mhs:followingFile="JQADiaries-v24-1797-06-p170.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1797-05-01" to="1797-05-31"/></bibl>
+
+				<!-- D/JQA/24.922 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-01">
+					<head>1 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">May 1797.</hi></dateline>
+						<p><date>1. </date>Called this morning upon <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Van Leyden</persRef>, but did not find him at home.
+							Wrote some Letters. <persRef ref="pinckney-charles">General
+								Pinckney</persRef> called on me in the afternoon— Conversation with
+							him. Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-02">
+					<head>2 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Found <persRef ref="u">M<hi rend="superscript">r:</hi> Van
+								Leyden</persRef> this morning at his new Lodgings. Letter from
+								<persRef key="adams-thomas">my brother</persRef> at Paris. Wrote a
+							long one to <persRef ref="pitcairn-joseph">Pitcairn</persRef>—
+							Conversation with <persRef ref="pinckney-charles">General
+								Pinckney</persRef>. Reading <persRef ref="rousseau-jean"
+								>Rousseau’s</persRef> Nouvelle Héloïse, and the <persRef
+								ref="degondi-jean">Cardinal de Retz’s</persRef> Memoires.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-03">
+					<head>3 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="167" type="ms"/>
+						<p><date>3. </date><persRef ref="parker-daniel2">M<hi rend="superscript">r:</hi>
+								Parker</persRef> called to see me. He is going to Utrecht. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> M’Clure</persRef> from Carolina.
+							Brought me some Letters from America, which <persRef ref="skipwith-f"
+									>M<hi rend="superscript">r:</hi> Skipwith</persRef> sent me, from Paris.
+							Evening, an hour at <persRef ref="veermansenserf-abraham">M<hi
+									rend="superscript">r</hi> Veerman’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-04">
+					<head>4 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Cold, rainy weather. A couple of hours this forenoon with
+								<persRef ref="pinckney-charles">General Pinckney</persRef>. Dined at
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Van Staphorst’s</persRef>.
+							With the General and his family. <persRef
+								ref="schimmelpenninck-rutger;schimmelpenninck-catharina">M<hi
+									rend="superscript">r:</hi> &amp; Madam Schimmelpenninck</persRef>.
+								<persRef ref="veermansenserf-abraham;veermansenserf-anna">M<hi
+									rend="superscript">r:</hi> &amp; Madam Veerman</persRef>, and her
+							brother <persRef ref="u">Loder</persRef> &amp;c. Evening at home
+							reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-05">
+					<head>5 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Letter from <persRef key="adams-thomas">my
+								brother</persRef> at Paris which I answered.— Endeavouring to write
+							some observations upon the arreté of the french Executive Directory of
+							12. Ventose.— Visit this morning from <persRef ref="barclay-robert">Sir
+								Robert Barclay</persRef>.— He shewed me a curious Letter from
+								<persRef ref="eustace-john">General Eustace</persRef>.— Called in
+							the Evening at <persRef ref="veermansenserf-abraham">M<hi rend="superscript"
+									>r:</hi> Veerman’s</persRef>. <persRef ref="veermansenserf-anna"
+								>Madam</persRef> was gone to hear the debates of the Assembly.—
+							Called on <persRef ref="pinckney-charles">General Pinckney</persRef>,
+							and at <persRef ref="molierefils">Mess<hi rend="superscript">rs:</hi>
+								Moliere’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-06">
+					<head>6 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Breakfasted with <persRef ref="pinckney-charles">General
+								Pinckney</persRef>, and went with him to visit the cannon foundery.
+							Saw them cast 12 cannon. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Maritz</persRef> the Director very conversible, and has an high
+							opinion of his talents. All the Sovereigns in Europe would be glad to
+							have him. Evening at <persRef ref="veermansenserf-abraham">M<hi
+									rend="superscript">r:</hi> Veerman’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-07">
+					<head>7 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>The preparations are commencing for the Fair. Called on
+								<persRef ref="pinckney-charles">General Pinckney</persRef> in the
+							afternoon. He is going to Rotterdam to morrow. Evening at home
+							reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-08">
+					<head>8 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Commencement of the fair— Walked through the Shops.
+							Evening at the french Comedy, where I met <persRef ref="u"
+								>Bielfeld</persRef>. a new Company of performers, rather better than
+							the last. Le Devin du village. La Fausse magie. and Les deux petits
+							Savoyards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-09">
+					<head>9 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Writing my observations all the morning. Met <persRef
+								ref="u">Bielfeld</persRef> in the afternoon at the Fair. <persRef
+								ref="trumbull-john">Trumbull’s</persRef> print of <persRef
+								ref="washington-george">Gen<hi rend="superscript">l:</hi>
+								Washington</persRef>. Evening again at the french Comedy. L’Ami de
+							la Maison and Nanette et Lucas. The last very indifferent.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-10">
+					<head>10 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Dull rainy weather. Finished writing my observations.
+							Evening at <persRef ref="delange-quirina">Madame de Lange’s</persRef>,
+							very large company. Whist with <persRef ref="u">Madam Cneiff</persRef>.—
+							Did not remain to supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-11">
+					<head>11 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="pinckney-charles">General
+								Pinckney</persRef> and his family, returned from Rotterdam. He
+							called on me, and had some conversation with me.— Evening again at the
+							French Comedy. Renaud d’Ast, and l’Epreuve villageoise. The last
+							indifferently performed. The other a poor thing itself.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-12">
+					<head>12 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>Very busily employed the whole day, in writing.
+							Determined upon a point very important to myself. Heaven grant it be for
+							the best.— Evening at the Ball of the <persRef ref="vonschubart-hermann"
+								>Baron de Schubart</persRef>: dansed a single danse. supped late.—
+							Played whist. My enjoyment for parties of this kind is extinguished for
+							ever.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-13">
+					<head>13 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date><persRef ref="cutting-nathaniel">M<hi rend="superscript">r:</hi>
+								N. Cutting</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Murray</persRef>, and <persRef ref="rutledge-henry">Major
+								Rutledge</persRef> called to see me. Cutting from Paris.— Walk with
+								M<hi rend="superscript">r:</hi> Rutledge.— In the afternoon walk with
+								<persRef ref="veermansenserf-anna">Madam Veerman</persRef> to
+							Ryswick— Saw the juggling tricks in the Evening at the fair.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-14">
+					<head>14 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="168" type="ms"/>
+						<p><date>14. </date>Still contrive to make myself busy doing nothing.— Walk
+							in the wood.— At the fair, which is to be prolonged three days of the
+							coming week. Evening at <persRef ref="u">Madam Cneiff’s</persRef> with a
+							small company.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-15">
+					<head>15 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Sale of books at <persRef ref="u">Bool’s</persRef> which I attended. Went in the
+							afternoon with <persRef ref="pinckney-charles">General
+								Pinckney</persRef>, <persRef ref="pinckney-mary">his Lady</persRef>
+							and <persRef ref="pinckney-eliza">daughter</persRef> to Zorgvliet; the
+							Seat and Gardens on the Scheveling road, belonging to <persRef
+								ref="bentinck-willem">Count Bentinck</persRef>. Found them in better
+							condition than was to be expected.— After returning, I went to see the
+							glass blower at the fair. The performance is curious.— The canary birds
+							were dull. In the forenoon, I saw the monstrous dwarf, who is between 60
+							and 70 years of age, and about 30 inches high. His Head would be
+							remarkably large for a man of 6 feet. The sight is more strange than
+							pleasing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-16">
+					<head>16 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Attended again the sale of books. Letters from <persRef
+								key="adams-thomas">my brother</persRef> at Paris, which I answered.
+							He begins to think of his return.— Weather very fine; walk in the
+							afternoon with <persRef ref="veermansenserf-anna">Madame
+								Veerman</persRef>, to Eckenduyn. the catholic burying ground, and
+							ruins of a Convent, which I have seen heretofore Returned by the walk
+							round the downs, and through the wood.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-17">
+					<head>17 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>At the sale of books. At the fair. At <persRef
+								ref="pinckney-charles">General Pinckneys</persRef>. This is the
+							closing day for the fair.— Completing the list of books. Few of them
+							still left to pack up. Walk in the wood alone, towards Evening.— Reading
+								<persRef ref="rousseau-jean">Rousseau’s</persRef> Emile. It
+							deserves attention.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-18">
+					<head>18 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Dined at <persRef ref="lowenhielm-fredrik">Count
+								Löwenhielm’s</persRef>. Small party. Walk in the wood after dinner
+							and met <persRef ref="rutledge-henry">Major Rutledge</persRef>. Called
+							at <persRef ref="u">Madam May’s</persRef>. The Count took <persRef
+								ref="u">Bielfeld</persRef> &amp; myself with him. Tea party at
+								<persRef ref="noel-francois;u">M: &amp; <hi rend="italic"
+									>Madame</hi> Noël’s</persRef>. Company very large and brilliant.
+							Reversi with Madam Noël, <persRef ref="delange-quirina">Madam de
+								Lange</persRef> and Count Löwenhielm.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-19">
+					<head>19 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>Bad night. Suffer for want of exercise. Packed off a
+							couple of boxes of books to the <persRef ref="willard-joseph2"
+								>President</persRef> of Harvard University, for the library. Walk
+							with <persRef ref="veermansenserf-anna">Madam Veerman</persRef> in the
+							afternoon, over the Downs, to Scheveling.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-20">
+					<head>20 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date>Pass’d the day, as usual in writing and making my
+							Preparations. At the sale in the morning. Evening at the french play.
+							Met there, <persRef ref="rutledge-henry">Major Rutledge</persRef> and
+								<persRef ref="horry-daniel">M<hi rend="superscript">r:</hi> Horry</persRef>.
+							Le faux Lord, an indifferent opera, though the music be of <persRef
+								ref="piccini-niccolo">Piccini</persRef>, and Les deux petits
+							Savoyards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-21">
+					<head>21 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="erving-george">M<hi rend="superscript">r:</hi>
+								Erving</persRef> called on me this morning: agreed to go with him
+							and <persRef ref="u">M<hi rend="superscript">r:</hi> Teery</persRef>, to
+								<persRef ref="beeldemaker-jan">M<hi rend="superscript">r:</hi>
+								Beeldemaker’s</persRef> seat at Ryswick. By the mistake of our
+							Coachman, we arrived late.— <persRef ref="pinckney-charles">Gen<hi
+									rend="superscript">l:</hi> Pinckney</persRef> and his family. Several
+							other American Gentlemen. Company large. M<hi rend="superscript">r:</hi>
+							Beeldemaker has a family of 9 very fine children. <persRef ref="u">His
+								wife</persRef> appears to be very amiable.— We returned between 8
+							and 9. The remainder of the Evening at <persRef ref="u">Madam
+								Cneiff’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-22">
+					<head>22 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Called this morning on <persRef ref="pinckney-mary">M<hi
+									rend="superscript">rs:</hi> Pinckney</persRef>. Attended her, and the
+								<persRef ref="pinckney-charles">General</persRef>; and <persRef
+								ref="horry-daniel">M<hi rend="superscript">r:</hi> Horry</persRef>, to the
+							Assembly. Found <persRef ref="schimmelpenninck-catharina">Madam
+								Schimmelpenninck</persRef>, and <persRef ref="nahuys-huberta">M<hi
+									rend="superscript">lle:</hi> Nahuys</persRef> there.— Walk afternoon.
+							Evening at Madam Schimmelpenninck’s.— <persRef ref="u">Madam
+								Cneiff</persRef> there, and company accordingly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-23">
+					<head>23 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="169" type="ms"/>
+						<p><date>23. </date>Walk this forenoon in the wood. Met Messieurs <persRef
+								ref="u">Levsen</persRef>, and <persRef ref="u">Ricordain</persRef>.—
+							Ball at <persRef ref="lowenhielm-fredrik">Count Löwenhielm’s</persRef>.
+							Party numerous and agreeable. In honour of <persRef
+								ref="noel-francois;u">M. &amp; Madame Noël</persRef>. 4 Tables at
+							supper, in three apartments. Was requested to <hi rend="italic">do the
+								honours</hi>, that is to sit at the head of one of the tables, with
+								<persRef ref="u">Madam Bosset</persRef>.— Played at Reversi, before
+							supper.— Came home at about 2 in the morning, leaving most of the
+							company there.— Went to Bed by day-light, and slept not till long after
+							sun-rise.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-24">
+					<head>24 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Late up, as to be expected.— Walk in the afternoon with
+								<persRef ref="veermansenserf-anna">Madam Veerman</persRef>; weather
+							fine. Found my books this evening on my return home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-25">
+					<head>25 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Packing up my books the whole forenoon. Dined at
+								<persRef ref="noel-francois">M<hi rend="superscript">r:</hi>
+								Noël’s</persRef>: very large company. Very gay.— Evening at <persRef
+								ref="u">Madam May’s</persRef>. Walk alone in the wood, at the close
+							of the Evening. Weather extremely warm.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-26">
+					<head>26 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Did not close my eyes, the whole Night. Weary and
+							restless; rose before 6, and walked alone to Loosduynen. Weather very
+							warm. A thunder shower in the forenoon cooled it. Passed an hour or two
+							at the Assembly. Dined at <persRef ref="schimmelpenninck-rutger">M<hi
+									rend="superscript">r:</hi> Schimmelpenninck’s</persRef>. <persRef
+								ref="pinckney-charles">Gen<hi rend="superscript">l:</hi> Pinckney</persRef>
+							and his family. <persRef ref="veermansenserf-anna">Madam
+								Veerman</persRef>.— <persRef ref="nahuys-huberta">M<hi rend="superscript"
+									>lle:</hi> Nahuys</persRef> left us just after dinner, and is
+							going to Haerlem. Upon returning to my lodgings, found <persRef
+								key="adams-thomas">my brother</persRef> had returned from Paris. Met
+							him soon after in the Street. conversation with him untill late in the
+							night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-27">
+					<head>27 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>Went with <persRef key="adams-thomas">my
+								brother</persRef> this forenoon, and presented him to <persRef
+								ref="pinckney-charles">General Pinckney</persRef>.— Called early in
+							the afternoon on <persRef ref="veermansenserf-anna">Madam
+								Veerman</persRef>. Walk with her. Went out on the Ryswick road
+							through the Oost Indisch weg; came out near the House in the wood: from
+							thence went round the grounds of <persRef ref="fagel-hendrik">M<hi
+									rend="superscript">r:</hi> Fagel</persRef>, and returned by the road
+							from Scheveling. Long and pleasant tour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-28">
+					<head>28 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date><persRef ref="rutledge-henry">Major Rutledge</persRef>
+							called upon me this morning. And <persRef ref="u">Bielfeld</persRef>;
+							with whom I took a walk in the wood: and in the afternoon to Scheveling.
+							Called at the <persRef ref="vonschubart-hermann">Baron de
+								Schubart’s</persRef>, upon our return; but they were not at
+							home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-29">
+					<head>29 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>Examining the papers left by the late <persRef
+								ref="dumas-charles">M<hi rend="superscript">r:</hi> Dumas</persRef>.— Walk
+							in the afternoon, with <persRef ref="veermansenserf-anna">Madam
+								Veerman</persRef>. We were caught in the rain. Arrived therefore
+							late at <persRef ref="bosset-georges">M<hi rend="superscript">r:</hi>
+								Bosset’s</persRef>.— Play’d Reversi. Conversation with <persRef
+								ref="schubart-jacobe">Madam de Schubart</persRef> at supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-30">
+					<head>30 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Intended to have gone this day to Amsterdam. But find
+							myself so much engaged that I could not get away. Busy through the day,
+							in sorting papers. Called towards Evening upon <persRef
+								ref="pinckney-charles">General Pinckney</persRef>.— Received a
+							packet from London, containing Letters from <persRef key="adams-abigail"
+								>my mother</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-31">
+					<head>31 May 1797</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Employed all the forenoon in writing. At 1/2 after 4.
+							Took the boat for Leyden, and arrived there just before eight. Found
+								<persRef ref="schermerhorn-ryer">M<hi rend="superscript">r:</hi>
+								Schermerhorn</persRef> at the Golden Lion.— Called to see <persRef
+								ref="luzac-jean">M<hi rend="superscript">r:</hi> Luzac</persRef>, and had
+							some conversation with him.— Ball at the house where I lodged— Noisy
+							night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-05-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1797-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.—</date> Nothing regular— A situation
+							which must not long continue.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1804-11">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="106"
+				mhs:precedingFile="JQADiaries-v27-1804-10-p101.xml"
+				mhs:followingFile="JQADiaries-v27-1804-12-p112.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1804-11-01" to="1804-11-30"/></bibl>
+
+				<!--D/JQA/27.737-->
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-01">
+					<head>1 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">November 1804.</hi></dateline>
+						<p><date>1. </date>Walk’d up to the Capitol and visited <persRef
+								ref="otis-samuel">M<hi rend="superscript">r:</hi> Otis</persRef>—
+							Also <persRef ref="smith-robert">M<hi rend="superscript">r:</hi>
+								Smith</persRef>, the Secretary of the Navy, and <persRef
+								ref="dearborn-henry">Gen<hi rend="superscript">l:</hi>
+								Dearborn</persRef>, the Secretary at War— But found neither of the
+							two last at home.— Called also at <persRef ref="thornton-william">D<hi
+									rend="superscript">r:</hi> Thornton’s</persRef> Office, but he
+							was not there—in the afternoon <persRef ref="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef> and <persRef
+								ref="hellen-walter">M<hi rend="superscript">r:</hi>
+							Hellen</persRef>, took a ride with <persRef ref="u;u">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Thomson</persRef>, to the race-ground.— Sent <persRef
+								ref="adams-george">George</persRef> to School, to a <persRef ref="u"
+									>M<hi rend="superscript">rs:</hi> Lee</persRef>—for the first
+							time— I went and brought him home, myself— Read lady <persRef
+								ref="montagu-mary">Mary Wortley’s</persRef> letters, Vol: 3. in the
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-02">
+					<head>2 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="107" type="ms"/>
+						<p><date>2. </date>Rode on Horseback to <persRef ref="cranch-william">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef>— He lives more
+							than four miles from us, and about two beyond the Capitol on the
+							Pennsylvania Avenue— <persRef ref="may-frederick">D<hi
+									rend="superscript">r:</hi> May</persRef> came in while I was
+							there— <persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> and myself dined with <persRef
+								ref="burrows-william">Colonel Burrows</persRef>— <persRef
+								ref="wilkinson-james">Gen<hi rend="superscript">l:</hi>
+								Wilkinson</persRef>, and <persRef ref="u;u">his two sons</persRef> were there— <persRef
+								ref="tucker-thomas">D<hi rend="superscript">r:</hi> Tucker</persRef>
+							the Treasurer, <persRef ref="burwell-william">M<hi rend="superscript"
+									>r:</hi> Burrell</persRef>, the <persRef ref="jefferson-thomas"
+								>President’s</persRef> Secretary, <persRef ref="walbach-john">M<hi
+									rend="superscript">r:</hi> Walbeck</persRef>: Gen<hi
+								rend="superscript">l:</hi> Wilkinson’s Aid de Camp, and <persRef
+								ref="law-thomas">M<hi rend="superscript">r:</hi> Law</persRef>.—
+								<persRef ref="johnson-catherine">M<hi rend="superscript">rs:</hi>
+								Johnson</persRef>, <persRef ref="johnson-thomas-baker">her
+								son</persRef>, and <persRef ref="frye-carolina">Caroline</persRef>
+							came to tea— We return’d home early in the Evening— Found <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Chapman</persRef>, <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Dearborn</persRef>, &amp;
+								<persRef ref="boyd-george">M<hi rend="superscript">r:</hi>
+								Boyd</persRef> here— The two former immediately went away.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-03">
+					<head>3 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-03"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>I arranged my Accounts, and wrote a letter to <persRef
+								ref="adams-john">my father</persRef>— Wrote also the rough sketch of
+							an Amendment to the Constitution, in obedience to the Instructions of
+							the Legislature of Massachusetts to their Senators— I wish to see &amp;
+							consult <persRef ref="pickering-timothy">M<hi rend="superscript">r:</hi>
+								Pickering</persRef> on the subject, and propose to him to introduce
+							the Amendment— <persRef ref="wilkinson-ann">M<hi rend="superscript"
+									>rs:</hi> Wilkinson</persRef>, and <persRef
+								ref="smith-margaret4">M<hi rend="superscript">rs:</hi> R.
+								Smith</persRef> were here to visit <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— <persRef ref="madison-james">M<hi
+									rend="superscript">r:</hi> Madison</persRef> here when I was
+							out, and left a card— <persRef ref="pope-eliza">Eliza Johnson</persRef>
+							rode out with <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Chapman</persRef>, and not returning at Night, occasioned great
+							uneasiness in all the family. <persRef ref="johnson-thomas-baker">M<hi
+									rend="superscript">r:</hi> T. B. Johnson</persRef> and <persRef
+								ref="boyd-george">M<hi rend="superscript">r:</hi> Boyd</persRef>
+							went to Alexandria, in search of them.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-04">
+					<head>4 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Heard <persRef ref="laurie-james">M<hi rend="superscript"
+									>r:</hi> Lowrie</persRef> at the Treasury Office; and saw there
+								<persRef ref="smith-israel">M<hi rend="superscript">r</hi> Israel
+								Smith</persRef> of the Senate— <persRef ref="smith-john16">M<hi
+									rend="superscript">r:</hi> J. C. Smith</persRef>, <persRef
+								ref="davenport-john2">M<hi rend="superscript">r:</hi>
+								Davenport</persRef>, and <persRef ref="chittenden-martin">M<hi
+									rend="superscript">r:</hi> Chittenden</persRef> of the House—
+								<persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis</persRef> called to see us this afternoon— Read <persRef
+								ref="montagu-mary">Lady Montague</persRef> Vol: 4. in the Evening.—
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Chapman</persRef>
+							and <persRef ref="pope-eliza">El: Johnson</persRef> returned this day;
+							about noon— They had rode yesterday further than they intended at going
+							out.— Their Carriage broke-down, and they could not get it repaired to
+							return untill this morning— They stop’d last Night at the house of a
+								<persRef ref="u">Col<hi rend="superscript">l:</hi>
+							Beard</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-05">
+					<head>5 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-05"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Dueling</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>This was the day to which the Session of Congress was
+							adjourned— I attended at the Capitol, at 11. in the morning. Only
+							thirteen Senators attended, with the <persRef ref="burr-aaron"
+								>Vice-President</persRef>; and not being a sufficient number to form
+							a quorum barely met and adjourned— <persRef ref="giles-william">M<hi
+									rend="superscript">r:</hi> Giles</persRef> appeared and took his
+							seat instead of <persRef ref="venable-abraham">M<hi rend="superscript"
+									>r:</hi> Venable</persRef>, who has resigned since the last
+							Session— The Vice-President also gave notice that he had received a
+							letter from <persRef ref="wells-william2">M<hi rend="superscript"
+									>r:</hi> Wells</persRef> of Delaware, containing the resignation
+							of his Seat.— After the adjournment, I went into the Representatives
+							chamber, which is where the library was formerly kept.— They formed a
+							quorum, and agreed to the appointment of the usual standing Committees—
+							In the afternoon I rode on horseback with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, as far as the Capitol.— Found <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Chapman</persRef> and <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Dearborn</persRef> here in
+							the Evening.</p>
+						<p>N.B.— The Vice-President, M<hi rend="superscript">r:</hi> Burr, on the
+								11<hi rend="superscript">th.</hi> of July last fought a duel with
+								<persRef ref="hamilton-alexander">Gen<hi rend="superscript">l:</hi>
+								Alexander Hamilton</persRef>, and mortally wounded him, of which he
+							died the next day— The Coroner’s Inquest on his body, found a verdict of
+							wilful murder, by Aaron Burr, Vice-President of the United States— The
+							grand-Jury in the County of New-York found an Indictment against him,
+							under a Statute of the State, for sending the challenge— And the
+							Grand-Jury of Bergen-County, New-Jersey, where the duel was fought, have
+							recently found a bill against him for murder— Under all these
+							circumstances, M<hi rend="superscript">r:</hi> Burr appears and takes
+							his Seat as President of the Senate of the United States.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-06">
+					<head>6 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Seventeen members attended in the Senate, besides the
+								<persRef ref="burr-aaron">Vice-President</persRef>— One member more
+							was wanting to make a quorum; whereupon the house barely met and
+							adjourned— I called on the <persRef ref="duval-gabriel">Comptroller of
+								the Treasury</persRef> with <persRef ref="beale-richard">M<hi
+									rend="superscript">r:</hi> Beale’s</persRef> papers, and on the
+								<persRef ref="gallatin-albert">Secretary of the Treasury</persRef>,
+							respecting the affairs of <persRef ref="birdsavagebird">Bird, Savage and
+								Bird</persRef>. In the afternoon rode to the Capitol with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— <persRef ref="boyd-george">M<hi rend="superscript"
+									>r:</hi> Boyd</persRef> here, in the Evening— I finished reading
+								<persRef ref="montagu-mary">Lady M. W. Montagu’s</persRef>
+							letters—the last of which now for the first time published appear to me
+							much superior to any of the former.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-07">
+					<head>7 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>By the arrival of <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>, the Senate were
+							enabled this day to form a quorum. Immediately on which, a message from
+							the House of Representatives was received, informing that a quorum of
+							that House was formed, and ready to proceed to business— The <persRef ref="beckley-john">Clerk</persRef>
+							brought at the same time two Resolutions for concurrence— One for a
+							joint Committee to the <persRef ref="jefferson-thomas"
+								>President</persRef>— The other for the choice of two Chaplains— The
+							Committee was appointed, and <persRef ref="mccormick-andrew">M<hi
+									rend="superscript">r:</hi> M’Cormick</persRef>, chosen Chaplain—
+							The Committee return’d from the Presidents— The Message comes to-morrow
+							at 12. <pb n="108" type="ms"/>I found at length <persRef
+								ref="thornton-william">D<hi rend="superscript">r:</hi>
+								Thornton</persRef>, and he took the acknowledgment of my deed, which
+							I forwarded to <persRef ref="sigourney-elisha">M<hi rend="superscript"
+									>r:</hi> El: Sigourney</persRef>— <persRef ref="wagner-jacob"
+									>M<hi rend="superscript">r:</hi> Wagner</persRef> lent me
+								<persRef ref="bakerholroyd-john">Lord Sheffield’s</persRef> late
+							pamphlet; belonging to <persRef ref="madison-james">M<hi
+									rend="superscript">r:</hi> Madison</persRef>. Walk’d this
+							afternoon with <persRef ref="adams-louisa-catherine">my wife</persRef>—
+							Visit to <persRef ref="burrows-william">Col<hi rend="superscript"
+									>l:</hi> Burrows</persRef>, but did not find him at home—
+								<persRef ref="sheldon-daniel">M<hi rend="superscript">r:</hi>
+								Sheldon</persRef> and <persRef ref="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd</persRef> here in the Evening—
+							Chess with M<hi rend="superscript">r:</hi> Sheldon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-08">
+					<head>8 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date><persRef ref="hillhouse-james">M<hi rend="superscript"
+									>r:</hi> Hillhouse</persRef> and <persRef ref="dayton-jonathan"
+									>M<hi rend="superscript">r:</hi> Dayton</persRef> appeared in
+							Senate this morning, so that henceforth we are secure of a quorum for
+							the Session— At 12 O’Clock, the Message was delivered by <persRef
+								ref="burwell-william">M<hi rend="superscript">r:</hi>
+								Burrell</persRef>, the <persRef ref="jefferson-thomas"
+								>President’s</persRef> private Secretary— The Message and
+							accompanying papers were read, and we adjourned— I called on the
+							Accountant of the Navy, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Turner</persRef>, respecting <persRef ref="beale-richard">M<hi
+									rend="superscript">r:</hi> Beale’s</persRef> claim— He gave me
+							the information required, which I wrote to M<hi rend="superscript"
+								>r:</hi> Beale— In the Evening, <persRef ref="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd</persRef>, <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Chapman</persRef> &amp; <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Dearborn</persRef> were
+							here— <persRef ref="pope-eliza">Eliza Johnson</persRef> very ill.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-09">
+					<head>9 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>The Senate met, and having no business before them
+							immediately adjourned— <persRef ref="smith-samuel2">General
+								Smith</persRef>, and <persRef ref="giles-william">M<hi
+									rend="superscript">r:</hi> Giles</persRef> paid me a visit— I
+							finished reading the Works of <persRef ref="montagu-mary">Lady
+								Montague</persRef>; and read part of the 8<hi rend="superscript"
+								>th:</hi> volume of <persRef ref="raynal-guillaume"
+								>Raynal’s</persRef> History— I read the seven former volumes last
+							Winter.— Senate adjourned to Monday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-10">
+					<head>10 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>I walk’d over to Georgetown, wrote a letter to <persRef
+								ref="dennie-joseph">M<hi rend="superscript">r:</hi> Dennie</persRef>
+							and read <persRef ref="raynal-guillaume">Raynal</persRef>— The
+							afternoon, and Evening I was somewhat unwell.— <persRef
+								ref="boyd-george">M<hi rend="superscript">r:</hi> Boyd</persRef> and
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Chapman</persRef>
+							pass’d the Evening here— I was not below.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-11">
+					<head>11 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>At Church in Georgetown— Heard <persRef
+								ref="sayres-john">M<hi rend="superscript">r:</hi> Sayres</persRef>—
+							Met <persRef ref="u">M<hi rend="superscript">r:</hi> Campbell</persRef> and <persRef
+								ref="purviance-samuel">M<hi rend="superscript">r:</hi>
+								Purviance</persRef>, members of Congress— Return’d <persRef
+								ref="giles-william">M<hi rend="superscript">r:</hi>
+								Giles’s</persRef> visit, but did not find him at his lodgings—
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Feltwell</persRef>
+							an Englishman, and one of the Company I saw in passing through
+							Connecticut dined here— Read <persRef ref="raynal-guillaume"
+								>Raynal</persRef>, and made some addition to my collection of
+							Senatorial Memoirs.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-12">
+					<head>12 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Senate met—received a list of re-nominations of persons
+							appointed to Office during the recess.— <persRef ref="monroe-james">M<hi
+									rend="superscript">r:</hi> Monroe</persRef> is appointed Envoy
+							Extraordinary to Spain, <persRef ref="pinckney-charles2">M<hi
+									rend="superscript">r:</hi> Pinckney</persRef> intending to
+							return— Adjourned immediately— I visited <persRef ref="smith-samuel2"
+									>Gen<hi rend="superscript">l:</hi> Smith</persRef>, (but he was
+							gone to Baltimore—) <persRef ref="law-thomas">M<hi rend="superscript"
+									>r:</hi> Law</persRef>, and <persRef ref="wilkinson-james"
+									>Gen<hi rend="superscript">l:</hi> Wilkinson</persRef>: who says
+							that the Management of the People in Louisiana, will be troublesome— He
+							said he had a letter from <persRef ref="livingston-edward">Edward
+								Livingston</persRef>, in which he avows himself the author of the
+							Louisiana Memorial, published last Summer— He further says that <persRef
+								ref="claiborne-william">Gov<hi rend="superscript">r:</hi>
+								Claiborne</persRef> gives great dissatisfaction there in his Office,
+							and is very unfit for it— Yet the Gen<hi rend="superscript">l:</hi> at
+							his request sollicited the Office for him— Claiborne desired him to say
+							to the <persRef ref="jefferson-thomas">President</persRef> that <hi
+								rend="italic">he wished to have the refusal</hi> of the place;
+							though he should perhaps not accept it— But the <hi rend="italic"
+								>offer</hi> was necessary to support him against the insinuations
+							and calumnies of his enemies— This the Gen<hi rend="superscript">l:</hi>
+							faithfully reported to the President, who made him no answer— Claiborne
+							had the <hi rend="italic">refusal</hi>— But did not <hi rend="italic"
+								>refuse</hi>— Wilkinson says he is hooted at by the very old women,
+							whom he has heard exclaim—quel Commandant! quel Gouverneur! quelle <hi
+								rend="small-caps">bête</hi>!</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-13">
+					<head>13 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-13"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>On arriving at the Capitol, I found the Senate had
+							already adjourned to attend upon the Races— Rec<hi rend="superscript"
+								>d:</hi> a Boston Palladium; containing an account of the votes at
+							Boston for Electors and Representative in Congress— Wrote to <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy</persRef>— Took from the Library, <persRef
+								ref="stith-william">Stith’s</persRef> History of Virginia.— I pass’d
+							the Evening in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-14">
+					<head>14 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-14"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Senate had again adjourned before I reached the Capitol;
+							this being the second day of the Races. I soon returned home, and
+							employed the remainder of the day, chiefly in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-15">
+					<head>15 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-15"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Third day of the Races— I found the Senate again
+							adjourned— Nothing will be done this week, to all appearance— I walk’d
+							with <persRef ref="tracy-uriah">M<hi rend="superscript">r:</hi>
+								Tracy</persRef> to his lodgings and had some conversation with him—
+							He shewed me a letter from <persRef ref="walker-john4">Col<hi
+									rend="superscript">l:</hi> John Walker</persRef> to him, which
+							he received <hi rend="italic">open</hi>, from the Post-Office here at
+							Washington, though dated in May last and directed to him in <hi
+								rend="italic">Connecticut</hi>. The word Hartford being inserted,
+							between the name and the place of direction on the cover— But in a
+							different hand and ink from the rest of the <pb n="109" type="ms"
+							/>direction. This Col<hi rend="superscript">l:</hi> Walker is the man
+							whose wife, <persRef ref="jefferson-thomas">M<hi rend="superscript"
+									>r:</hi> Jefferson</persRef> attempted to debauch; and the
+							letter has some relation to the subject— The story of M<hi
+								rend="superscript">r:</hi> Jefferson’s attempt on <persRef
+								ref="walker-elizabeth3">M<hi rend="superscript">rs:</hi>
+								Walker</persRef>, has been known to some individuals many years, but
+							was first divulged to the public in general terms, by <persRef
+								ref="callender-james">Callender</persRef> more than two years ago—
+								M<hi rend="superscript">r:</hi> Jefferson’s friends then treated it
+							as a mere calumny, but as Col<hi rend="superscript">l:</hi> Walker and
+							he had once been upon terms of the most intimate friendship, and for
+							some time had been known to be at enmity against each other, M<hi
+								rend="superscript">r:</hi> Jefferson was asked by one of his own
+							partizans, what had been the cause of their variance— He assigned as a
+							reason, that Col<hi rend="superscript">l:</hi> Walker had defrauded him
+							in some pecuniary, transaction— This was reported to Col<hi
+								rend="superscript">l:</hi> Walker, who immediately sent Jefferson a
+							challenge, by <persRef ref="lee-henry2">General Henry Lee</persRef>—
+								M<hi rend="superscript">r:</hi> Jefferson, confessed to Lee, that he
+							had assigned a pecuniary fraud by Walker, as the cause of the rupture in
+							their friendship— That this allegation was entirely without foundation,
+							but given for the sake of concealing the real cause; the wrong he had
+							done to Walker— But he declared himself ready to give M<hi
+								rend="superscript">r:</hi> Walker any satisfaction he could justly
+							require— Lee then exacted of him to write Walker a letter acknowledging
+							all these facts, and recanting the slander he had uttered against him,
+							which letter M<hi rend="superscript">r:</hi> Jefferson accordingly
+							wrote— It was also insisted on by Lee, and acquiesced in by M<hi
+								rend="superscript">r:</hi> Jefferson, that the substance of this
+							satisfaction should be made public; but in such manner as might be most
+							accommodating to M<hi rend="superscript">r:</hi> Jefferson— This humble,
+							confessing and recanting letter to Col<hi rend="superscript">l:</hi>
+							Walker has been heard of, and a copy of it is now in possession of
+								<persRef ref="pinckney-thomas">Major Thomas Pinckney</persRef> of
+							South Carolina.— Col<hi rend="superscript">l:</hi> Walker had been
+							informed that M<hi rend="superscript">r:</hi> Tracy was desirous of
+							having a copy of it, and this letter is in answer to that request— He
+							consents that M<hi rend="superscript">r</hi> Tracy shall have such a
+							copy, on condition that he will not give any copy from it, and that it
+							shall not be printed— He says that as M<hi rend="superscript">r:</hi>
+							Jefferson has not yet pointed out the manner, in which the satisfaction
+							given by him should be made public, he should be indulged with further
+							time.— That perhaps he (Walker) might eventually be compelled to publish
+							the whole correspondence; but he wished to reserve to himself the
+							judgment as to the propriety, and the time for this— That in such case
+							he should mention several additional Circumstances now known to few, and
+							which very much <hi rend="italic">aggravated the turpitude</hi> of
+							Jefferson’s <hi rend="italic">transgression</hi>— Such as that his
+								<persRef ref="walker-thomas">(Walker’s) father</persRef>, had been
+							Jefferson’s guardian and patron— That he himself and Jefferson had been
+							bred together in the greatest intimacy as children— Had been classmates
+							at College; came forward in public life together, untill Jefferson went
+							to France; and that Jefferson was himself a married Man, when he made
+							this assault on the chastity of his friend’s wife.— Such is the
+							substance of this letter from Col<hi rend="superscript">l:</hi> Walker
+							to M<hi rend="superscript">r:</hi> Tracy, which ascertains facts that
+							have often been denied by Jefferson’s partizans, as the slander of his
+							enemies— After coming home, I pass’d the remainder of the day, in
+							writing; a review of <persRef ref="cranch-william">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef> Reports— The
+							young-ladies, with <persRef ref="hellen-walter">M<hi rend="superscript"
+									>r:</hi> Hellen</persRef>, went to the Race-Ball.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-16">
+					<head>16 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-16"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>The Races at length are finished, and the Senate really
+							met this day— But there was nothing to do.— <persRef
+								ref="bradley-stephen">M<hi rend="superscript">r:</hi>
+								Bradley</persRef> moved to go into the Consideration of Executive
+							business, merely for the sake of having, on the <hi rend="italic"
+								>printed</hi> Journals, an <hi rend="italic">appearance</hi> of
+							doing business, though there was really none to do— This vote pass’d;
+							for mine was the only voice heard against it— My reason was a natural
+							abhorrence, of tricks to save appearances contrary to the real truth of
+							things— This evening I finished reviewing, <persRef ref="cranch-william"
+									>M<hi rend="superscript">r:</hi> Cranch’s</persRef> Reports— But
+							do not yet send the paper— Rec<hi rend="superscript">d:</hi> a letter
+							from <persRef ref="shaw-william">W. S. Shaw</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-17">
+					<head>17 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="110" type="ms"/>
+						<p><date>17. </date>Rode out on horseback with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— Spent the remainder of the day in writing; and in
+							reading <persRef ref="stith-william">Stith’s</persRef> History of
+							Virginia— The leisure left me by the total failure of public business,
+							leaves time of which too much is lost in fretful reflection and useless
+							anxiety— I give some occupation to as much of it as I can, though not to
+							so much as I might.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-18">
+					<head>18 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Lawrie</persRef> at the Treasury— We
+							received a visit from <persRef ref="newton-thomas;newton-margaret">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Newton</persRef>— M<hi rend="superscript">r:</hi> Newton is a member
+							of the House of Representatives from Virginia— Had also a visit from
+								<persRef ref="giles-william;giles-martha">M<hi rend="superscript"
+									>r:</hi> and M<hi rend="superscript">rs:</hi> Giles</persRef>,
+							but did not see them.— Pass’d the rest of the day, reading <persRef
+								ref="stith-william">Stith</persRef>, and writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-19">
+					<head>19 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>There was little business done in Senate; and they
+							adjourned at an early hour— Received a list of nominations, among which
+							was <persRef ref="bowdoin-james">James Bowdoin</persRef> of
+							Massachusetts, as Minister Plenipotentiary to Spain.— I walk’d this
+							afternoon, with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>— Received letters
+							from <persRef ref="adams-john">my father</persRef> and <persRef
+								ref="adams-abigail">mother</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-20">
+					<head>20 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>The principal business of this day was the confirmation
+							of the nominations before received; with some postponements as usual.—
+							Adjourned early; and I pass’d the rest of the day in reading <persRef
+								ref="stith-william">Stith</persRef> and writing. My health quite
+							indifferent. </p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-21">
+					<head>21 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Business in the Senate very languid; nothing of
+							importance being yet brought forward— I examined the returns of the last
+							census, which employed me the remainder of the day— Read a little, in
+								<persRef ref="stith-william">Stith</persRef>— Quite unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-22">
+					<head>22 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>We pass’d at length a very short bill in Senate— There
+							is certainly much time wasted in this mode of doing business— But all
+							the Bills of importance must originate in the House of Representatives;
+							and it would be utterly in vain to attempt giving it a different course—
+							The business will be proportionably crowded at the close of the Session—
+							The family pass’d this evening at <persRef ref="burrows-william">Col<hi
+									rend="superscript">l:</hi> Burrows’s</persRef>. Neither <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> nor I went— I continue very unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-23">
+					<head>23 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-23"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>French Revolution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>The credentials of <persRef ref="bayard-james">M<hi
+									rend="superscript">r:</hi> Bayard</persRef>, as Senator for
+							Delaware, this Session, instead of <persRef ref="wells-william2">M<hi
+									rend="superscript">r:</hi> Wells</persRef>, resigned, were read;
+							as were those of <persRef ref="mitchill-samuel">D<hi rend="superscript"
+									>r:</hi> Mitchill</persRef>, Senator for New-York, instead of
+								<persRef ref="armstrong-john">Gen<hi rend="superscript">l:</hi>
+								Armstrong</persRef>— D<hi rend="superscript">r:</hi> Mitchill took
+							his Seat. I wrote to <persRef ref="adams-john">my father</persRef> &amp;
+								<persRef ref="dennie-joseph">M<hi rend="superscript">r:</hi>
+								Dennie</persRef>— Dined with the <persRef ref="jefferson-thomas"
+								>President</persRef>; <persRef ref="johnson-catherine">M<hi
+									rend="superscript">rs:</hi> Johnson</persRef> &amp; her
+							daughters <persRef ref="smith-catherine-johnson">Catherine</persRef> and <persRef ref="pope-eliza">Eliza</persRef>
+							went— <persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> did not— The Company were <persRef
+								ref="smith-robert">M<hi rend="superscript">r:</hi> R.
+								Smith</persRef> Sec<hi rend="superscript">y:</hi> of the Navy, and
+							<persRef ref="smith-margaret4">his Lady</persRef>, <persRef
+								ref="harrison-richard;harrison-ann">M<hi rend="superscript">r:</hi>
+								&amp; M<hi rend="superscript">rs:</hi> Harrison</persRef>, <persRef
+								ref="u">Miss Jenifer</persRef>, and <persRef ref="u">Miss
+								Mouchette</persRef>—<persRef ref="brent-robert2">M<hi
+									rend="superscript">r:</hi> Brent</persRef>, and the President’s
+								<persRef ref="eppes-john;randolph-thomas">two Sons</persRef> in Law,
+							with <persRef ref="burwell-william">M<hi rend="superscript">r:</hi>
+								Burwell</persRef> his private Secretary— I had a good deal of
+							conversation with the President— The <persRef ref="turreau-louis">french
+								Minister</persRef> just arrived had been this day first presented to
+							him, and appears to have displeased him, by the profusion of gold-lace
+							on his Cloaths. He says they must get him down to a plain frock Coat, or
+							the boys in the Streets will run after him, as a sight— I asked if he
+							had brought his <hi rend="italic">Imperial</hi> Credentials, and was
+							answered he had. M<hi rend="superscript">r:</hi> Jefferson then turned
+							the Conversation towards the French Revolution; and remarked how <hi
+								rend="italic">contrary to all expectation</hi>, this great <hi
+								rend="italic">bouleversement</hi> had turned out— It seemed as if
+							every thing in that Country for the last 12 or 15 years, had been <hi
+								rend="small-caps">a dream</hi>, and who could have imagined that such
+							an <hi rend="italic">ebranlement</hi>, would have come to this— He
+							thought it very much to be wished, that they could now return to the
+							Constitution of 1789, and call back, <hi rend="italic">the Old
+								Family</hi>.— For although by that Constitution the Government was
+							much too weak, and although it was defective, in having a legislature
+							only in one branch, yet even thus it was better than the present form,
+							where it was impossible to perceive <hi rend="italic">any limits</hi>. I
+							have used as near as possible his very words—for this is one of the most
+							unexpected phases, in the waxing and waning opinions of this Gentleman
+							concerning the French Revolution.— He also mentioned to me the extreme
+							difficulty he had in finding fit characters for appointments in
+							Louisiana; and said he would now give <hi rend="italic">the
+								Creation</hi>, for a young Lawyer of good abilities, and who could
+							speak the French language, to go to New-Orleans, as one of the Judges of
+							the Superior Court, in the Territory— The Salary was about 2000 dollars—
+							He had been very lucky in obtaining one such <pb n="111" type="ms"
+							/>Judge, in <persRef ref="prevost-john">M<hi rend="superscript">r:</hi>
+								Prevost</persRef> of New-York, who had accepted the appointment, and
+							was perfectly well qualified; and he was in extreme want of another— I
+							could easily have named him a character fully corresponding to the one
+							he appeared so much to want— But if his observations were meant as a <hi
+								rend="italic">consultation</hi>, or an intent to ask whether I knew
+							any such person I could recommend, he was not sufficiently explicit—
+							Though if they were not, I know not why he made them to me— He further
+							observed that both French and Spanish, ought to be made primary objects
+							of acquisition in all the educations of our young men— As to Spanish it
+							was so easy, that he had learn’d it, with the help of a Don Quixote lent
+							him by <persRef ref="u">M<hi rend="superscript">r:</hi> Cabot</persRef>
+							and a Grammar, in the course of a passage to Europe, on which he was but
+							19 days at sea. But M<hi rend="superscript">r:</hi> Jefferson tells
+							large Stories— At table he told us that when he was at Marseilles, he
+							saw there a <persRef ref="bergasse-henri">M<hi rend="superscript"
+									>r:</hi> Bergasse</persRef> a famous manufacturer of wines, who
+							told him that he would make him any sort of wine he would name, and in
+							any quantities, at 6 or 8 sols the bottle— And though there should not
+							be a drop of the genuine wine required, in his composition, yet it
+							should so perfectly imitate the taste, that the most refined
+							Connoisseurs should not be able to tell which was which— You never can
+							be an hour in this man’s company without something of the marvellous
+							like these Stories— His genius is of the Old French School— It conceives
+							better than it combines— He shewed us among other things a natural
+							History of Parrots in French, with coloured plates very beautifully
+							executed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-24">
+					<head>24 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Finding myself still unwell, I pass’d this day at home,
+							to try the effect of medecine— In the evening I received letters from
+								<persRef ref="adams-thomas">my brother</persRef> and <persRef
+								ref="shaw-william">W. S. Shaw</persRef>.— I read the remainder of
+								<persRef ref="stith-william">Stith’s</persRef> History; and wrote a
+							little; but my indisposition has disqualified me for the writing which I
+							am most interested in completing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-25">
+					<head>25 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Lawrie</persRef> at the Treasury, and
+							took <persRef ref="adams-george">George</persRef> with me— After dinner
+							walk’d to Georgetown with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>— Wrote a little—
+							Finished reading <persRef ref="stith-william">Stith’s</persRef> History
+							of Virginia; which only comes down to the year 1624. or the dissolution
+							of the first Virginia Company.— Read in the Evening to M<hi
+								rend="superscript">rs:</hi> Adams <persRef ref="thomson-james"
+								>Thomson’s</persRef> Castle of Indolence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-26">
+					<head>26 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Dueling</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>After the Senate adjourned I went into the lobby of the
+							House of Representatives, and heard a debate, on a petition from
+							Princeton College, for the exemption of duties on certain Books imported
+							by them— The decision was against the exemption— We had company at home
+							this evening— <persRef ref="u;u">M<hi rend="superscript">r:</hi> and M<hi
+									rend="superscript">rs:</hi> Thompson</persRef>—<persRef
+								ref="sheldon-daniel">M<hi rend="superscript">r:</hi>
+								Sheldon</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Aikin</persRef>, a <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Thomas of Baltimore</persRef>, <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Chapman</persRef>, and <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Tabbs</persRef>— M<hi
+								rend="superscript">r:</hi> Sheldon says the impost at New-Orleans
+							will yield $300,000 a year— And that the western States are supplied
+							with foreign goods, entirely from Philadelphia and Baltimore. <persRef
+								ref="white-samuel2">M<hi rend="superscript">r:</hi> White</persRef>
+							of Delaware this day told me, that <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef> had offered him and
+							requested him to sign, an address to <persRef ref="bloomfield-joseph"
+								>Governor Bloomfield</persRef>, of New-Jersey, solliciting him, to
+							direct that a <hi rend="italic">nolle prosequi</hi> should be entered on
+							the part of the State, on the indictment for murder, found by the Grand
+							Jury of the County of Bergen, against <persRef ref="burr-aaron">M<hi
+									rend="superscript">r:</hi> Burr</persRef>. That this address was
+							drawn up by <persRef ref="giles-william">M<hi rend="superscript">r:</hi>
+								Giles</persRef>, and that it was to be signed, by those members of
+							the Senate, who judged proper, <hi rend="italic">as Senators of the
+								United States</hi>— M<hi rend="superscript">r:</hi> White said he
+							had asked time to consider of it; having some scruple of its propriety—
+							For although there might be different opinions on the subject of
+							dueling, he doubted whether he ought so to fly in the face of all the
+							Laws of the Country as was proposed by this address.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-27">
+					<head>27 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-27"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>The only business done in Senate was the ratification of
+							two Indian Treaties— After dinner I rode with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> on horseback to Georgetown— She met with an
+							accident; falling from her horse, by the turning of the saddle; but
+							received no hurt— I find myself still very unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-28">
+					<head>28 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Wrote to <persRef ref="adams-john">my father</persRef>—
+							And called at <persRef ref="thornton-william">D<hi rend="superscript"
+									>r:</hi> Thornton’s</persRef> Office— <persRef
+								ref="adams-george">George</persRef> was unwell this afternoon— I
+							have taken from the library, and begun to read <persRef
+								ref="smith-samuel5">Smith’s</persRef> History of New-Jersey—
+							Translated a french Song for <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-29">
+					<head>29 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="112" type="ms"/>
+						<p><date>29. </date>At last the signal of approaching business is given.
+								<persRef ref="giles-william">M<hi rend="superscript">r:</hi>
+								Giles</persRef> this day moved for the appointment of a Committee,
+							to draw up and report rules of proceeding for the Senate in cases of
+							Impeachment—generally— We are now to have another specimen of what <hi
+								rend="italic">impeachments</hi> are under our Constitution— This
+								M<hi rend="superscript">r:</hi> Giles has long been one of the most
+							inveterate enemies of <persRef ref="chase-samuel">Judge Chase</persRef>,
+							in the United States— And while a member of the House of Representatives
+							two years ago, declared he would himself impeach him were he not
+							compell’d by the State of his Health to relinquish his Seat in Congress—
+							He has now become one of the Judges to try him; and what chance of
+							impartiality is to be expected from him may be easily imagined— But the
+							issue of this prosecution like that of <persRef ref="pickering-john2"
+								>Judge Pickering</persRef> last Winter must be settled <hi
+								rend="italic">out of doors</hi>— And for this purpose <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi> John
+								Randolph</persRef> the prosecutor, and M<hi rend="superscript"
+								>r:</hi> Giles the Judge, are in daily conference together— It is
+							said they have been obliged to delay the subject for some time on
+							account of the difficulty of managing <persRef ref="mitchill-samuel"
+									>D<hi rend="superscript">r:</hi> Mitchill</persRef>, who has
+							always been averse to this impeachment, and who has now become a
+							Senator— But when I recollect the conduct of many Senators at the last
+							impeachment, and especially that of <persRef ref="bradley-stephen">M<hi
+									rend="superscript">r:</hi> Bradley</persRef> of Vermont, I have
+							little faith in any resistance of principle in this Senate, against the
+							resolute violence of the leaders in the House of Representatives.—
+								<persRef ref="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen’s</persRef>
+							<persRef ref="hellen-walter3">youngest child</persRef> was this day
+							baptized by <persRef ref="sayres-john">M<hi rend="superscript">r:</hi>
+								Sayres</persRef> of Georgetown by the name of Walter. <persRef
+								ref="johnson-thomas-baker">M<hi rend="superscript">r:</hi> T. B.
+								Johnson</persRef> and myself stood for him— And <persRef
+								ref="frye-carolina">Carolina Johnson</persRef> held him— In the
+							evening there was company here— Several Gentlemen— And <persRef
+								ref="thompson-james2;thompson-sarah2">Captain &amp; M<hi
+									rend="superscript">rs:</hi> Thompson</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-30">
+					<head>30 November 1804</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef ref="giles-william">M<hi rend="superscript"
+									>r:</hi> Giles’s</persRef> Committee to propose and report Rules
+							for Impeachments was this day appointed— Of five—Mess<hi
+								rend="superscript">rs:</hi> Giles, <persRef ref="baldwin-abraham"
+								>Baldwin</persRef>, <persRef ref="breckinridge-john"
+								>Breckenridge</persRef>, <persRef ref="bradley-stephen"
+								>Bradley</persRef> &amp; <persRef ref="stone-david">Stone</persRef>—
+							The Spirit of party is apparent even in this selection. <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef> also in the House of Representatives brought
+							forward two new Articles of Impeachment against <persRef
+								ref="chase-samuel">Judge Chase</persRef>— So the proceedings of the
+							accuser and judge proceed <hi rend="italic">pari passu</hi>— <persRef
+								ref="pickering-timothy">M<hi rend="superscript">r:</hi>
+								Pickering</persRef> told me he should give notice of asking leave to
+							bring forward the Resolution for amending the Constitution, on Monday—
+							And the Resolution itself on Tuesday.— I translated another French Song
+							this Evening.— I still continue much out of health.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1804-11-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1804-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>Day.</date> I rise usually between 7 and 8— Read or write about an
+							hour— Breakfast— Walk up to the Capitol, attend in Senate, and write
+							there untill 2. p.m. then walk home—read untill 4. Dine; and spend the
+							evening in my chamber reading or writing with <persRef
+								ref="adams-louisa-catherine">my wife</persRef>.— This course of life
+							is almost without exception— Perhaps about once in a week, I pass the
+							evening with the family and their visitors below.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

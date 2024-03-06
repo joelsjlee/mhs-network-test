@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1805-02">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="132"
+				mhs:precedingFile="JQADiaries-v27-1805-01-p121.xml"
+				mhs:followingFile="JQADiaries-v27-1805-03-p143.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1805-02-01" to="1805-02-28"/></bibl>
+
+				<!--D/JQA/27.867-->
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-01">
+					<head>1 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">February 1805.</hi></dateline>
+						<p><date>1. </date>I attended early this morning at the Capitol.— In Senate—
+								<persRef ref="giles-william">M<hi rend="superscript">r:</hi> Giles’s
+							</persRef>new Bill for the Government of Louisiana was debated at the
+							second reading and postponed— The Treaty with the Creeks was taken up,
+							and I express’d my opinion in favour of its Ratification— This opinion I
+							believed surprized, almost every member of the Senate; and dissatisfied
+							almost all— It is a sincere and honest, though not perhaps a prudent
+							opinion.— <persRef ref="bradley-stephen">M<hi rend="superscript">r:</hi>
+								Bradley</persRef>, who has heretofore been warm in favour of the
+							Ratification, appears to shiver in the wind— He offered this day an
+							amendment equivalent to a conditional Ratification, and intimated that
+							he would not vote for the Treaty without it.— Adjourned without taking
+							the question— After Senate adjourned, I sat some time with M<hi
+								rend="superscript">r:</hi> Giles, waiting for <persRef
+								ref="dayton-jonathan">General Dayton</persRef> which whom I had
+							agreed to go to <persRef ref="turreau-louis">General Tureau</persRef>,
+							the french Minister’s; where we all were to dine; and M<hi
+								rend="superscript">r:</hi> Giles gave me his opinions very freely on
+							various subjects of a public Nature; with an evident view to draw from
+							me my opinions— I hope I was sufficiently upon my guard— He talked about
+							his own Louisiana Bill; and disapproved of <persRef ref="randolph-john"
+									>M<hi rend="superscript">r:</hi> Randolph’s</persRef> Report to
+							the House of Representatives; which he said was a perfect transcript of
+							Randolph’s own character— It began by setting the claims of the
+							Louisianians at defiance, and concluded with a proposal to give them
+							more than they asked— M<hi rend="superscript">r:</hi> Randolph was
+							undoubtedly a man of very correct theories; but for his part he wished
+							above all things to be in matters of Government a man of practice.— From
+							this subject he pass’d to that of the Georgia Land-claims, which, for
+							some days have been debated with great heats and violence in the House
+							of Representatives and are not yet decided— In this case his theory and
+							his practice agrees entirely with those of M<hi rend="superscript"
+								>r:</hi> Randolph— Vehemently opposed to the claims, and urging
+							against them suspicions, jealousies, and menaces instead of arguments—
+							He said if those claims were not totally and forever rejected, Congress
+							would be bribed into the sale of the United States Lands, as the Georgia
+							Legislature was to that sale— That nothing since the Government existed,
+							had so deeply affected him as this subject— That the character of the
+							Government itself was staked upon its event. In the State of Virginia,
+							there was but one voice of Indignation relating to it— That not a man
+							from that State, who should give any <pb n="133" type="ms"/>countenance
+							to the proposed compromise, could obtain an election after it— <persRef
+								ref="jefferson-thomas">M<hi rend="superscript">r:</hi>
+								Jefferson</persRef> himself would lose an election in Virginia, if
+							he was known to favour it— And there was a gentleman, in the House who
+							had voted for the Resolution, and who <hi rend="italic">certainly</hi>
+							would lose his election by it— (I understood him to mean <persRef
+								ref="jackson-john2">M<hi rend="superscript">r:</hi>
+								Jackson</persRef>, who married <persRef ref="madison-james">M<hi
+									rend="superscript">r:</hi> Madison’s</persRef>
+							<persRef ref="madison-dolley">wife’s</persRef>
+							<persRef ref="jackson-mary">sister</persRef>.)— He then proceeded to
+							speak with much severity of <persRef ref="granger-gideon">M<hi
+									rend="superscript">r:</hi> Granger</persRef>, the
+							Post-Master-General— Intimated strong suspicions that he had bribed
+							members of Congress to support him in these claims.— He said by the list
+							of the Contracts for carrying the mail, it appeared that several members
+							of Congress had contracted for that purpose— <persRef ref="lyon-matthew"
+								>Matthew Lyon</persRef>, to the amount of several thousand dollars.—
+							A <persRef ref="u">M<hi rend="superscript">r:</hi> Claiborne</persRef> a
+							member from Virginia, a man of ruined fortune and habitual intoxication,
+							was another— That the Constitution forbids any Member of Congress from
+							holding any Office of honour or profit under the United States— That a
+							contract to carry the mail was not indeed an Office of honour, but to
+							such men as Lyon and Claiborne, it must be considered as an Office of
+							profit; for that they could have made the contracts with no other view
+							than to profit— That for his part, he never trusted a man who had
+							nothing but professions to support him— That M<hi rend="superscript"
+								>r:</hi> Granger was a man of too many professions, and he must take
+							the liberty to suspect him— That these people were perpetually
+							clamouring for reward, on account of their services to the Republican
+							Cause— Eternally labouring to keep up the memory and resentment of past
+							times and dissensions, which ought now to be but of <hi rend="italic"
+								>secondary</hi> consideration— That the President had told him he
+							never had received from the State of Virginia one application to remove
+							a single federal Officer—while from other States he had been harrassed
+							by them without number; and had letters, and certificates, and
+							affidavits, and God knows what in support of them— That such insatiable
+							avidity for Office was no great proof of merit; and he told such
+							people—Gentlemen, if you supported Republican principles because you
+							thought them essential to the welfare of your Country, you surely cannot
+							expect personal reward for that— If from merely interested and selfish
+							purposes, you have no right to reward— He said much more to the same
+							effect— His tongue runs fast when once a going, and he slides from one
+							subject to another by light, and successive transitions which generally
+							land his discourse wide from where it started— From the specimens I have
+							had of his conversation, he is very free in his animadversions both on
+							men and things. This is what some men may be with impunity; but I am not
+							one of them.— At Gen<hi rend="superscript">l:</hi> Turreau’s he renewed
+							the subject of the Georgia Land-claims, and said over again to M<hi
+								rend="superscript">r:</hi> Madison, all he had said to me, and much
+							more against them— M<hi rend="superscript">r:</hi> Madison appealed to
+							the agreement between the United States and Georgia, and the reservation
+							of lands made for the express purpose of quieting those claims— Giles
+							said that was a very incorrect and improper proceeding, and ought not to
+							be sanctioned by us. General Turreau’s dinner was to the Heads of
+							departments, with their Ladies—<persRef ref="mason-john">Gen<hi
+									rend="superscript">l:</hi> Mason</persRef> and <persRef
+								ref="tayloe-john">M<hi rend="superscript">r:</hi> Tayloe</persRef>
+							with <persRef ref="mason-anna;tayloe-ann">their Ladies</persRef>—Mess<hi
+								rend="superscript">rs:</hi> Giles, <persRef ref="dayton-jonathan"
+								>Dayton</persRef> and <persRef ref="logan-george">Logan</persRef> of
+							the Senate, and Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="nicholson-joseph">Nicholson</persRef> and <persRef
+								ref="eppes-john">Eppes</persRef> of the House— I was not very well,
+							and came home immediately after dinner; which indeed was at almost 9. in
+							the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-02">
+					<head>2 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>In Senate, <persRef ref="giles-william">M<hi
+									rend="superscript">r:</hi> Giles’s</persRef> Louisiana-Bill was
+							again debated, and again postponed— The <persRef ref="burr-aaron"
+								>Vice-President</persRef> appeared, but is not to take the chair
+							untill Monday— The Treaty with the Creeks was at length rejected 12 ayes
+							19 nays. Before the taking of the final question, M<hi
+								rend="superscript">r:</hi> Brown moved as an Amendment to the
+							Resolution of Ratification, to strike out all but the introductory
+							words, and insert a postponement untill next Session.— A division of the
+							question was called for, and of course the first question was only on
+							the striking out— There were 20 votes for striking out and 11. “that the
+							words should stand”—according to the mode of taking the question
+							prescribed by the Senate’s 38<hi rend="superscript">th:</hi> Rule.— The
+								<persRef ref="anderson-joseph">President</persRef> decided that the
+							vote was not carried, and the words must stand— They did stand therefore
+							and the question was taken in a form against the opinion of nearly two
+							thirds, when the real intent of the rule is that the <pb n="134"
+								type="ms"/>final question shall be taken only in the form to which
+							two thirds agree. <persRef ref="dayton-jonathan">Gen<hi
+									rend="superscript">l:</hi> Dayton</persRef>, and what much more
+							surprized me, <persRef ref="tracy-uriah">M<hi rend="superscript">r:</hi>
+								Tracy</persRef> supported this decision of the President, which was
+							in direct opposition both to the letter and the intent of the Rule— The
+							embarrassment arose from its being an unusual mode of taking questions
+							at this time— I was a familiar one in the old Congress and there such a
+							question would not have arisen— I went in to the House of
+							Representatives and spoke to <persRef ref="plater-thomas">M<hi
+									rend="superscript">r:</hi> Plater,</persRef> respecting the
+							Amendments to the George-town Charter-Bill— Just after I went in, the
+							question on the Georgia land claims was taken in the house, and carried
+							in their favour 63 ayes 58 nays; to bring in a Bill— Spent the Evening
+							with the <persRef key="adams-louisa-catherine">Ladies</persRef>, at
+								<persRef ref="mason-john">General Mason’s</persRef>, at
+							Georgetown.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-03">
+					<head>3 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>I confined myself this day without sufficient necessity
+							to the house. <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs: </hi>Adams</persRef> went with <persRef
+								ref="mason-anna">M<hi rend="superscript">rs:</hi> Mason</persRef>,
+							to attend Church at the Capitol— I employed the whole day in reading and
+							writing. Particularly read <persRef ref="wilkinson-james">General
+								Wilkinson’s</persRef> papers respecting his order for cropping the
+							hair of his troops, and <persRef ref="butler-thomas2">Col<hi
+									rend="superscript">l:</hi> Butler’s</persRef> resistance to that
+							order— <persRef ref="u">M<hi rend="superscript">r:</hi> Marin</persRef>
+							spent the Evening below.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-04">
+					<head>4 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>The weather has again become extremely severe, and I
+							suffered very much in coming home from the Capitol. This being the day
+							fixed for receiving <persRef ref="chase-samuel">Judge Chase’s</persRef>
+							answer, at about one O’Clock the Senate went into the Hall which has
+							been fitted up for the occasion— The managers from the House appeared,
+							as did M<hi rend="superscript">r:</hi> Chase, with <persRef
+								ref="martin-luther">Luther Martin</persRef> and <persRef
+								ref="harper-robert-goodloe">R. G. Harper</persRef> of Baltimore, and
+								<persRef ref="hopkinson-joseph">F. Hopkinson</persRef> of
+							Philadelphia as his Counsel. They read his answer which took them about
+							3 hours and a half; it being very full and particular to each Article—
+								<persRef ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef>, as Chairman of the House, asked for a copy of
+							the answer, and time to consult the House of Representatives, and to put
+							in their Replication— The Senate returned to their temporary Room; and
+							immediately adjourned to 1/2 past 10. The hour at which they are to meet
+							in future.— Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-05">
+					<head>5 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-05"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>On going to the Senate this morning, I found them already
+							engaged upon the Clearance Bill.— And an incident not very singular in
+							these times soon occurr’d— On the 14<hi rend="superscript">th:</hi> of
+							last month this Bill, together with some Amendments proposed by a former
+							select Committee were re-committed to a second select Committee of five,
+							who were to report an entire new Bill, that which came from the House of
+							Representatives being after long and repeated debates given up as
+							untenable by all sides. This second Committee accordingly reported some
+							ten days since a new Bill, and upon its being taken up this morning I
+							expected that this would be the subject of the debate— But <persRef
+								ref="giles-william">M<hi rend="superscript">r:</hi> Giles
+							</persRef>was not in his seat; and when the first question, on striking
+							out the original Bill was called, <persRef ref="breckinridge-john">M<hi
+									rend="superscript">r:</hi> Breckenridge</persRef>, without
+							making any observations barely called for the yeas and nays, and by a
+							majority of 19 to 12 the striking out was <hi rend="italic"
+								>rejected</hi>— So that the debate then was immediately thrown back
+							upon the very bill which three weeks since had been as by Common Consent
+							abandoned. This was so evidently the result of consultations out of
+							doors, that it had the appearance of a determination to crowd the Bill
+							down at all events— The new Bill, which <persRef ref="smith-samuel2"
+									>Gen<hi rend="superscript">l:</hi> Smith</persRef>, the Chairman
+							of the Committee had taken great pains to draw up, and which was very
+							long, could not be discussed at all; and he was driven to move
+							Amendments in that which came from the house— Some of these were at
+							length adopted after M<hi rend="superscript">r:</hi> Giles came into the
+							Senate, and took the wheel at helm from Breckinridge— <persRef
+								ref="logan-george">D<hi rend="superscript">r:</hi> Logan</persRef>,
+							seemingly encouraged by the turn of tide on this subject gave notice
+							that before the final passage of the Bill he should move for an
+							additional section prohibiting the trade to S<hi rend="superscript"
+								>t:</hi> Domingo, altogether— He came to my seat and shewed me a
+							letter from his kinsman <persRef ref="dickinson-john2">M<hi
+									rend="superscript">r:</hi> John Dickinson</persRef> on this and
+							other subjects— Urging strongly a total interdiction of the trade; and
+							censuring severely the Bill pass’d by the House, as sanctioning the
+							trade under colour of restraining it.— He also gives it as his opinion
+							that Louisiana may be admitted into the Union as a State, without an
+							Amendment to the Constitution; but hopes Congress will not be <hi
+								rend="italic">hurried</hi>, or driven into any such measure, by
+							terror— As to the impeachment of <persRef ref="chase-samuel">Judge
+								Chase</persRef> he says “however I may have been hurt by his conduct
+							on the Bench, <pb n="135" type="ms"/>I cannot decide him guilty, untill
+							all the Evidence shall appear.”— The Clearance Bill was postponed, and
+							some other objects of less moment pass’d upon— <persRef
+								ref="bayard-james">M<hi rend="superscript">r:</hi> Bayard</persRef>
+							moved for the printing of M<hi rend="superscript">r:</hi> Chase’s
+							answer, which was carried.— <persRef ref="dayton-jonathan">M<hi
+									rend="superscript">r:</hi> Dayton</persRef> moved, in Executive
+							Business, to send back to the <persRef ref="jefferson-thomas"
+								>President</persRef> the Treaty with the Creek Indians lately
+							rejected, with a recommendation for further negotiation— Motion lies for
+							consideration— I Dined with <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> at <persRef
+								ref="nourse-joseph">M<hi rend="superscript">r:</hi>
+								Nourse’s</persRef>, in Georgetown— <persRef ref="huger-benjamin2"
+									>M<hi rend="superscript">r:</hi> Huger</persRef> and <persRef
+								ref="newton-thomas">M<hi rend="superscript">r:</hi> Newton</persRef>
+							with <persRef ref="huger-mary;newton-margaret">their ladies</persRef>,
+								<persRef ref="cocke-william">M<hi rend="superscript">r:</hi>
+								Cocke</persRef>, <persRef ref="smith-john18">M<hi rend="superscript"
+									>r:</hi> John Smith</persRef> of Virginia, <persRef
+								ref="duval-gabriel">M<hi rend="superscript">r:</hi>
+							Duvall</persRef>, and some others were there— It was almost 9 in the
+							Evening when we came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-06">
+					<head>6 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-06"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>We now meet in Senate, at 1/2 past 10 in the morning; and
+							having two miles and an half to walk to the Capitol, I find it not
+							without difficulty to reach there in Season— This morning I did— The
+							Clearance Bill was again taken up; and two thirds of the sitting
+							employed in debating the second Section, untill its absurdity stared so
+							broadly in the face of every one, that it could no longer be supported—
+								<persRef ref="mitchill-samuel">D<hi rend="superscript">r:</hi>
+								Mitchill</persRef> then moved to strike out of it one word; but
+								<persRef ref="giles-william">M<hi rend="superscript">r:</hi>
+								Giles</persRef> was not quite prepared to give it up and moved a
+							postponement— This was supported by <persRef ref="jackson-james2">Gen<hi
+									rend="superscript">l:</hi> Jackson</persRef>, who had some
+							doubts on his mind and wanted time— In opposing a postponement I hinted
+							hypothetically at its probable object; another out-of-door consultation;
+							which I considered as likely only to prepare another day’s debate on the
+							same Section— <persRef ref="anderson-joseph">M<hi rend="superscript"
+									>r:</hi> Anderson</persRef> called me to order— I sat down— The
+							President enquired of M<hi rend="superscript">r:</hi> Anderson, in what
+							respect he had supposed me out of order— He said by alluding to any
+							thing <hi rend="italic">that had taken place out of doors</hi>.— The
+							President decided that I <hi rend="italic">was in order</hi>— As I spoke
+							hypothetically, and without alluding to any thing past.— The subject was
+							postponed— Other business of less interest succeeded, untill 4 o’clock
+							when the adjournment took place.— In the Evening we all were at a Ball
+							at <persRef ref="u">M<hi rend="superscript">r:</hi> Simmonds</persRef>,
+							on occasion of the marriage of <persRef ref="u">Miss Barbour</persRef>
+							to <persRef ref="u">M<hi rend="superscript">r:</hi> Davidson</persRef>—
+							The company was numerous— I spent most of the Evening at whist with
+								<persRef ref="dayton-jonathan">Gen<hi rend="superscript">l:</hi>
+								Dayton</persRef>, <persRef ref="cutts-richard">M<hi
+									rend="superscript">r:</hi> Cutts</persRef> and <persRef
+								ref="wilkinson-james">Gen<hi rend="superscript">l:</hi>
+								Wilkinson</persRef>— Saw there <persRef ref="ewing-samuel">M<hi
+									rend="superscript">r:</hi> Ewing</persRef> of Philadelphia—
+								<persRef key="adams-louisa-catherine">We</persRef> came home soon
+							after supper, that is, about midnight.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-07">
+					<head>7 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>A Message from the House of Representatives was received,
+							informing that they had agreed upon a Replication to the Answer of
+								<persRef ref="chase-samuel">Judge Chase</persRef>, and directed
+							their Managers to bring it to the Senate— Some debate arose as to the
+							proper mode of proceeding to receive it, but it was finally agreed to
+							receive it in the Hall— At 2 o’clock accordingly the Senate went in— The
+							Managers immediately appeared—as did <persRef ref="hopkinson-joseph"
+									>M<hi rend="superscript">r:</hi> Hopkinson</persRef> for Judge
+							Chase— <persRef ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef> read the Replication, which was short, general,
+							and urging a speedy trial— <persRef ref="breckinridge-john">M<hi
+									rend="superscript">r:</hi> Breckinridge</persRef> moved to send
+							the House a Message that the Senate would to-morrow proceed with the
+							trial; and on the question the 34 Senators all answered aye. M<hi
+								rend="superscript">r:</hi> Hopkinson requested a copy of the
+							replication, which the <persRef ref="anderson-joseph"
+								>President</persRef> directed the <persRef ref="otis-samuel"
+								>Secretary</persRef> to furnish him; after which the Senate returned
+							to the legislative department— The Clearance Bill was again taken up,
+							and debated untill past 4 O’Clock without coming to any decision.— From
+							the badness of the weather, I rode to and from the Capitol— Employed the
+							Evening in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-08">
+					<head>8 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>The Senate were engaged in business not requiring debate
+							untill 12 O’Clock, when they went in to the Hall— The Managers appeared—
+							As did <persRef ref="chase-samuel">M<hi rend="superscript">r:</hi>
+								Chase</persRef>, with his former Counsel; and in addition, <persRef
+								ref="chase-jeremiah">M<hi rend="superscript">r:</hi> Jeremiah
+								Chase</persRef> the Chief-Justice of Maryland, <persRef
+								ref="key-philip">M<hi rend="superscript">r:</hi> Key</persRef>, and
+							the <persRef ref="chase-samuel2">Judge’s Son</persRef> and a <persRef
+								ref="law-john">son</persRef> of <persRef ref="law-thomas">M<hi
+									rend="superscript">r:</hi> Law</persRef>.— <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef> requested that the witnesses summoned on the part
+							of the House might be called; which they were— Several of them did not
+							answer— M<hi rend="superscript">r:</hi> Randolph then moved, for various
+							considerations which he said it was not necessary to detail that the
+							trial should be postponed untill to-morrow; when the Managers expected
+							to be ready to proceed— At present they were not ready— <persRef
+								ref="harper-robert-goodloe">M<hi rend="superscript">r:</hi>
+								Harper</persRef> rose and said the Defendant did not object to this
+							postponement—but. . . he was then stopp’d by the <persRef
+								ref="burr-aaron">President</persRef>, who without consulting the
+							Senate, informed the Managers, that the Senate would be in the Hall
+							to-morrow, at 12 O’Clock and then proceed with the trial. <pb n="136"
+								type="ms"/>M<hi rend="superscript">r:</hi> Chase’s witnesses were
+							then called over, several of whom did not appear— And we return’d to the
+							legislative Room— The Tennessee Land-title Bill was taken up at the 3<hi
+								rend="superscript">d:</hi> reading and rejected.— <persRef
+								ref="breckinridge-john">M<hi rend="superscript">r:</hi>
+								Breckinridge</persRef>, by Instructions from the Legislature of
+							Kentuckey offered an Amendment to the Constitution curtailing the
+							Jurisdiction of the United States Courts— Adjourn’d at 4.— <persRef
+								ref="pope-eliza">Eliza Johnson</persRef> has been this day very
+							unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-09">
+					<head>9 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>After the adjournment of Senate yesterday, I enquired of
+								<persRef ref="burr-aaron">M<hi rend="superscript">r:</hi>
+								Burr</persRef> the Vice-President, upon what principle he had
+							granted the postponement moved for by the chairman of the managers,
+							without consulting the Senate.— He said it was because he conceived it
+							an object upon which there could be no difference of opinion— That the
+							managers ought not to have stated it in the form of a motion— That it
+							was simply a statement that they were personally not ready; and of
+							course the business could not proceed— This morning he desired me to
+							mention the subject in my place; which I accordingly did— He then
+							assigned the same reasons; and referr’d for precedent to the practice in
+							the British Parliament, particularly on <persRef ref="hastings-warren"
+								>Hastings’s</persRef> trial— He said upon all such incidental and
+							occasional motions, he thought for avoiding delay and unnecessary
+							inconvenience, he could decide, subject however to a call from any one
+							Member of the Senate, who might dissent from his opinion, for a regular
+							question to be taken— At 12. O’Clock the Court of Impeachments, met in
+							the Hall— <persRef ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef>, Chairman of the Managers, in a Speech of about
+							an hour and a half opened the cause on the part of the House, in support
+							of the eight Articles.— Two witnesses, were then examined, to the facts
+							alledged in the first Article—<persRef ref="lewis-william5">William
+								Lewis</persRef> and <persRef ref="dallas-alexander">Alexander James
+								Dallas</persRef>— By the time they had got through their testimony,
+							it was 4 O’Clock. The Court retired to the Legislative Apartment and
+							immediately adjourned.— I received letters from <persRef
+								ref="adams-john">my father</persRef> and <persRef key="adams-thomas"
+								>brother</persRef> this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-10">
+					<head>10 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>I was employed all the morning in reading over the new
+							Articles of War, which <persRef ref="wilkinson-james">General
+								Wilkinson</persRef> has drawn up for the consideration of the
+							Committee; and <persRef ref="chase-samuel">Judge Chase’s</persRef>
+							answer, which I did not entirely go through.— I dined with <persRef
+								ref="stoddert-benjamin">M<hi rend="superscript">r:</hi>
+								Stoddert</persRef> at Georgetown— The Judges <persRef
+								ref="marshall-john">Marshall</persRef>, <persRef
+								ref="washington-bushrod">Washington</persRef> and <persRef
+								ref="winchester-james2">Winchester</persRef> were there— <persRef
+								ref="washington-william">Col<hi rend="superscript">l:</hi>
+								Washington</persRef>, <persRef ref="randolph-david">M<hi
+									rend="superscript">r:</hi> David M. Randolph</persRef> formerly
+							Marshal, and <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Hopkins</persRef> formerly Treasurer of Virginia, and <persRef
+								ref="lewis-joseph3">M<hi rend="superscript">r:</hi> Lewis</persRef>
+							a member of the House of Representatives— This company was very
+							agreeable, and the dinner remarkably pleasant; which made me too
+							sociable, and I talk’d too much— About 9 in the Evening I came home and
+							found <persRef ref="u">M<hi rend="superscript">r:</hi> Tabbs</persRef>
+							below. I enquired of Judge Marshal whether he knew the writer of a
+							Vindication of his first Volume of <persRef ref="washington-george"
+								>Washington’s</persRef> life, against an Attack of certain British
+							Reviewers, which was published in the Gazette of the United States— He
+							said he did not. But he complained that from having been forced to
+							precipitate so much the publication there were so many errors and
+							imperfections in it, that he was ashamed of it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-11">
+					<head>11 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>The annual appropriation bill for the support of
+							Government was taken up as in Committee; but some debate arising upon
+							it, the hour for the Court’s meeting arrived, and the bill was
+							postponed— Soon after 12 the Court met; and sat untill half past 5.
+							Examining four witnesses on the part of the Managers—<persRef
+								ref="tilghman-edward2">Edward Tilghman</persRef>, <persRef
+								ref="biddle-william">W. S. Biddle</persRef>, <persRef
+								ref="rawle-william">William Rawle</persRef> and <persRef
+								ref="hay-george">George Hay</persRef>. The examination of this last
+							witness was not completed— After 5 o’clock a motion for adjournment of
+							the Court was made, and declared by the <persRef ref="burr-aaron"
+								>President</persRef> not to be pass’d— On which <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracey</persRef>,
+								<persRef ref="dayton-jonathan">M<hi rend="superscript">r:</hi>
+								Dayton</persRef>, and <persRef ref="plumer-william">M<hi
+									rend="superscript">r:</hi> Plumer</persRef> left their Seats and
+							the Hall— Shortly after however the motion to adjourn was renewed, and
+							carried— We returned to the Legislative Apartment, and the President
+							censured with some severity the members who had left their seats—
+								<persRef ref="stone-david">M<hi rend="superscript">r:</hi>
+								Stone</persRef> said if any notice was to be taken of Gentlemen
+							leaving their Seats, he hoped it would not be by any other authority
+							than the whole Senate— M<hi rend="superscript">r:</hi> Burr said if it
+							should again happen, he should take the opinion of the Senate upon it;
+							and that if members wished to absent themselves they must ask leave.
+								<persRef ref="hillhouse-james">M<hi rend="superscript">r:</hi>
+								Hillhouse</persRef> said he hoped then the Senate would sit only at
+							reasonable hours— That his Colleague (M<hi rend="superscript">r:</hi>
+							Tracy)’s health was <pb n="137" type="ms"/>such that he could not
+							without danger to his life be kept sitting in such a manner as there
+							appeared a disposition to compel him to, and that he had suffered very
+							much before the first motion to adjourn was made— This topic was
+							becoming unpleasant, but was terminated by an adjournment— I called on
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Stockton</persRef>
+							at <persRef ref="stelle-pontius">Stelle’s</persRef>— He is here upon the
+							business of <persRef ref="graves-john">M<hi rend="superscript">r:</hi>
+								Graves</persRef>, and expected I should argue the cause— I told him
+							that would be impossible for two reasons: first because, I could not
+							quit the business pending in the Senate; and secondly because
+							circumstanced as I am, a scruple of delicacy forbad me to appear as
+							Counsel before a Court where <persRef ref="chase-samuel">Judge
+								Chase</persRef> was sitting, while his Cause was undecided. It was 7
+							o’clock in the Evening before I got home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-12">
+					<head>12 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>To-morrow being the day upon which the votes returned
+							for President and Vice-President of the United States, are to be opened
+							and declared, a Resolution, at the motion of <persRef ref="tracy-uriah"
+									>M<hi rend="superscript">r:</hi> Tracey</persRef>, pass’d, on
+							the manner of performing this ceremony, which was sent to the House of
+							Representatives— They soon after sent another, of a different sort,
+							which was not concurr’d in by the Senate— This and some other subjects
+							of slight debate occupied us untill 1/2 past 12. when we went into the
+							Hall and sat in Court of Impeachment untill about 4. The Managers
+							continued their examination of witnesses, who were <persRef
+								ref="hay-george">George Hay</persRef>, again, <persRef
+								ref="taylor-john7">Col<hi rend="superscript">l:</hi> John
+								Taylor</persRef>, <persRef ref="nicholas-philip">Philip Norborne
+								Nicholas</persRef>, <persRef ref="mason-john8">John Thompson
+								Mason</persRef>, and <persRef ref="heath-john2">John Hath</persRef>—
+							After returning to the room, the Senate sat there about half an hour
+							before adjournment.— Another day it is said will finish the examination
+							of witnesses on the part of the Managers.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-13">
+					<head>13 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>The business first transacted this day, was the
+							declaration of the elections of President and Vice-President. The House
+							of Representatives concurred in the Resolution which yesterday pass’d in
+							Senate on the subject. <persRef ref="tracy-uriah">M<hi
+									rend="superscript">r:</hi> Tracey </persRef>moved a Resolution
+							for having the galleries closed while the votes should be counted and
+							declared; but this giving rise to some debate the motion was withdrawn—
+							At the last Election they were closed— <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef> moved, and insisted
+							upon a Resolution that they should be <hi rend="italic">open</hi>—which
+							was carried. <persRef ref="smith-samuel2">M<hi rend="superscript"
+									>r:</hi> Smith</persRef> of Maryland was chosen the Teller on
+							the part of the Senate— At precisely 12. the two Houses met in
+							Convention— The <persRef ref="burr-aaron">Vice-President</persRef>
+							opened the duplicate returns, and the votes were read and minuted down
+							by the Tellers. There was some question on the accuracy of the returns
+							from the State of Ohio; but they were finally received.— The whole
+							number of Electors and of votes was 176. of which 162 were for <persRef
+								ref="jefferson-thomas">Thomas Jefferson</persRef> as President, and
+								<persRef ref="clinton-george">George Clinton</persRef> as
+							Vice-President; and 14. for <persRef ref="pinckney-charles">Charles
+								Cotesworth Pinckney</persRef> as President and <persRef
+								ref="king-rufus">Rufus King</persRef>, as Vice-President. After two
+							hours employed in reading and summing up the returns, the Vice-President
+							declared Thomas Jefferson and George Clinton to be duly elected to the
+							respective Offices of President and Vice-President of the United States,
+							for four years commencing on the 4<hi rend="superscript">th:</hi> of
+							March next— The two houses then retired for about half an hour, and then
+							returned again to the Hall, to proceed in the trial of the Impeachment—
+								<persRef ref="heath-john2">John Heath</persRef> was again examined;
+							as was also <persRef ref="triplet-james">James Triplet</persRef>; and on
+							the part of <persRef ref="chase-samuel">Judge Chase</persRef>, <persRef
+								ref="bassett-john">John Bassett</persRef> the juror on <persRef
+								ref="callender-james">Callender’s</persRef> trial. These two last
+							witnesses were discharged after their examination— At 4 O’Clock the
+							Court retired, and the Senate immediately adjourned— I rode home from
+							the Capitol, compelled by the rain— With <persRef
+								key="adams-louisa-catherine">my wife</persRef>
+							<persRef ref="johnson-catherine">M<hi rend="superscript">rs:</hi>
+								Johnson</persRef>, and two of the young Ladies I pass’d the Evening
+							at the <persRef ref="smith-robert">Secretary of the Navy’s, M<hi
+									rend="superscript">r:</hi> Robert Smith’s</persRef>— There was a
+							numerous company there of both sexes.— Many of the Witnesses and persons
+							engaged on the Impeachment were of the number.— <persRef
+								ref="bonaparte-jerome2">M<hi rend="superscript">r:</hi> Jerome
+								Buonaparte</persRef> was likewise there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-14">
+					<head>14 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="138" type="ms"/>
+						<p><date>14. </date>It was agreed this morning in
+							Senate, to meet for the future, at the Court of Impeachment, at 10
+							O’Clock every morning; and proceed in the trial untill two or three in
+							the afternoon— Then adjourn the Court; and after a slight collation
+							which the <persRef ref="burr-aaron">President</persRef> said he would
+							order to be provided, proceed upon the legislative business untill five
+							or six in the Evening— This arrangement to commence to-morrow.— At noon
+							we went into Court and the examination of the witnesses on the part of
+							the Managers, was concluded, excepting nine, who have been summoned, but
+							have not attended— The managers reserved to themselves the liberty of
+							examining these witnesses whenever they should attend— They also offered
+							two records in Evidence which were received— At about 4 O’Clock the
+							Court retired; and Senate adjourned half an hour afterwards— I dined at
+								<persRef ref="stelle-pontius">Stelle’s</persRef> with <persRef
+								ref="rawle-william">M<hi rend="superscript">r:</hi> Rawle</persRef>,
+								<persRef ref="hopkinson-joseph">M<hi rend="superscript">r</hi>
+								Hopkinson</persRef>, <persRef ref="meredith-william">M<hi
+									rend="superscript">r:</hi> Meredith</persRef> and <persRef
+								ref="ewing-samuel">M<hi rend="superscript">r:</hi> Ewing</persRef>
+							of Philadelphia, and sat with them untill between 8 and 9 in the
+							Evening.— <persRef ref="cole-edward">M<hi rend="superscript">r:</hi>
+								Edward J. Cole</persRef> came in before I left them.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-15">
+					<head>15 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>The Court met this morning, a few minutes after 10. I
+							took my seat within a few minutes after and before the Court was opened—
+							At half past ten O’Clock, several of the Managers had not arrived— And
+							among the rest, their Chairman, <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> Randolph</persRef>— <persRef
+								ref="rodney-caesar">M<hi rend="superscript">r:</hi> Rodney</persRef>
+							moved the Court to wait for him, which was agreed to— After waiting
+							about a quarter of an hour longer, it was determined to proceed— M<hi
+								rend="superscript">r:</hi> Randolph did not come in untill after 12.
+							O’Clock. <persRef ref="harper-robert-goodloe">M<hi rend="superscript"
+									>r:</hi> Harper</persRef> opened the defence on the part of
+								<persRef ref="chase-samuel">Judge Chase</persRef>, in a speech of
+							about half an hour.— Several witnesses were then examined, as to the
+							first Article—<persRef ref="ewing-samuel">Samuel
+								Ewing</persRef>—<persRef ref="cole-edward">Edward J.
+								Coles</persRef>.—<persRef ref="rawle-william">William
+								Rawle</persRef>—and <persRef ref="meredith-william">William
+								Meredith</persRef>. A Charge of <persRef ref="iredell-james2">Judge
+								Iredell </persRef>to the Grand-Jury, on the first trial of <persRef
+								ref="fries-john">Fries</persRef> was read— And <persRef
+								ref="dallas-alexander">Dallas’s</persRef> Report of the case of
+								<persRef ref="vigol-philip">Vigol</persRef> and <persRef
+								ref="mitchell-john5">Mitchell</persRef> was cited.— On the five
+							Articles relating to <persRef ref="callender-james"
+								>Callender’s</persRef> trial—<persRef ref="martin-luther">Luther
+								Martin</persRef>, <persRef ref="winchester-james2">James
+								Winchester</persRef> and <persRef ref="marshall-william2">William
+								Marshall</persRef> were examined.— The Court retired at about half
+							past two; and after the Senators had taken a light collation; at about 3
+							commenced upon legislative business— The Orleans Government Bill was
+							taken up, and debated untill near 7 in the Evening, when we adjourned
+							and I came home— I was too much fatigued and exhausted to do any thing
+							in the Evening.— <persRef ref="nicholson-joseph">M<hi rend="superscript"
+									>r:</hi> Nicholson</persRef> this day discovered a disposition
+							to be captious, as to the admission of Evidence on the part of Judge
+							Chase; though a vast body of the most exceptionable testimony against
+							him had been offered, and by his consent freely admitted— In one
+							instance Nicholson insisted upon taking the opinion of the Court, and
+							the testimony was necessarily rejected— Randolph and Rodney however
+							shamed him out of such objections, which were not afterwards repeated—
+							Some testimony not strictly admissible was therefore received by consent
+							of the Managers; but <persRef ref="cocke-william">M<hi
+									rend="superscript">r:</hi> Cocke</persRef> and <persRef
+								ref="wright-robert">M<hi rend="superscript">r:</hi> Wright</persRef>
+							insisted upon its being rejected; and took a vote on the question— They
+							were however not supported by the opinion of any other Member.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-16">
+					<head>16 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>I was this morning at the Senate chamber, within five
+							Minutes after 10. It was a quarter of an hour later, before a Quorum was
+							formed, and we went into the Court. As I was going up to the Capitol,
+								<persRef ref="giles-william">M<hi rend="superscript">r:</hi>
+								Giles</persRef> in his Carriage pass’d me, just beyond the <persRef
+								ref="jefferson-thomas">President’s</persRef> house— His Carriage
+							stop’d at <persRef ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph’s</persRef> lodgings, and was before the door when I pass’d
+							it— M<hi rend="superscript">r:</hi> Giles attended in Senate about ten
+							minutes later than me— So that he had been about half an hour at M<hi
+								rend="superscript">r:</hi> Randolph’s lodgings— This reminded me of
+							an incident which occurr’d a few days since, when at some incident of
+							the trial, M<hi rend="superscript">r:</hi> Randolph, Chairman of the
+							Managers, and M<hi rend="superscript">r:</hi> Giles a member of the
+							Court, left their Seats at the same time, went out of Court for a few
+							minutes, and returned nearly together. These incidents concurring with
+							the opinions of Giles against <persRef ref="chase-samuel">Judge
+								Chase</persRef> so long, so openly and so often declared have an
+							appearance of concert in every step of this prosecution, which is not
+							very consistent with my ideas of impartial Justice.— The examination of
+							witnesses on the part of Judge Chase was continued— The last of them was
+								<persRef ref="robertson-david2">David Robertson</persRef>, who took
+							in short hand the greater part of <persRef ref="callender-james"
+								>Callender’s</persRef> trial which he this day read— <pb n="139"
+								type="ms"/>At half past two the Court retired; and at 3. resumed in
+							Legislative business the Orleans Government Bill. Adjourned at about 6.
+							without taking the final Question.— <persRef ref="cocke-william">M<hi
+									rend="superscript">r:</hi> Cocke</persRef> moved a question in
+							Court this day, whether in any case, evidence should be given by any
+							person, of any <hi rend="italic">opinion</hi>— <persRef ref="burr-aaron"
+									>M<hi rend="superscript">r:</hi> Burr</persRef> the President
+							declared that he could not <hi rend="italic">put</hi> the question, it
+							being too <hi rend="italic">abstract</hi>— But that it might be put if
+							in any specific instance a witness’s testimony should be objected to on
+							that ground— It was indeed in substance the question yesterday decided.—
+							I spent the Evening, with the <persRef key="adams-louisa-catherine"
+								>Ladies</persRef> of our family at <persRef ref="mason-john">General
+								Mason’s</persRef> in Georgetown— The company was not numerous.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-17">
+					<head>17 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>I was again obliged to confine myself at home the whole
+							day— The attendance at the Senate taking up so constantly my time during
+							the week, that I have not enough left in the Evenings and morning’s for
+							my indispensible writing at home— I employed the whole of this day in
+							reading and writing of business.— <persRef ref="u">Miss
+								Wheeler</persRef>, with <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> White</persRef> and <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Marin</persRef> were here this
+							morning, and an English Gentleman by the name of <persRef ref="u"
+								>Usher</persRef> dined here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-18">
+					<head>18 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>I arrived at the Capitol at a quarter past ten this
+							morning, and found the Court already assembled— They sat untill almost
+							three. a number of witnesses on the part of <persRef ref="chase-samuel"
+								>Judge Chase</persRef> were examined, going to the defence of the
+							Articles from the second to the eighth and last inclusive— The Judge
+							himself, and <persRef ref="randolph-john">M<hi rend="superscript"
+									>r:</hi> Randolph</persRef> the chairman of the managers
+							appeared to be much indisposed— On Account of M<hi rend="superscript"
+								>r:</hi> Randolph’s illness, <persRef ref="nicholson-joseph">M<hi
+									rend="superscript">r:</hi> Nicholson</persRef> moved the Court
+							to adjourn at about 2 o’clock— But M<hi rend="superscript">r:</hi>
+							Randolph himself desiring the trial might proceed, the adjournment was
+							refused— <persRef ref="cocke-william">M<hi rend="superscript">r:</hi>
+								Cocke</persRef> made another motion this day which the <persRef
+								ref="burr-aaron">President</persRef> declined to put— It went in
+							substance to pass Judgment on the 5<hi rend="superscript">th:</hi> and
+								6<hi rend="superscript">th:</hi> Articles at this Stage— After the
+							usual interval the Senate proceeded to Legislative business, and pass’d
+							the Orleans Government Bill— A Bill from the House appropriating $5000
+							to pay the witnesses on the part of the United States, and other
+							expences of the Impeachment was twice read, and committed— Some other
+							bills were also committed— Senate adjourned after 6 in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-19">
+					<head>19 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>I was just in Season this morning at the Senate— The
+							examination of the witnesses on the part of <persRef ref="chase-samuel"
+								>Judge Chase</persRef> was concluded— Several of the preceding
+							witnesses on both sides were re-examined, and one new witness on the
+							part of the Managers was produced— <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> Randolph</persRef> then moved the
+							Court to adjourn untill to-morrow, to allow the managers time to digest
+							the mass of testimony and prepare to comment upon it; which was
+							acquiesced in, though not desired by the Judge’s Counsel— It was agreed
+							that the Argument should commence with the Managers; then taken up by
+							the Counsel for the Judge in his defence, and finally closed by the
+							Managers— Judge Chase in a written paper, read by <persRef
+								ref="harper-robert-goodloe">M<hi rend="superscript">r:</hi>
+								Harper</persRef>, requested permission, for the future to be absent
+							from the Court, as he is now labouring under a severe attack of the Gout
+							which has been several days coming on— The <persRef ref="burr-aaron"
+								>President</persRef> informed him that his personal attendance was
+							entirely at his own option, and could not be compelled by the Court—
+								M<hi rend="superscript">r:</hi> Randolph stated that the Managers
+							expected one very material witness, who would probably be here to-morrow
+							morning; but if not they would go on without him— Soon after 1 O’Clock
+							the Court retired— Senate immediately took up the <hi
+								rend="strikethrough">George-town Charter.</hi> Clearance Bill; and
+							after debating and amending various sections, it pass’d to the 3<hi
+								rend="superscript">d:</hi> reading, at about 5 o’clock— Some other
+							business of form was transacted before adjournment.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-20">
+					<head>20 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-20"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="140" type="ms"/>
+						<p><date>20. </date>I was obliged this morning by the
+							rain to ride to the Capitol, and went with <persRef
+								ref="johnson-catherine">M<hi rend="superscript">rs</hi>
+								Johnson</persRef>, <persRef key="adams-louisa-catherine">my
+								wife</persRef>, her Sister <persRef ref="pope-eliza"
+							>Eliza</persRef>, and <persRef ref="hellen-walter">M<hi
+									rend="superscript">r:</hi> Hellen</persRef>— I was in Senate
+							before a Quorum formed— It was half past 10 when we went into Court— One
+							additional witness arrived since yesterday was examined on the part of
+							the Managers— Many of the other witnesses desiring to be discharged, it
+							was proposed to the parties, that <hi rend="italic">all</hi> the
+							witnesses should be released from further attendance— This was consented
+							to by the <persRef ref="chase-samuel">Judge’s</persRef> Counsel, and
+							though at first refused by the Managers, who said they would abide by
+							the order of the Court on the subject, was finally agreed to on their
+							own proposal, after a decision of the Court not to discharge them
+							without their consent— The argument upon the Evidence was opened on the
+							part of the Managers by <persRef ref="early-peter">M<hi
+									rend="superscript">r:</hi> Peter Early</persRef>, who in a
+							speech of about an hour and a half travelled over the whole ground of
+							the Articles. It was chiefly declamatory, though in some parts
+							argumentative— He took up most of the points made by <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph’s</persRef> opening previous to the examination of the
+							witnesses, and made very little addition of new matter; nor did he cite,
+							or refer to any authorities— He was followed by <persRef
+								ref="campbell-george">M<hi rend="superscript">r:</hi> G. W.
+								Campbell</persRef>, who after an exordium touching lightly on the
+							nature of Impeachments under our Constitution spoke about an hour and a
+							half to the first Article— He then observed that he found himself
+							indisposed, and requested a short interval of repose— The Court
+							adjourned for half an hour— On returning, M<hi rend="superscript"
+								>r:</hi> Campbell stated that he was unable then to proceed, and
+							none of the other managers being prepared they desired to be indulged
+							with time untill the morning— This was allowed, and the Senate returned
+							to their Legislative business— Several bills were pass’d at various
+							stages, and among the rest I obtained that the George-town Charter-Bill
+							should pass to the third reading— The Resolution for printing the
+							Impeachment Journals, was also at length taken up and pass’d; though by
+							a small majority—without discussion. Adjourned between 5 and 6. O’Clock—
+							There was a company of ladies and gentlemen to pass the Evening at M<hi
+								rend="superscript">r:</hi> Hellen’s— Cards—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-21">
+					<head>21 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Arriving at the Capitol at 1/2 past ten I found the
+							Court of Impeachment just opened; and <persRef ref="campbell-george"
+									>M<hi rend="superscript">r:</hi> G. W. Campbell</persRef>,
+							recommencing his argument which took him about an hour.— He cited
+							yesterday and this day various authorities. After him, <persRef
+								ref="clark-christopher">M<hi rend="superscript">r:</hi>
+								Clark</persRef> made a very few observations on the 5<hi
+								rend="superscript">th:</hi> and 6<hi rend="superscript">th:</hi>
+							Articles, which were peculiarly left to the Virginian Managers, but
+							which are so faintly supported that they seem to be abandoned by the
+							Prosecutors themselves— Here the Managers finished; reserving to
+							themselves the reply, when the defence shall be concluded. <persRef
+								ref="hopkinson-joseph">M<hi rend="superscript">r:</hi>
+								Hopkinson</persRef> then opened the defence; and in a speech of
+							about 3 hours and a half, directed to the first Article did the fullest,
+							and most satisfactory Justice to his Cause— The <persRef
+								ref="chase-samuel">Judge’s</persRef> Counsel divide the several
+							Articles, between them; and <persRef ref="key-philip">M<hi
+									rend="superscript">r:</hi> Key</persRef> is to speak to the
+							second, third, and fourth Articles— But he being much indisposed was
+							allowed the same indulgence as M<hi rend="superscript">r:</hi> Campbell
+							yesterday— The Court retired, between 3 and 4 o’clock; and the Senate
+							immediately insisted upon adjourning; though I pleaded hard for the
+							third reading of the George-town Charter Bill— This precipitation of
+							adjournment had probably some cause unknown to me— <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi>
+								Randolph</persRef> the chairman of the Managers has not made his
+							appearance in Court yesterday nor this day.— I pass’d the Evening at
+							home, writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-22">
+					<head>22 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>The hour to which the Senate now adjourns is 10. But it
+							is generally half an hour later before the Court assembles. This day,
+								<persRef ref="key-philip">M<hi rend="superscript">r:</hi>
+								Key</persRef> spoke on the part of <persRef ref="chase-samuel">Judge
+								Chase</persRef>, to the second, third, and fourth Articles of the
+							Impeachment. He was about three hours and a half; and finished about 2
+							o’clock— After an adjournment of half an hour, <persRef
+								ref="lee-charles2">M<hi rend="superscript">r:</hi> Charles
+								Lee</persRef>, formerly the Attorney General of the United States,
+							spoke for about two hours to the fifth and sixth Articles.— At 1/2 past
+							4. the Senate returned to Legislative business, and sat about an hour
+							longer, during which they pass’d the clearance Bill, at the third
+							reading— It was dark in the Evening when I got home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-23">
+					<head>23 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-23"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="141" type="ms"/>
+						<p><date>23. </date>This morning at the opening of
+							the Court, <persRef ref="rodney-caesar">M<hi rend="superscript">r:</hi>
+								Rodney</persRef> on the part of the Managers read several
+							authorities, upon which he stated they would rely in closing the Cause,
+							and which he therefore read for <persRef ref="chase-samuel">Judge
+								Chase’s</persRef> Counsel to consider— And among the rest, he cited
+							the Case of <persRef ref="addison-alexander">Judge Addison’s</persRef>
+							impeachment and removal in Pennsylvania. <persRef ref="martin-luther"
+									>M<hi rend="superscript">r:</hi> Luther Martin</persRef> then
+							commenced an Argument for Judge Chase; taking up first the question as
+							to the powers of Impeachment and their limitation under our
+							Constitution; and next the Articles in their order— To the three first
+							Articles he spoke untill half past two o’clock; and after an interval of
+							half an hour—for an hour and a half more upon the 4<hi
+								rend="superscript">th:</hi> Article— It was half past four O’Clock;
+							when after apologizing for the length of his argument, which he excused
+							from the great importance of the Cause to his Client and his Country, he
+							said he was very much exhausted having taken nothing this day, and
+							requested to be indulged untill Monday to proceed— The Court accordingly
+							retired, and the Senate immediately adjourned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-24">
+					<head>24 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>I was engaged from immediately after breakfast this
+							morning, untill near 4 O’Clock in the afternoon, in drawing up a Report
+							on the Articles of War, which I prepared to be in readiness for the
+							Committee to-morrow morning— The Bill has been a month in the hands of
+							the Committee, but is so long, and the time of the members has been so
+							constantly engrossed by other subjects, that they have scarcely had any
+							opportunity to consult together on the subject— <persRef
+								ref="stoddert-benjamin">M<hi rend="superscript">r:</hi>
+								Stoddert</persRef>, <persRef ref="lewis-joseph3">M<hi
+									rend="superscript">r:</hi> Lewis</persRef> the member of
+							Congress, <persRef ref="harper-robert-goodloe">M<hi rend="superscript"
+									>r:</hi> Harper</persRef> and <persRef ref="hopkinson-joseph"
+									>M<hi rend="superscript">r:</hi> Hopkinson</persRef> dined at
+								<persRef ref="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen’s</persRef>— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Marin</persRef> was here in the Evening— Mess<hi rend="superscript"
+								>rs:</hi> Harper &amp; Hopkinson appear much dissatisfied with
+								<persRef ref="martin-luther">M<hi rend="superscript">r:</hi>
+								Martin</persRef>, for taking up so much time in his Argument.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-25">
+					<head>25 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>At the opening of the Court this morning, <persRef
+								ref="martin-luther">M<hi rend="superscript">r:</hi> Martin</persRef>
+							recommenced his argument, on the 5<hi rend="superscript">th:</hi> and
+								6<hi rend="superscript">th:</hi> Articles, and finished precisely at
+							12. O’Clock— After an interval of ten minutes, <persRef
+								ref="harper-robert-goodloe">M<hi rend="superscript">r:</hi>
+								Harper</persRef> as closing Counsel for <persRef ref="chase-samuel"
+								>judge Chase</persRef> began. He travell’d over the whole ground
+							again; leaving untouch’d, only the 5<hi rend="superscript">th:</hi> and
+								6<hi rend="superscript">th:</hi> Articles. At 1/2 past 3. the Court
+							retired for half an hour— On returning to the Hall— The Managers
+							proposed to have a witness sworn, who was not here at the time when the
+							others were examined— This was <persRef ref="holmes-hugh">M<hi
+									rend="superscript">r:</hi> Hugh Holmes</persRef>, late Speaker
+							of the Virginia house of delegates. The object of his testimony was to
+							corroborate that of <persRef ref="heath-john2">John Heath</persRef>—
+								M<hi rend="superscript">r:</hi> Chase, objected to the admission of
+							this testimony at this time; when they were just closing their argument;
+							when all the other witnesses were dismiss’d, and when the Judge’s
+							Counsel who treated the part of the Articles to which this testimony
+							belonged had finished.— They added that M<hi rend="superscript">r:</hi>
+							Holmes had been here these three days, and complained at the Managers
+							producing him so late— To this <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> Randolph</persRef> replied that they
+							had forborne to introduce him, only to avoid interrupting M<hi
+								rend="superscript">r:</hi> Chase’s Counsel in their Argument; and he
+							hoped they would have full liberty to comment upon the testimony he
+							might give— He added that the Managers after all laid very little stress
+							on M<hi rend="superscript">r:</hi> Heath’s evidence “for, thank God, the
+							issue of the Cause did not depend on the testimony of any
+							witness”—meaning, as I understood, of any <hi rend="italic">one</hi>
+							witness. <persRef ref="nicholson-joseph">M<hi rend="superscript">r:</hi>
+								Nicholson</persRef>, with a manner of defiance, and of arrogance,
+							which is peculiar to him, said the Managers did not ask as a favour,
+							they demanded as a right the examination of this witness.— The question
+							was taken by yeas and nays—and the result was 21 yeas; among which was
+							my votes and 11. nays— The witness was examined, and proved that the
+							Story told by Heath was impossible; so that instead of confirming, he
+							gave the finishing stroke to its discredit.— M<hi rend="superscript"
+								>r:</hi> Harper continued his argument untill about 7 in the
+							Evening, and then closed the Argument of the Defence. <pb n="142"
+								type="ms"/>As soon as M<hi rend="superscript">r:</hi> Harper had
+							finished, the Court, and immediately after the Senate, adjourned— Some
+							of my friends and among the rest <persRef ref="bayard-james">M<hi
+									rend="superscript">r:</hi> Bayard</persRef> censured my vote for
+							admitting the witness, as contrary to the <hi rend="italic">rules of
+								Evidence</hi>— I thought it only a departure from the mere <hi
+								rend="italic">order</hi> of evidence, in point of time; and thus not
+							at variance with any rule— I supposed it admissible or not at the
+							discretion of the Court, on the circumstances of the case— It was
+							testimony merely to the <hi rend="italic">credit</hi> of another
+							witness; rendered necessary or proper, by facts which have arisen in the
+								<hi rend="italic">course</hi> of the trial— Testimony, the use for
+							which could not have been foreseen previous to the trial; and which the
+							party producing it were therefore excusable for not having when the
+							others were examined— On such grounds I cannot doubt the right or the
+							propriety of examining a witness out of the regular progressive order,
+							without violating any <hi rend="italic">rule</hi> of Evidence.— I came
+							home late, and much fatigued.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-26">
+					<head>26 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>On the meeting of the Court this morning, <persRef
+								ref="nicholson-joseph">M<hi rend="superscript">r:</hi>
+								Nicholson</persRef>, began the argument on the part of the managers,
+							and in a speech of two hours and a half in length, discussed the
+							question as to the extent of the impeaching power under the Constitution
+							and <hi rend="strikethrough">the</hi> replied to the <persRef
+								ref="chase-samuel">Judge’s</persRef> Counsel, on the first Article—
+							He was followed by <persRef ref="rodney-caesar">M<hi rend="superscript"
+									>r:</hi> Rodney</persRef>; who with an interval of half an hour
+							between 3 and 4. o’clock, spoke untill near 7 in the Evening, on the
+							preliminary question and the first four Articles— Omitting the 5<hi
+								rend="superscript">th:</hi> and 6<hi rend="superscript">th:</hi> he
+							began upon the 7<hi rend="superscript">th:</hi> but soon declared
+							himself so much exhausted that he could proceed no further. He therefore
+							requested the Court to indulge him untill to-morrow morning, to finish—
+								M<hi rend="superscript">r:</hi> Nicholson promised that he should
+							not take more than an hour, and said that from the habitual
+							indisposition of their associate <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> Randolph</persRef>, who is to close
+							for the Managers, it would be a great favour if the Court would meet
+							to-morrow at 12. o’clock instead of 10— That the argument would
+							certainly be concluded to-morrow. The Court adjourned, but determined to
+							meet at the usual hour, so that M<hi rend="superscript">r:</hi> Rodney
+							might finish, and then, if M<hi rend="superscript">r:</hi> Randolph
+							wished an interval of one or two hours it would be allowed— M<hi
+								rend="superscript">r:</hi> Rodney’s argument was in elegant
+							language, and not without force of argument— Immediately after returning
+							home I went with the <persRef key="adams-louisa-catherine"
+								>Ladies</persRef> to <persRef ref="merry-anthony">M<hi
+									rend="superscript">r:</hi> Merry’s</persRef>, where there was a
+							Ball and supper— I played a game at chess with <persRef
+								ref="tucker-thomas">D<hi rend="superscript">r:</hi>
+							Tucker</persRef>, and after supper danced with <persRef
+								ref="thornton-anna">M<hi rend="superscript">rs:</hi>
+								Thornton</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-27">
+					<head>27 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="rodney-caesar">M<hi rend="superscript"
+									>r:</hi> Rodney</persRef> did not employ the full hour this
+							morning for which his brother manager <persRef ref="nicholson-joseph"
+								>Nicholson</persRef>, last Evening stipulated— He spoke to the 7<hi
+								rend="superscript">th:</hi> and 8<hi rend="superscript">th:</hi>
+							Articles, but much more feebly than yesterday to the former Articles—
+							After he finished M<hi rend="superscript">r:</hi> Nicholson was again
+							requesting, an adjournment of two hours for <persRef ref="randolph-john"
+									>M<hi rend="superscript">r:</hi> Randolph</persRef> to come in
+							and prepare himself, when that Manager made his appearance, and asked
+							only for an interval of half an hour which was granted him— On the
+							re-opening of the Court he began a speech of about two hours and a half,
+							with as little relation to the subject-matter, as possible.— Without
+							order, connection or argument; consisting altogether of the most
+							hacknied common-places of popular declamation, mingled up with
+							panegyrics and invectives upon persons, with a few well express’d ideas,
+							a few striking figures, much distortion of face, and contortion of body,
+							tears, groans and sobs, with occasional pauses for recollection—and
+							continual complaints of having lost his notes— He finished about half
+							past two— <persRef ref="harper-robert-goodloe">M<hi rend="superscript"
+									>r:</hi> Harper</persRef> then made a very few observations on
+							one of the authorities he had produced, to which he replied with some
+							petulance— <persRef ref="jackson-james2">General Jackson</persRef>
+							immediately moved that on Friday 1. March at noon the Court would
+							proceed to give judgment in the case, which was unanimously agreed to.—
+							The principal subject of discussion upon legislative business was a Bill
+							for giving to <persRef ref="burr-aaron">M<hi rend="superscript">r:</hi>
+								Burr</persRef> the privilege of franking; which pass’d at the second
+							reading.— He gave us notice that he should be absent to-morrow; from an
+							indisposition which he felt coming upon him; but probably to be absent
+							at the passage of the Bill respecting himself.— A Bill for giving a new
+							Government to Louisiana was also debated at the second reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-28">
+					<head>28 February 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Dueling</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="143" type="ms"/>
+						<p><date>28. </date>The <persRef ref="burr-aaron"
+								>Vice-President</persRef> being absent, <persRef
+								ref="anderson-joseph">M<hi rend="superscript">r:</hi>
+								Anderson</persRef> was chosen President pro Tem.— The bill to allow
+								M<hi rend="superscript">r:</hi> Burr the privilege of franking
+							during life, pass’d after a long and extraordinary debate, in which
+								<persRef ref="wright-robert">M<hi rend="superscript">r:</hi>
+								Wright</persRef> said he could justify duelling by the example of
+								<persRef ref="david">David</persRef> and <persRef ref="goliath"
+								>Goliah</persRef> in the Scriptures; and that this bill was now
+							opposed only because <hi rend="italic">our</hi> David, had slain the
+							Goliah of federalism— The question upon the passage of the bill was
+							taken by yeas and nays.— The Bill declaring the Assent of Congress to an
+							Act of North-Carolina, respecting foreign seamen, in the Port of
+							Wilmington, pass’d to a third reading by the President’s casting vote,
+							in spite of all the opposition I could give it— The Committee to whom it
+							was recommitted, the 22<hi rend="superscript">d:</hi> of last Month,
+							reported it again without Amendment, not being able to fix upon the
+							principles of a general bill, and as it carries with it all the weight
+							of a State Legislature, and the <persRef
+								ref="franklin-jesse;stone-david">North-Carolina Senators</persRef>,
+							warmly urge its passage, notwithstanding its obvious impropriety it has
+							reached its last Stage in Senate— <persRef ref="bayard-james">M<hi
+									rend="superscript">r:</hi> Bayard</persRef> moved a Resolution
+							settling the manner in which the question on the Articles of Impeachment
+							shall be put— The form he proposes is that upon each Article the
+							Vice-President should call upon each member, by name, and on the 1<hi
+								rend="superscript">st:</hi> and 4<hi rend="superscript">th:</hi>
+							Articles, which contain sundry specifications, add “how say you; is
+								<persRef ref="chase-samuel">Samuel Chase</persRef>, the Respondent
+							guilty of high-crimes or misdemeanors, as charged in the Article just
+							read.”—and on the other six Articles, to vary the question so as to say
+							is he guilty “of a high crime or misdemeanor &amp;c.” upon which each
+							Senator is to rise in his place, and answer “Guilty,” or “not Guilty.”—
+								M<hi rend="superscript">r:</hi> Bayard warmly urged, the
+							consideration of his motion this day; but it was postponed untill the
+							morning; M<hi rend="superscript">r:</hi> Wright manifesting a strong
+							predilection for the form of question adopted last Session in the case
+							of <persRef ref="pickering-john2">Judge Pickering</persRef>— Another
+							question connected with the Impeachment, of considerable delicacy, was
+							further postponed to be taken up after the decision to-morrow— A Bill
+							has been sent from the House to provide for the payment of the
+							witnesses, <hi rend="italic">summoned on the part of the Managers</hi>,
+							and appropriating five thousand dollars for the purpose— This bill being
+							now in quasi-Committee at the second reading, M<hi rend="superscript"
+								>r:</hi> Bayard moved an Amendment, whereby the provision of payment
+							would be extended to the witnesses, summoned on the part of Judge Chase,
+							as well as the others— The postponement was agreed to on the apparent
+							difference of aspect, which the question would present, under the
+							alternative of a convicting or an acquitting sentence.— These various
+							subjects kept the Senate in Session from 10. this morning, untill 7. in
+							the Evening, with an interval of half an hour between 3. and 4
+							O’Clock.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-02-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise at 7 in the morning— Reading public
+							papers, and amusing myself with my children, untill 9. Breakfast. walk
+							to the Capitol— Meet in Senate at 10. In Court, half an hour later—
+							Sitting in Court untill 3. Retire for half an hour, and with the other
+							members take a cold collation— Return to Court—sit untill 6 or 7 in the
+							Evening— Walk home, which I usually reach much fatigued and exhausted,
+							between 8 and 9.— Pass a couple of hours in conversation; or in reading
+							public papers, and close the Evening at about 11.— As a variation from
+							this course, I have this Month spent several Evenings in company
+							abroad.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

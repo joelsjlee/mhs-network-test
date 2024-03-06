@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v39-1833-03">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="42"
+				mhs:precedingFile="JQADiaries-v39-1833-02-p031.xml"
+				mhs:followingFile="JQADiaries-v39-1833-04-p055.xml" mhs:volume="39">
+				<bibl n="metadata">
+					<date from="1833-03-01" to="1833-03-31"/>
+				</bibl>
+
+				<!--D/JQA/39 March 1833 Cli McCarry  -->
+
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-01">
+					<head>1 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Bank of the United States</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline>Friday 1. March 1833.</dateline>
+						<p><date>1. VII:30. </date>Friday— Before the meeting of the House this
+							morning, I asked <persRef ref="beardsley-samuel">M<hi rend="superscript"
+									>r</hi> Beardsley</persRef>, a member from New-York, to
+							expostulate with his colleague <persRef ref="hoffman-michael"
+								>Hoffman</persRef>, against his avowed purpose to talk out the
+							remainder of the Session to prevent the printing of my Minority Report
+							of the Committee of Manufactures, and to tell him he must allow me time
+							to reply, and the House, time to take the Question— Beardsley spoke to
+							him, and he agreed to take the question by yeas and nays, without saying
+							any thing further on either side— When the Report was called up, I
+							stated this agreement to the House, to which Hoffman assented. <persRef
+								ref="barbour-john">John S. Barbour</persRef> said there was not
+							perhaps in the whole Report a Sentiment with which he concurred; but
+							that he should vote for the printing as a right of the Minority. The
+							question was taken by yeas and nays, and the printing was carried 93 to
+							58. about 50 members not voting. There was a Report from the Majority of
+							the Committee of Ways and Means, favourable to the Bank of the United
+							States, concluding with a Resolution that the public funds, may be
+							safely deposited <pb n="43" type="ms"/>in it—and a Counter-report made
+							by <persRef ref="polk-james">Polk</persRef> for the Minority, with a
+							budget of Documents. Ten thousand copies of both were ordered to be
+							printed— The Question upon the passage of the Revenue collection-bill
+							was taken by yeas and nays 149 to 48. <persRef ref="mcduffie-george"
+								>M’Duffie</persRef> moved an Amendment of the Title—to read—[“]An
+							Act to subvert the Sovereignty of the States of this Union, to establish
+							a consolidated Government, without limitation of powers, and to make the
+							civil subordinate to the Military power” <persRef ref="wayne-james"
+								>Wayne</persRef> moved to lay the amendment on the Table; but
+								<persRef ref="stevenson-andrew">the Speaker</persRef> declared this
+							to be not in order— <persRef ref="speight-jesse">Speight</persRef> moved
+							the previous Question, which was carried 150 to 35, and set aside
+							M’Duffies’s Amendment. The subsequent orders of the day were then
+							postponed to take up <persRef key="clay-henry">M<hi rend="superscript"
+									>r</hi> Clay’s</persRef> Bill for distributing the proceeds of
+							the Public Lands. The House went into Committee of the whole on the
+							State of the Union, Polk in the Chair: the bill was debated captiously
+							by <persRef ref="clay-clement">C. C. Clay</persRef>, <persRef
+								ref="mardis-samuel">Mardis</persRef> and <persRef
+								ref="plummer-franklin">Plummer</persRef> from Alabama and
+							Mississippi. Plummer was especially tedious and provoking— About 11. at
+							Night the Bill was reported to the House and driven to the 3<hi
+								rend="superscript">d</hi> reading by previous Questions. It passed
+							by yeas and nays 96 to 40. Then the Harbour and Light-house bill was for
+							some time considered, laid aside and followed by the general
+							Appropriation Bill. After which a Bill authorising <persRef
+								ref="jackson-andrew">the President</persRef> to appoint a clerk to
+							sign his name to Land Warrants was agreed to. The Bills were reported to
+							the House, which then, sometime after one in the Morning, adjourned. The
+							Session had continued little short of fifteen hours, without a recess.
+							Yesterday and this day there have been large falls of Snow, and severer
+							cold than during any part of the winter— Potowmac frozen over.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-02">
+					<head>2 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-02"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Bank of the United States</subject>
+						<subject>Native Americans</subject>
+						<subject>Nullification</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. VII:30. </date>Saturday.— The first business taken up by the
+							House was the Resolution reported by the Majority of the Committee of
+							Ways and Means that the Public funds may safely continue to be deposited
+							in the Bank of the United States, against which <persRef
+								ref="polk-james">Polk</persRef> of Tennessee made a violent Speech.
+							He was answered by <persRef ref="ingersoll-ralph">Ingersoll</persRef>,
+							and afterwards by <persRef ref="mcduffie-george">M’Duffie</persRef>. The
+							previous Question was moved, and although <persRef ref="wayne-james"
+								>Wayne</persRef> of Georgia pleaded hard to speak was carried, and
+							the Resolution was adopted 110 to 46. Wayne voted against it, upon which
+							I condoled with him. He was mortified to be compelled to give such a
+							vote, and afterwards read to me a Letter that he had written to a friend
+							saying that his vote was not owing to any doubt of the solvency of the
+							Bank, but because the withdrawal of the Public Deposites was a
+							discretionary power given by Law to the <persRef ref="mclane-louis"
+								>Secretary of the Treasury</persRef>, and he would not divide with
+							him the responsibility— Wayne said that was ground which I had taken at
+							the commencement of the Session, which was true—but that was before the
+							investigation referred by the House to the Committee of Ways and Means,
+							and against the appointment of a select Committee. The General
+							Appropriation Bill was taken up and debated till four O’Clock, and then
+							by the previous Question, ordered to be engrossed for a third reading.
+							There was a recess from 4 to 6 O’Clock. I went and dined again with
+								<persRef ref="newton-thomas">Thomas Newton</persRef> at his
+							lodgings. <persRef ref="dorsey-clement">Clement C. Dorsey</persRef> was
+							among the fellow lodgers there. At 6 we returned to the House. The
+							Appropriation Bills were passed, and sent to the Senate, who had half a
+							Night to consider and pass them— The House went into Committee of the
+							whole on the state of the Union, and hurried through an Indian-Treaty
+							Bill. The Bill to explain the 18<hi rend="superscript">th.</hi> Section
+							of the Act of 14 July 1832— The Hard-ware Bill, upon which at my motion
+							was engrafted as an additional Section, a Bill from the Senate,
+							restoring duties upon Brass, copper, and tobacco in leaves, which being
+							a Bill to raise revenue could not constitutionally originate in the
+							Senate and the Light house Bill, upon which there was much wrangling.
+							The House sat till five O’Clock Sunday morning. <persRef
+								ref="jackson-andrew">The President</persRef> retained the Land-bill
+							without signing it. <persRef ref="grundy-felix">Felix Grundy</persRef>
+							stopped the Light-House Bill in the Senate, by objecting to its being
+							read the second time on the same day. <persRef ref="howard-benjamin"
+								>Howard</persRef> of Baltimore moved the vote of thanks to <persRef
+								ref="stevenson-andrew">Stevenson</persRef>, which was entered as
+							passed unanimously, though when he came to the word impartiality, there
+							was a burst of laughter in the House. About two O’Clock in the Morning,
+								<persRef ref="lyon-chittenden">Chittenden Lyon</persRef> of
+							Kentucky, drunk as a Lord, presented Resolutions of the Legislature of
+							Kentucky, which he said he had just <pb n="44" type="ms"/>received, and
+							which he moved to be laid on the Table and printed— On being asked what
+							was the subject of the Resolutions, he drivelled out “Nullification.”
+							Almost every quarter of an hour after Midnight, business was suspended
+							for want of a Quorum— Shortly before 3. O’Clock, <persRef
+								ref="whittlesey-elisha">Whittlesey</persRef> of Ohio prevailed upon
+							the House to go again into Committee of the whole. There was a call of
+							the House and 116. members answered to their names— Several private
+							Bills passed through the Committee, were reported to the House and
+							passed— About 4. <persRef ref="sevier-ambrose">Sevier</persRef>, the
+							Delegate from Arkansas moved and urged the house to go into Committee of
+							the whole, upon three important territorial Bills, but on taking the
+							question only 90 members answered— Of course 26 had withdrawn, since the
+							call, half an hour before— A Message was received from the Senate, that
+							they had appointed a Committee to wait on the President, and inform him
+							that unless he had further communications to make to Congress, the
+							Houses were ready to adjourn. <persRef ref="white-campbell">Campbell P.
+								White</persRef> of New-York, and Polk of Tennessee were appointed
+							the Committee on the part of the House. They soon returned and announced
+							that the President had no further communications to make. Stevenson, the
+							Speaker, made a silly Speech, in return for the vote of thanks, and
+							adjourned the House without day— The hands of the Clock were pointing,
+							at five, as we passed under them out of the Hall. I took <persRef
+								ref="everett-edward">Edward Everett</persRef> home, and we were in
+							imminent danger of oversetting in the midst of the Pennsylvania Avenue,
+							nearly opposite to <persRef ref="gadsby-john">Gadsby’s</persRef>. We got
+							out of the Carriage—<persRef ref="kirk-john">Kirk</persRef> was asleep,
+							and the horses had stopped. I ordered <persRef ref="u">Ball</persRef> to
+							take the reins; we re-entered the Carriage and got into the Macadamized
+							part of the Avenue— On reaching M<hi rend="superscript">r</hi> Everett’s
+							lodgings, I alighted with him, and thence walked home, with <persRef
+								ref="fahrenheit-daniel">Fahrenheit’s</persRef> Thermometer at 6. the
+							extremest cold of the winter, and the ground covered with snow. The day
+							was dawning and I retired to bed, exhausted and dejected, but with
+							blessings of gratitude to the Supreme disposer of Events, for the
+							merciful dispensations of his Providence, in bringing the affairs of the
+							Country to a condition more favourable to Peace and Union than it has
+							been of late, and though still surrounded with dangers— And also in the
+							disposal of my own destiny for conducting me through the severe and
+							humiliating trial, which I have endured, without absolute and
+							irretrievable ruin— My Career is yet to be closed. It is in its last and
+							lingering Stage— May its remaining afflictions be mitigated— May its
+							last moments be serene— May its transition be to a happier state of
+							existence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-03">
+					<head>3 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-03"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. IX. </date>Sunday.</p>
+						<list>
+							<item>Hassler F. R.</item>
+							<item>Blunt Joseph</item>
+							<item>Briggs George M</item>
+							<item>Allen Heman</item>
+						</list>
+						<p>After three hours of repose, but not of sleep, I rose and at 11. attended
+							public worship, at the Presbyterian Church—where I heard <persRef
+								ref="smith-edward">M<hi rend="superscript">r</hi> Smith’s</persRef>
+							second Discourse from Romans 8.7.—it seemed to me a repetition of the
+							first— <persRef ref="hassler-ferdinand">M<hi rend="superscript">r</hi>
+								Hassler</persRef> was here after the morning Service, and said much
+							about the Survey of the Coast— I was not in a humour to talk, but that
+							is in no wise necessary when M<hi rend="superscript">r </hi>Hassler is
+							allowed to talk without interruption— In the afternoon I attended at
+								S<hi rend="superscript">t. </hi>John’s Church, where <persRef
+								ref="hawley-william">M<hi rend="superscript">r </hi>Hawley</persRef>
+							read part of the Evening prayer, for the Second Sunday in Lent, and gave
+							a very short exposition of 2. Corinthians 6.16. “for ye are the temple
+							of the living God.[”] I received evening visits from <persRef
+								ref="blunt-joseph">Joseph Blunt</persRef>, from <persRef
+								ref="briggs-george">George M. Briggs</persRef>, a member of the late
+							House from Berkshire, Massachusetts, and from <persRef ref="allen-heman"
+								>Heman Allen</persRef> of Vermont. I was disqualified for all proper
+							application even to the duties of the day; which, I believe with more
+							real piety, might have been devoted to the performance of that, which in
+							extreme disorder and confusion was transacted, between Midnight and five
+							this morning. I prefer the example of Sunday 3 March 1805. when both
+							Houses of Congress sat from 9 in the morning, till 10 at Night, to that
+							of this day, the scruples of which are all in the bark.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-04">
+					<head>4 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-04"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Elections, Presidential (1832)</subject>
+						<subject>National Republican Party</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="45" type="ms"/>
+						<p><date>4. VIII. </date>Monday.</p>
+						<list>
+							<item>Sergeant John</item>
+							<item>Haworth William</item>
+							<item>Mitchell Thomas R.</item>
+						</list>
+						<p>My health is wretched, and I know not all my disease. I consulted
+								<persRef ref="huntt-henry">D<hi rend="superscript">r</hi>
+								Huntt</persRef> this morning and he prescribed a blister on my arm.
+							I have now an inflammation coming in the eye— <persRef
+								ref="jackson-andrew">Andrew Jackson</persRef> was this day
+							inaugurated for a second term of four years as President of the United
+							States; and <persRef ref="vanburen-martin">Martin van Buren</persRef>
+							was sworn into Office as Vice-President. <persRef ref="sergeant-john"
+									>M<hi rend="superscript">r</hi> John Sergeant</persRef> called
+							here. He had attended the ceremony at the Capitol. The inaugural Speech
+							was brief, and full of smooth professions. Sergeant himself was the
+							Candidate for Vice-Presidency of the National Republican Opposition—
+								<persRef key="clay-henry">Henry Clay</persRef> was their Candidate
+							for the Presidency— They mustered 49 electoral votes, with the help of
+							Massachusetts federalism. Had M<hi rend="superscript">r</hi> Clay been
+							unshackled with Freemasonry, or manfully renounced it they would in all
+							probability have carried the Election— <persRef ref="haworth-william"
+								>William Haworth</persRef> is an Englishman and an Astrologer. He
+							brought me a Letter of Introduction from <persRef ref="hulme-thomas"
+								>Thomas Hulme</persRef> of Philadelphia. He says he is a firm
+							believer in Providence, but a believer also in the influence of the
+							Stars, and in Magic— He was here about two hours, talking about the
+							Signs of the Zodiac and the Houses of the Horoscope. The stuff that
+							dreams are made of. He said he would come again to-morrow. <persRef
+								ref="mitchel-thomas2">M<hi rend="superscript">r</hi>
+								Mitchell</persRef> of South-Carolina came in while he was here and
+							he went away— Mitchell wants some Evidence that the Manufacturers are
+							pleased with M<hi rend="superscript">r</hi> Clay’s Tariff-Bill, because
+							that would enable him to make it odious in South-Carolina. The President
+							had a crowded Levee after the inauguration, but was so unwell that he
+							was obliged to leave his company and retire.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-05">
+					<head>5 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-05"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Adams Family Finances</subject>
+						<subject>Nullification</subject>
+						<subject>Recreation</subject>
+						<subject>Supreme Court</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. VII.30. </date>Tuesday</p>
+						<list>
+							<item>Stokes Mark</item>
+							<item>Billings W. W.</item>
+							<item>Haworth William</item>
+							<item>Ayres</item>
+							<item><persRef ref="blunt-joseph">Blunt Joseph</persRef></item>
+							<item><persRef ref="dewindt-julia">Julia de Wint</persRef></item>
+							<item><persRef key="frye-nathaniel">Frye Nathaniel j<hi
+										rend="superscript">r</hi></persRef></item>
+							<item><persRef key="frye-carolina">M<hi rend="superscript">rs</hi>
+									Frye</persRef> and <persRef ref="frye-thomas"
+								>Thomas</persRef></item>
+							<item><persRef ref="peters-richard2">Peters— Richard</persRef></item>
+							<item><persRef ref="sergeant-john">Sergeant John</persRef></item>
+							<item><persRef key="smith-william-steuben">Smith William
+								S</persRef></item>
+							<item><persRef key="smith-catherine-johnson">M<hi rend="superscript"
+										>rs.</hi> William S. Smith</persRef></item>
+							<item><persRef ref="smith-john">Smith John A.</persRef></item>
+						</list>
+						<p>The inflammation in my left eye is increasing. <persRef ref="stokes-mark"
+								>Stokes</persRef> was here, and I gave him a copy of <persRef
+								ref="stokes-john">his Uncle’s</persRef> Will, which <persRef
+								ref="shepard-william">M<hi rend="superscript">r</hi> William B.
+								Shepherd</persRef> had procured for him and given last week to me.
+							He wanted his own papers which I have mislaid, but am to look up.
+								<persRef ref="billings-w">Billings</persRef> the tax-collector
+							brought me two heavy tax-bills, one for myself, and one for my Son
+								<persRef key="adams-john2">John</persRef>— <persRef
+								ref="haworth-william">Haworth</persRef> the Astrologer was here
+							again and shewed me his Manuscript-Books of horoscopes— His calculations
+							of Eclipses, Conjunctions and oppositions of Planets, and ascendant
+							signs of the Zodiac. He says there will be trouble in South-Carolina,
+							because there will be a total Eclipse of the Sun there in 1834. An
+							argument as rational as nullification— I wished to know what his <hi
+								rend="italic">theory</hi> of Astrology was; but I find it will take
+							too much time to study it— I wanted to compare it with Phrenology.
+								<persRef ref="ayres-john">M<hi rend="superscript">r
+								</hi>Ayres</persRef> was also here. Very anxious to know my opinion
+							about <persRef ref="thompson-william3">M<hi rend="superscript">r</hi>
+								Thompson</persRef> of Nashville’s system for teaching the blind to
+							read; and about his diplomatic cypher. I called at the Bank, and walked
+							to the Capitol. In the Supreme Court of the United States, I found
+								<persRef ref="johnson-chapman">Chapman Johnson</persRef> of Virginia
+							arguing a Chancery suit of <persRef ref="u">King</persRef> vs <persRef
+								ref="u">White</persRef>; upon fraudulent Conveyance, Maintenance,
+							and Champarty.— We had a family party and others to dine with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-06">
+					<head>6 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-06"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>National Republican Party</subject>
+						<subject>Anti-Masonic Party</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. VIII. </date>Wednesday.</p>
+						<list>
+							<item>Everett Edward</item>
+						</list>
+						<p>The inflammation of my eye was disqualifying, and disheartening— <persRef
+								ref="everett-edward">Edward Everett</persRef> was here; going
+							to-morrow for home— He spoke to me of a purpose concerning which
+								<persRef ref="everett-alexander">his brother</persRef> had written
+							to him—to unite the National Republicans and the Anti-Masons of
+							Massachusetts upon me as a Candidate for the Office of Governor the next
+							year, <persRef ref="lincoln-levi2">M<hi rend="superscript">r</hi>
+								Lincoln</persRef> having declined. <persRef ref="hallett-benjamin"
+								>Hallett</persRef> has written to me on the same subject— I told
+							Everett that I should much prefer to come again to the House of
+							Representatives— That I was unwilling to involve myself in the
+							Tracasseries of State Politics; and that I believed the Masonic National
+							Republicans too much exasperated against me for my Anti-masonry to unite
+							with the Anti-masons in supporting me— That if it could <pb n="46"
+								type="ms"/>effect the union of those parties, I might consent to
+							serve for a single year, though I had firmly resolved that I never would
+							accept that Office, having been all my life, with the exception of a
+							single year in the Senate of Massachusetts, in the Public Service of the
+							whole Union. The minority Report of the Committee of Manufactures, not
+							being published, I wrote a Note to <persRef ref="green-duff">Duff
+								Green</persRef>, the Public Printer, enquiring if he had put it to
+							the Press.— He promised me last Friday that he would print it
+							immediately; and that he would also publish it in his Extra Telegraph— I
+							received this Evening an answer from his foreman, <persRef
+								ref="moore-ww">W. W. Moore</persRef> to my Note, informing me that
+							it has not been put to the Press.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-07">
+					<head>7 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+						<subject>Supreme Court</subject>
+						<subject>Nullification</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. VII. </date>Thursday.— I had a small blister last Night applied
+							to my arm just below the shoulder, and this day the inflammation of my
+							eye has begun to subside— But I am still in a great measure unable to
+							resume my usual occupations. My Diary, and especially my scriptural
+							Notes run into arrears— Finding <persRef ref="green-duff">M<hi
+									rend="superscript">r</hi> Duff Green</persRef>, the Printer for
+							Congress in no hurry to print the Report of the Minority of the
+							Committee of Manufactures, I wrote him a note asking the Manuscript for
+							a few days, and he sent it to me. I took it to the Office of the
+							National Intelligencer, and left it with <persRef ref="gales-joseph"
+									>M<hi rend="superscript">r</hi> Gales</persRef>, who promised me
+							that it should be published entire in the Intelligencer of next Tuesday.
+							I then walked to the Capitol, but the Supreme Court had adjourned.
+								<persRef ref="johnson-chapman">M<hi rend="superscript">r</hi>
+								Chapman Johnson</persRef> had closed his argument, and was to be
+							answered by <persRef ref="jones-walter">Walter Jones</persRef>, and
+							afterwards by <persRef ref="webster-daniel">M<hi rend="superscript"
+									>r</hi> Webster</persRef>— <persRef ref="calhoun-john">M<hi
+									rend="superscript">r</hi> Calhoun’s</persRef> Speech of 15.
+							February upon the enforcement bill, is published in the Telegraph— It
+							contains his system of nullification. His learning is shallow— His mind,
+							argumentative, and his assumption of the principle, destitute of
+							discernment. His insanity begins with his principles; from which his
+							deductions are ingeniously drawn— I read this Evening the first Canto of
+								<persRef ref="rose-william">Rose’s</persRef> Translation of <persRef
+								ref="ariosto-ludovico">Ariosto’s</persRef> Orlando-furioso.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-08">
+					<head>8 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-08"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+						<subject>Supreme Court</subject>
+						<subject>Embargo</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Friday. VI. Recovering from the inflammation in my eye,
+							my endeavours are to return to my routine of occupations, and
+							particularly to my Diary and morning writing— Also to the assortment of
+							my papers, which absorbed great part of this morning, and was yet left
+							unfinished. I am especially desirous of reviewing the Code of Levitical
+							Law; and of examining it as a system of Legislation— This task has long
+							been in my contemplation; but I have never yet settled the principles
+							upon which it should be executed— The History—the Legislation and the
+							Government of the Israelites are so blended together that it is no easy
+							matter to segregate them, as must be done for a clear analysis. The
+							Religion, Laws and Government, were indissolubly connected together— The
+							different Offices of <persRef ref="moses">Moses</persRef>, <persRef
+								ref="joshua">Joshua</persRef>, the Levites and Priests, the Judges,
+							Seers, Prophets and Kings— The subordinate administrative Offices— The
+							force of the Scriptures, of the Psalms, Proverbs, Prophecies, and
+							numberless other considerations— How are they to be methodized? I am to
+							reflect upon this Subject further— I walked to the Capitol, with a hope
+							to hear <persRef ref="webster-daniel">M<hi rend="superscript">r
+								</hi>Webster</persRef>, but was disappointed— The Supreme Court had
+							adjourned. <persRef ref="ellis-william2">W. Ellis</persRef> of Dedham
+							has sent me a fragment of an old pamphlet published in January or
+							February 1809. during the Embargo— A defence of <persRef
+								ref="jefferson-thomas">M<hi rend="superscript">r</hi>
+								Jefferson’s</persRef> administration— He thinks it was written by
+								<persRef ref="giles-william">W. B. Giles</persRef>, but is
+							mistaken.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-09">
+					<head>9 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-09"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+						<subject>Supreme Court</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. V:30. </date>Saturday.</p>
+						<list>
+							<item>Macomb Alexander</item>
+							<item>Blunt Joseph</item>
+						</list>
+						<p>Assorting still my papers. Wrote an answer to a Letter some days since
+							received from <persRef ref="hallett-benjamin">Benjamin F.
+								Hallett</persRef>, Editor of the Boston Daily Advocate.— The weather
+							is very fine, and the Snow which had fallen is gradually disappearing— I
+							walked to the Capitol, where in the Supreme Court I found <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef> and
+								<persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster</persRef> arguing the two sides of a writ of Error, from a
+							Court in Louisiana— Dry as dust— And the eloquence of the Champions
+							could <pb n="47" type="ms"/>not make it otherwise— I spoke to M<hi
+								rend="superscript">r</hi> Webster and told him I wished to have some
+							conversation with him, before he leaves the city—he promised to call
+							upon me— In the evening I had visits from <persRef
+								ref="macomb-alexander">General Macomb</persRef>, who told me that he
+							had given a furlough for <persRef ref="buchanan-robert">Robert
+								Buchanan</persRef>, for three Months, because he did not like long
+							leaves of absence; but that he would extend it when Robert should be
+							here. <persRef ref="blunt-joseph">Blunt</persRef> is going to-morrow for
+							New-York— He asked me for a Chapter, for the next Volume of his American
+							Annual Register; but it is impossible for me to furnish one. I received
+							from the National Intelligencer Office the proof sheets of the Minority
+							Manufacture Report, and was employed all the Evening revising it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-10">
+					<head>10 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-10"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. VI:30. </date>Sunday.</p>
+						<list>
+							<item>Brent Daniel</item>
+						</list>
+						<p>I heard <persRef ref="smith-edward">M<hi rend="superscript">r</hi>
+								Smith’s</persRef> third, and I suppose last Discourse, of the Series
+							upon Romans 8.7. “Because the carnal mind, is enmity against God: for it
+							is not subject to the Law of God, neither indeed can be”— He made a very
+							solemn appeal to Sinners, of whom he thought there were some among his
+							hearers— After Church I had a visit from <persRef ref="brent-daniel"
+									>M<hi rend="superscript">r</hi> Daniel Brent</persRef>— And I
+							returned the visits of <persRef ref="marshall-john">Chief Justice
+								Marshall</persRef> and <persRef ref="story-joseph">Judge
+								Story</persRef>. <persRef ref="thompson-smith">Judge
+								Thompson</persRef> was also there— They engaged me in conversation,
+							till it was near 4 O’Clock before I returned home to dinner— I then went
+							to <persRef ref="laurie-james">M<hi rend="superscript">r</hi>
+								Laurie’s</persRef> Church and heard an Address from a <persRef
+								ref="bard-isaac">M<hi rend="superscript">r</hi> Bard</persRef>, in
+							behalf of the Establishment of Sunday Schools in the Valley of the
+							Mississippi for which a Collection was taken up— There was no afternoon
+							Service either at M<hi rend="superscript">r</hi> Smith’s, or at S<hi
+								rend="superscript">t.</hi> John’s Church— M<hi rend="superscript"
+								>r</hi> Bard made some extraordinary Statements, respecting the
+							destitution of Common Schools in the Western States, excepting Ohio. The
+							numbers of People who can neither write nor read in the other Western
+							States and Territories is surprizing. I finished the revisal of the
+							Minority Report, and sent it back to the Office of the National
+							Intelligencer. I read also two Chapters in <persRef ref="gleig-george"
+								>Gleig’s</persRef> History of the Bible. My Sunday reading has been
+							much neglected during the last Winter.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-11">
+					<head>11 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-11"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+						<subject>Nullification</subject>
+						<subject>Recreation</subject>
+						<subject>Supreme Court</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. V. </date>Monday.</p>
+						<list>
+							<item><persRef ref="williamson-william">Williamson
+								William</persRef></item>
+							<item>Rush Richard</item>
+						</list>
+						<p>I am endeavouring to resume my habits of industry, and employed a due
+							portion of this day in writing. First, making an abstract of the Law, as
+							contained in the Book of Deuteronomy— After breakfast, I looked up some
+							of the Letters upon Pensions and other claims, to which I was unable to
+							attend during the Session of Congress. Made abstracts of four of them,
+							upon which I applied for three to the <persRef ref="cass-lewis"
+								>Secretary of War</persRef>, and for one to the <persRef
+								ref="woodbury-levi">Secretary of the Navy</persRef>. They were the
+							cases of <persRef ref="bates-benjamin">Benjamin Bates</persRef>, of
+								<persRef ref="hayden-caleb">Caleb Hayden</persRef>, and of <persRef
+								ref="donnison-william">William Donnison</persRef> for Pensions, and
+							for <persRef ref="u">the widow</persRef> of <persRef
+								ref="banks-lilliston">Liliston Banks</persRef>, for prize-money. The
+							Secretaries promised immediate attention to them. M<hi
+								rend="superscript">r</hi> Cass had a Charleston Mercury, in which
+								<persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay’s</persRef> Tariff-Bill was mentioned as having set aside the
+							nullifying Ordinance, and the opinion is expressed that the Convention
+							would not pass another. It spoke of the enforcing Bill as a mere
+							effusion of Spleen, on the part of the Administration, of which
+							South-Carolina would take no notice. I called at the Office of the
+							National Intelligencer to enquire for the Manuscript of the Minority
+							Report of the Committee of Manufactures, and also whether any copies of
+							the Report were yet struck off. I had sent them back the proof revised
+							last Evening— I afterwards met both <persRef ref="gales-joseph"
+								>Gales</persRef> and <persRef ref="seaton-william">Seaton</persRef>,
+							and Gales promised to send me the Manuscript this Evening, and several
+							copies of the Paper in time to forward them by the mail, but he did not.
+							I met <persRef ref="root-erastus">General Root</persRef> of New-York,
+							just going to the Stage upon his return home. His Son in Law <persRef
+								ref="hobbie-selah">Hobbie</persRef> was with him. I took leave of
+							Root, probably for the last time. I met also <persRef
+								ref="burges-tristam">M<hi rend="superscript">r</hi> Burges</persRef>
+							of Rhode-Island, who told me he was going to-morrow. He had sent me his
+							Speech against M<hi rend="superscript">r</hi> Clay’s Tariff-Bill, and
+							his reply to <persRef ref="daniel-henry">Daniel</persRef>. He said he
+							had been much urged not to publish them, but he would not keep from the
+							Public what he had said and what he thought. It was <persRef
+								ref="calhoun-john">Calhoun’s</persRef> Bill; and its first effect
+							must be to reduce the wages of the labourers in the Manufactures, and to
+							drive them to emigrate to the West— I walked to the Capitol—called at
+							the <persRef ref="clarke-mathew">Clerk’s</persRef> office of the House
+							of Representatives, and enquired for the <pb n="48" type="ms"/>Documents
+							of the Session of Congress before the last— He said he had just received
+							them, and would send me a set. I went into the Supreme Court and found
+								<persRef ref="jones-walter">Walter Jones</persRef>, arguing the
+							cause upon which I had heard <persRef ref="johnson-chapman">Chapman
+								Johnson</persRef> last week on the other side. Jones had not
+							finished when the Court adjourned. I had an evening visit from <persRef
+								ref="rush-richard">M<hi rend="superscript">r</hi> Rush</persRef>,
+							who has come down from York, Pennsylvania, on his private business—
+							Began a Letter to my Son <persRef key="adams-charles2"
+							>Charles</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-12">
+					<head>12 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-12"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+						<subject>Supreme Court</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. V. </date>Tuesday.</p>
+						<list>
+							<item>Hoffman David</item>
+						</list>
+						<p>The analysis of the Law from Sinai, occupied this morning with the Diary
+							of yesterday till Breakfast— The Report of the Minority of the Committee
+							of Manufactures, was published in the National Intelligencer of this
+							day. 17 Columns— Visit from <persRef ref="hoffman-david">M<hi
+									rend="superscript">r</hi> David Hoffman</persRef> of Baltimore.
+							He is going to Europe, and had written to me, asking Letters of
+							introduction— I apologized to him for having delayed to answer him and
+							told him that I had not an acquaintance in Europe left to whom I could
+							give him a Letter. He asked me for a pamphlet copy of the Minority
+							Report, which I promised him. I found a Letter from <persRef
+								ref="bartlett-zacheus">Zaccheus Bartlett</persRef> of Plymouth, with
+							a list of claimants for pensions, concerning whose claims he desired me
+							to obtain information— I took the list to the War Department, and left
+							it with the <persRef ref="cass-lewis">Secretary Cass</persRef>— Then
+							went to the Office of the National Intelligencer, and received from
+								<persRef ref="gales-joseph">M<hi rend="superscript">r</hi>
+								Gales</persRef> the Manuscript of the Report. He sent me forty
+							copies of the Newspaper, containing its part of which I distributed to
+							some of my friends, despatching them by this Evenings mail— This
+							document is an appeal to the People, I fear a vain and fruitless one,
+							against the system of Government promulged in the last annual
+							presidential Message. leading to the dissolution of the Union. I passed
+							an hour at the Supreme Court, where <persRef ref="jones-walter">Walter
+								Jones</persRef> closed and <persRef ref="webster-daniel">M<hi
+									rend="superscript">r</hi> Webster</persRef> began the argument
+							in answer to <persRef ref="johnson-chapman">Chapman
+							Johnson</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-13">
+					<head>13 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-13"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Anti-Masonic Party</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. V. </date>Wednesday.</p>
+						<list>
+							<item>Ayres J. P.</item>
+							<item>Rush Richard</item>
+							<item>Taylor John W</item>
+						</list>
+						<p><persRef ref="ayres-john">M<hi rend="superscript">r</hi> Ayres</persRef>
+							was here this morning, and explained to me the system of <persRef
+								ref="thompson-william3">William Thompson</persRef>, of Nashville
+							Tennessee, for teaching the blind to read Also his two systems of
+							cryptography or cypher writing. They are all ingenious, and there are
+							certificates of the successful use of the mode of teaching the blind. He
+							told me that <persRef ref="hoffman-michael">M<hi rend="superscript"
+									>r</hi> Michael Hoffman</persRef>, had recommended it to the
+								<persRef ref="marcy-william">Governor of New-York</persRef>— The
+							cyphers have the inconvenience of all cyphers that I ever saw—they must
+							consume much time, either to write or read— <persRef ref="rush-richard"
+									>M<hi rend="superscript">r</hi> Rush</persRef> spent an hour
+							with me this morning, and <persRef ref="taylor-john">John W
+								Taylor</persRef> this afternoon.— M<hi rend="superscript">r</hi>
+							Rush spoke of the recent Anti-masonic convention, on the 4<hi
+								rend="superscript">th</hi> at Harrisburg, as having been very
+							respectable, and he is sanguine in expecting the final success of the
+							cause in Pennsylvania. Taylor is going for home to-morrow. He has been
+							twenty years successively a member of Congress but is now left out. His
+							circumstances are straitened, with a family of five Sons and three
+							daughters, and he has thoughts of selling out his small property, and
+							removing to one of the Southwestern States— After returning home, he
+							will go to Albany, and if any thing of interest should occur, will write
+							to me— In my walk round the Capitol, I was overtaken by <persRef
+								ref="marshall-john">Chief Justice Marshall</persRef> and <persRef
+								ref="story-joseph">judge Story</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-14">
+					<head>14 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-14"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. V. </date>Thursday— I finished a Letter, begun three days ago,
+							to my Son <persRef key="adams-charles2">Charles</persRef> and revised
+							the copy of the Minority Report of Manufactures printed in the National
+							Intelligencer of last Tuesday, which I sent with the Manuscript to
+								<persRef ref="green-duff">Duff Green</persRef> the Public Printer. I
+							walked to the Capitol, and heard <persRef ref="wirt-william">M<hi
+									rend="superscript">r</hi> Wirt</persRef> about an hour,
+							concluding the argument in the case of <persRef ref="u">King</persRef>
+							and <persRef ref="u">White</persRef>, the Chancery cause, upon which I
+							had heard <persRef ref="johnson-chapman">M<hi rend="superscript">r</hi>
+								Chapman Johnson</persRef>— I took with me notes of invitation to the
+							judges to dine with me next Saturday, but the Court is to adjourn
+							to-morrow. <persRef ref="story-joseph">Judge Story</persRef> is already
+							gone, and <persRef
+								ref="marshall-john;johnson-william;duval-gabriel;thompson-smith;mclean-john2;baldwin-henry"
+								>all the others</persRef> intend to take their departure on
+							Saturday.— Returning home I stopped at <persRef ref="webster-daniel"
+									>M<hi rend="superscript">r</hi> Webster’s</persRef> lodgings,
+							and invited him to dine with me on Saturday, which he promised— He was
+							despatching copies of his Speech in reply to <persRef ref="calhoun-john"
+								>J. C. Calhoun</persRef>, published in this morning’s Intelligencer.
+								<pb n="49" type="ms"/>I had some conversation with him, and he
+							promised to call and see me to-morrow. <persRef ref="taylor-john">John
+								W. Taylor</persRef> had spoken to me of his conversation, with M<hi
+								rend="superscript">r</hi> Webster, and with judge M’lean, who he
+							says thinks of nothing but the Presidency by day, and dreams of nothing
+							else by night. M<hi rend="superscript">r</hi> Webster was not very
+							communicative to me. I read the third Canto of <persRef
+								ref="rose-william">Rose’s</persRef>
+							<persRef ref="ariosto-ludovico">Ariosto</persRef>. A very dull
+							genealogical catalogue of the family of <persRef ref="deste-ippolito"
+								>Cardinal Hippolito d’Este</persRef> the Poet’s Patron.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-15">
+					<head>15 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-15"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. V. </date>Friday.</p>
+						<list>
+							<item>Gales Joseph jun<hi rend="superscript">r </hi></item>
+							<item>Stokes Mark</item>
+							<item>Whiting John</item>
+							<item>Thompson Smith</item>
+							<item>Webster Daniel</item>
+						</list>
+						<p><persRef ref="gales-joseph">M<hi rend="superscript">r</hi>
+								Gales</persRef> came this morning with the manuscript notes of the
+							Reporter of the Telegraph, of <persRef ref="drayton-william">Col<hi
+									rend="superscript">l</hi> Drayton’s</persRef> Speech in answer
+							to mine on <persRef ref="verplanck-gulian">Verplanck’s</persRef>
+							Tariff-Bill— That, and my reply, he will publish to-morrow. But Drayton
+							has altered so much, in revising the Notes of the Reporter that Gales
+							enquired whether he should not take notice of it by some note,
+							Editorial, or written by me. I supposed some note would be proper, but
+							left it to him to make it. <persRef ref="stokes-mark">M<hi
+									rend="superscript">r</hi> Stokes</persRef> came, and I returned
+							his papers that he had left with me. An old man, named <persRef
+								ref="whiting-john">Whiting</persRef>, now an applicant for a
+							Pension, called to see me. He said the last time he had seen me, was at
+							the Dedham Court of Sessions in 1806. He then lived at Franklin and was
+							born at Medway. He removed to Philadelphia in 1808. and has lived there
+							ever since. <persRef ref="thompson-smith">Judge Thompson</persRef>
+							called, and promised to dine with me to-morrow— I walked round the
+							Capitol before dinner. In the afternoon, <persRef ref="webster-daniel"
+									>M<hi rend="superscript">r</hi> Webster</persRef> came, and I
+							had a long conversation with him upon Public affairs. He thinks it
+							doubtful, whether <persRef ref="livingston-edward">Edward
+								Livingston</persRef> will go to France this year. He himself will
+							visit the State of Ohio next Summer— A boy from the National
+							Intelligencer Office, brought me the proof of my Speech, to be published
+							in the paper to-morrow morning; but I had not time to revise it.
+							Received papers from the War Department.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-16">
+					<head>16 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-16"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. V:30 </date>Saturday.</p>
+						<list>
+							<item><persRef ref="u">Smith</persRef> for <persRef ref="stokes-mark"
+									>Stokes</persRef></item>
+							<item>Van Buren— Martin</item>
+							<item><persRef ref="brent-daniel">Brent Daniel</persRef></item>
+							<item><persRef ref="huntt-henry">Huntt Henry</persRef></item>
+							<item><persRef ref="mclean-john2">M’lean John</persRef></item>
+							<item><persRef ref="macomb-alexander">Macomb Alexander</persRef></item>
+							<item><persRef ref="morris-charles">Morris Charles</persRef></item>
+							<item><persRef ref="peters-richard2">Peters Richard</persRef></item>
+							<item><persRef ref="ringgold-tench">Ringgold Tench</persRef></item>
+							<item>Rush Richard</item>
+							<item><persRef ref="smith-john">Smith John A</persRef></item>
+							<item><persRef ref="thompson-smith">Thompson Smith</persRef></item>
+							<item><persRef ref="webster-daniel">Webster Daniel</persRef></item>
+						</list>
+						<p>My morning scriptural readings and comments occupy more and more of my
+							time. To read the Bible usefully, there should always some annotation
+							made upon the portion of it daily read— My second Speech upon <persRef
+								ref="verplanck-gulian">Verplanck’s</persRef> Tariff-Bill is in the
+							Intelligencer of this Morning— Walking round the Capitol Hill this day
+							before dinner, I met <persRef ref="mitchel-thomas2">Thomas R.
+								Mitchell</persRef> of South Carolina, who told me he was remaining
+							here writing a Circular to his Constituents. I read the fifth Canto of
+								<persRef ref="rose-william">Rose’s</persRef>
+							<persRef ref="ariosto-ludovico">Ariosto</persRef>, containing the story
+							told by <persRef ref="dalinda">Dalinda</persRef>, of her own amour with
+							the <persRef ref="polinesso">Duke of Albany</persRef>—the false charge
+							against <persRef ref="genevra2">Genevra</persRef> daughter to the king
+							of Scotland, which it occasioned, and the duel in which the accuser
+							Polinesso is slain by <persRef ref="rinaldo2">Rinaldo</persRef>,— It is
+							the same Story with that of <persRef ref="shakespeare-william"
+								>Shakespear’s</persRef> Much Ado About Nothing— Rose’s humour is not
+							so pungent as that of <persRef ref="byron-george">Byron</persRef> in his
+							version from <persRef ref="pulci-luigi">Pulci’s</persRef> Morgante
+							Maggiore. The Serio-comic is not so well mingled. We had the company
+							named in the margin to dine with us, and much mirth and good humour.
+								<persRef ref="rush-richard">M<hi rend="superscript">r</hi>
+								Rush</persRef> remained half an hour after the rest had retired. His
+							attempt to sell his House at Auction this day failed. No bid above 6500.
+							I had a morning visit from <persRef ref="vanburen-martin">M<hi
+									rend="superscript">r</hi> Van Buren</persRef> and his Son
+								<persRef ref="vanburen-abraham2">Abraham</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-17">
+					<head>17 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-17"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. IV:30. </date>Sunday— Heard <persRef ref="smith-edward">M<hi
+									rend="superscript">r</hi> Smith</persRef> this Morning at the
+							Presbyterian Church. His fourth Sermon upon Romans 8.7. the carnal mind
+							enmity against God. I had thought his morning Discourse of last Sunday
+							would have been the last upon this text— I heard nothing this day but
+							what appeared to me to be repetition of the same thing he had said
+							before— After dinner at S<hi rend="superscript">t</hi> John’s Church,
+								<persRef ref="hawley-william">M<hi rend="superscript">r</hi>
+								Hawley</persRef> read the Evening prayer for the fourth Sunday in
+							Lent. He read the whole Service, and preached from <persRef
+								ref="solomon">Solomon’s</persRef> Song 5:16. “This is my beloved,
+							and this is my friend.” Christ and his Church. It was a remnant of his
+							mornings discourse. I employed all the leisure of the day, in scriptural
+							readings and notices. Read two Chapters in <persRef ref="gleig-george"
+								>Gleig’s</persRef> History <pb n="50" type="ms"/>of the Bible, and
+							one Book of <persRef ref="milman-henry">Milman’s</persRef> History of
+							the Jews. The latter appears to be the most philosophical— Milman
+							notices the three several promises of God to <persRef ref="abraham"
+								>Abraham</persRef> of the land of Canaan. The last solemnized by the
+							remarkable sacrifice and Covenant of Genesis 15.9–18.— The animals
+							sacrificed were a heifer, a she-goat, a ram, a turtle-dove and a young
+							pigeon— These were all the animals afterwards used to be sacrificed.
+							Milman further says that Teraphim were so called, as images first made
+							by <persRef ref="terah">Terah</persRef>, the father of Abraham.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-18">
+					<head>18 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-18"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. IV:45. </date>Monday</p>
+						<list>
+							<item>Rush Richard</item>
+						</list>
+						<p>Morning occupied in commenting upon the passages of Scripture that I have
+							been reading and upon the map of Palestine in <persRef
+								ref="milman-henry">Milman’s</persRef> History of the Jews. <persRef
+								ref="rush-richard">M<hi rend="superscript">r</hi> Rush</persRef>
+							called upon me, and read to me two or three paragraphs of a Letter that
+							he had received from <persRef ref="ellmaker-amos">M<hi
+									rend="superscript">r</hi> Ellmaker’s</persRef> complimentary to
+							my Speech on <persRef ref="verplanck-gulian">Verplanck’s</persRef>
+							Tariff-Bill, and enquiring for the Report of the Minority of the
+							Committee of Manufactures. I gave M<hi rend="superscript">r</hi> Rush
+							two copies of it.— I had also much conversation with him upon the
+							subject of Masonry and Anti-Masonry. He urges me particularly to write
+							upon the subserviency of the periodical Press to the controul of
+							Masonry. But I think there is nothing, or very little to add upon that
+							topic, to what has been published by him. There are perhaps other views
+							of the general subject yet to be taken. I walked before dinner to the
+							Race-ground and back. This walk which brings me in view of Meridian
+							Hill, and of the Columbian College awakens recollections of bitterness
+							and melancholy mingled with some soothing consolations— My residence of
+							three Months at Meridian Hill was marked with two of the heaviest
+							calamities with which my life has been visited— Read the 6<hi
+								rend="superscript">th.</hi> Canto of <persRef ref="rose-william"
+								>Rose’s</persRef>
+							<persRef ref="ariosto-ludovico">Ariosto</persRef>— It is irremissibly
+							dull.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-19">
+					<head>19 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-19"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. IV:15. </date>Tuesday.— I had a visitor with a subscription
+							paper to build a Church for a German Preacher, to which I declined
+							putting my name. There are a number of Germans who arrived in this
+							Country, perhaps last Summer, and are now employed in pounding up the
+							stone, for M’Adamizing the Pennsylvania Avenue. The project of a Church
+							is for them; but if erected they would not be able to maintain it— I
+							went to the War Office— <persRef ref="cass-lewis">The
+								Secretary</persRef> was absent at a Cabinet-Meeting— I went to the
+							Pension Office, and asked <persRef ref="edwards-james">M<hi
+									rend="superscript">r</hi> Edwards</persRef>, the Commissioner of
+							Pensions, for answers upon two of the cases which I had exhibited
+							before, and which had been overlooked— I also left with him the papers
+							of <persRef ref="james-elisha">Elisha James</persRef>, upon which he
+							promised to send me an answer to-morrow Morning— I walked and partly
+							rode to the Capitol, and took out of the Library all the remaining
+							Volumes of <persRef ref="rose-william">Rose’s</persRef> version of the
+							Orlando Furioso. Of which I read after dinner the seventh Canto. There
+							is no appearance of the Hero yet. Nor is it possible in the seven
+							Canto’s that I have read to perceive any plan, or unity of action. It
+							seems to be a collection of Fairy Tales, without connection between
+							them. The enchantment of <persRef ref="alcina">Alcina</persRef>, and its
+							decantation in this seventh Canto, are full of beauties of detail. The
+							horses and Swords of the Knights have their names.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-20">
+					<head>20 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-20"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Foreign Relations</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. VI:15. </date>Wednesday.</p>
+						<list>
+							<item>Bayard James</item>
+						</list>
+						<p>After waking this morning at three O’Clock, I fell into another nap, and
+							was belated till past six before I rose. The little annotations that I
+							make upon my morning reading of the Scriptures lead me into enquiries
+							beyond my depth, like wading into the shelving banks of a river, till
+							the foot can no longer touch the bottom. I recur to <persRef
+								ref="gleig-george">Gleig</persRef> and <persRef ref="milman-henry"
+								>Milman</persRef>, but above all want better maps of the holy Land—
+								<persRef ref="bayard-james2">M<hi rend="superscript">r</hi> James
+								Bayard</persRef> of Philadelphia came to enquire if I had any
+							recollection of the case of a Barque called the Superior, lost in the
+							passage of the Belt in October 1809. concerning which I made an
+							application to the Danish Government through <persRef
+								ref="vonblome-otto">Baron Blome</persRef> 12/24 January 1810. There
+							is now <pb n="51" type="ms"/>an application for indemnity, in behalf of
+							the owners of that vessel and Cargo, before the Danish Commission— The
+							vessel was with British ships of War, but not under their convoy. She
+							struck upon a rock, and was fired upon from the shore. The master set
+							fire to her by order of the Commander of the British Squadron— Part of
+							the Cargo was said to have been saved as wreck by the People on the
+							Land. M<hi rend="superscript">r</hi> Bayard had a copy of my note to
+							Baron Blome; but I had no other recollection of the case. It cannot be
+							received as a claim for property seized, for it was destroyed by the
+							Master himself— Rain all day— I only walked before and after dinner
+							round the square fronting the house.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-21">
+					<head>21 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-21"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. IV. </date>Thursday.— Walk round Capitol hill; wrote 3 short
+							Letters— As I proceed in my morning notes I find the want of scriptural
+							Geography increasing— I made a rough sketch from the map, of <persRef
+								ref="milman-henry">Milman’s</persRef> History, shewing merely the
+							relative location of the twelve tribes in the Land of Canaan, on both
+							sides of the river Jordan— I dined at <persRef ref="macomb-alexander"
+								>General Macomb’s</persRef>, with a motley mixture of company.
+								<persRef ref="vanburen-martin">M<hi rend="superscript">r </hi>Van
+								Buren</persRef> the Vice-President; <persRef ref="woodbury-levi"
+									>M<hi rend="superscript">r</hi> Woodbury</persRef>, Secretary of
+							the Navy—<persRef ref="rush-richard">M<hi rend="superscript">r</hi>
+								Rush</persRef>, with <persRef ref="mason-john">General
+								Mason</persRef>, and his Son, <persRef ref="mason-john2"
+								>John</persRef>: <persRef ref="donelson-andrew">M<hi
+									rend="superscript">r</hi> Donaldson</persRef>, the Presidents
+							private Secretary; <persRef ref="campbell-george">M<hi
+									rend="superscript">r</hi> Campbell</persRef>, the Treasurer—
+								Mess<hi rend="superscript">rs.</hi>
+							<persRef ref="torlade-jacob">Torlade</persRef>, Chargé d’Affaires from
+								<persRef ref="miguel-i">Don Miguel of Portugal</persRef>, <persRef
+								ref="anckarloo-david">Ankarloo</persRef> from Sweden, <persRef
+								ref="krehmer-george">Krehmer</persRef>, from Russia, two or three
+							Officers, and three Ladies, besides <persRef ref="macomb-harriet">M<hi
+									rend="superscript">rs</hi></persRef> and <persRef ref="u">Miss Macomb</persRef>— I had much
+							conversation with M<hi rend="superscript">r</hi> Campbell, the
+							Treasurer, whose acquaintance I made at Table, and some with M<hi
+								rend="superscript">r</hi> Ankarloo, whom I had not met before; also
+							with M<hi rend="superscript">r</hi> Woodbury on the weather and other
+							matters equally interesting after dinner. M<hi rend="superscript">r</hi>
+							Rush gave me a Pennsylvania Newspaper, and said he would call upon me
+							again before he would leave the City— The weather has become so warm
+							that for two days I have had no fire in my chamber. <persRef
+								key="adams-louisa-catherine">My wife</persRef> continues recovering
+							very slowly. My Son <persRef key="adams-john2">John</persRef> has a bad
+							cough, and declined General Macomb’s invitation to dinner</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-22">
+					<head>22 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-22"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. IV. </date>Friday.— I occupied the whole day, to lose no time,
+							but the effects of it upon my eye were severely felt. I cannot
+							persevere, and must relax— <persRef ref="smith-john">John A.
+								Smith</persRef> was here, and took leave, going to New-York—
+								<persRef ref="dewindt-julia">Julia de Wint</persRef>, returns home
+							with him. I answered five of the Letters which have been accumulating
+							upon my hands, for two months, unanswered— Called at the Pension Office,
+							and gave a certificate that <persRef ref="james-elisha">Elisha
+								James</persRef> was living at the time of the passage of the Act of
+							7. June 1832. I told <persRef ref="edwards-james">M<hi
+									rend="superscript">r</hi> Edwards</persRef>, that I had written
+							to <persRef ref="donnison-william">General Donnison</persRef> at Boston,
+							advising him to forward another set of Papers; those which he had
+							forwarded before having been mislaid. Edwards afterwards informed me by
+							a note, that the first set had been found; which I immediately wrote to
+							General Donnison. Walk round the Capitol hill, before dinner. The Spring
+							weather continues. I had projected employment for this Evening; but
+							received the proof sheets of the Report of the Minority of the Committee
+							of Manufactures, from the Office of the <persRef ref="green-duff"
+								>Printer for Congress</persRef>— I revised nearly half of it, until
+							I found myself sleeping over the work. Received a Letter from <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi> Samuel L.
+								Southard</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-23">
+					<head>23 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-23"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Foreign Relations</subject>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. V. </date>Saturday</p>
+						<list>
+							<item>Huygens, the younger</item>
+							<item>Rush— Richard</item>
+						</list>
+						<p>Morning visits from <persRef ref="huygens-r">M<hi rend="superscript"
+									>r</hi> Huygens</persRef>, the Chargé d’Affaires from the king
+							of Holland—and from <persRef ref="rush-richard">M<hi rend="superscript"
+									>r</hi> Rush</persRef>— Huygens told me that <persRef
+								ref="huygens-bangeman">his father</persRef> was now at Copenhagen,
+							where he had been minister from the Batavian Republic, many years. We
+							conversed upon European Affairs, and the great defeat of the <persRef
+								ref="mahmudii">Turkish Sultan’s</persRef> army, by <persRef
+								ref="ibrahimpasha">Ibrahim</persRef> the Son of the <persRef
+								ref="muhammadali">Bashaw of Egypt</persRef>— I told Huygens I hoped
+							Constantinople would soon become a European and a Christian City, and
+							that the Religion of <persRef ref="mahomet">Mahomet</persRef> would
+							become extinct like the Paganism of the Greeks, and Romans— The
+							imposture of Mahomet, and the influence it has exercised over the
+							opinions and the history of mankind, are among the impenetrable
+							mysteries of Providence— M<hi rend="superscript">r</hi> Rush said he had
+							nearly completed the sale of his House, and should return home next
+							week— He has had one or more interviews with <persRef
+								ref="vanburen-martin">M<hi rend="superscript">r</hi> Van
+								Buren</persRef>, which may possibly have some influence on his
+							future <pb n="52" type="ms"/>political opinions and conduct. I returned
+							the visits of M<hi rend="superscript">r</hi> Van Buren, and <persRef
+								ref="vanburen-abraham2">his Son</persRef>, by Cards— Went to
+								<persRef ref="cranch-william">judge Cranch’s</persRef> house, where
+							I acknowledged a Deed from the Executors of <persRef ref="boylston-ward"
+								>Ward N. Boylston</persRef> to <persRef ref="brigham-daniel">Daniel
+								T. Brigham</persRef>, <persRef ref="davis-isaac">Isaac
+								Davis</persRef> and <persRef ref="goddard-perley">Perley
+								Goddard</persRef>, of Lands in Princeton; but afterwards thinking it
+							imperfect, I enclosed it to my Son <persRef key="adams-charles2"
+								>Charles</persRef>. I completed the revisal of the Report of the
+							Committee of Manufactures (that is of the Minority) printed as a
+							Congressional Document; but have not been able to dispose of my time
+							these three days, as I had predetermined— I see by an extract from the
+							Hingham Gazette in the Boston Press this day received, that my Election
+							to Congress will be opposed on the ground of anti-masonry.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-24">
+					<head>24 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-24"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Health and Illness</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. IV:30. </date>Sunday</p>
+						<list>
+							<item>Hassler F. R.</item>
+						</list>
+						<p>Heard <persRef ref="smith-edward">M<hi rend="superscript">r</hi>
+								Smith</persRef> at the Presbyterian Church this morning— A fifth
+							Sermon upon Romans 8.7. the carnal mind enmity against God— The special
+							subject of this day’s Discourse, was the <hi rend="italic">danger</hi>,
+							of enmity against God. He gave notice that he should be absent next
+							Sunday, but hoped to return before the Sunday after, and then to
+							conclude the Series, of Sermons upon enmity against God, by urging the
+							necessity of repentance— After the morning service, I had a visit from
+								<persRef ref="hassler-ferdinand">M<hi rend="superscript">r</hi>
+								Hassler</persRef>, who is engaged upon a Survey of the Coast, under
+							an act of Congress of the Session before the last, but who is in trouble
+							by difficulties with the <persRef ref="mclane-louis">Secretary of the
+								Treasury</persRef>— I promised to speak with him on the subject. I
+							did not exactly understand what the difficulty was; for though he is a
+							very skilful mathematician and talks much, he has not the talent of
+							giving a lucid exposition of his thoughts. After dinner, I attended at
+								S<hi rend="superscript">t.</hi> John’s Church, where <persRef
+								ref="hawley-william">M<hi rend="superscript">r</hi> Hawley</persRef>
+							read the Evening prayer for the fifth Sunday in Lent, and for Sermon
+							gave an exposition of the 91<hi rend="superscript">st</hi> Psalm. I took
+							my Grand-child <persRef ref="adams-mary4">Mary-Louisa</persRef> to
+							church with me, Morning and afternoon— An inflammation in my right eye
+							disabled me, for writing or reading, great part of this day, and the
+							whole of the Evening. The National Gazette, and New-York American have
+							republished the Minority Report.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-25">
+					<head>25 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-25"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Relations</subject>
+						<subject>Press</subject>
+						<subject>Recreation</subject>
+						<subject>Nullification</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. IV:30. </date>Monday</p>
+						<list>
+							<item>M<hi rend="superscript">rs</hi> Delia Tudor—</item>
+							<item>Johnson Thomas B.</item>
+						</list>
+						<p><persRef ref="tudor-delia">M<hi rend="superscript">rs</hi>
+								Tudor</persRef> was here this morning, and mentioned that <persRef
+								ref="hogan-michael">M<hi rend="superscript">r.</hi> Michael
+								Hogan</persRef>, heretofore Consul at the Havana, and afterwards at
+							Valparaiso in Chili, was in this city, at the point of Death, and she
+							asked me to call and see him— <persRef ref="johnson-thomas-baker">M<hi
+									rend="superscript">r</hi> T. B. Johnson</persRef> called to
+							visit <persRef key="adams-louisa-catherine">his Sister</persRef>. I went
+							to the National Intelligencer Office, and looked over the Newspapers;
+							seventy or eighty of them received within the last two days. I walked
+							round the Capitol hill— Answered a Letter received two months since from
+								<persRef ref="middleton-henry">Henry Middleton</persRef>— I meant to
+							write six lines to thank him for the Platina coins which he sent me, and
+							wrote three pages upon Nullification and Protection. In the Evening I
+							went to <persRef ref="corcoran-anna">M<hi rend="superscript">rs</hi>
+								Corcorans</persRef> and enquired for M<hi rend="superscript">r</hi>
+							Hogan M<hi rend="superscript">rs</hi> Corcoran told me that <persRef
+								ref="hogan-unknown3">M<hi rend="superscript">rs</hi> Hogan</persRef>
+							had directed that no person should be admitted to see him, as he was
+							very low, and they believed him to be dying— I received a Letter from my
+							Son <persRef key="adams-charles2">Charles</persRef>: who speaks of the
+							opposition threatened by the Masons of Plymouth and Norfolk Counties to
+							my election; and also of the Minority Report. Charles’s health and
+							Spirits are indifferent, and <persRef ref="adams-louisa3">his
+								child</persRef> has taken the whooping cough. The Advocate is the
+							only paper in Boston, which publishes the whole Report— The rest give
+							extracts— It is also republished in the Advocate of New-York. The
+							Southern Papers do not notice its existence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-26">
+					<head>26 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-26"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. IV:15. </date>Tuesday— The inflammation of my right eye has
+							partly subsided, and I spent a great part of this day in writing. I had
+							received yesterday a Letter from my Son <persRef key="adams-charles2"
+								>Charles</persRef>, to which I began this morning an answer; which I
+							intended should be very short; but the pen ran on, till the time came
+							for my walk round the Capitol hill— On my return from that, I received a
+							packet from <persRef ref="edwards-james">James L Edwards</persRef>,
+							Commissioner of the Pension Office, enclosing Certificates of Pensions
+							for <persRef ref="donnison-william">General William Donnison</persRef>
+							of Boston, and <persRef ref="james-elisha">Elisha James</persRef> of
+							Scituate. I wrote immediately <pb n="53" type="ms"/>to General Donnison,
+							and to the <persRef ref="deane-samuel">Rev<hi rend="superscript">d.</hi>
+								Samuel Deane</persRef>, enclosing to them the respective
+							certificates— I had received early in January a Letter from M<hi
+								rend="superscript">r</hi> Deane concerning the claim of James— Both
+							the Letters, with one to <persRef ref="middleton-henry">Henry
+								Middleton</persRef>, were sent this Evening to the Post Office.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> rode out twice this day. The Essex
+							Register has a commendatory notice of the minority Report, with extracts
+							of the same character from <persRef ref="walsh-robert">Walsh’s</persRef>
+							National Gazette and from <persRef ref="stone-william2"
+								>Stone’s</persRef> Commercial Advertiser— They all republish it
+							entire. The Essex Register in parcels of two or three Columns at a time.
+							I received also a Letter from <persRef ref="gouverneur-samuel">Samuel L.
+								Gouverneur</persRef>, respecting certain notices and a Letter of
+							mine which he has found among the Papers of <persRef key="monroe-james"
+									>M<hi rend="superscript">r</hi> Monroe</persRef>— He offers to
+							send me the Letter<hi rend="strikethrough">s</hi>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-27">
+					<head>27 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-27"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Anti-Masonic Party</subject>
+						<subject>Press</subject>
+						<subject>National Republican Party</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. IV:30. </date>Wednesday.— Early rising; and for two hours
+							copying <persRef ref="stone-william2">William L. Stone’s</persRef>
+							Masonic Manuscript; in which are many very curious varieties, from the
+							common newly divulged revelations of Masonry— I received a Letter from
+								<persRef ref="bailey-john">John Bailey</persRef>, and a Committee of
+							an Antimasonic Convention, which met at Hanover last Thursday, and
+							nominated me for re-election to the 23<hi rend="superscript">d.</hi>
+							Congress— But in the Hingham Gazette, there is a Notification for a
+							National Republican Convention at Scituate to-morrow; and a formal
+							Address to the People of the District opposing my election upon the
+							ground of anti-masonry, and particularly my Letter to <persRef
+								ref="cowell-benjamin">Benjamin Cowell</persRef>— I received also a
+							Letter from a Committee of the young Men’s Convention at Harrisburg
+							Pennsylvania, with a copy of a commendatory Resolution adopted by them
+							in honour of <persRef ref="rush-richard">R. Rush</persRef> and of me. I
+							went to the general Post-Office, upon several applications for
+							Post-Offices— The <persRef ref="barry-william">Postmaster
+								General</persRef> was absent, at Alexandria. I saw the Assistants
+								<persRef ref="gardiner-ck">C. K. Gardiner</persRef>, and afterwards
+								<persRef ref="hobbie-selah">Selah R. Hobbie</persRef>— He told me
+							the Post-Office for the South Parish of Hingham, should immediately be
+							established. I left with him the Letter, from the Postmaster of North
+							Scituate, <persRef ref="merritt-shadrack">Merritt</persRef>; and the
+							Letter from <persRef ref="slocum-christopher">Christopher
+								Slocom</persRef> of Medway. Both of which relate to unsettled
+							controversies of some standing, and which cannot soon be adjusted.
+								<persRef ref="hellen-mary">Mary</persRef> dined at her <persRef
+								ref="johnson-thomas-baker">Uncle Johnson’s</persRef>. Snow great
+							part of the day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-28">
+					<head>28 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-28"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Anti-Masonic Party</subject>
+						<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. IV:30. </date>Thursday.</p>
+						<list>
+							<item>Brearley David</item>
+							<item>A Catholic Priest</item>
+						</list>
+						<p>I answered the Letter of <persRef ref="bailey-john">John
+							Bailey</persRef>, and the Committee of the Convention of Antimasons at
+							Hanover, and the Letter from the Committee of the Committee of the
+							Convention of Anti Masonic young men at Harrisburg Pennsylvania, and I
+							wrote to <persRef ref="reynolds-enoch">M<hi rend="superscript">r</hi>
+								Enoch Reynolds</persRef>, Treasurer of the Columbia College, a short
+							note, to which I received an answer. <persRef ref="brearly-david">Col<hi
+									rend="superscript">l.</hi> Brearley</persRef> came and
+							introduced to me a Roman Catholic Clergyman from Brookline, on Long
+							Island, opposite to the City of New York. He came to solicit a
+							subscription for a Church which they are building there, and which from
+							mere inability I was obliged to decline. I walked round the Capitol
+							hill, before dinner— The day was chilly and raw. Snow-like, but without
+							Snow— We are getting sickly again. My Son <persRef key="adams-john2"
+								>John</persRef> has a severe cough, and his wife was all this day
+							quite unwell— I am endeavouring to read, and have got to the tenth Canto
+							of <persRef ref="rose-william">Rose’s</persRef> Translation of <persRef
+								ref="ariosto-ludovico">Ariosto</persRef>— I cannot take interest in
+							it— Even the humour of the original evaporates in the Translation— For
+							variety I read one Act of <persRef ref="byron-george">Byron’s</persRef>
+							Tragedy of the two Foscari. And the first thing I meet is a man under
+							Torture— What Pleasure is there in the minute description of human
+							agonies? Read also a Review of the Life of <persRef
+								ref="vonschiller-johann">Schiller</persRef> in the American
+							Quarterly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-29">
+					<head>29 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-29"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>American Revolution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. V:45. </date>Friday.</p>
+						<list>
+							<item>Wallace Andrew 103.</item>
+							<item>Fendall Philip R.</item>
+						</list>
+						<p>In my walk this morning, I stop’d at the Capitol, at the Office of the
+								<persRef ref="clarke-mathew">Clerk of the House of
+								Representatives</persRef> to enquire for the printed Documents of
+							the last Session of Congress. The Bank Reports of the Committee of Ways
+							and Means, the Minority Report of the Committee of Manufactures, the
+							Laws of the Session, and the returns of Manufactures of the preceding
+							Session— None of them were ready— M<hi rend="superscript">r</hi> Clarke
+							spoke of the compilation of Documents relating to the History of this
+							Country, prior to the establishment of the present Constitution. He <pb
+								n="54" type="ms"/>said he was going shortly to collect materials for
+							it— As I was returning home, I met at the door of <persRef ref="u">M<hi
+									rend="superscript">rs</hi> Strother’s</persRef> house a man
+							named <persRef ref="wallace-andrew">Andrew Wallace</persRef>, who was
+							coming to see me, and came— He said he was one hundred and three years
+							of age, the 26<hi rend="superscript">th.</hi> of this month. A Scot,
+							born, descended from <persRef ref="wallace-robert">Robert</persRef>, a
+							brother of <persRef ref="wallace-william2">Sir William
+							Wallace</persRef>.— He was at the Battles of Preston Pans and Culloden,
+							a Soldier of <persRef ref="charlesedwardstuart">Prince Charles
+								Edward</persRef>, whom, as well as the <persRef
+								ref="williamaugustus">Duke of Cumberland</persRef> he well
+							remembers.— After the Battle of Culloden, he fled first to Ireland, and
+							thence in 1752. to this Country— Served in our army from 1776 till it
+							was disbanded—re-inlisted in 1786 and continued as a Sergeant-Major in
+							the army till 1813— Then discharged at the age of 83. Has since been a
+							teacher till his strength failed— Lives at West-Chester, Pennsylvania,
+							and comes here now to solicit an increase of Pension. His eye-sight,
+							hearing and Memory seem unimpaired. What a life, and survival of
+							chances! I had also a visit this Evening from <persRef
+								ref="fendall-philip">P. R. Fendall</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-30">
+					<head>30 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-30"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. IV:30. </date>Saturday. Finished the copy of <persRef
+								ref="stone-william2">W. L. Stone’s</persRef> first Masonic
+							Manuscript. I received Letters from <persRef ref="bartlett-zacheus"
+								>Zaccheus Bartlett</persRef>, and <persRef ref="thomas-john5">John
+								B. Thomas</persRef> of Plymouth, with applications for Revolutionary
+							Pensioners, with which, I immediately called upon the <persRef
+								ref="cass-lewis">Secretary of War</persRef>. He took down all their
+							names, and promised that immediate attention should be paid to their
+							cases. I asked him also for copies of the papers in the Department
+							relating to the application from <persRef ref="pitcher-nathaniel"
+									>Lieut<hi rend="superscript">t.</hi> Governor Pitcher</persRef>
+							of New-York, for the arrest of <persRef ref="king-william3">Col<hi
+									rend="superscript">l.</hi> William King</persRef> in the
+							Arkansas Territory, which he promised me. He shewed me an original
+							Letter from <persRef ref="washington-george">Major Washington</persRef>
+							to <persRef ref="forbes-john3">Gen<hi rend="superscript">l.</hi>
+								Forbes</persRef> dated in October 1758. containing a plan of
+							Campaign against the Indians— Cass said it was the same plan which we
+							had recently carried into execution. I went also to the Navy-Office, and
+							enquired of <persRef ref="woodbury-levi">M<hi rend="superscript">r</hi>
+								Woodbury</persRef> the Secretary for the residence of <persRef
+								ref="beale-george3">George Beale</persRef>, a prize Agent, who has
+							credit for the payment of <persRef ref="banks-lilliston">Liliston
+								Banks’s</persRef> prize money. He indicated to me Beale’s residence,
+							just beyond the borders of the City— I rode there after dinner with
+								<persRef ref="hellen-mary;adams-louisa-catherine">the
+								Ladies</persRef>, and found M<hi rend="superscript">r</hi> Beale,
+							who is a purser in the Navy, laid up with the rhumatism— I gave him M<hi
+								rend="superscript">r</hi> Z. Bartlett’s Letter to him (which was
+							unsigned) and he promised to answer the enquiries to-morrow. In the
+							evening I was answering a Letter from <persRef ref="biddle-nicholas">N.
+								Biddle</persRef>, respecting the Girard College— Not finished.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v39-1833-03-31">
+					<head>31 March 1833</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1833-03-31"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. IV:30. </date>Sunday. United States Treasury Department
+							building, burnt down.</p>
+						<p>The public building of the Treasury Department, took fire about two
+							O’Clock this morning, and was in ruin by the dawn of day— I went out and
+							viewed it between four and five, when the fire was abating by the
+							failure of combustible materials. I found <persRef
+								ref="greenleaf-william">William C. Greenleaf</persRef> there, and
+							met <persRef ref="clarke-mathew">M<hi rend="superscript">r</hi>
+								Clarke</persRef>, Clerk of the House of Representatives— Heard at
+							the Presbyterian Church, <persRef ref="skinner-js">M<hi
+									rend="superscript">r</hi> J. S. Skinner</persRef> from 2.
+							Corinthians 5.17. “Therefore, if any man be in Christ he is a new
+							creature: old things are passed away: behold, all things are become
+							new.”— Regeneration, and something about the conflagration of the
+							Treasury— M<hi rend="superscript">r</hi> Skinner gave notice, that he
+							was engaged elsewhere this afternoon, and that there would be no service
+							at that Church. I went to S<hi rend="superscript">t.</hi> John’s, where
+								<persRef ref="hawley-william">M<hi rend="superscript">r</hi>
+								Hawley</persRef> read the evening prayer, for the Sunday before
+							Easter, or Palm-Sunday, and preached a short Discourse, from Matthew
+							26.8. “Then saith he unto them, my Soul is exceeding sorrowful even unto
+							Death.”— There was no organist, and no singing. <persRef
+								key="adams-john2">John’s</persRef> child <persRef ref="adams-mary4"
+								>Louisa</persRef>, went with me, morning and afternoon— I received
+							several Letters among which one from my Son <persRef
+								key="adams-charles2">Charles</persRef>, with a new Deed to execute
+							instead of that which I had sent back to him— I wrote a long Letter to
+								<persRef ref="biddle-nicholas">N. Biddle</persRef>, which I burnt,
+							and then wrote a short one. Received another Letter from <persRef
+								ref="bartlett-zacheus">Zaccheus Bartlett</persRef> and two copies of
+							the Minority Report Boston Edition.</p>
+						<p>Mem<hi rend="superscript">m.</hi> 26. July 1835— On the 10<hi
+								rend="superscript">th.</hi> of January 1833 my Diary in this volume,
+							was suspended by sickness, but I continued it upon loose sheets of
+							paper, from which I have been from the 1<hi rend="superscript">st.</hi>
+								inst<hi rend="superscript">t.</hi> transcribing it.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v42-1839-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="103" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v42-1839-07-p127.xml" mhs:volume="42">
+				<bibl n="metadata"><date from="1839-06-01" to="1839-06-30"/></bibl>
+
+
+				<!-- NB: entry for 12th has a curly bracket and text to the side that will need to
+					be hand encoded in XML -->
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-01">
+					<head>1 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="103"/>
+						<dateline>Quincy Saturday 1. June 1839.</dateline>
+						<p><date>1. IV. </date>Saturday</p>
+						<p>Sun rose 4:25—from <persRef ref="adams-charles2">Charles’s</persRef>
+							House; rose behind the house on the hill. </p>
+						<p>I begin the month by writing in my Diary the record of yesterday: then in
+							the Diary index ten days in November 1834—then by hearing my Grand
+							daughters <persRef ref="adams-mary4">Mary-Louisa</persRef> and <persRef
+								ref="adams-georgeanna">Georgiana-Frances Adams</persRef> read 5
+							chapters from 57 to 62 of <persRef ref="isaiah">Isaiah</persRef>; all
+							before breakfast— After breakfast I spent 3 hours in my Garden,
+							seminary, Nursery and Orchard—observing my seedlings from eleven years
+							old to those breaking the ground— Several of my wild cherries are just
+							opening their blossoms— The fruit ripens 15 September— The leading shoot
+							of one of my shag-bark walnuts, which opened from the bud since the
+							first of May has grown two feet. I measured the largest white maple,
+							from the seeds which I brought four years ago from Philadelphia and
+							sowed 1 June 1835. it is 7 1/2 inches in circumference and about 12 feet
+							high— I have only two remaining of the red flowering maple, from seed
+							brought the same year 1835 from Washington; and only one of them that I
+							can expect to live— It is in the centre of the Nursery—not a foot high;
+							but with a thrifty shoot and large leaves of this Season— I had the
+							languishing English Oak at the Northwest corner of the Nursery, and an
+							Apricot tree in the centre of the garden thoroughly washed with Soapsuds
+							to cleanse them from gathering moss— Ash leaves are putting forth from
+							the seed leaves, in the new bed by the kitchen garden gate— A single Oak
+							shoot appeared yesterday in Mary-Louisa’s Nursery-bed.— Three or four of
+							my surviving black walnuts look as if they may yet live— The Althaea’s
+							are but just putting out their leaves— The lilacs are gone having been
+							in blossom a fortnight. <persRef ref="kirk-john">Kirk</persRef> hoed up
+							one of my seedling cherries which I had transplanted from under the tree
+							in the Orchard— I replanted it as a hopeless experiment— The stock from
+							my apple-bud of 1832 in the Nursery has blossomed profusely and has
+							fruit already formed. After dinner, I took up <persRef ref="adams-john"
+								>my father’s</persRef> Diary from 1766 to 1773. and made an extract
+							from it— In the evening I wrote a page of my translation of <persRef
+								ref="horace">Horace’s</persRef> Ode, on the praises of a Country
+							life— Charles and <persRef ref="adams-abigail4">his wife</persRef> had
+							spent the Evening here— The day was showery and so cold that I made a
+							fire in my chamber— This day is a sample of my occupations for the
+							month— I read also some pages of <persRef ref="bowditch-nathaniel2">M<hi
+									rend="superscript">r</hi> Nathaniel Ingersoll
+								Bowditch’s</persRef> Memoir of the life of <persRef
+								ref="bowditch-nathaniel">his father</persRef>—a model of a self made
+							man— My father’s diary is full of self chastisement for waste of time in
+							visiting, conversation, and desultory reading—the last of which is my
+							own bane.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-02">
+					<head>2 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Anti-Slavery Petitions to Congress</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. IV:45. </date>Sunday.</p>
+						<list>
+							<item>Dawes George</item>
+							<item>M<hi rend="superscript">rs</hi> Lucy Dawes</item>
+							<item>Greenleaf Richard Cranch</item>
+							<item>Miss Mary Whitney</item>
+						</list>
+						<p>Communion day— Heard <persRef ref="lunt-william">M<hi rend="superscript"
+									>r</hi> Lunt</persRef> this morning from 1. Corinthians 2.2.
+							“for I determined not to know any thing among you, save Jesus Christ;
+							and him crucified.” The Discourse was an ingenious argument for the <hi
+								rend="italic">truth</hi>
+							<pb n="104" type="ms"/>truth of the Christian Religion, drawn from the
+							fact of the crucifixion of Jesus Christ— He pointed out the
+							extraordinary contrast in the character and conduct of the Apostles
+							before and at the time of the crucifixion, and fifty days after on the
+							day of Pentecost— It was one of M<hi rend="superscript">r</hi> Lunt’s
+							best Sermons— The Communion was administered jointly by him and <persRef
+								ref="whitney-peter">M<hi rend="superscript">r</hi>
+							Whitney</persRef>— After dinner <persRef ref="angier-joseph">M<hi
+									rend="superscript">r</hi> Joseph Angier</persRef> preached, from
+								<persRef ref="isaiah">Isaiah</persRef> 3.10. “Say ye to the
+							righteous that it shall be well with him: for they shall eat the fruit
+							of their doings. 11. Wo unto the wicked! It shall be ill with him; for
+							the reward of his hands shall be given him”— He read also the 18<hi
+								rend="superscript">th.</hi> chapter of <persRef ref="ezekiel"
+								>Ezekiel</persRef>, which so emphatically declares that every man
+							shall be saved by his own righteousness and punished for his own sin— No
+							vicarious atonement— There was an argument against the universalists,
+							and another against the calvinists— I read the 7<hi rend="superscript"
+								>th</hi> Sermon of the 12<hi rend="superscript">th</hi> Volume of
+								<persRef ref="saurin-jacques">Saurin</persRef>—upon the new
+							misfortunes of the church: that is of the protestant church in France.
+							There have been no persecutions of the Protestants more unmerciful than
+							those suffered by the Protestants in France, for a full century after
+							the revocation of the Edict of Nantes— <persRef
+								ref="dawes-george2;dawes-lucy3">M<hi rend="superscript">r</hi> and
+									M<hi rend="superscript">rs</hi> George Dawes</persRef> were here
+							this Evening, and <persRef ref="greenleaf-richard">M<hi
+									rend="superscript">r</hi> Richard Cranch Greenleaf</persRef>,
+							and <persRef ref="whitney-mary">Miss Mary Whitney</persRef>, whom he is
+							at some time to marry— <persRef ref="adams-charles2">Charles</persRef>
+							and <persRef ref="adams-abigail4">his wife</persRef> were also here— I
+							made out a list of all the Petitions from the 12<hi rend="superscript"
+								>th.</hi> Congressional District of Massachusetts; which I received
+							for presentations to the House of Representatives of the United States
+							at the late Session of Congress <unclear>. . .</unclear> and at the
+							close of the Evening I copied verses. The 2<hi rend="superscript"
+								>d.</hi> Epode of <persRef ref="horace">Horace</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-03">
+					<head>3 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. IV. </date>Monday</p>
+						<list>
+							<item>Donaldson Lie<unclear>u<hi rend="superscript"
+								>t.</hi></unclear></item>
+							<item>Foster John</item>
+							<item>Adams Isaac Hull</item>
+							<item>Rich Matthias</item>
+						</list>
+						<p>Already this day, I broke in upon the order of my occupations, as I had
+							prescribed it to myself, and lost the performance of some of the most
+							essential of them— In order to complete my Letter to the inhabitants of
+							the 12<hi rend="superscript">th.</hi> Congressional District, with the
+							list of the Petitions from the towns in alphabetical order, for
+							publication in the Quincy Patriot I began with it before breakfast, and
+							it absorbed the whole day. I had barely time besides for the diary of
+							yesterday, and all the rest was neglected— I spent indeed half the day
+							about my grounds. Sawed off in the Nursery, two large peach-trees and
+							one Apricot ten years old, but which have never born fruit, except one
+							of them one year, in small quantities, and which are now so nearly dead
+							that there was no prospect of their ever bearing hereafter— They
+							cumbered the ground— All my peach-trees look sickly and ragged— I sawed
+							off also the stock of an apple transplanted seedling at the Southwest
+							corner of the Orchard—and there is a cherry seedling which I discovered
+							close by it— A single Strawberry plant which I set out last Summer, in
+								<persRef ref="adams-georgeanna">Fanny’s</persRef> Nursery bed has
+							blossomed, and is throwing out runners on all sides. Several of my black
+							walnuts shew signs of life. The Rohan Potatoes are coming <pb n="105"
+								type="ms"/>coming up. The floor of the farmhouse kitchen was taken
+							up, and one beam with three cross beam that passed over the top of the
+							Well were found entirely rotten, and must be renewed— <persRef
+								ref="adams-louisa-catherine">My wife</persRef>, with <persRef
+								ref="hellen-mary">M<hi rend="superscript">rs</hi> John</persRef>,
+								<persRef ref="adams-abigail4">M<hi rend="superscript">rs</hi>
+								Charles</persRef>
+							<persRef ref="cutts-mary">Mary Estelle Cutts</persRef> and Fanny, to
+							take tea with <persRef ref="frothingham-ann">M<hi rend="superscript"
+									>rs</hi> Frothingham</persRef>, and to consult a doctress of
+							Indian herbs—came home just before the Evening Bell— While they were
+							gone <persRef ref="adams-isaac">Isaac H. Adams</persRef> with <persRef
+								ref="foster-john">John Foster</persRef>, and <persRef ref="u"
+								>Lieutenant Donaldson</persRef> of the army were here; and <persRef
+								ref="adams-charles2">Charles</persRef> spent the Evening with us— I
+							received a Letter from <persRef ref="colman-henry">M<hi
+									rend="superscript">r</hi> Henry Colman</persRef>; and a very
+							strange one, from <persRef ref="trist-nicholas">N. P. Trist</persRef>
+							U.S. Consul at the Havanna.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-04">
+					<head>4 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. IV.10. </date>Tuesday</p>
+
+						<list>
+							<item>Adams Isaac H</item>
+						</list>
+						<p>Sun rose 4:23.— Saw it rise from <persRef ref="adams-charles2"
+								>Charles’s</persRef> House.</p>
+
+						<p>I endeavoured to employ the day in regular order; but with little
+							success— <persRef ref="adams-isaac">I. H. Adams</persRef> was here— I
+							visited my garden Nursery and seminary, turning my first attention to
+							five American white Oaks, all that I have been able to raise, and four
+							of which until this year have scarcely grown at-all— They are now
+							thrifty and promising. I called at the book binders, with the pamphet
+							copies of the acts of Congress of the 24<hi rend="superscript">th.</hi>
+							and 25<hi rend="superscript">th.</hi> Congress— But the leaves were
+							shaved so close that <persRef ref="gill-caleb">M<hi rend="superscript"
+									>r</hi> Gill</persRef> said he could not bind them in a volume
+							corresponding with the rest— I desired him to keep them, and wrote to
+								<persRef ref="vail-aaron2">Aaron Vail</persRef>, chief clerk in the
+							Department of State, sending back three close cut pamphlets and
+							requesting others entire in exchange— I took to the Office of the Quincy
+							Patriot, my Letter to the Inhabitants, and Petitioners of the 12<hi
+								rend="superscript">th.</hi> Congressional District, which he
+							promised to publish next Saturday— He lent me the National Intelligencer
+							of 28 May, which contains my second Letter to the Petitioners entire—
+							After dinner, intending to write upon the biography of <persRef
+								ref="adams-john">my father</persRef> I missed his manuscript
+							Journals, and the Memoir of his own life which he left unfinished, and
+							wasted two long hours in searching for them, without success— Then going
+							over to Charles’s, I found that he had them; but the day was gone and I
+							had written nothing.— I had the rubbish of one of the library chambers
+							in the farm house swept away— Charles and <persRef ref="adams-abigail4"
+								>his wife</persRef> spent the evening here— I filled a flower pot
+							with fresh earth and sowed in it some of the elm seeds that I had picked
+							up last week in Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-05">
+					<head>5 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. IV. </date>Wednesday.</p>
+						<p>A thin border of clear sky along the eastern horizon deeply crimsoned by
+							the Sun before he rose with the whole remaining hemisphere beclouded,
+							gave warning of the day that was to follow The clouds closed over the
+							serene so that the rising of the Sun could not be seen, and immediately
+							afterwards it began to rain— Moderate showers with a brisk but not
+							violent Northeastern gale, continued the whole day and evening and
+							confined me to the House, where I wasted nearly the whole of it, in a
+							very little writing, various reading, and pasting my name and arms in
+							about 50 volumes in my library <hi rend="italic">The</hi>
+							<pb n="106" type="ms"/>The trunk, two chests, and box of wine sent round
+							by water from Washington came out this morning from Boston— I
+							acknowledged the receipt of <persRef ref="trist-nicholas">M<hi
+									rend="superscript">r</hi> Trists</persRef> Letter—despatched the
+							Letter and packet of pamphlet laws to <persRef ref="vail-aaron2">M<hi
+									rend="superscript">r</hi> Vail</persRef>, and began, but did not
+							finish an answer to three Letters from <persRef ref="colman-henry">M<hi
+									rend="superscript">r</hi> Henry Colman</persRef>— My reading
+							besides a part of the Memoir of <persRef ref="bowditch-nathaniel">D<hi
+									rend="superscript">r</hi> Bowditch’s</persRef> life, and much
+							newspaper trash was in the Massachusetts State papers; <persRef
+								key="adams-john">my father’s</persRef> Letters to <persRef
+								ref="tudor-william">W. Tudor</persRef>, <persRef
+								ref="bradford-william4">Bradford</persRef> and <persRef
+								ref="hutchinson-thomas">Hutchinson’s</persRef> Histories, and the
+							biography of my father in <persRef ref="sanderson-john"
+								>Sanderson’s</persRef> lives of the signers of the Declaration of
+							Independence said to have been written by <persRef ref="ingersoll-edward">Edward Ingersoll</persRef>.— My search
+							through these books was for the year 1768. the period at which I am
+							resuming the memoir so long intermitted—but for want of the papers which
+								<persRef ref="adams-charles2">Charles</persRef> was to bring me, I
+							could write nothing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-06">
+					<head>6 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. IV: </date>Thursday.</p>
+						<list>
+							<item>Adams Isaac Hull</item>
+							<item>Green John A.</item>
+						</list>
+						<p>Rainy morning, and chilly, still requiring a fire in my chamber. cloudy
+							day, clearing off equivocally with the setting Sun. <persRef
+								ref="adams-charles2">Charles</persRef> and <persRef
+								ref="adams-abigail4">his wife</persRef> and <persRef
+								ref="adams-charles7;adams-john17;adams-louisa3;adams-henry4"
+								>children</persRef> dined with <persRef ref="adams-louisa-catherine"
+									>us</persRef>; and <persRef ref="adams-isaac">Isaac H. Adams</persRef>. I visited all my seedling plants,
+							but found no new vegetation. The growth of the young trees is so
+							luxuriant, that almost all the shagbark walnuts are top heavy, and bend,
+							as if they would break down. My Diary and Index absorbed all the
+							morning, and I only closed my Letter to <persRef ref="colman-henry"
+								>Henry Colman</persRef>. <persRef ref="green-john3">John A.
+								Green</persRef> the publisher of the Quincy Patriot was here, with a
+							proof slip of part of my first Letter to the Petitioners which I
+							revised— The Boston Courier of this morning contains about half the
+							second Letter, with promise of the remainder to-morrow— After dinner I
+							attempted to resume the biography of <persRef ref="adams-john">my
+								father</persRef> at the period of his removal from Braintree to
+							Boston in April 1768.— I found in his manuscript, notice of his
+							attendance on the superior Court at Worcester and Springfield that year,
+							and that on his return to Boston, there was an army landed there; and
+							that a Convention had been held.— For a full explanation of this I
+							resorted to the 3<hi rend="superscript">d.</hi> Volume of <persRef
+								ref="hutchinson-thomas">Hutchinson</persRef> where the facts are
+							detailed, and to the Massachusetts State Papers, where are all the
+							documents of the snarling controversy between <persRef
+								ref="bernard-francis">Sir Francis Bernard</persRef> and the General
+							Court in 1768 are collected, but the reading of only a small part of
+							them took me from my writing till the Sun was gone, and the twilight
+							closed all my books— As the last labour of the day I copied six Stanza’s
+							of a translation which some years since I made in Ottava rima of
+								<persRef ref="ovid">Ovid’s</persRef> Epistle from <persRef
+								ref="phyllis">Phyllis</persRef> to <persRef ref="demophoon"
+								>Demophoon</persRef>; which the best of all my compositions in
+							verse, but never shewed to any person except my wife— She then made a
+							copy of it for me, and it is from her copy that I am now making the copy
+							for my Collection of Nugae Albae—White Lies—or Album Trifles— Fruits of
+							the idle hours that I have wasted in rhyming.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-07">
+					<head>7 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="107" type="ms"/>
+						<p><date>7. III:50. </date>Friday.</p>
+						<list>
+							<item>Elizabeth C Adams</item>
+							<item>Quincy Edmund</item>
+							<item>Babcock</item>
+						</list>
+						<table>
+							<row>
+								<cell>Sun rose, by my Chronometer</cell>
+								<cell>4:29.</cell>
+								<cell>Set</cell>
+								<cell>7:36.</cell>
+							</row>
+
+							<row>
+								<cell>By the American Almanac</cell>
+								<cell>4:22</cell>
+								<cell/>
+								<cell>7:33</cell>
+							</row>
+						</table>
+						<p>I saw them both from the eastern pillar of the portico of <persRef
+								ref="adams-charles2">my Sons</persRef> house— The length of the day,
+							from the first rising to the last sinking beam of the Sun was by my
+							observation fifteen hours and seven minutes; and by the American Almanac
+							fifteen hours and eleven minutes— By the computations of the American
+							Almanac, the morning solstice commences this day— That is the rising of
+							the Sun at Boston, is marked from this day to the 18<hi
+								rend="superscript">th.</hi> at 4:22—and on the 19<hi
+								rend="superscript">th.</hi> at 4:23 and thence continues later every
+							morning till the 30<hi rend="superscript">th.</hi> of December when it
+							is marked at 7:30. and so continues till the 9<hi rend="superscript"
+								>th.</hi> of January— After which it recedes again to 7:29.— But the
+							setting Sun marked yesterday and this day at 7:33. continues to set
+							later till the 23<hi rend="superscript">d.</hi> marked at 7:40. and so
+							continues till the 3<hi rend="superscript">d.</hi> of July—receding on
+							the 4<hi rend="superscript">th.</hi> to 7:39. and continuing till the
+								4<hi rend="superscript">th.</hi> of December marked and thence to
+							the 16<hi rend="superscript">th.</hi> at 4:28—so that by the American
+							Almanac the length of the day from the 18<hi rend="superscript">th</hi>
+							to the 23<hi rend="superscript">d.</hi> of June is 15 hours and 17
+							minutes— On the 4<hi rend="superscript">th.</hi> of December the setting
+							sun is marked at 4:28 and so continues to the 16<hi rend="superscript"
+								>th.</hi>—and on the 17<hi rend="superscript">th.</hi> sets at 4:29.
+							rising at 7:24. and continuing to rise later until the 30<hi
+								rend="superscript">th.</hi> at 7:30— By this mode of computation the
+							morning solstice is from this day to the 18<hi rend="superscript"
+								>th.</hi> and the Evening solstice from the 23<hi rend="superscript"
+								>d.</hi> to the 3<hi rend="superscript">d.</hi> of July.— While the
+							Morning Winter Solstice is from 30. December to 9. January, and the
+							Evening Solstice from the 4<hi rend="superscript">th.</hi> to the 16<hi
+								rend="superscript">th.</hi> of December.— This the effect of the
+							equation of time. But by the American Almanac the length of the day on
+							the 15<hi rend="superscript">th</hi> of December is 9 hours 5 minutes on
+							the 16<hi rend="superscript">th.</hi>
+							<hi rend="strikethrough">and 17</hi><hi rend="superscript strikethrough"
+								>th.</hi> 9 hours and 4 minutes—on the 17<hi rend="superscript"
+								>th.</hi> again 9 hours and 5 minutes, and on the 18<hi
+								rend="superscript">th.</hi> and to the 26<hi rend="superscript"
+								>th.</hi> again 9 hours and 4 minutes. There must be in this some
+							error—perhaps of the press.— From the difference of true and apparent
+							time the shortest night in Summer is 8 hours and 43 minutes: while the
+							shortest day in Winter is 9 hours and 4. minutes— Still a mystery to me.
+							In my Nursery visitations I found the leading shoot of the finest of my
+							shagbark seedlings broken off—a sad disappointment. <persRef
+								ref="kirk-john">Kirke</persRef> and <persRef ref="dumphy-thomas"
+								>Thomas</persRef> mowed the grass in the seminary and front yard—
+							Peonies open full— Visit from <persRef ref="quincy-edmund4">Edmund
+								Quincy</persRef>—convalescent, but an invalid— <persRef
+								ref="adams-elizabeth">Elizabeth C. Adams</persRef> dined with
+								<persRef ref="adams-louisa-catherine">us</persRef>— <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Babcock</persRef>, who was the
+							teacher at one of the public schools, when I visited them last fall,
+							brought me the proof slip of the remainder of my first Letter to the
+							Petitioners, to be published in the Quincy Patriot to-morrow— The Letter
+							to the Petitioners and inhabitants of the District, goes over to the
+							next week— Charles went to Boston and returned home to dine. I brought
+							from his house the volume of the Prior Documents, to consult for the
+							year 1768.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-08">
+					<head>8 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. IV. </date>Saturday</p>
+						<p>Sun rose 4:22. not entirely clear—</p>
+						<p>Boston— Medford— Dinner with <persRef ref="brooks-peter">M<hi
+									rend="superscript">r</hi> P. C. Brooks</persRef>— back to
+							Quincy.</p>
+						<p>I went with <persRef ref="adams-charles2">Charles</persRef> to Boston,
+							and thence to Medford, and dined with M<hi rend="superscript">r</hi> P.
+							C. Brooks, and the trustees of the agricultural Society— M<hi
+								rend="superscript">r</hi> Brooks and his Sons <persRef
+								ref="brooks-peter2">Peter C.</persRef> and <persRef
+								ref="brooks-gorham">Gorham</persRef>, my Son, <persRef
+								ref="appleton-nathan">Nathan Appleton</persRef>, <persRef
+								ref="codman-henry">Henry Codman</persRef>, <persRef
+								ref="colman-henry">Henry Colman</persRef>,<space/><persRef
+								ref="derby-ezekiel">Derby</persRef>, <persRef ref="everett-edward"
+								>Governor <hi rend="italic">Edward</hi>
+								<pb n="108" type="ms"/>Edward Everett</persRef><space/><persRef
+								ref="phinney-elias">Finney</persRef>. <persRef ref="gorham-benjamin"
+								>Benjamin Gorham</persRef>, <persRef ref="gray-john">John C
+								Gray</persRef>, <persRef ref="guild-benjamin">Benjamin
+								Guild</persRef>—<persRef ref="prescott-william">William
+								Prescott</persRef>, <persRef ref="quincy-john3">Josiah Quincy jun<hi
+									rend="superscript">r.</hi></persRef>
+							<persRef ref="welles-john">John Welles</persRef>, and <persRef
+								ref="winthrop-thomas">Thomas L. Winthrop</persRef> were the company—
+							Walk round the grounds of M<hi rend="superscript">r</hi> Brooks’s garden
+							before dinner— We returned home through Boston; and were housed at
+							Quincy before nine in the Evening— We had stopped at Boston from 10 till
+							1/2 past one. I called at <persRef ref="foster-james">M<hi
+									rend="superscript">r</hi> James H. Foster’s</persRef>, and saw
+								<persRef ref="foster-elizabeth">M<hi rend="superscript">rs</hi>
+								Foster</persRef> and <persRef ref="foster-louisa">her daughter
+								Louisa</persRef>— The family are in great affliction—M<hi
+								rend="superscript">rs</hi> Foster having recently had an apoplectic
+								shock—<persRef ref="foster-mary">Mary</persRef> having been these
+							two years in a decline—and <persRef ref="foster-william5"
+								>William</persRef> insane at a hospital— I visited the exhibition at
+							the Athenaeum; where the collection is unusually large, with pictures
+							purporting to be of great Italian, Flemish and Spanish Painters; but
+							most, if not all of them copies. A Madonna with the infant Jesus, and
+								<persRef ref="johnthebaptist">John the Baptist</persRef> of <persRef
+								ref="sanzio-raffaello">Raphael</persRef>, a large picture of a
+							master ship builder and his wife by <persRef ref="vanrijn-rembrandt"
+								>Rembrandt</persRef>, sundry pieces of <persRef ref="reni-guido"
+								>Guido</persRef>
+							<persRef ref="barbieri-giovanni">Guercino</persRef>, and <persRef
+								ref="vandyke-anthony">Van Dyke</persRef>, entered on the catalogue
+							as originals, are all copies— Others entered as copies; particularly the
+							mistress and the first <persRef ref="rubens-isabella">wife</persRef> of
+								<persRef ref="rubens-peter">Rubens</persRef> are better— I met at
+							the exhibition room <persRef ref="davis-isaac">M<hi rend="superscript"
+									>r</hi> Isaac P. Davis</persRef>, <persRef ref="u">M<hi
+									rend="superscript">rs</hi> Stuart</persRef>, the <persRef
+								ref="davis-elizabeth">daughter</persRef> of <persRef
+								ref="bussey-benjamin">M<hi rend="superscript">r</hi> Benjamin
+								Buzzey</persRef>, and <persRef ref="brooks-charles2">M<hi
+									rend="superscript">r</hi> Charles Brooks</persRef> and his
+							Sister— After two hours at the Athenaeum I went to the chamber of the
+							Historical Society, the key of which had been procured for me by M<hi
+								rend="superscript">r</hi> Isaac P. Davis, and I found him there— My
+							object was to find the papers of the controversy between <persRef
+								ref="adams-john">my father</persRef> and <persRef
+								ref="brattle-william">Gen<hi rend="superscript">l.</hi> William
+								Brattle</persRef> about the tenure of judicial office in 1773— I
+							found Volumes of the Boston Evening Post by <persRef
+								ref="fleet-thomas;fleet-john">Thomas and John Fleet</persRef>—and of
+							the Boston Gazette by <persRef ref="edes-benjamin">Edes</persRef> and <persRef ref="gill-john">Gill</persRef>, of the year 1773. both incomplete
+							both weekly papers, published on Mondays. In Fleet’s Post of 4. Jan<hi
+								rend="superscript">y</hi> 1773 there is a Letter signed W. Brattle
+							dated Cambridge 26. Dec<hi rend="superscript">r.</hi> 1772. referring to
+							some previous publication relating to a Town Meeting at Cambridge on the
+								14<hi rend="superscript">th.</hi> of December— And in <persRef
+								ref="edes-benjamin">Edes</persRef> and <persRef ref="gill-john"
+								>Gill’s</persRef> Gazette of 25. Jan<hi rend="superscript">y.</hi>
+							is a second Letter signed W. Brattle Jan<hi rend="superscript">y</hi>
+							18. 1773. Cambridge—and in the same papers of 1<hi rend="superscript"
+								>st.</hi> 8. and 22<hi rend="superscript">d.</hi> Feb<hi
+								rend="superscript">y</hi> 1773 and Letters signed John Adams.— The
+							Gazette of 15. Feb<hi rend="superscript">y</hi> is missing.— Brattle’s
+							Letter of 18 Jan<hi rend="superscript">y.</hi> is in answer to a
+							previous Letter of John Adams which I did not find— I had not time to
+							read these papers— I called at <persRef ref="weeksjordanandco">Weeks
+								Jordan and C<hi rend="superscript">os.</hi></persRef> Book-store, to
+							enquire if they had received from New-York a packet of my historical
+							discourse— I had received this morning a Letter from <persRef
+								ref="folsom-george">M<hi rend="superscript">r</hi> George
+								Folsom</persRef> Librarian of the New-York historical Society,
+							mentioning that he had forwarded a packet containing 100 copies to Weeks
+							Jordan and C<hi rend="superscript">o.</hi>— They had not received it,
+							but the shop-man promised when it should be received to send it to
+								<persRef ref="gillet-simon">M<hi rend="superscript">r.</hi>
+								Gillett</persRef> driver of the Quincy Stage— At 1/2 past 1. I met
+							Charles at Hawley-Place, and we proceeded to Medford— <persRef
+								ref="adams-louisa-catherine">My wife</persRef>, with <persRef
+								ref="hellen-mary">M<hi rend="superscript">rs</hi> John
+								Adams</persRef>, <persRef ref="cutts-mary">Miss Cutts</persRef> and
+								<persRef ref="adams-mary4">Mary-Louisa</persRef> went also this
+							morning to Boston, and returned home to dine— I received this morning
+							Letters from <persRef ref="lewis-charles">Lewis</persRef> and <persRef
+								ref="u">Pierce</persRef> at Brooklyn LI—and from <persRef
+								ref="smith-william-steuben">W. S. Smith</persRef> at Washington— And
+							a cover from <persRef ref="edwards-james">J. L. Edwards</persRef>
+							Commissioner of Pensions enclosing a certificate of a five years pension
+							of 600 dollars a year for <persRef ref="varick-maria">Maria
+								Varick</persRef> of New-York.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-09">
+					<head>9 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="109" type="ms"/>
+						<p><date>9. IV:30. </date>Sunday.</p>
+						<list>
+							<item>Pierpont John Rev<hi rend="superscript">d</hi></item>
+							<item>Lee William </item>
+							<item>Greenleaf E. Price </item>
+							<item>Adams Isaac Hull</item>
+							<item>Elizabeth C. Adams</item>
+						</list>
+						<p>Heard <persRef ref="pierpont-john">M<hi rend="superscript">r</hi>
+								Pierpont</persRef> of Boston, this morning from Genesis 1.3. “And
+							God said, let there be light:”—a very ingenious and eloquent discourse;
+							full of beautiful description and poetical imagery— With frequent
+							indirect allusions to the fashionable darkness, and suppression of the
+							light at the present time. M<hi rend="superscript">r</hi> Pierpont cited
+							in the course of his Sermon the first line of the third Book of Paradise
+							Lost— “Hail! holy light! Offspring of Heaven first born”— He dined with
+								<persRef ref="adams-louisa-catherine">us</persRef>, and I asked him
+							if he could tell the exact meaning of <persRef ref="milton-john"
+								>Milton</persRef> in the whole of that passage? I said I understood
+							it as expressing a doubt whether light itself is not eternal and
+							uncreated; and hesitating whether he may avow this
+								dou<unclear>bt.</unclear> We examined the passage in <persRef
+								ref="todd-henry">Todd’s</persRef> Milton, and found a note upon the
+							passage by <persRef ref="newton-isaac">Newton</persRef>, who understands
+							it in the same way— But the 3<hi rend="superscript">d.</hi> verse of the
+								1<hi rend="superscript">st.</hi> chapter of Genesis seems very
+							explicitly to affirm the creation of light by God, and of course the
+							pre-existence of God— M<hi rend="superscript">r</hi> Pierpont said that
+							the word <hi rend="italic">created</hi> in the first verse of the
+							English Bible, does not in the original hebrew import absolute
+							creation—but mere making. So says and argues <persRef
+								ref="voltaire-francois">Voltaire</persRef>.— M<hi rend="superscript"
+								>r</hi> Pierpont’s afternoon text was from Matthew 4:4. “But he
+							answered and said, it is written, Man shall not live by bread alone, but
+							by every word that proceedeth out of the mouth of God.” I read the 8<hi
+								rend="superscript">th.</hi> Sermon of the 12<hi rend="superscript"
+								>th.</hi> Volume of <persRef ref="saurin-jacques">Saurin</persRef>,
+							upon moral martyrdom; but scarcely had gotten through it, when <persRef
+								ref="lee-william">M<hi rend="superscript">r</hi> William
+								Lee</persRef> came to visit us; and stayed till after Sunset, and
+							was followed by <persRef ref="greenleaf-ezekial">E. Price
+								Greenleaf</persRef> and then by <persRef ref="adams-isaac">Isaac
+								H</persRef> and <persRef ref="adams-elizabeth">Elizabeth C.
+								Adams</persRef>— The day was thus consumed; but I closed it by
+							finishing the copy of my version of the heroid; from <persRef
+								ref="phyllis">Phyllis</persRef> to <persRef ref="demophoon"
+								>Demophoon</persRef>; and copying my lines upon the Polestar and the
+							Pointers. <persRef ref="adams-charles2">Charles</persRef> was unwell,
+							with a severe head-ache.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-10">
+					<head>10 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-10"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Anti-Slavery Petitions to Congress</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. IV:15. </date>Monday</p>
+						<list>
+							<item>French Thomas</item>
+							<item>Everett</item>
+							<item>Adams Isaac Hull</item>
+							<item>Greenleaf E. Price</item>
+						</list>
+						<p>Sun rose 4:22. By my Chronometer 4:30:50. from my window.</p>
+						<p><persRef ref="french-thomas">M<hi rend="superscript">r</hi>
+								French</persRef>, a member of the Senate of the Commonwealth from
+							the County of Norfolk, and an inhabitant of Canton, with <persRef
+								ref="u">M<hi rend="superscript">r</hi> Everett</persRef>, also a
+							citizen of that town came this morning, as a Committee from the
+							inhabitants of the town, without distinction of party, to invite me to
+							deliver to them an address on the 4<hi rend="superscript">th</hi> of
+							July approaching, which they have determined to commemorate.— I assured
+							them of my great regret that it would not be in my power to comply with
+							this invitation; having already declined two others for the same
+							occasion—one at Bath in the State of Maine, and the other at Springfield
+							in the County of Hampden—and having been also under the necessity for
+							the last year or two, to decline all engagements for public speaking in
+							advance, owing to the infirmity and uncertainty of my voice— They asked
+							me then to send them a Sentiment, for a toast at the dinner, which I
+							promised to do— <persRef ref="adams-isaac">Isaac H. Adams</persRef> was
+							here before, and <persRef ref="greenleaf-ezekial">E. Price
+								Greenleaf</persRef> after dinner—but I was napping when M<hi
+								rend="superscript">r</hi> Greenleaf came, and did not see him—
+							Visited my seedlings, without making one useful observation—sowed sundry
+							elm seeds, without probability that any one of them will come up. Wrote
+							a short Letter to <persRef ref="lewis-charles">Lewis</persRef> and
+								<persRef ref="u">Pierce</persRef> of Brooklyn, Long Island, and
+							shamefully wasted the rest of the day in idleness— I gave M<hi
+								rend="superscript">r</hi> French and M<hi rend="superscript">r</hi>
+							Everett each a printed copy of my two Letters to the Petitioners, whose
+							petitions were sent to me for presentation to <hi rend="italic">the</hi>
+							<pb n="110" type="ms"/>the House of Representatives of the United
+							States, at the late Session of Congress.—having this morning received 30
+							copies of the second from <persRef ref="gales-joseph">Gales</persRef> and <persRef
+								ref="seaton-william">Seaton</persRef>; separately printed; as
+							published in the National Intelligencer of 28. May— I received also 50
+							copies of the Jubilee of the Constitution—the Discourse prepared by
+							invitation of the New-York historical Society and in part delivered
+							before them on the 30<hi rend="superscript">th.</hi> of April last—
+							Spent the Evening with the <persRef
+								ref="adams-louisa-catherine;hellen-mary">Ladies</persRef> at
+								<persRef ref="adams-charles2">Charles’s</persRef>—<persRef
+								ref="woodward-ebenezer;greenleaf-mary3">D<hi rend="superscript"
+									>r</hi> and M<hi rend="superscript">rs</hi> Woodward</persRef>
+							were there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-11">
+					<head>11 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. III.30. </date>Tuesday</p>
+						<list>
+							<item>Lunt William Parsons</item>
+							<item>M<hi rend="superscript">rs</hi> Edward Miller</item>
+							<item>M<hi rend="superscript">rs</hi><space/></item>
+							<item>Miss Hannah Miller</item>
+							<item>Elizabeth C. Adams</item>
+						</list>
+						<p>Sun rose by my Chronometer at 4:27. from <persRef ref="adams-charles2"
+								>Charles’s</persRef> house</p>
+						<p>Sun set, from the same porch at 7:37</p>
+						<p><persRef ref="lunt-william">M<hi rend="superscript">r</hi> Lunt</persRef>
+							called, this morning; and observing that this was the year completing
+							two centuries since the gathering of the Church at Mount Wollaston, said
+							that he supposed it would be expected that some notice should be taken
+							of it, and enquired if I had any books or information that I could give
+							him—of historical interest; and to which it would be useful to advert— I
+							lent him the volume containing <persRef ref="morton-thomas2"
+								>Morton’s</persRef> New English Canaan—Woods Wonder working
+							Providence, and <persRef ref="johnson-edward"
+							>Johnson’s</persRef><space/>and also the copy of the first Volume of the
+							Town Records. He said he had <persRef ref="whitney-george2">George
+								Whitney’s</persRef> History of Quincy, and <persRef
+								ref="hancock-john2">M<hi rend="superscript">r</hi>
+								Hancock’s</persRef> two Sermons, delivered on the first centurial
+							anniversary of the gathering of the Church— I find on recurring to
+								<persRef ref="winthrop-john">Winthrop’s</persRef> Journal—<persRef
+								ref="savage-james">Savage’s</persRef> Edition that the day of the
+							ordination of the first ministers <persRef ref="tompson-william"
+								>Tompson</persRef> and <persRef ref="flynt-henry">Flint</persRef> was the 17<hi rend="superscript"
+								>th.</hi> of September 1639. with which the 29<hi rend="superscript"
+								>th.</hi> of next September will correspond—and that will be on
+							Sunday I mentioned to M<hi rend="superscript">r</hi> Lunt my belief that
+							the first settlers of the town of Braintree came from a town of the same
+							name in the County of Essex in England— <persRef ref="adams-john">My
+								father</persRef> thought they came from Devonshire. I sent by
+							Charles to friends in Boston 9 copies of my New-York Discourse; but it
+							seems as if it were impossible for me to accomplish any thing upon my
+							father’s biography— This afternoon I looked up the papers relating to my
+							Administration upon the Estate of <persRef ref="boylston-thomas2">Thomas
+								Boylston</persRef> de bonis non with the will annexed—for which I am
+							under bond to the judge of Probate for the County of Suffolk in the
+							penal sum of eighty thousand dollars— I found it necessary that I should
+							petition the judge for liberty to accept the compromise of the claim
+							upon <persRef ref="vaughan-petty">Petty Vaughan</persRef>, which has been approved by the judge of Probate for
+							the County of Norfolk; for the Executors of <persRef ref="boylston-ward"
+								>Ward N. Boylston</persRef>, and for the Execution of which M<hi
+								rend="superscript">r</hi> Vaughan has sent a Release ready drawn to
+							be executed as well by me in the capacity of Administrator to Thomas
+							Boylston, as by the Executors of Ward N. Boylston.— I began the draught
+							of a Petition to the judge of Probate, but the afternoon was gone and I
+							had made little progress in it— By observance of the rising and setting
+							Sun from the same spot I found the length of the day 15 hours 10.
+							minutes— <persRef ref="miller-caroline">M<hi rend="superscript">rs</hi>
+								Edward Miller</persRef> with her Sister <persRef
+								ref="spooner-hannah">M<hi rend="superscript">rs</hi>
+								Spooner</persRef> and <persRef ref="miller-hannah2">her
+								daughter</persRef> were here this Evening, with <persRef
+								ref="adams-elizabeth">Elizabeth C. Adams</persRef>; and I spent an
+							hour with my neighbour <persRef ref="appleton-william2">M<hi
+									rend="superscript">r</hi> William Appleton</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-12">
+					<head>12 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="111" type="ms"/>
+						<p><date>12. IV:15. </date>Wednesday</p>
+						<list>
+							<item>Spear William.</item>
+							<item>Colman Henry</item>
+							<item>Greenleaf Daniel—</item>
+						</list>
+						<list>
+							<head rendition="#bracket-left">Length of the day at my house 15 hours
+								and 15 seconds.</head>
+							<item>Sun rose from S.E. window 4:29:15</item>
+							<item>Set from N.W. window 7:30:30. </item>
+						</list>
+
+						<p><persRef ref="spear-william">Deacon Spear</persRef> was with me, and left
+							papers with me for the conveyance of one of my pews in the meeting house
+							N. 74 to <persRef ref="spear-seth2">Seth Spear</persRef>— I gave the
+							Deacon the Congressional Document 297. containing the correspondence
+							between the Secretary of the Treasury and the defaulting collectors and
+							receivers of public monies, and a copy of my Discourse to the New-York
+							historical Society, which I have called the Jubilee of the Constitution—
+							After dinner <persRef ref="colman-henry">M<hi rend="superscript">r</hi>
+								Henry Colman</persRef> came with <persRef ref="greenleaf-daniel"
+									>M<hi rend="superscript">r</hi> Daniel Greenleaf</persRef> who
+							immediately withdrew, and left M<hi rend="superscript">r</hi> Colman
+							with me— M<hi rend="superscript">r</hi> Colman has an appointment under
+							the State Government as Commissioner of Agriculture for the
+							Commonwealth, and he made some enquiries concerning my farming, which I
+							told him was all by proxy— He left with me a sheet of printed enquiries
+							relating to farming, which he asked me to give to my farmer <persRef
+								ref="carr-john2">J. J. Carr</persRef> with a request that he would
+							answer them upon the paper itself— He said he had been to the Mount
+							Wollaston farm, and had given a similar sheet to <persRef
+								ref="spear-alpheus">Alpheus Spear</persRef>, who had promised to
+							answer the enquiries— But M<hi rend="superscript">r</hi> Colman had
+							another object which was to offer to write a Memoir of the life of
+								<persRef ref="adams-abigail">my mother</persRef>; whom he said he
+							had almost adored: a proposal which I promised to take into
+							consideration— M<hi rend="superscript">r</hi> Colman is a highly
+							respectable worthy and intelligent man; but the task of writing a memoir
+							of the life of my mother ought to be performed by myself or by my Son— I
+							answered a Letter from <persRef ref="presbury-benjamin">B. F.
+								Presbury</persRef>. <persRef ref="atwood-charles">C. R.
+								Atwood</persRef>, and <persRef ref="crocker-w">W. Crocker</persRef>,
+							a Committee of young men of Taunton who propose to celebrate the next
+							Independence day, and invite me to deliver the Oration before them. and
+							a Letter from <persRef ref="marston-john">M<hi rend="superscript">r</hi>
+								John Marston</persRef> enclosing theirs— I decline— I finished the
+							draught of a representation, and Petition to the judge of Probate for
+							the County of Suffolk, for his consent and approbation, for me as
+							Administrator de bonis non, with the Will annexed of <persRef
+								ref="boylston-thomas2">Thomas Boylston</persRef>, the Indenture of
+							release to <persRef ref="vaughan-petty">Petty Vaughan</persRef>— I am
+							still dissatisfied with the employment of the day; too much of which was
+							idled away in visiting my nursery, seminary and garden plantations, all
+							of which I shewed to M<hi rend="superscript">r</hi> Colman— I obtained
+							from him no useful information respecting the raising of seedling trees;
+							but he told me that there was a common prejudice, which he believed
+							unfounded that the Ash tree is unhealthy— I had never heard of this
+							before— I am taking some pains to save from death several cherry and
+							black walnut trees in the Seminary—for which purpose <persRef
+								ref="kirk-john">Kirk</persRef> dug round them and disencumbered
+							their roots from weeds—particular attention to one budded cherry; and
+							one black walnut which I had thought dead; but has within a few days put
+							out a vigorous side shoot— <persRef ref="adams-charles2"
+								>Charles</persRef>, <persRef ref="adams-abigail4">his wife</persRef>
+							and <persRef ref="adams-charles7;adams-john17;adams-louisa3">three elder
+								children</persRef> dined with us, as usual every Wednesday. He and
+							his wife spend with us every fair Evening.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-13">
+					<head>13 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. IV. </date>Thursday</p>
+						<p>Sun rose, by my Chronometer from <persRef ref="adams-charles2"
+								>Charles’s</persRef> house at 4:26:25</p>
+						<p><persRef ref="adams-louisa-catherine">My wife</persRef> and <persRef
+								ref="adams-abigail4">Charles’s</persRef> with <persRef
+								ref="cutts-mary">Miss Cutts</persRef> and <persRef ref="adams-mary4"
+								>Mary-Louisa</persRef> went into Boston to see the exhibition of
+							Pictures at the Athenaeum, and returned home to dinner— The Sun rose
+							perfectly clear, but cloudly thickly before Noon, and after two or three
+							showers of rain settled into a cold Northeastern gale without rain— Miss
+							Cutts has a small Album with engraved devices at the top of <hi
+								rend="italic">some</hi>
+							<pb n="112" type="ms"/>some of the pages— There are some pretty lines of
+								<persRef ref="everett-edward">Edward Everett</persRef> on a
+							Cottage—and two lines equally ingenious and delicate from <persRef
+								ref="madison-james">M<hi rend="superscript">r</hi> Madison</persRef>
+							signed J. M.</p>
+						<lg>
+							<l>“Errors like straws upon the surface flow—</l>
+							<l>He who would search for pearls must look below.[”]</l>
+						</lg>
+						<p>and <hi rend="italic">below</hi>, are verses of <persRef
+								ref="madison-dolley">M<hi rend="superscript">rs</hi>
+								Madison</persRef>— There is a flat complimentary prosaic of <persRef
+								ref="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef>—
+								<persRef ref="martineau-harriet">Miss Martineau</persRef> says that
+								<persRef ref="watts-isaac">Watts</persRef> is laid under
+							contribution for all the album poetry in this Country— I have seen very
+							little in any Album so good as the worst verses of Watts.— I have kept
+							copies of all my contributions to Album’s, and I sicken at the sight of
+							them— Miss Cutts’s Album has been laying on my table these ten days, and
+							I have been at my wits end for something to write in it— But she is now
+							to leave us in a few days to visit some of her relations in Maine—and
+							something I must write— There is at the top of one of the pages of the
+							book an engraving of Roses in bloom, with a tambarine lying over them,
+							and a lyre leaning upon the tambarine— The page below was blank,—and
+							here was matter for musing meditation. I wrote a Sonnet, and having
+							finished it, laughed aloud at myself to think what I should say, if she
+							should ask me the meaning of it— “Fluttering spread thy purple pinions”
+							is good sense and connected thought in comparison with it— A Sonnet of
+							nonsense is better for an Album than pillage from Watts— Miss Cutts
+							desires autographs also of <persRef ref="adams-john;adams-abigail">my
+								father and mother</persRef>—and on looking over my mother’s papers I
+							found the draught of a Letter from her to me written in 1783. and on the
+							back of a Letter franked by my father, with his signature— I gave this
+							to Miss Cutts— But all this absorbed the morning and I was barely able
+							to write a short Letter to <persRef ref="folsom-george">George
+								Folsom</persRef>, the Librarian of the New-York Historical Society—
+							Afternoon I draughted a Deed of pew N. 74. in the Stone Meeting House,
+							to <persRef ref="spear-seth">Seth Spear</persRef>, and began the
+							Petition to the judge of Probate for the County of Suffolk, for
+							authority to execute the Indenture of release to <persRef
+								ref="vaughan-petty">Petty Vaughan</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-14">
+					<head>14 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-14"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. IV. </date>Friday.</p>
+						<list>
+							<item>Presbury B. F. </item>
+							<item>Faxon James</item>
+							<item>Beale George W</item>
+							<item>Ann Beale</item>
+							<item>Caroline Beale</item>
+							<item>Adams Isaac H</item>
+							<item>Elizabeth C. Adams </item>
+							<item>Green John A. </item>
+						</list>
+						<table>
+							<row>
+								<cell>Sun rose by my Chronometer</cell>
+								<cell>4:28.25</cell>
+								<cell>from my East window</cell>
+							</row>
+							<row>
+								<cell>Set</cell>
+								<cell>7:30.</cell>
+								<cell>from the North window.</cell>
+							</row>
+						</table>
+
+						<p>My long visits to my garden, Nursery, Seminary and Orchard are daily
+							made, and constitute almost the only exercise that I take. They make me
+							feel no small humiliation, at the numberless observations that I make
+							and immediately forget—and at my own barrenness of invention, and utter
+							ignorance of the art of training and medicating my trees— I spent three
+							hours of this day in going over all my garden grounds; in witnessing the
+							slow growth of the seedlings that survive; and the multitudes that
+							perish— <persRef ref="kirk-john">Kirk</persRef> sawed off a large stump
+							of an Apple tree in the Orchard, and cut away a whole bush of suckers
+							around it, leaving one stem for an attempt to reproduce the tree.</p>
+						<pb n="113" type="ms"/>
+						<p><persRef ref="adams-charles2">Charles</persRef> went to Boston, and
+							returned to dine— I sent by him a Letter to <persRef
+								ref="curtis-nathaniel">M<hi rend="superscript">r</hi>
+								Curtis</persRef>, and the draught of a Petition to <persRef
+								ref="phillips-willard">Willard Phillips</persRef> the judge of
+							probate for the County of Suffolk, which I propose to present next
+							Monday as Administrator of <persRef ref="boylston-thomas2">Thomas
+								Boylston</persRef>.— I sent also ten copies of the Discourse to
+							sundry friends in Boston. <persRef ref="presbury-benjamin">M<hi
+									rend="superscript">r</hi> B. F. Presbury</persRef>, one of the
+							Committee of the whigs of Taunton who propose to celebrate the
+							anniversary of Independence, and sent me an invitation to deliver an
+							Oration before them, came with a Letter from <persRef ref="marston-john"
+									>M<hi rend="superscript">r</hi> Marston</persRef>, and to repeat
+							and urge the invitation.— I had despatched answers yesterday both to
+								M<hi rend="superscript">r</hi> Marston, and to the Committee, but
+							they had not been received this morning. I repeated to M<hi
+								rend="superscript">r</hi> Presbury my regret at being unable to
+							decline the invitation— <persRef ref="faxon-james">M<hi
+									rend="superscript">r</hi> James Faxon</persRef>
+							<unclear>came</unclear> this afternoon with a Braintree tax of 1.
+							dollars 36. cents for repairs on the highways &amp; which I paid— After
+							dinner I walked over the hill and plucked up two wild strawberry plants,
+							which I set out in my seminary, to make again the experiment of
+							transplanting the Strawberry for cultivation, with which I have twice
+							failed. The plants before took root but bore no fruit. I have now taken
+							a plant in bearing— <persRef ref="adams-isaac">Isaac Hull
+								Adams</persRef> and his Sister <persRef ref="adams-elizabeth"
+								>Elizabeth</persRef>, <persRef ref="beale-george">M<hi
+									rend="superscript">r</hi> Beale</persRef> and <persRef
+								ref="beale-ann;beale-caroline">his two daughters</persRef> spent the
+							Evening here; and <persRef ref="green-john3">M<hi rend="superscript"
+									>r</hi> Green</persRef> the publisher of the Quincy Patriot
+							brought me the proof slip of my Letter to the Petitioners from the 12<hi
+								rend="superscript">th</hi> Congressional District of Massachusetts;
+							to be published in the paper of to-morrow. which I revised, and returned
+							to him. He promises me 100 copies of this Letter for distribution—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-15">
+					<head>15 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. III:55 </date>Saturday</p>
+						<list>
+							<item><persRef ref="quincy-lucilla">M<hi rend="superscript">rs</hi>
+									Edmund Quincy</persRef></item>
+							<item><persRef ref="quincy-abigail">Miss Abby Quincy</persRef>.</item>
+						</list>
+						<p>The Sun rose by my Chronometer at 4:25:45 at the corner of <persRef
+								ref="adams-charles2">Charles’s</persRef> house— On perceiving his
+							first beam I came immediately over to my own window, and at 4:30 found
+							the disk of the Sun about 4 digits above the horizon; so that when the
+							first beam appears here the whole disk is up from Charles’s house— A
+							difference of 3 minutes, and 15 Seconds— The Sunset from Charles’s house
+							was not quite clear, a cloud bordering the horizon into which the lower
+							part of the Sun’s disk sunk before reaching the surface of the Earth—at
+							7:40— This gives 15 hours 15 minutes as the length of the day. By the
+							American Almanac the Sun rose this day at 4:22. and set at 7:38 agreeing
+							as exactly as possible with my observation, making an allowance of the
+							Sun’s disk for the elevation of Charles’s house— I went the rounds of my
+							garden Nursery Orchard and seminary; discovering only that the
+							experiment of making a second Oak tree from the Black-jack Oak, by
+							taking off the stem, and a long root, has failed, the severed stem,
+							after putting forth puny leaves being now dead. The same experiment with
+							the elm appears as yet to have succeeded.— The spindle chesnut Oak,
+							which I topped in the summer house cellar has put out buds, and one of
+							the seminary transplanted black walnuts which I thought dead has put
+							forth a promising shoot— All the peach-trees are afflicted with crumpled
+							leaves; yet many of them are bearing. I manured and watered the seedling
+							beds to which I yesterday transplanted the Strawberry plants from over
+							the hill.— The morning thus melted away— I finished reading the
+							introductory Section of <persRef ref="prescott-william2">W. H.
+								Prescott’s</persRef>
+							<hi rend="italic">history</hi>
+							<pb n="114" type="ms"/>History of <persRef ref="ferdinandofaragon"
+								>Ferdinand</persRef> and <persRef ref="isabella-i"
+								>Isabella</persRef>, being the summary preliminary history of
+							Castile— The Style is very good, and the evidence of research in Spanish
+							documents exemplary; but it wants interest; and the perpetual commentary
+							of Notes at the bottom of every page exceedingly tiresome— This practice
+							is almost exclusively confined to modern English Historians and is in
+							direct violation of all rules of unity in composition— Every note is a
+							digression, and diverts the attention of the reader, from the subject— A
+							very large proportion of these notes should have been woven into the
+							text— Notes and Commentaries, except the mere citation of authorities,
+							should be thrown into separate dissertations and published at the end of
+							each volume—and there should not be many of them. I answered a Letter
+							from <persRef ref="kennedy-alfred">Alfred L Kennedy</persRef> who in the
+							name of sundry Literary Societies at Philadelphia, has invited me to
+							deliver an Oration before them on the 4<hi rend="superscript">th</hi> of
+							next Month—the fifth invitation of the same kind for this year which I
+							have declined— I wrote also to <persRef ref="smith-william-steuben">W.
+								S. Smith</persRef>, to <persRef ref="frye-nathaniel">Nathaniel
+								Frye</persRef>, and to <persRef ref="vail-aaron2">Aaron
+								Vail</persRef>, which consumed the day. Evening at <persRef
+								ref="greenleaf-daniel">Daniel Greenleafs</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-16">
+					<head>16 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-16"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16 III:50. </date>Sunday</p>
+						<p>Heard <persRef ref="lunt-william">M<hi rend="superscript">r</hi>
+								Lunt</persRef> this morning from Romans 7 22. “For I delight in the
+							Law of God after the inward man: but I see another Law in my members,
+							warring against the law of my mind, and bringing me into captivity to
+							the law of sin which is in my members”— and <persRef ref="whitney-peter"
+									>M<hi rend="superscript">r</hi> P. Whitney</persRef> in the
+							afternoon from 1. Corinthians 15.53 [“]For this corruptible must put on
+							incorruption, and this mortal must put on immortality.” M<hi rend="superscript">r</hi> Whitney
+							is conscious of his own approach to the borders of the future world. His
+							last Sermon on the 19<hi rend="superscript">th</hi> of last month was
+							from this same 15<hi rend="superscript">th.</hi> chapter of 1.
+							Corinthians and upon a future life— M<hi rend="superscript">r</hi> Lunt
+							made this morning a most impressive quotation from <persRef
+								ref="paley-william">Paley</persRef>: a remark upon John 5.28.29.
+							[“]for the hour is coming, in the which all that are in the graves shall
+							hear his voice—and shall come forth; they that have done good, unto the
+							resurrection of life; and they that have done evil unto the resurrection
+							of damnation.”— That if Jesus Christ had in his whole life done nothing
+							more than speak those words he would have been a greater benefactor to
+							the human race than all the philosophers that ever lived.— Perhaps this
+							is hyperbolical— I believe the doctrine of future rewards and
+							punishments indispensable to any system of good morals, but it was
+							distinctly taught in the Greek and Roman Mythology— It was believed by
+							the Jews before the time of Jesus, excepting by the Sadducees— It was no
+							doubt the most essential and vital part of the Religion of Jesus and
+							perhaps the only part which required his mission upon earth— The Law of
+							benevolence, and the law of future retribution are the two pillars of
+							Christianity. Without the former the latter is unnecessary— Without the
+							latter, the former is useless. I read the 9<hi rend="superscript"
+								>th.</hi> Sermon of the 12<hi rend="superscript">th.</hi> Volume of
+								<persRef ref="saurin-jacques">Saurin</persRef>, upon the disgust
+							with the world and <pb n="115" type="ms"/>and the contempt of life—not
+							one of his best. The pictures of the miseries of human life are
+							exaggerated— He remarks upon the contrast between the representations of
+							life in the book of Ecclesiastes, and those in the proverbs of <persRef
+								ref="solomon">Solomon</persRef>. I have often thought of them, and
+							still more of the mutual opposition between the Ecclesiastes and the
+							Song of Solomon— Saurin puts the question without answering it
+							satisfactorily which of the two representations is to be considered as
+							divinely inspired— There seems to be more of philosophical reflection in
+							the Ecclesiastes and more of precept in the Proverbs— <persRef ref="u"
+								>The wife</persRef> of my farmer <persRef ref="carr-john2">John J.
+								Carr</persRef> was this day delivered of a <persRef ref="u"
+								>Son</persRef>; after several years of marriage without a child.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-17">
+					<head>17 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. III:50. </date>Monday</p>
+						<list>
+							<item>Davis John </item>
+							<item>Davis Isaac P.</item>
+							<item>Bancroft George</item>
+						</list>
+						<p>Boston— Probate Court— Home to dine. </p>
+						<p>Beclouded morn and Evening— But I made an experiment of manuring the
+							ground round the apple-seedling tree in the yard fronting my window, and
+							near the gate and old Horse Chesnut. I went with <persRef
+								ref="dumphy-thomas">Thomas Dumphy</persRef> to Boston in <persRef
+								ref="adams-charles2">Charles’s</persRef> four wheeled Chaise— Met at
+							his Office <persRef ref="curtis-nathaniel">M<hi rend="superscript"
+									>r</hi> Nathaniel Curtis</persRef>, who went with me to the
+							Probate Court Office—of which <persRef ref="phillips-willard">Willard
+								Phillips</persRef> is the judge, and<space/><persRef
+								ref="peabody-oliver">Peabody</persRef> the Register— I presented to
+							the judge my Petition as Administrator de bonis non of <persRef
+								ref="boylston-thomas2">Thomas Boylston</persRef>, for his
+							approbation and consent for me to execute the Release to <persRef
+								ref="vaughan-petty">Petty Vaughan</persRef> a copy of which I
+							presented with the petition— I presented also an account of
+							Administration, charging myself with 9605 dollars 72 cents received of
+							Petty Vaughan being the amount of the dividend of 3 and 6 pence on the
+							pound of <persRef ref="vaughan-william">William Vaughan’s</persRef>
+							assetts; and claiming credit for the same sum paid over to the Executors
+							of <persRef ref="boylston-ward">Ward Nicholas Boylston</persRef>— I
+							produced as a voucher the receipt of M<hi rend="superscript">r</hi>
+							Curtis and <persRef ref="boylston-alicia">M<hi rend="superscript"
+									>rs.</hi> Boylston</persRef>; but the judge required also their
+							assent to the account— M<hi rend="superscript">r</hi> Curtis went with
+							me to <persRef ref="u">his Son’s</persRef> house, in
+							Pemberton Square. the new one—where M<hi rend="superscript">rs</hi>
+							Boylston was and where they both signed their assent to my account,
+							which I was sworn to by the judge and it was admitted.— There is an Act
+							of the Legislature of April 1838 authorising Executors and
+							Administrators to compound for bad debts; which the judge shewed me, and
+							said he thought it covered the whole case, and so thought I. He promised
+							to have the decree made out by tomorrow; and it is then to be delivered
+							to M<hi rend="superscript">r</hi> Curtis for transmission to me— And
+							then we are to execute the deed of release— Having found in the extracts
+							from the Diary of <persRef ref="sewall-samuel">Chief Justice
+								Sewall</persRef>, the time of my Ancestor <persRef
+								ref="quincy-daniel">Daniel Quincy’s</persRef> Death, and that he
+							made a Will I enquired for the record of 1690. and there found the Will,
+							of which I requested M<hi rend="superscript">r</hi> Peabody to have a
+							copy made out for me, which he promised— I met <persRef
+								ref="davis-isaac">Isaac P. Davis</persRef> in the Street, who gave
+							me a Letter to him from my old Classmate <persRef ref="harris-thaddeus"
+									>D<hi rend="superscript">r</hi> Harris</persRef>, with an offer
+							of a nephew of his to copy papers for me, at a rate from 3 to 6 cents
+							for 100 words— <persRef ref="davis-john9">M<hi rend="superscript">r</hi>
+								Davis</persRef> said <persRef ref="bancroft-george">M<hi
+									rend="superscript">r</hi> George Bancroft</persRef> wished to
+							come with him and visit me at Quincy this afternoon— I had stop’d this
+							morning at M<hi rend="superscript">r</hi> Bancroft’s, and at <persRef
+								ref="welles-john">M<hi rend="superscript">r</hi> John
+								Welles’s</persRef>, and left at each of them a copy of my Jubilee
+							Discourse— <persRef ref="bradford-alden">M<hi rend="superscript">r</hi>
+								Alden Bradford</persRef> called at Charles’s Office, and paid me for
+							him 15 dollars for the rent of the pew in Brattle square Church— I met
+							again at <persRef ref="foster-isaac">Foster’s</persRef> livery stable,
+							old <persRef ref="amory-francis">M<hi rend="superscript">r</hi>
+								<hi rend="italic">Francis</hi>
+								<pb n="116" type="ms"/>Francis Amory</persRef>, who told me he had
+							about a month since had a bad accident, of being thrown out of his
+							carriage, from which he was but just now recovering— I returned home to
+							dine, and after dinner received visits from <persRef ref="davis-john"
+								>judge Davis</persRef>, his brother Isaac P. and M<hi
+								rend="superscript">r</hi> George Bancroft— They visited my Garden
+							and Nursery; took tea, here and spent with me two hours very agreeably—
+							Isaac P. Davis brought me another proposal for copying the papers of
+								<persRef ref="adams-john">my father’s</persRef> controversy with
+								<persRef ref="brattle-william">General Brattle</persRef>, from a
+							young man named <persRef ref="u">Snelling</persRef> who offers to do it
+							for half a dollar a day which M<hi rend="superscript">r</hi> Davis
+							advises me to accept.— Charles and <persRef ref="adams-abigail4">his
+								wife</persRef> spent the Evening here, as they usually do when the
+							weather will permit— This was the anniversary of the Bunker’s hill, and
+							there was a bustle of military parade in Boston—and some Symptoms of
+							riot, upon a prosecution of a man for violation of the 15 gallon Law;
+							but it pass’d off quietly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-18">
+					<head>18 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-18"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Anti-Slavery Petitions to Congress</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. IV. </date>Tuesday</p>
+						<list>
+							<item>Loud David</item>
+						</list>
+						<p>Beclouded sky—in the morning, and heavy showers at Night— Yet I
+							endeavoured to aid the vegetation of a budded cherry tree, and a black
+							walnut in my seminary— Of the ten transplanted cherry seedlings in the
+							orchard two only give signs of life, and I have five plum seedlings
+							between life and death. <persRef ref="loud-david">David Loud</persRef>
+							was here to enquire for the Land warrant and power of attorney which he
+							says he sent to me, he thinks in the Winter of 1836–7. and which I have
+							not been able to find— He says there is a man by the name of <persRef
+								ref="u">Bowditch</persRef> who offers him 320 dollars for the
+							warrant of 160. Acres— I made two long searches among my papers last
+							Summer without finding those of M<hi rend="superscript">r</hi> Loud, and
+							I now promised to write to the Commissioner of the general Land-Office,
+							for a copy of the warrant and to ascertain how another warrant may be
+							obtained, instead of that which has been mislaid— I did accordingly
+							write to <persRef ref="whitcomb-james">M<hi rend="superscript">r</hi>
+								Whitcomb</persRef>— The multitude of papers which accumulate upon my
+							hands, particularly during the Sessions of Congress; together with a
+							failing memory and the lack of the assistance of a Secretary, which
+							during all the former years of my official life I had becomes
+							exceedingly perplexing— I now very frequently mislay important papers of
+							my own, and am for years together unable to find them— This is the first
+							instance in which it has happened to me, with the papers of other
+							persons.— My Diary has been extremely useful to me, for recurrence to
+							papers after a lapse of years; and so I found it the other day, in
+							looking up the papers concerning my Administration de bonis non of
+								<persRef ref="boylston-thomas2">Thomas Boylston</persRef>— But in
+							the latter weeks of a Session of Congress, I have found it impossible to
+							keep my Diary up with the current of time— During the three sessions of
+							the last Congress I have received nearly two thousand Petitions to be
+							presented to the House of Representatives—with hundreds of Letters full
+							of solicitude concerning them— I have accordingly been obliged to keep a
+							register of them which at the last Session, I published from time to
+							time in the <pb n="117" type="ms"/>National Intelligencer— Then my
+							constant attendance in the House, the part which I take in many of the
+							debates, and attendance upon committees, with a correspondence
+							constantly pressing, and often upon bagatelles, form altogether such a
+							pressure upon the brain that it often amounts to distraction— Household
+							cares—domestic economy, and the prudent management of my private
+							concerns add much to these labours, and social intercourse calls for its
+							hours; and relaxation extorts others— Public and private affairs too
+							often produce excitements under which I cannot write—and the languor of
+							exhaustion, and the drowsiness that follows sleepless nights disable me
+							from writing</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-19">
+					<head>19 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. III:30. </date>Wednesday</p>
+						<list>
+							<item>Adams Isaac Hull</item>
+							<item>Elizabeth C. Adams.</item>
+							<item>Miss Mary Harrod</item>
+							<item>Miss Hannah Miller</item>
+						</list>
+						<p>Cloudy morning. Missed the observation of the rising of the Sun—but he
+							set as observed from <persRef ref="adams-charles2">Charles’s</persRef>
+							porch precisely at 7:40, by my Chronometer, ten minutes later than from
+							my house— There was a volunteer parade of a Quincy Military company with
+							the Brass Band from Boston, who marched round the Streets, dined at
+								<persRef ref="u">French’s</persRef> tavern, and fired a Cannon, at
+							Sunrise Noon and Sunset— They marched by my house to the end of the
+							garden, and then back and over the hill, intending it as I was informed
+							for a salute— Charles with <persRef ref="adams-abigail4">his
+								wife</persRef>, <persRef ref="adams-louisa3">daughter</persRef> and
+								<persRef ref="adams-charles7;adams-john17">two sons</persRef> dined
+							with us as usual on Wednesday’s—and <persRef ref="adams-isaac">Isaac
+								Hull</persRef> and <persRef ref="adams-elizabeth">Elizabeth C.
+								Adams</persRef> with <persRef ref="harrod-mary2">Miss Mary
+								Harrod</persRef> late from New-Orleans, and <persRef
+								ref="miller-hannah2">Miss Hannah Miller</persRef> spent the Evening
+							here— I wasted as usual idle hours in looking at my plants, and another
+							portion in reading newspaper— I began a translation of <persRef
+								ref="ovid">Ovid’s</persRef> Epistle from <persRef ref="paris"
+								>Paris</persRef> to <persRef ref="helen">Helen</persRef>, but on
+							reading it over and the answer, I renounced the project altogether— The
+							Epistle from <persRef ref="penelope">Penelope</persRef> to <persRef
+								ref="ulysses">Ulysses</persRef>, has nothing exceptionable in it, as
+							to moral principle. That from <persRef ref="phyllis">Phyllis</persRef>
+							to <persRef ref="demophoon">Demophoon</persRef> is as good as a moral
+							Lecture; but these two are scandalous, and I will have nothing to do
+							with them— Charles brought me out from Boston the copy of <persRef
+								ref="quincy-daniel">Daniel Quincy’s</persRef> Will; which gives me a
+							little more knowledge of that unfortunate ancestor of mine— The eldest
+							son of the second <persRef ref="quincy-edmund2">Edmund
+							Quincy</persRef>—more than 30 years older than his brother the judge and
+							agent of the Province who died at London— The marriage of Daniel Quincy
+							was marked by one of the most signal instances of joy turned to mourning
+							that real life ever witnessed.— It was solemnized at the House of
+								<persRef ref="brattle-thomas">Thomas Brattle</persRef>, whose
+								<persRef ref="brattle-elizabeth">wife</persRef>, the aunt of the
+								<persRef ref="quincy-ann">bride</persRef>, suddenly died, in the
+							midst of the festivity, and her corpse was laid out in the bridal
+							chamber— Daniel Quincy himself died of a consumption on Saturday the
+								10<hi rend="superscript">th.</hi> of August 1690.—under 40 years of
+							age; leaving <persRef ref="holman-anna">two infant children</persRef>,
+							one of whom <persRef ref="quincy-john">John</persRef> was my
+							great-grandfather whose name I bear; and who made the name illustrious—
+							This will was written and is witnessed by the Chief Justice <persRef
+								ref="sewall-samuel">Samuel Sewall</persRef> and is dated 4. August
+							1690.— It is pleasing to me, by the bequest of a small bible with silver
+							clasps to his daughter then 5 years of age; and of <persRef
+								ref="pole-matthew">Pole’s</persRef> annotations on the Bible, and
+							his arms to his son John a child not a year old— And this is nearly all
+							that I know of an ancestor <hi rend="italic">whose</hi>
+							<pb n="118" type="ms"/>whose memory is yet very dear to me— I devoted
+							more of this day than I could well spare to the extracts from Chief
+							Justice Sewall’s Diary and began to make out minutes, to connect in a
+							narrative the ascertained facts concerning my ancestry— This diverts my
+							time from more necessary pursuits; mais c’est plus fort que moi.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-20">
+					<head>20 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. IV. </date>Thursday.</p>
+						<list>
+							<item>Adams Josiah jun<hi rend="superscript">r</hi></item>
+							<item>French Jonathan</item>
+							<item>Spear William</item>
+						</list>
+						<p>Sun rose, from the S.E. corner of <persRef ref="adams-charles2"
+								>Charles’</persRef> House precisely at 4:25. and was thus 8 hours 45
+							minutes, beneath the horizon. The day 15 hours 15 minutes long at the
+							Summer Solstice— According to the American Almanac the setting of the
+							Sun at Boston last Night was 7:39. and his rising this morning 4:23—
+							Corresponding so exactly with my observation, that the allowance for a
+							level horizon fully accounts for the difference— <persRef
+								ref="adams-josiah2">M<hi rend="superscript">r</hi> Josiah Adams
+									jun<hi rend="superscript">r</hi></persRef> and <persRef
+								ref="french-jonathan">M<hi rend="superscript">r</hi> Jonathan
+								French</persRef> the Schoolmaster were here this morning— M<hi
+								rend="superscript">r</hi> French to borrow a map of the City of
+							Washington which I have, but was unable to find— He borrowed a map of
+							London; but afterwards came with two girls of his school, and exchanged
+							it for one easier to copy.— He teaches his scholars to copy geographical
+							maps— M<hi rend="superscript">r</hi> Adams has not yet taken out the
+							patent for his perpendicular bark cutter, for want of encouragement of
+							purchasers though it has been very successful on trial— <persRef
+								ref="spear-william">Deacon Spear</persRef> was here after dinner,
+							and I gave him the deed of my pew in the Stone Meeting house N: 74. to
+								<persRef ref="spear-seth2">Seth Spear</persRef>, which he and
+								<persRef ref="smith-louisa">Louisa C. Smith</persRef> witnessed— He
+							told me that the Assessors had nearly doubled my town and County tax
+							this year— We spent the Evening at Charles’s house— I received a Letter
+							from <persRef ref="giusta-antoine">Antoine M. Giusta</persRef>, who has
+							returned to Washington, from his visit to his friends and relations in
+							Piedmont; and one from <persRef ref="curtis-nathaniel">M<hi
+									rend="superscript">r.</hi> Nathaniel Curtis</persRef> enclosing
+							the decree of the <persRef ref="phillips-willard">judge of Probate for
+								the County of Suffolk</persRef>, authorising me as the administrator
+							de bonis non with the will annexed to compound for the debt of <persRef
+								ref="vaughan-petty">Petty Vaughan</persRef>.— M<hi
+								rend="superscript">r</hi> Curtis proposes that we should execute the
+							deed of release to Petty Vaughan tomorrow or on Saturday— Among the
+							title vouchers of the Mount Wollaston Estate, is an old plan upon
+							parchment, damaged and which I had heretofore neglected— At the right
+							hand of the outline, indifferently drawn is the following writing— “The
+							land represented by this plott, belongeth to <persRef
+								ref="shepard-thomas">M<hi rend="superscript">r</hi> Thomas
+								Shepard</persRef> (lying in the town of Brantrey)
+							contayneth<space/>hundred acres (those parcels being deducted which
+							belongeth to other men) and is bounded from A to B by <persRef
+								ref="quincy-edmund">M<hi rend="superscript">r</hi> Edmond
+								Quinsey</persRef>, and the towne’s land: from B to C by marsh
+							belonging to several persons; from C to D by marsh belongin to <persRef
+								ref="belcher-gregory">Gregorie Belcher</persRef>, from D to E by the
+							Town’s land, from E to F by Marsh belonging to <persRef
+								ref="george-peter">Peter George</persRef> from F to G by land
+							commonly called Hoff’s neck, and from G to H by the Saltwater.[”]</p>
+						<p>The trees that are marked with lines, are generaly marked with S upon
+							that side which is next to M<hi rend="superscript">r</hi> Shepard’s
+							land—at I is<space/><persRef ref="u">M<hi rend="superscript">r</hi>
+								Vesey</persRef><space/>right at Q is a landing place.</p>
+						<pb n="119" type="ms"/>
+						<p>Beneath this is a scale of 120 rods, and written over it. This plot is
+							wrought by the scale of 50 link small division for two rods, and under
+							the scale “finished the 1. December 1669. by F. ff[”]</p>
+						<p>Then at the right hand of the plan, and perpendicular to the other
+							writing is the following—</p>
+						<p>That parcell marked G. B. and M. containeth 12. acres and belongeth to
+							Gregory Belcher, and <persRef ref="matson-richard">Richard
+								Matson</persRef>, and is divided from M<hi rend="superscript">r</hi>
+							Shepard at the print line<space/>by upland, and upon the other side by a
+								<unclear>Creek</unclear> and that parcell marked with B contayneth 8
+							acres upland and marsh, and belongeth to <persRef ref="belcher-samuel"
+								>Samuel Belcher</persRef> and bounded by a creeke dropt at L where
+							is a line of stakes. The other parcell marked N. H. B. contayneth 8
+							acres, belongeth to <persRef ref="nedham-william">William
+								Nedham</persRef>, <persRef ref="holbrooke-john">John
+								Holbrooke</persRef> and <persRef ref="brackett-peter">Peter
+								Brackett</persRef>, and is divided from M<hi rend="superscript"
+								>r</hi> Shepard’s upland as the print line runes, and upon the other
+							side by a creeke dropt—a little spot at H which is staked out— It has
+							taken me at least three hours to decypher and copy this old record,
+							which shews very distinctly the bounds of the Mount Wollaston Estate in
+							December 1669.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-21">
+					<head>21 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. IV. </date>Friday</p>
+						<list>
+							<item>Butler</item>
+							<item>Mills</item>
+						</list>
+						<p>Summer Solstice— Beclouded— Sultry morning Eastern chill afternoon— Misty
+							fog evening. I made myself two hours of hard labour before breakfast by
+							digging a trench across the border at the seminary gate to take out the
+							stones under five seedling Apple trees of the second year, which were
+							thriving, but the vegetation of which has stop’d— I wish to save the
+							life at least of one of them— I took out about a bushel of stones; and
+							filled the space they had occupied with mould from the brook over the
+							hill, and from the garden—leaving the work unfinished for another day—
+								<persRef ref="hellen-mary">M<hi rend="superscript">rs</hi> John
+								Adams</persRef> and her <persRef ref="adams-georgeanna;adams-mary4"
+								>two children</persRef> with <persRef ref="cutts-mary">Miss
+								Cutts</persRef> and <persRef ref="adams-charles2">Charles</persRef>,
+								<persRef ref="adams-abigail4">his wife</persRef> and <persRef
+								ref="adams-charles7;adams-john17;adams-louisa3">three elder
+								children</persRef> went to Boston to see the Giraffe, and <persRef
+								ref="sully-thomas">Sully’s</persRef> picture of <persRef
+								ref="victoria">Queen Victoria</persRef>, which are exhibited now at
+							Boston. They returned home to dine— Two young men, one named <persRef
+								ref="u">Butler</persRef> now residing at Dorchester, and the other
+							from New-Jersey named <persRef ref="u">Mills</persRef>, came on a visit
+							of curiosity to see me and the house because we are both old— They
+							enquired also, for the stone-quarries, to find which I gave them
+							suitable directions.— <persRef ref="davis-john">Judge Davis</persRef>
+							left with me the other day a French Manuscript, being another
+							explanation of the inscription upon the Dighton rock—or in the language
+							of the original Explication de la <persRef ref="u">Pierre de
+								Taunston</persRef>, par <persRef ref="dammartin-moreau">Moreau de
+								Dammartin</persRef> (Seine et Marne) Membre de l’Institut
+							Historique— According to this learned Theban, the inscription is an
+							Egyptian complete system of Astronomy—wrought at the winter solstice,
+							and exhibiting all the great Northern Constellations.— There is no end
+							to the absurdities of the human mind. The Phenicians, the Egyptians; the
+							lost tribes of Israel, the Icelanders, the Welshmen with <persRef
+								ref="madog">Prince Madoc</persRef>; and the Basques have all been
+							discoverers of America, to rob <persRef ref="columbus-christopher"
+								>Christopher Columbus</persRef> of his glory. Mankind will never be
+							satisfied with History. They must have fables.— I spent the Evening at
+							Charles’s house.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-22">
+					<head>22 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="120" type="ms"/>
+						<p><date>22. IV. </date>Saturday</p>
+						<p>To Boston and home to Quincy to dine.</p>
+						<p>Foggy morning— Showery day.</p>
+						<p><persRef ref="dumphy-thomas">Thomas Dumphy</persRef> took me in <persRef
+								ref="adams-charles2">Charles’s</persRef> four wheeled chaise to
+							Boston, where I met at Charles’s Office <persRef ref="curtis-nathaniel"
+									>M<hi rend="superscript">r</hi> Nathaniel Curtis</persRef> and
+								<persRef ref="boylston-alicia">M<hi rend="superscript">rs</hi>
+								Alicia Boylston</persRef>, and we executed three copies of the
+							indenture of release to <persRef ref="vaughan-petty">Petty
+								Vaughan</persRef> of the demand for the 10244 Sterling recovered
+							from the French Government in behalf of <persRef ref="boylston-thomas2"
+								>Thomas Boylston’s</persRef> Estate, which Petty Vaughan placed in
+							the hands of <persRef ref="vaughan-william">William Vaughan</persRef>
+							and there melted down by his failure.— A dividend of three shillings and
+							six pence on the pound has been paid upon William Vaughan’s Estate, and
+							we reserve still the right to any future proportional dividend of the
+							same— M<hi rend="superscript">r</hi> Curtis called in <persRef
+								ref="curtis-benjamin">M<hi rend="superscript">r</hi> Benjamin R.
+								Curtis</persRef> who took the acknowledgments and with his brother
+								<persRef ref="curtis-george">G<space/>Curtis</persRef> witnessed the
+							execution of the three copies of the Indentures, which we had previously
+							read together each of us holding a copy, and I reading
+								<unclear>alowed?</unclear> the copy held by me— We also executed and
+							acknowledged a Deed of 18 Acres of the land in Princeton to <persRef
+								ref="wilson-hamilton">Hamilton Wilson</persRef> for two thousand
+							dollars. For the Execution of the release we are to receive a transfer
+							of stock of the Bank of the United States, of 20000 dollars—but that
+							cannot be made until the 1<hi rend="superscript">st.</hi> of next month,
+							and in the mean time M<hi rend="superscript">r</hi> Curtis keeps the
+							indentures in his hands— I took to Boston, and left with M<hi
+								rend="superscript">rs</hi> Boylston the Book containing extracts and
+							copies of Accounts and Letters between Thomas Boylston and <persRef
+								ref="gill-moses2">Moses Gill the elder</persRef>—to ascertain the
+							amount upon this composition to be credited to the second <persRef
+								ref="gill-moses">Moses Gill</persRef>— M<hi rend="superscript"
+								>r</hi> Benjamin R. Curtis, though a young lawyer charged nothing
+							for taking the acknowledgments— I called at <persRef
+								ref="weeksjordanandco">Weeks and Jordan’s</persRef> and found they
+							had received from <persRef ref="colman-samuel">Samuel Colman</persRef>
+							the printer at New-York the remaining copies due to me, of the jubilee
+							Discourse— Then at the State House, but I found the Council chamber
+							locked— I then visited the Giraffe or Camelopard now exhibiting near the
+							Court-house, with which was an Ibex—two animals called Bontibok’s of the
+							goat species—a gazelle, resembling a lamb three months old; and two
+							small monkeys— The Giraffe is a female—I should judge about fourteen
+							feet high.— The keeper says 16. feet, and only 32 months old, not full
+							grown— <persRef ref="gillet-simon">Gillett</persRef> brought out the box
+							and package of Jubilee Discourses.— Charles and <persRef
+								ref="adams-abigail4">his wife</persRef> spent the Evening here. I
+							wrote and sent a draft 300 dollars to <persRef ref="giusta-antoine">M.
+								A. Giusta</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-23">
+					<head>23 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-23"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. IV. </date>Sunday</p>
+						<list>
+							<item>Lamson Alvan D.D.</item>
+							<item>Brooks Charles Rev<hi rend="superscript">d</hi></item>
+						</list>
+						<p>Heard <persRef ref="lamson-alvan">D<hi rend="superscript">r</hi>
+								Lamson</persRef> of Dedham, this morning from Matthew 20.22. “Ye
+							know not what ye ask.” and in the afternoon from Matthew 25.21 “His lord
+							said unto him, Well done thou good and faithful servant: thou hast been
+							faithful over a few things, I will make thee ruler over many things:
+							enter thou into the joy of thy lord.” The morning Sermon was a discourse
+							upon the vanity of human wishes—dwelling less on the special character
+							of this most remarkable incident in the life of Christ, than upon the
+							general unreasonableness of the desires of men—avarice ambition worldly
+							pleasures, and the common place disappointments <hi rend="italic"
+								>of</hi>
+							<pb n="121" type="ms"/>of the hopes and desires of men.— This occurrence
+							is related with some slight variation in the gospels of <persRef
+								ref="matthew">Matthew</persRef> and of <persRef ref="mark"
+								>Mark</persRef>; but is not noticed in those of <persRef ref="luke"
+								>Luke</persRef> or <persRef ref="john">John</persRef>— Matthew says
+							the request was made for <persRef ref="james">James</persRef> and John
+							by their mother— Mark says it was made by themselves— Is it not one of
+							the mysteries of human nature that this selfish and unjust demand was
+							made by the two disciples, precisely at the moment when he informed them
+							that he was about to be abused reviled, and killed—but that he should
+							rise again on the third day— Instead of being struck with horror and
+							overwhelmed with sorrow at this annunciation, James and John, think of
+							nothing but themselves, and ask to be advanced to honour and dignity and
+							power in his kingdom, above all the other apostles: and this comes from
+							two brothers one of whom was already by Jesus distinguished with partial
+							affection— The rejection of the claim is pronounced with admirable
+							dignity, and when the other Apostles manifest their resentment, at this
+							spirit of encroachment upon their rights, he delivers the true principle
+							of his Law, that the distinctions of his kingdom were to consist in
+							pre-eminence of service and of suffering— D<hi rend="superscript">r</hi>
+							Lamson and <persRef ref="brooks-charles">M<hi rend="superscript">r</hi>
+								Charles Brooks</persRef> dined with us— M<hi rend="superscript"
+								>r</hi> Brooks has parted from his parish at Hingham; and is shortly
+							to be married—and to go and pass the next winter in France to qualify
+							himself for the appointment of professor of Natural History in the
+							University of New-York— I read the tenth Sermon of the 12<hi
+								rend="superscript">th.</hi> Volume of <persRef ref="saurin-jacques"
+								>Saurin</persRef>— Upon the little success of the ministry of Jesus
+							Christ— His text is from Romans 10.21. a disobedient and gainsaying
+							people— He says that the Jews were always so; and tells his auditory
+							that they themselves are not a whit better, and if they had lived in the
+							days of Christ would have crucified him as did the Jews— I saw the Sun
+							set both from my own house, and from <persRef ref="adams-charles2"
+								>Charles’s</persRef>—the latter at 7:40. Charles and <persRef
+								ref="adams-abigail4">his wife</persRef>, and <persRef
+								ref="greenleaf-ezekial">M<hi rend="superscript">r</hi> E Price
+								Greenleaf</persRef> spent the Evening here— <persRef
+								ref="cutts-mary">Miss Cutts</persRef> at <persRef
+								ref="miller-edward">M<hi rend="superscript">r</hi> Edward
+								Miller’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-24">
+					<head>24 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Temperance Movement</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. IV:30. </date>Monday.</p>
+						<list>
+							<item>M<hi rend="superscript">rs</hi> Lucy Dawes</item>
+							<item>Norton Jacob</item>
+							<item>Campbell Archibald</item>
+							<item>Adams Isaac Hull</item>
+							<item>Elizabeth C. Adams</item>
+							<item>Miss Mary Harrod</item>
+							<item>Miss Georgiana Harrod</item>
+							<item>Miss French</item>
+							<item>Frothingham N. L.</item>
+							<item>M<hi rend="superscript">rs</hi> Frothingham</item>
+							<item>Three Children</item>
+							<item>Spear William</item>
+						</list>
+						<p>Yesterday morning I found in <persRef ref="adams-louisa3">Louisa
+								Catherines</persRef> seminary plat a seedling walnut tree just out
+							of the ground, and this morning in <persRef ref="adams-john17">John
+								Quincy’s</persRef> plat an Oak— These are the first since the
+							solitary oak which appeared on the 31<hi rend="superscript">st.</hi> of
+							May in <persRef ref="adams-mary4">Mary-Louisa’s</persRef> plat, which
+							put out a stem about 3 inches long and opened four leaves, which have
+							developed themselves and turned brown— The stem has not since grown a
+							hair’s breadth— I found one nectarine on the transplanted tree near the
+							South-east corner of the house which I have given to John Quincy besides
+							his platt— Found a ripe wild Strawberry in the Garden and 3 Kean
+							Seedlings— Sowed the Wild Strawberry in the bottomless flower pot, and
+							one Kean Seedling in the Summer house cellar— Had the alley fronting the
+							seminary border weeded.— <persRef ref="norton-jacob">M<hi
+									rend="superscript">r</hi> Jacob Norton</persRef> was here this
+							morning with <persRef ref="dawes-lucy3">M<hi rend="superscript">rs</hi>
+								Lucy Dawes</persRef>; and <persRef ref="campbell-archibald"
+								>Archibald Campbell</persRef> with <persRef ref="adams-isaac">Isaac
+								Hull</persRef>, and <persRef ref="adams-elizabeth">Elizabeth C.
+								Adams</persRef>, <persRef ref="harrod-mary2">Mary</persRef> and
+								<persRef ref="harrod-georgiana">Georgiana</persRef> Harrod— In the
+							afternoon <persRef ref="u">Miss French</persRef> came with a
+							subscription paper for the Sunday School Library.— <persRef
+								ref="frothingham-nathaniel;frothingham-ann">D<hi rend="superscript"
+									>r.</hi> and M<hi rend="superscript">rs</hi>
+								Frothingham</persRef> with three children, <persRef
+								ref="frothingham-ward">Ward</persRef>, <persRef
+								ref="frothingham-ann2">Ann</persRef> and <persRef
+								ref="frothingham-ellen">Ellen</persRef> came out from Boston to
+								<persRef ref="adams-charles2">Charles’s</persRef>, and stop’d a few
+							minutes here on their way. M<hi rend="superscript">r</hi> Frothingham
+							attended a clerical convocation at <persRef ref="lunt-william">M<hi
+									rend="superscript">r</hi> Lunt’s</persRef>. M<hi
+								rend="superscript">rs</hi>
+							<hi rend="italic">Frothingham</hi>
+							<pb n="122" type="ms"/>Frothingham took tea at Charles’s— We were there
+							in the Evening— I came away with <persRef ref="adams-louisa-catherine"
+								>my wife</persRef>— <persRef ref="hellen-mary">M<hi
+									rend="superscript">rs</hi> John</persRef>, <persRef
+								ref="adams-abigail4">M<hi rend="superscript">rs</hi> Charles
+								Adams</persRef> and <persRef ref="cutts-mary">Miss Cutts</persRef>
+							went afterwards to <persRef ref="adams-ann">M<hi rend="superscript"
+									>rs</hi> T. B. Adams’s</persRef>— <persRef ref="spear-william"
+								>Deacon Spear</persRef> brought me a note of <persRef
+								ref="spear-seth2">Seth Spear</persRef> dated the 20<hi
+								rend="superscript">th.</hi> payable in four Months with interest. No
+							small portion of the day was consumed in packing up and despatching
+							copies of Congressional documents—of Letters to the Petitioners and of
+							the Jubilee Discourse— All my useful occupations are suspended. Reading
+							nothings in Newspapers absorbs time enormously— And Letters asking for
+							autographs, and inviting me to deliver orations addresses and Lyceum
+							Lectures, seem to me as if they would never end— Among the Letters this
+							day received was one from <persRef ref="williams-henry3">Henry
+								Williams</persRef>, asking for publication my opinion upon the
+							constitutionality and expediency of the fifteen gallon law; an act of
+							the Legislature passed in 1838. forbidding the sale of ardent Spirits in
+							quantities less than 15 gallons— A measure of overheated zeal for the
+							restraint of intemperance, and which is operating a revolution in the
+							State against its administration, and in favour of the general
+							administration of <persRef ref="vanburen-martin">Martin Van
+								Buren</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-25">
+					<head>25 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. IV:30 </date>Tuesday.</p>
+						<list>
+							<item>Warren Nathan</item>
+							<item>His wife and daughter</item>
+							<item>Campbell Archibald</item>
+							<item>Adams Isaac Hull</item>
+						</list>
+						<p>Planted a ripe Kean seedling Strawberry surrounded by a dozen red cherry
+							stones just ripe in a flower pot, which I placed on the Seminary
+							plat—next to those of the six children— The Elm seeds which I sowed
+							towards the close of the last month have all failed; but many seeds of
+							the Ash, which I sowed with them, and which had wintered in my closet
+							have come up— I made an attempt this day to resume useful occupation,
+							but with little success— Enclosed <persRef ref="robbins-chandler">D<hi
+									rend="superscript">r</hi> Robbins’s</persRef> manuscript Report
+							to <persRef ref="quincy-josiah2">President Quincy</persRef>; and
+							answered the second invitation of the Bristol County whig Committee and
+							the Letter of <persRef ref="marston-john">M<hi rend="superscript">r</hi>
+								John Marston</persRef> declining again to attend their proposed
+							celebration of the Anniversary of Independence. I called at the Stone
+							bank, and at the Office of the Quincy Patriot— <persRef
+								ref="green-john3">Green</persRef> is to publish the second Letter to
+							the Petitioners entire next Saturday— I called also at <persRef
+								ref="gill-caleb">Gill</persRef> the Bookbinder shop, but being past
+							noon it was shut— After dinner I had a short visit from <persRef
+								ref="warren-nathan">M<hi rend="superscript">r.</hi> Nathan
+								Warren</persRef> of Weston, with <persRef ref="u">his wife</persRef>
+							and <persRef ref="u">daughter</persRef>— A dealer in cattle who came
+							here upon business, and had a curiosity to see me— <persRef
+								ref="adams-charles2">Charles</persRef> went to Boston and returned
+							home to dine— I saw the Sun set from his porch not quite clear at 7:40.—
+							He and <persRef ref="adams-abigail4">his wife</persRef>, and <persRef
+								ref="campbell-archibald">Campbell</persRef> and <persRef
+								ref="adams-isaac">Isaac Hull Adams</persRef> spent the Evening here—
+							I receive every day large packages of Congressional Documents extra
+							copies of which were ordered by the House of Representatives to be
+							printed, but which could not be printed till after the close of the
+							Session of Congress— I distribute them chiefly among my constituents,
+							and despatch a basket full of them almost every day— Besides these, I
+							have now my second and third Letters to the Petitioners, and the jubilee
+							Discourse to distribute; and of them all together, I send between 30 and
+							40 packages to the Post-Office Every day— Drudgery, I fear to no good
+							purpose.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-26">
+					<head>26 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="123" type="ms"/>
+						<p><date>26. III.30— </date>Wednesday</p>
+						<list>
+							<item>Adams Isaac Hull</item>
+							<item>Elizabeth C. Adams</item>
+						</list>
+						<p>Last day of the Summer Solstice— Saw the Sun rise from <persRef
+								ref="adams-charles2">Charles’s</persRef> porch; not quite clear at
+							4:24. Set in a cloud. Planted three Kean seedling Strawberries and a
+							dozen red cherry stones in a flower pot; and the like in the centre of
+								<persRef ref="adams-louisa3">Louisa Catherine’s</persRef> seminary
+							plat— My wintered Ash seeds come up, wherever I have sown them—but none
+							of the Elm-seeds— Charles and <persRef ref="adams-abigail4">his
+								wife</persRef>, with their <persRef
+								ref="adams-charles7;adams-john17">three elder children</persRef>,
+								<persRef ref="hellen-mary">M<hi rend="superscript">rs</hi> John
+								Adams</persRef> and her <persRef ref="adams-georgeanna;adams-mary4"
+								>two daughters</persRef>—<persRef ref="adams-isaac">Isaac Hull
+								Adams</persRef> and <persRef ref="campbell-archibald"
+								>Campbell</persRef> made a party for the day, and went to Cohasset
+							and Nantasket beach, where <persRef
+								ref="frothingham-nathaniel;frothingham-ann">D<hi rend="superscript"
+									>r</hi> and M<hi rend="superscript">rs</hi>
+								Frothingham</persRef> went from Boston and met them— <persRef
+								ref="adams-louisa-catherine">My wife</persRef> was unwell and could
+							not go—and I for lack of inclination, went not— They came home before
+							Sunset. Hull and <persRef ref="adams-elizabeth">Elizabeth C
+								Adams</persRef> were here in the Evening.— I visited my plants—
+							Directed Documents and Jubilees— Diarized, and recommenced indexing—
+							Answered two invitation Cards from the <persRef ref="eliot-samuel3"
+								>Mayor of Boston</persRef>, one to attend the city celebration of
+							Independence day—the other to his “at Home”—that morning declining both.
+							And began an Answer to the Letter from <persRef ref="williams-henry3"
+								>Henry Williams</persRef> requesting my opinion upon the
+							constitutionality and expediency of the fifteen gallon licence Law. As
+							often happens to me, I was stopped in the midst of this Letter by an
+							embarrassment what to say, and did not finish it— I met <persRef
+								ref="lunt-william">M<hi rend="superscript">r</hi> Lunt</persRef>
+							yesterday as I was walking over the hill, and mentioned to him that the
+							first gathering of the Church, and choice of <persRef
+								ref="tompson-william">M<hi rend="superscript">r</hi>
+								Tompson</persRef> and <persRef ref="flynt-henry">M<hi rend="superscript">r</hi> Flint</persRef> as
+							Ministers is twice mentioned in <persRef ref="winthrop-john2"
+								>Winthrop’s</persRef> Journal as having occurred on the 17<hi
+								rend="superscript">th.</hi> of September 1639. and that the
+							corresponding day according to the new Style, in the present year will
+							be the 29<hi rend="superscript">th.</hi> of September which will be on a
+							Sunday— The celebration of the first centennial anniversary was on the
+								16<hi rend="superscript">th.</hi> of September 1739. also a
+							Sunday—and in a note to <persRef ref="hancock-john2">M<hi
+									rend="superscript">r</hi> Hancock’s</persRef> Sermons then
+							preached it is said the church was gathered on Monday Sept<hi
+								rend="superscript">r.</hi> 16. 1639— I should think Winthrop’s
+							Journal the best authority.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-27">
+					<head>27 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-27"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Anti-Slavery Movements</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. III:45 </date>Thursday.</p>
+						<p>I intended to go to Boston to attend the Meeting of the Historical
+							Society; but found myself too unwell, with a flying rhumatism portentous
+							of an Easterly storm— <persRef ref="adams-charles2">Charles</persRef>
+							and <persRef ref="adams-abigail4">his wife</persRef> were also both
+							unwell, and <persRef ref="adams-louisa-catherine">my wife’s</persRef>
+							health is drooping— I planted three wild garden Strawberries in a flower
+							pot with several ripe red cherry stones, and two Kean Seedlings in one
+							of the plats— I answered the Letter from <persRef ref="williams-henry3"
+								>Henry Williams</persRef>, asking for publication my opinion upon
+							the constitutionality and expediency of the fifteen-gallon licence Law:
+							and I received a Letter from <persRef ref="leavitt-joshua">Joshua
+								Leavitt</persRef> and <persRef ref="stanton-henry">Henry B.
+								Stanton</persRef> for the Committee of Arrangements of the American
+							Anti-Slavery Society, earnestly inviting my attendance at a National
+							Anti-Slavery Convention to be held at Albany on the 31<hi
+								rend="superscript">st</hi> of July next— These appeals to me for my
+							opinions, upon subjects convulsing the public mind with the conflict of
+							interest and passions are at once flattering and perplexing— So
+							flattering that they have an evident tendency to engender self-conceit,
+							and a fatuitous over-estimate of my own importance— I ought to know, and
+							never for a moment forget that my opinion is not of the weight of a
+							straw to influence that of the public upon any great question of
+							politics or of morals— Common prudence should warn me not to mingle
+							unnecessarily with controversies, without a distinct and unequivocal
+							call of duty— And this is the more <hi rend="italic">incumbent</hi>
+							<pb n="124" type="ms"/>incumbent upon me, because my opinions without
+							being useful to others draw down a load of obloquy upon myself and even
+							upon my family— Yet when my opinions are formally asked, common civility
+							requires an answer—the refusal to give an opinion would manifest either
+							churlishness, or a selfish timidity affecting discretion— This
+							license-Law, is an ill-advised measure, intended to promote the virtue
+							of temperance, but infringing the personal freedom and habits of the
+							people— A profligate use of the passions of the people is made to
+							overthrow the present State administration, and turn it to the benefit
+							of <persRef ref="vanburen-martin">Van Buren</persRef>— And it is among
+							the strange anomalies of party management that the political agency of
+							the Anti-Slavery party produces the same effect— This National
+							Anti-Slavery Convention will be followed by the same result.— My answer
+							to M<hi rend="superscript">r</hi> Williams will not satisfy him nor any
+							one else— And while the Abolition champions are importuning me to attend
+							their convention all their newspapers with one voice have opened in a
+							grand chorus against my Letters to the Petitioners— I spent an hour of
+							this Evening at M<hi rend="superscript">r</hi>
+							<persRef ref="greenleaf-thomas">Thomas Greenleaf’s</persRef>— He is
+							afflicted with a singular disease in the throat.— Charles was here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-28">
+					<head>28 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. IV: </date>Friday</p>
+						<p>Rain almost they whole day—first with a Southeast and afterward with a
+							Northeast wind but without storm, and scarcely sufficient to saturate
+							the earth. <persRef ref="adams-charles2">Charles</persRef> went to
+							Boston and returned— I should have done much on such a day as this; but
+							did nothing, except answering an invitation from <persRef
+								ref="wakeman-thaddeus">T. B. Wakeman</persRef>, corresponding
+							Secretary of the American Institute at New-York to deliver an
+							anniversary Address before them next November—which I decline— In the
+							attempt to redeem the arrears of my Diary-index, I bring back the memory
+							of many things, which appear to me in different lights from what they
+							did at the time when they occurred— One of the most trying periods of my
+							life was that of the close of the 23<hi rend="superscript">d.</hi>
+							Congress, when after a most furious succession of debates, buffeted from
+							all quarters of the house, I brought them to an unanimous recorded vote;
+							and thereby combined to ruin me the whole power of the Senate, and
+							especially all the rival aspirants to the Presidency then in that body.—
+							The vile expedient of insulting the House of Representatives by a
+							message to remind— Of defeating the fortification bill, by a
+							hypocritical by-blow at the 3 million appropriation and of charging the
+							House with the loss of the bill itself—indicated to me what was to come;
+							and I saw the danger in all its magnitude— The storm did burst upon me,
+							at the next Session of Congress, by an elaborate and deeply studied
+							Speech of <persRef ref="webster-daniel">Webster</persRef> delivered on
+							the 14<hi rend="superscript">th.</hi> of January 1836. in the Senate,
+							and published four days after in the National Intelligencer— The whole
+							speec was a masked battery opened upon me; which I completely silenced,
+							and turned back upon its inventor but by what a whirlwind of invective
+							against me it was followed from almost all the eloquence of both Houses—
+							I never replied—though with a full reply I was prepared. <pb n="125"
+								type="ms"/>But my policy towards France was fully sustained by the
+							Event and I was saved from political destruction by my resistance
+							against the gag of May 1836— These were casualties or providential
+							incidents— I spent this Evening, with <persRef ref="hellen-mary">M<hi
+									rend="superscript">rs</hi> John</persRef> and <persRef
+								ref="cutts-mary">Mary E. E. Cutts</persRef> at Charles’s.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-29">
+					<head>29 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>War of 1812</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29— IV:15 </date>Saturday</p>
+						<p>Sun rose 4:25. Set 7:40. day 15 hours 15 minutes.</p>
+						<p>I took to the book binder <persRef ref="gill-caleb">Caleb Gill jun<hi
+									rend="superscript">rs.</hi></persRef> shop a collection of
+							printed pamphlets of my writing to be bound up in a volume, to give to
+							my Granddaughter <persRef ref="adams-mary4">Mary Louisa</persRef>— I
+							have the materials for a second Volume, and the collection will yet be
+							very imperfect— Of several of my earliest published pamphlets I have
+							only one copy left— Of some—particularly of the Report on the case of
+								<persRef ref="smith-john6">John Smith</persRef> of Ohio, I have no
+							copy at-all— But of pamphlets in number sufficient to make two thick
+							Octavo Volumes, I have copies enough to make up a set for each of
+								<persRef
+								ref="adams-louisa3;adams-john17;adams-georgeanna;adams-charles7;adams-henry4"
+								>my six grand children</persRef>—and as the three girls being the
+							eldest have asked me for copies of my Oration at Newbury-Port and for
+							the Jubilee of the Constitution, I have put together with them copies of
+							all the supernumeraries, to be bound up to give them as tokens of
+							memory, when I shall be forgotten by the rest of the world— I am making
+							a more complete collection, of the same pamphlets, with others of which
+							I have only one copy, to leave to <persRef ref="adams-charles2">my
+								Son</persRef>.— I called also at the Office of the Quincy Patriot
+							with a minute of the Petitions omitted from the published <hi
+								rend="strikethrough">in the</hi> list in the paper of the 15<hi
+								rend="superscript">th</hi> The second Letter to the Petitioners
+							generally is not yet published; but <persRef ref="green-john3"
+								>Green</persRef> promised that it shall be next Saturday— I received
+							a Letter from <persRef ref="brooks-charles">M<hi rend="superscript"
+									>r</hi> Charles Brooks</persRef>, mentioning that at the annual
+							Session of the American Lyceum at New-York in May last, a Committee was
+							appointed to call a National Convention to meet at Philadelphia on the
+								22<hi rend="superscript">d.</hi> of next Nov<hi rend="superscript"
+								>r.</hi> to discuss the subject of Education: and inviting me to
+							attend, and to preside at this Meeting— Also a Letter from <persRef
+								ref="whitcomb-james">James Whitcomb</persRef> Commissioner of the
+							general Land-Office enclosing a certified copy of the Land Warrant
+							issued to <persRef ref="loud-david">David Loud</persRef> father of
+								<persRef ref="loud-warren">Warren Loud</persRef> a soldier in the
+							last War with Great Britain— Call at <persRef ref="briesler-john2">J.
+								Briesler’s</persRef> shop, and ordered four earthen flour pots, for
+							seed sowing— A Shagbark Walnut up in Seminary plat 7. Gathered red
+							cherries, one week before ripe— Afternoon ride with Charles to Milton
+							and Dorchester— Charles and <persRef ref="adams-abigail4">his
+								wife</persRef> spent the Evening here— <persRef ref="beale-george"
+								>G. W. Beale</persRef> here and invited us to a meeting of the
+							Proprietors of Neponset Bridge at Squantum next Tuesday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-30">
+					<head>30 June 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30 IV.15. </date>Sunday</p>
+						<list>
+							<item>Bomford George</item>
+							<item>Alger</item>
+							<item>M<hi rend="superscript">rs</hi> Mifflin</item>
+							<item>Elizabeth Crowninshield</item>
+						</list>
+						<p>Sun rose 4:25.— Set 7:40. Day 15 hours 15 minutes.</p>
+						<p>Heard <persRef ref="lunt-william">M<hi rend="superscript">r</hi>
+								Lunt</persRef> this morning from Ecclesiastes 1:18.— “he that
+							increaseth knowledge increaseth sorrow”—and in the afternoon from Psalm
+							139.7. “Whither shall I flee from thy presence?[”] He handled with
+							delicacy and with dexterity the morning text, and noticed the contrast
+							between the general tome of this book, and that of the proverbs where
+							the acquisition of knowledge as promotive of the happiness of man— They
+							are certainly different views of human life; and taken from different
+							positions— The Song—the Proverbs and the Ecclesiastes are the vivid
+							portraitures of the three Stages of the Life of Solomon—Youth—Maturity
+							and Old age. <pb n="126" type="ms"/>The afternoon discourse was upon the
+							omnipresence of the Deity both good Sermons; but that of the morning the
+							most impressive. I read the eleventh Sermon of the 12<hi
+								rend="superscript">th.</hi> volume of <persRef ref="saurin-jacques"
+								>Saurin</persRef>, upon Libertines and unbelievers—admirable— He
+							says that in all his experience of attendance upon the sick and the
+							dying of these two characters he had never met with one who adhered to
+							the character in the Article of death— <persRef ref="u">M<hi
+									rend="superscript">rs</hi> Mifflin</persRef> and <persRef
+								ref="crowninshield-elizabeth">Miss Elizabeth Crowninshield</persRef>
+							were here to visit <persRef ref="cutts-mary">Miss Cutts</persRef>; and
+								<persRef ref="bomford-george">Col<hi rend="superscript">l.</hi>
+								Bomford</persRef> with <persRef ref="alger-cyrus">M<hi
+									rend="superscript">r.</hi> Alger</persRef> came out from Boston—
+								M<hi rend="superscript">r</hi> Alger has a Cannon foundry at South
+							Boston, and Col<hi rend="superscript">l.</hi> Bomford has come from
+							Washington to contract for casting great guns of heavier calibre than
+							have ever before been used. The effect of the French Steam-battery upon
+							the Castle of Saint John d’Ullea has set all our military minds in
+							commotion.— M<hi rend="superscript">r</hi> Alger by some casualty
+							mentioned that he came from West Bridgewater, and said that he
+							remembered something of the full bottomed wig of his uncle <persRef
+								ref="fiske-shepard">Shepard Fisk</persRef>.— I asked him how Shepard
+							Fisk came to be his uncle— He said he had married his Grandfather’s
+							Sister, and lived and died at West-Bridgewater in the same house with
+							his Grandfather— I told him that I had long been in search of
+							information relating to Shepard Fisk, who was half-brother to my
+								<persRef ref="quincy-john">Great-Grandfather John Quincy</persRef>,
+							a son of the same mother <persRef ref="quincy-anne">Anna
+								Shepard</persRef>; who after the death in 1690 of her first husband
+								<persRef ref="quincy-daniel">Daniel Quinsey</persRef>, married
+								<persRef ref="fiske-moses">Moses Fisk</persRef> the Minister of the
+							first congregational Church in Braintree, and by him had this Son
+							Shepard Fisk— On looking over Farmer’s Register I find it stated that
+							Shepard Fisk was a physician, at Killingly Conn<hi rend="superscript"
+								>t.</hi> and at Bridgewater, Massachusetts, and that he died 14 June
+							1779. at the age of 77 whence he must have been born in 1702 I asked
+								M<hi rend="superscript">r</hi> Alger if he had papers which could
+							afford information concerning M<hi rend="superscript">r</hi> Fisk’s life
+							He said he had many books left by him and among the rest his family
+							Bible in which there might be entries respecting his family— He promised
+							to look them over, and if he should find in them any thing interesting
+							he would communicate it to me— It is strange that M<hi
+								rend="superscript">r</hi> Alger should be under the impression of
+							having seen Shepard Fisk in his wig, and that he remembered his funeral
+							when he is himself is only 59. years old, and M<hi rend="superscript"
+								>r</hi> Fisk has been dead 60 years— I wrote Letters to <persRef
+								ref="brooks-edward">Edward Brooks</persRef> to <persRef
+								ref="brooks-charles">Charles Brooks</persRef>, and to <persRef
+								ref="french-thomas">M<hi rend="superscript">r</hi> Thomas
+								French</persRef> at Canton— Saw the Sun set from <persRef
+								ref="adams-charles2">Charles’s</persRef> porch; and spent the
+							Evening with him. <persRef ref="appleton-william;greenleaf-eliza">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								William Appleton</persRef>, and <persRef ref="whitney-augustus">M<hi
+									rend="superscript">r</hi> Augustus Whitney</persRef> were there—
+							Charles’s <persRef ref="adams-abigail4">wife</persRef>, with <persRef
+								ref="hellen-mary">M<hi rend="superscript">rs</hi> John</persRef> and
+								<persRef ref="cutts-mary">Mary E. E. Cutts</persRef> spent the
+							Evening at <persRef ref="miller-edward">M<hi rend="superscript">r</hi>
+								Miller’s</persRef>— This was the first unequivocal Summer day of the
+							Season—</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v42-1839-06-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day.</hi></date> I rise between 4 and 5. always
+							before the Sun—sometimes between 3 and 4. on clear mornings I go to see
+							the Sunrise from the corner of <persRef ref="adams-charles2"
+								>Charles’s</persRef> house. Visit my seminary plants—and water the
+							pots— Sometimes take a turn in the garden— Diarize—read the newspapers
+							and Letters brought by the mail breakfast between 8 and 9. Garden
+							Orchard—writing till 2— Waste afternoon and Evening</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

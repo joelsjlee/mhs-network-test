@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v34-1824-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="346"
+				mhs:precedingFile="JQADiaries-v34-1824-05-p301.xml" mhs:followingFile=""
+				mhs:volume="34">
+				<bibl n="metadata"><date from="1824-06-01" to="1824-06-14"/></bibl>
+				<!-- D/JQA/34.563 -->
+
+				<!-- June 1824 -->
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-01">
+					<head>1 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-01"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Elections, Presidential (1824)</note><note type="subject">Health and
+							Illness</note></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">Tuesday 1. June 1824.</hi></dateline>
+						<p><date>1. VI:30—</date> Morning visitors at my house <persRef
+								ref="brent-daniel">D. Brent</persRef>, <persRef ref="hay-george">G.
+								Hay</persRef>, <persRef ref="wirt-william">W. Wirt</persRef>,
+								<persRef ref="edwards-john">John Edwards</persRef> the
+							field-preacher, <persRef ref="dix-john">J. A. Dix</persRef> and <persRef
+								ref="taylor-john">J. W. Taylor</persRef>— At the Office, <persRef
+								ref="robinson-jeremy">Jeremy Robinson</persRef>, <persRef
+								ref="baker-daniel">M<hi rend="superscript">r</hi> Baker</persRef>
+							the Clergyman, with a <persRef ref="eaton-unknown2">M<hi
+									rend="superscript">r</hi> Eaton</persRef> also a Clergyman,
+							soliciting employment in the Department— <persRef ref="frye-nathaniel"
+									>M<hi rend="superscript">r</hi> Frye</persRef>, a <persRef
+								ref="wilson-unknown4">M<hi rend="superscript">r</hi>
+								Wilson</persRef>— <persRef ref="roberdeau-isaac">Col<hi
+									rend="superscript">l</hi> Roberdeau</persRef> of the Engineer
+							Corps— <persRef ref="rowlett-john">John Rowlett</persRef>, with maps of
+								<persRef ref="tanner-henry">Tanner’s</persRef> Atlas— <persRef
+								ref="bourne-w">W. F. Bourne</persRef>, son of the <persRef
+								ref="bourne-sylvanus">late Consul</persRef> at Amsterdam— I had by
+							an unusual exercise of influence with the Secretary of the Navy last
+							Summer, obtained a Commission for this young man as a Captain in the
+							Marine Corps— It seems he has proved to be one of those upon whom
+							benefits are lost; has been twice under arrest, and is now dismissed
+							from the service— He came to solicit my influence to obtain his
+							restoration, but I could promise him nothing more than good will to
+							second any satisfactory explanation he might give to the proper
+							authority— <persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> had told me some days since at the <persRef
+								key="monroe-james">President’s</persRef> that he believed he should
+							be obliged to dismiss him— M<hi rend="superscript">r</hi> D. Brent came
+							for the renewal of my note for him—to be discounted at the U.S. Branch
+							Bank, which I accordingly gave him. M<hi rend="superscript">r</hi> Hay
+							to tell me of what he called the second Lowriad—a paper written by him
+							and published in the Washington Republican of this Evening, to prove
+							that the President never read any Letter of <persRef
+								ref="jackson-andrew">General Jackson</persRef>, either to <persRef
+								ref="lowrie-walter">Lowrie</persRef> or to <persRef
+								ref="roberts-jonathan">Jonathan Roberts</persRef> or to <persRef
+								ref="lacock-abner">A. Lacock</persRef>— Wirt, who has just returned
+							from Baltimore came to talk with me, about <persRef ref="edwards-ninian"
+								>N. Edwards</persRef>, and the President’s extreme anxieties
+							relating to him— He said that Edwards ought to resign. That the
+							President, <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef> and M<hi rend="superscript">r</hi> Southard were
+							all of that opinion—and that he Wirt was decidedly so— I told him that
+							had been my opinion from the beginning— That <persRef ref="cook-daniel"
+									>M<hi rend="superscript">r</hi> Cook</persRef> had yesterday
+							told me it was his, and I had unequivocally expressed to him that it was
+							mine—of which I had no doubt that he had informed M<hi
+								rend="superscript">r</hi> Edwards— Wirt said he had a great regard
+							and Friendship for Edwards, and regretted to find, as he <pb type="ms"
+								n="347"/>had seen at Baltimore, that the opinion of all parties was
+							against him. I said it was so every where; and far more so than he
+							deserved, because the real merits of the principal question between him
+							and <persRef key="crawford-william-harris">M<hi rend="superscript"
+									>r</hi> Crawford</persRef>, were not considered by the public—
+							In their controversies, M<hi rend="superscript">r</hi> Crawford was the
+							first aggressor, as far back as the appointment of <persRef
+								ref="thomas-jesse">Jesse B. Thomas</persRef>, Edwards’s rival and
+							competitor in Illinois, to examine the Land-Offices, and Banks, in that
+							and the neighbouring States. That was undoubtedly a movement in concert
+							with Thomas, for purposes hostile to Edwards— From that time they have
+							been in adverse positions and with mutual recriminations, till
+							Crawford’s ambiguous imputation of perjury to Edwards, in the report to
+							the House of 22 March last— This was a charge at once insidious and
+							cruel— Edwards was bound to meet and repel it— But as he had not left
+							the City when it was made, he should have stopped and met it here— By
+							leaving the City, and sending back his Address from Wheeling; by
+							blending with it charges of official malfeasance against Crawford, and
+							by avowing himself the author of the anonymous A. B. publications of the
+							last year, he has placed himself in the position of a public accuser,
+							under circumstances most unfavourable to himself. For although he has
+							proved almost every fact that he had alleged, yet Crawford’s defence
+							takes off all the edge of evil intentions, and the public are not only
+							indulgent to all the errors, and inadvertencies proved upon him, but
+							ascribe malicious and corrupt motives to Edwards for bringing forward
+							the charges. This is essentially unjust, but such is the public
+							prepossession, and Edwards may fall a victim to it. The bias already
+							taken by the Committee, bears heavily upon him, and the movements of
+								<persRef ref="webster-daniel">Webster</persRef> against him, are of
+							the most fatal import— Wirt said that he himself had known comparatively
+							nothing of the case, as I had now unfolded it to him— I said that in the
+							political consequences of this affair, I had so much of an indirect
+							interest myself, that I distrusted my own judgment concerning it. I was
+							very apprehensive that the President might require a formal opinion from
+							the members of his Administration upon the question whether he should
+							remove Edwards from the Mission to Mexico— If he did, I should in the
+							first instance request him, in consideration of the peculiarity of my
+							situation, to excuse me from giving an opinion— But if he should then
+							require it, I would give it.— John Edwards came in a state of despair
+							about the pardon of <persRef ref="perez-unknown">Perez</persRef>:
+							shedding floods of tears and wringing his hands— I had got the pardon
+							ready signed, and gave it to him, upon which he fell on his knees, and
+							uttered a thanksgiving to God; after which, he invoked blessings upon
+							the President, shook my hand with many effusions of gratitude, and
+							departed— Dix came to take leave. I had much conversation with J. W.
+							Taylor, concerning the movements in New-York, and the investigating
+							Committee. He thinks that the resumption of General Jackson, as the
+							Candidate of <persRef ref="clinton-dewitt">M<hi rend="superscript"
+									>r</hi> Clinton</persRef> and his party will give the vote of
+							the State with certainty to M<hi rend="superscript">r</hi> Crawford. He
+							also supposes that the Committee will confine their investigation
+							entirely to the official conduct of the Secretary of the Treasury— He
+							mentioned a publication made by Edwards at Louisville, on his way to
+							this place; and it was republished in the Washington Republican of this
+							Evening. And with it the Letter from <persRef ref="stephenson-benjamin"
+								>Stephenson</persRef> the receiver of public monies, and President
+							of the Bank of Edwardsville, which none of the Officers in the Treasury
+							had any recollection of having been received, and which the Report of
+							the Committee, argues, to have been probably never written. This
+							statement of the Committee has a very harsh aspect, against Edwards, who
+							had testified that the letter was written in his presence— Taylor said
+							that this was a mere incorrectness of expression in the report, which
+							would be explained. I told him I thought it hardly right in the
+							Committee to have reported at-all, after sending for Edwards, and before
+							he could arrive here. He said it would have been impossible to have
+							satisfied the House of Representatives without making some report before
+							they adjourned; but I thought the Committee should have been inflexible
+							upon that point— He told me that M<hi rend="superscript">r</hi> Edwards
+							was ill, and had been this day confined to his bed— <persRef
+								ref="wyer-edward">Wyer</persRef> was also this day at the Office.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams’s</persRef> health is so infirm, and she has such
+							continual severe returns of her complaint, that she has determined to go
+							and try the effect of the Bedford spring waters.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-02">
+					<head>2 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-02"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Health and Illness</note></bibl>
+					<div type="docbody">
+						<p><pb type="ms" n="348"/><date>2. VI:30.</date> The heat of the weather was
+							oppressive— At Noon, being about the time of the high tide I went with
+							my <persRef ref="adams-john2">Son John</persRef>, and bathed in the
+							Potowmack— It was but the second time this Season, and we swam about 25
+							minutes. The water was unusually turbid, and the meridian Sun striking
+							almost perpendicular upon my bald head, heated it so intensely that it
+							did not recover a cool temperature, through the remainder of the day— It
+							went through a succession of flushes and perspirations, which occasioned
+							some uneasiness and warned me to be more cautious of that sort of
+							exposure in future— <persRef ref="stackelberg-berndt">Baron
+								Stackelberg</persRef> was again at the Office; still perplexed how
+							to raise money to enable him to return this Summer to Sweden. His
+							Correspondents at Baltimore having sold his Bills; and yet withholding
+							from him their proceeds. He has written to them to send him here, an
+							order upon the Cashier of the U.S. Branch Bank, and I told him I would
+							if possible so guarantee the acceptance by his Government of His Bills,
+							that the Bank here would advance him the money now— But they would of
+							course charge him for interest on the money advanced, and I advise him
+							to notify his Correspondents that <hi rend="italic">they</hi> must pay
+							it, as was just, they having the actual use of the money. <persRef
+								ref="woodward-augustus">M<hi rend="superscript">r</hi>
+								Woodward</persRef> called likewise at the Office. We had company to
+							dine. <persRef ref="forrest-richard;forrest-sarah" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Richard Forrest</persRef> and their <persRef
+								ref="forrest-sarah2;forrest-mary" type="multi">two
+								daughters</persRef>— <persRef ref="frye-nathaniel;frye-carolina"
+								type="multi">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> Frye</persRef>, <persRef
+								ref="smith-william-steuben;smith-catherine-johnson" type="multi"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+									>rs.</hi> W. S. Smith</persRef>, <persRef ref="talbot-adelaide"
+									>M<hi rend="superscript">rs</hi> Talbot</persRef>, and <persRef
+								ref="thornton-william;thornton-anna" type="multi">D<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Thornton</persRef>. <persRef ref="brodeau-ann">M<hi
+									rend="superscript">rs</hi> Brodeau</persRef> sent an excuse—
+								<persRef ref="smith-linnaeus">Linnaeus Smith</persRef> made one, and
+								<persRef ref="taylor-john">John W. Taylor</persRef> whom I had
+							invited by note this morning, was engaged to dine with <persRef
+								ref="vanness-john">Gen<hi rend="superscript">l.</hi> Van
+								Ness</persRef>— He came in the Evening, and I told him I had
+							apprehended I had spoken to him yesterday, freely respecting the
+							proceedings of the Committee; I wished to assure him that I had intended
+							to apply no censure whatever upon him; and hoped I had said nothing
+							which could in any manner hurt his feelings— He said I had not— That I
+							had expressed my opinions freely but not offensively. He said <persRef
+								ref="edwards-ninian">Edwards</persRef> was yet ill— The Committee
+							have adjourned to next Monday— <persRef ref="livingston-edward"
+								>Livingston</persRef> being gone to New-York and <persRef
+								ref="webster-daniel">Webster</persRef> to Philadelphia— Heavy
+							thunder shower this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-03">
+					<head>3 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-03"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Health
+							and Illness</note><note type="subject">Elections, Presidential
+							(1824)</note><note type="subject">Native Americans</note></bibl>
+					<div type="docbody">
+						<p><date>3. VI:30.</date> My dear <persRef key="adams-louisa-catherine"
+								>wife</persRef> left me this day about noon to go to Bedford in
+							Pennsylvania, and try the force of the waters for the restoration of her
+							health— Our Son <persRef ref="adams-john2">John</persRef> and <persRef
+								ref="hellen-mary">Mary Hellen</persRef>, went with her. They were to
+							lodge this night at Rockville— Her Spirits were somewhat dejected, and I
+							was deeply affected at parting with her. She expects to be gone about a
+							Month, and I advised her if she should feel an inclination for it, to
+							extend her tour further— I had visitors at the House, <persRef
+								ref="coolidge-joseph">M<hi rend="superscript">r</hi>
+								Coolidge</persRef> of Boston, <persRef ref="houston-samuel">Gen<hi
+									rend="superscript">l.</hi> Houston</persRef>, member of the
+							House of Representatives from Tennessee, and <persRef
+								ref="dexter-unknown2">M<hi rend="superscript">r</hi>
+								Dexter</persRef> of Providence— At the Office, <persRef
+								ref="barton-david">D. Barton</persRef> Senator from Missouri,
+								<persRef ref="wyer-edward">Wyer</persRef>, <persRef ref="wells-john"
+								>John Welles</persRef> of Boston, and <persRef ref="swift-jonathan2"
+									>M<hi rend="superscript">r</hi> Swift</persRef>, Consul of
+							Portugal at Alexandria, who brought me a vehement protest, from the
+							Portuguese Chargé d’Affaires <persRef ref="pereira-joaquin">Joaquin
+								Barroso Pereyra</persRef>, against the reception of <persRef
+								ref="rebello-silvestre">M<hi rend="superscript">r.</hi>
+								Rebello</persRef>, as Charge d’Affaires from the <persRef
+								ref="pedro-iv">Emperor of Brazil</persRef>— Mess<hi
+								rend="superscript">rs.</hi> Coolidge, Dexter and Welles have claims
+							before the Commissioners under the Florida Treaty, which they begin to
+							be apprehensive will be rejected— Dexter and Welles appeared to be
+							solicitous to obtain some intimation in their favour from the Executive;
+							but I told them the Executive had no such authority. Houston asked me if
+							I had heard of any project of setting up <persRef ref="forsyth-john">J.
+								Forsyth</persRef> as a Candidate for the Vice-Presidency— I had not,
+							and was much surprized at the question. He said it had been seriously
+							contemplated, in the event of <persRef key="crawford-william-harris"
+									>M<hi rend="superscript">r</hi> Crawford’s</persRef> being
+							withdrawn on account of his health, an event deemed probable; and that
+							it was connected with a plan to support <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay</persRef> for the Presidency;
+							connected also with the visit of <persRef ref="vanburen-martin">M<hi
+									rend="superscript">r</hi> Van Buren</persRef> and <persRef
+								ref="dickerson-mahlon">M<hi rend="superscript">r</hi>
+								Dickerson</persRef> to Richmond and Monticello— Houston said he had
+							himself a high regard for all the Presidential Candidates except M<hi
+								rend="superscript">r</hi> Crawford, who had wronged him personally
+							in the year 1816. but he did not explain how. He applied also for a
+							Passport for <persRef ref="reynolds-james">James B. Reynolds</persRef>
+							also a Representative from Tennessee, who is going to Ireland; and is a
+							native <pb type="ms" n="349"/>of that Country. I called at the <persRef
+								key="monroe-james">President’s</persRef>, and read to him M<hi
+								rend="superscript">r</hi> Pereyra’s passionate protest. <persRef
+								ref="calhoun-john">M<hi rend="superscript">r</hi> Calhoun</persRef>
+							was there; and <persRef ref="mclean-john">M<hi rend="superscript">r</hi>
+								J. M’Lean</persRef> the Postmaster General afterwards came in—
+							Calhoun was there to introduce the Cherokee chiefs, <persRef
+								ref="ridge-major">Major Ridge</persRef>, <persRef ref="ross-john"
+								>Ross</persRef>, <persRef ref="lowry-george">Lowry</persRef> and
+								<persRef ref="hicks-charles">Hicks</persRef>, who have spent the
+							winter here, and now came to take leave of the President— Ridge the
+							first chief of the delegation, who speaks no English, made a short
+							address in their language, to the President, which was interpreted by
+							Ross and Lowry— It was merely an expression of thanks for the reception
+							and treatment they had met here, and assurances that they would remember
+							it after their return home— There was less of Indian Oratory, and more
+							of the common style of white discourse than in the same Chief’s speech
+							on their first introduction— The President answered briefly, by general
+							expressions of kindness and interest in their favour— The manners and
+							deportment of those men have in no respect differed from those of
+							well-bred country Gentlemen— They have frequented all the Societies,
+							where they have been invited at Evening parties, attended several
+							Drawing rooms, and most of M<hi rend="superscript">rs</hi> Adams’s
+							Tuesday Evenings— They dress like ourselves; except that <persRef
+								ref="dicky-unknown"><unclear>Di</unclear>cky</persRef>, a young and
+							very handsome man, wore habitually a purple scarf— He and Ross are
+							half-breeds, and Ross is the writer of the Delegation— They have
+							sustained a written controversy against the Georgia Delegation, with
+							great advantage— The President this day gave me two Sheets of paper
+							dated 20. and 21. Jan<hi rend="superscript">y.</hi> 1823. being
+							confirmations by the Senate of nominations to Office, at the Session of
+							Congress before the last. These papers had been loosely mixed among
+							others, now nearly eighteen months, and for want of these confirmations,
+							new Nominations in several instances have been made at this last
+							Session, of persons whose appointments were already complete. Among them
+							that of <persRef ref="woodbridge-william">W. Woodbridge</persRef> as
+							Secretary of the Michigan Territory, who I feared had been in the same
+							predicament with <persRef ref="miller-james">Governor Miller</persRef>
+							of Arkansas, acting upwards of a year, without any appointment— These
+							irregularities happen, for want of system, in the multiplicity of
+							business always crowding upon the President— And above all from his want
+							of an efficient private Secretary— There was heavy rain this Evening,
+							and some thunder— I found my Solitude irksome.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-04">
+					<head>4 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-04"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Slave
+							Trade</note><note type="subject">Reform Movements</note></bibl>
+					<div type="docbody">
+						<p><date>4. VI:30.</date> Morning visitors <persRef ref="barbour-john">J. S.
+								Barbour</persRef>, member of the House of Representatives— <persRef
+								ref="cook-daniel">D. P. Cook</persRef>— Then <persRef
+								ref="wistar-thomas">Thomas Wistar</persRef>, <persRef
+								ref="newbold-william">William Newbold</persRef>, and <persRef
+								ref="battle-samuel">Samuel Battle</persRef>, three members of the
+							Society of Friends, and afterwards <persRef ref="wyer-edward">E.
+								Wyer</persRef>, who introduced <persRef ref="lee-henry3">Henry
+								Lee</persRef>, the son of the <persRef ref="lee-henry2">late
+								General</persRef> of that name— At the Office <persRef
+								ref="nelson-jeremiah">Jeremiah Nelson</persRef> came— a <persRef
+								ref="skinner-unknown">M<hi rend="superscript">r</hi>
+								Skinner</persRef>, and young <persRef ref="hodgson-william"
+								>Hodgson</persRef>— Barbour told me he had been summoned back from
+							home to attend the investigating Committee as a witness— He became such
+							in this manner—a Letter was published in the Richmond Enquirer, stating
+							that when the nomination of <persRef ref="edwards-ninian"
+								>Edwards</persRef> for the Mexican Mission was before the Senate,
+								<persRef ref="noble-james">M<hi rend="superscript">r</hi>
+								Noble</persRef>, Senator from Indiana, with a view to the vote he
+							should give upon that nomination, asked Edwards if he was the author of
+							the A. B. Letters; which Edwards positively and solemnly denied— The
+							writer of this Letter is understood to be <persRef ref="benton-thomas"
+								>T. Benton</persRef>, the Senator from Missouri. When the Letter in
+							the Enquirer appeared here Barbour, being in conversation concerning it
+							with, <persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef> the Speaker—Clay observed that the mere denial of
+							being the author of an anonymous publication was justifiable.— It was
+							the writers secret, and he had the right to disconcert improper
+							curiosity by a direct denial— But if the question was asked by a
+							Senator, with a view to his vote upon a nomination—then a denial
+							contrary to the truth would be in his opinion dishonourable. A few
+							minutes afterwards Barbour meeting Noble had asked him how it had been;
+							and Noble told him that M<hi rend="superscript">r</hi> Edwards had in
+							the most positive and solemn manner denied to him that he had been the
+							author of the A. B. Letters, but that it had been without any reference
+							whatever to the nomination in the Senate, or to Noble’s vote upon it—
+							And hereupon Noble and Benton are summoned to discredit Edwards; and
+							Barbour to discredit Noble, by proving that he told the Story two
+							different ways, inconsistent <pb type="ms" n="350"/>with each other.
+							Cook told me that Edwards besides the copy of <persRef
+								ref="stephenson-benjamin">Stephenson’s</persRef> Letter, which had
+							been in question, had also found at the Land-Office, a copy of another
+							Letter written about ten days later, and referring to it.— He said also
+							that Edwards had received a confidential Letter from a friend saying
+							that a Clerk in the Treasury had told him that the Letter from
+							Stephenson had been received, and was several days in the Secretary’s
+							possession. But he does not name the Clerk, and it is probable he will
+							be unwilling to testify— The three Quaker’s came as a deputation from a
+							Society of their persuasion, to express to the Government their great
+							anxiety for the suppression of the Slave-trade— They had been with the
+							President, who had requested them also to see me— They stated their
+							great concern, that from all the Evidence they had been able to collect
+							it appeared that the trade more extensively, and with greater inhumanity
+							than ever— It was carried on they said, chiefly under the french flag,
+							and they came to enquire, if some effectual appeal could not be made to
+							the Government of France to prevail upon them to take measures for
+							putting it down— I told them what had been done, and what I hoped might
+							yet be done in negotiation, with the maritime powers, and promised them
+							all the aid I could give them for the accomplishment of their purpose.
+							H. Lee spoke of the Book he has lately published against <persRef
+								ref="johnson-william">judge Johnson’s</persRef> Life of <persRef
+								ref="greene-nathanael">Greene</persRef>, and of the Letter from the
+								<persRef ref="hastings-warren">Marquis of Hastings</persRef>, to
+							Lee’s father, in vindication of his conduct relative to the Execution of
+								<persRef ref="hayne-isaac">Col<hi rend="superscript">l.</hi>
+								Hayne</persRef>, during our Revolutionary War— He said <persRef
+								ref="cheves-langdon">M<hi rend="superscript">r</hi> Cheves</persRef>
+							had questioned the propriety of publishing that Letter, as it seemed to
+							bear hard upon the character of Hayne; but I thought this was not a
+							sufficient reason for withholding it— After a Solitary Evening, <persRef
+								ref="hellen-johnson">Johnson Hellen</persRef> came in from
+							Rockville, to pass a week or ten days with me— <persRef
+								key="adams-louisa-catherine">My wife</persRef> and her party lodged
+							there last Night and proceeded on their journey this morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-05">
+					<head>5 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. VI:30.</date><persRef ref="wells-john">M<hi rend="superscript"
+									>r</hi> John Welles</persRef> called this morning at my house
+							and enquired if I had the collection of the Spanish Laws, entitled
+							Novissima Copilacion— I went with him to the Office, where we found
+							three Editions of the Laws of the Indies— That which M<hi
+								rend="superscript">r</hi> Welles wanted was afterwards found; notice
+							of which I had sent to him at his lodgings. He afterwards came with
+								<persRef ref="jaudon-samuel">M<hi rend="superscript">r</hi>
+								Jaudon</persRef>, and took the Volume, from which he wished Extracts
+							to be made, to be used for his claim before the Florida Treaty
+							Commissioners. <persRef ref="stackelberg-berndt">Baron
+								Stackelberg</persRef> came, and cannot obtain from his
+							correspondents at Baltimore the money which they have received upon his
+							Bills— I told him I thought his course was to write them that if they
+							would not send him the money, or an order for it immediately payable, by
+							next Tuesday, he would write to his Government, requesting that the
+							Bills might not be accepted or paid— And in that case, I would request
+							that his bills to the same amount of £800 Sterling, should be taken at
+							the Treasury for a remittance to <persRef ref="hughes-christopher">C.
+								Hughes</persRef>. He said he would write accordingly. <persRef
+								ref="kingston-stephen">M<hi rend="superscript">r</hi> Stephen
+								Kingston</persRef> of Philadelphia came about an old claim upon the
+							French Government of nearly thirty years standing, to support which he
+							wishes that <persRef ref="brown-james">M<hi rend="superscript">r</hi>
+								Brown</persRef> may be instructed— Upon his application during the
+							last winter, I gave a written answer that it must be unavailing; to
+							which Kingston wrote a long argumentative reply insisting upon the
+							Instruction to M<hi rend="superscript">r</hi> Brown— I gave direction
+							therefore, that a copy of this Letter should be made to send to M<hi
+								rend="superscript">r</hi> Brown, with a recommendation to give M<hi
+								rend="superscript">r</hi> Kingston all the aid in his power—
+								<persRef ref="wyer-edward">Wyer</persRef> called at the Office, and
+								<persRef ref="taylor-john">J. W. Taylor</persRef>, who gave me to
+							read an address to his Constituents, which in the leisure of the week he
+							has been writing, giving them a brief review of the principal measures
+							of the late Session of Congress— He said he would call on me for it
+							to-morrow Evening— After dinner I went with <persRef
+								ref="hellen-johnson">Johnson Hellen</persRef> over to Wyer’s, and
+							saw his collection of Shells— It is large, but crowded in small space,
+							and in much confusion— Evening walk afterwards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-06">
+					<head>6 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-06"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Unitarianism</note></bibl>
+					<div type="docbody">
+						<p><date>6. VI:30.</date> Swam in the Potowmack with <persRef
+								ref="giusta-antoine">Antoine</persRef> 35 minutes— Water cold, and
+							still turbid. Heard <persRef ref="little-robert">M<hi rend="superscript"
+									>r</hi> Little</persRef> from Acts 2.22.—“Jesus of Nazareth, a
+							man approved of God among you by miracles and wonders and signs, which
+							God did by him in the midst of you, as ye yourselves also know.” <pb
+								type="ms" n="351"/>Part of this discourse went to prove that Jesus
+							was not born, and never was at Bethlehem—also that he was merely a <hi
+								rend="italic">man</hi>, by whom God did miracles and wonders— In the
+							afternoon, <persRef ref="baker-daniel">M<hi rend="superscript">r</hi>
+								Baker</persRef> from Ecclesiastes 5.4. “When thou vowest a vow unto
+							God, defer not to pay it: for he hath no pleasure in fools; pay that
+							which thou hast vowed.” The Sermon was in reference to the Communion
+							which had been administered in the morning— In the Evening, Little
+							again—from Isaiah 42.8. “I am the Lord: that is my name: and my glory
+							will I not give to another.” Unitarian doctrine— After the morning
+							service, I called at <persRef ref="fletcher-unknown">M<hi
+									rend="superscript">r</hi> Fletcher’s</persRef> and saw <persRef
+								ref="edwards-ninian">M<hi rend="superscript">r</hi> N.
+								Edwards</persRef>— He is quite unwell, suffering with a very severe
+							cough from a cold taken upon his journey to this place. He spoke of his
+							Address; and of his motives for sending it from Wheeling— He said when
+								<persRef key="crawford-william-harris">M<hi rend="superscript"
+									>r</hi> Crawford’s</persRef> Report of 22. March was put into
+							his hands he was on the very point of his departure. His trunks were all
+							packed, and he had no papers or documents to which he could resort. He
+							saw that the paragraph in the Report was intended as an imputation of
+							perjury against him, and he thought he had no means of repelling it—not
+							then recollecting the Correspondence between himself and Crawford of 9.
+							and 12. February 1822. He thought he had no means of self-defence, but
+							by going to Edwardsville— On his way to Wheeling however many things
+							occurred to his recollection, upon which he determined to write his
+							Address— On arriving at Edwardsville he found not only the Letter from
+								<persRef ref="stephenson-benjamin">Stephenson</persRef>, which had
+							been in question, but another of a later date referring to it, and which
+							he had no doubt had also been received by M<hi rend="superscript">r</hi>
+							Crawford. He has an ingenious argument to shew that M<hi
+								rend="superscript">r</hi> Crawford did receive the first Letter, but
+							it raises a mere probability, and the Clerk in the Treasury, who had
+							said that it was received flinches from giving testimony to the fact— On
+							returning from Church this Evening I found <persRef ref="king-charles2"
+								>C. B. King</persRef>, and <persRef ref="taylor-john">J. W.
+								Taylor</persRef> at my door. King soon went away. Taylor remained
+							here, till near Midnight.— The Committee are to meet to-morrow. <persRef
+								ref="webster-daniel">Webster</persRef> has returned from
+							Philadelphia; but <persRef ref="livingston-edward">Livingston</persRef>
+							has not come in from New York. Taylor thought the publication by Edwards
+							of Stephenson’s Letters, disrespectful to the Committee— I said I should
+							have thought so too, if he could have thought the Committee were
+							impartial; but their bias was too apparent; and the Letter in the
+							Richmond Enquirer; from the best authority (<persRef
+								ref="stevenson-andrew">A. Stevenson</persRef>) asserting that one of
+							the most distinguished members of the Committee (Webster) had said that
+							if Edwards produced no stronger evidence to support his charges, the
+							Committee would pronounce a heavy censure upon him shews the use of
+							means to turn against Edwards the current of public opinion, so
+							abhorrent to my sense of Justice, that I scarcely know how to speak of
+							it with composure. I returned to Taylor his Letter to his Constituents,
+							with thanks for the perusal of it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-07">
+					<head>7 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-07"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">African Americans</note></bibl>
+					<div type="docbody">
+						<p><date>7. VI.</date> Swam with <persRef ref="giusta-antoine"
+								>Antoine</persRef> in the Potowmack 50 minutes— The day was melting.
+							Thermometer at 90. <persRef ref="hazel-h">H. Hazel</persRef>, <persRef
+								ref="thornton-william">D<hi rend="superscript">r</hi>
+								Thornton</persRef> and <persRef ref="barbour-john">J. S.
+								Barbour</persRef> called at my house— <persRef ref="hay-george">G.
+								Hay</persRef>, <persRef ref="kingston-stephen">S.
+							Kingston</persRef>, <persRef ref="addington-henry">M<hi
+									rend="superscript">r</hi> Addington</persRef>, and <persRef
+								ref="rowlett-john">John Rowlett</persRef> at the Office. Hazel
+							applied for an appointment of Clerk in the Department of State. M<hi
+								rend="superscript">r</hi> Kingston came upon his claim of the last
+							century; but the copies of the papers were not yet made out. M<hi
+								rend="superscript">r</hi> Addington to enquire if any steps had been
+							taken with the Government of South-Carolina, upon the State Law,
+							prohibiting upon penalties, free coloured persons from coming into the
+							State in vessels. I told him the directions which had been given to the
+								<persRef ref="unknown17">District Attorney at Charleston</persRef>,
+							and the failure by the discharge of the man, of an opportunity to bring
+							the subject up for the decision of the Supreme Court. I told him also
+							that I proposed writing to the <persRef ref="wilson-john3">Governor of
+								South-Carolina</persRef>, and sending him a copy of the papers
+							remonstrating against the operation of the Law— Rowlett came, as a
+							chapman to put off some additional copies of <persRef ref="tanner-henry"
+								>Tanner’s</persRef> maps. He told me of <persRef
+								ref="tuyll-diederick">Baron Tuyll’s</persRef> objections to the term
+								<hi rend="italic">extravagant</hi>, applied to the pretensions of
+							Russia, on the North west Coast of America, in the preface to the Atlas,
+							and how he to pacify the Baron, changed the word extravagant, for <hi
+								rend="italic">extensive</hi>, in the copies that he furnished to the
+							Baron: a change which I told him was more creditable to his
+							complaisance, than to his patriotism— As I came home to dine, I met
+								<persRef ref="cook-daniel">D. P. Cook</persRef>, who was going to
+							the Office of the Department, to enquire for Books relating to <pb
+								type="ms" n="352"/>the impeachment of <persRef ref="hastings-warren"
+								>Warren Hastings</persRef>— I returned with him to the Library, and
+							he took out several volumes of <persRef ref="burke-edmund"
+								>Burke’s</persRef> works, and of the Parliamentary Debates, relating
+							to the subject— Late this Evening, I received a Letter from <persRef
+								ref="meade-richard">R. W. Meade</persRef>, enclosing a protest,
+							addressed to the <persRef key="monroe-james">President</persRef>,
+							through the Secretary of State, against the decision of the Florida
+							Treaty claim Commissioners, totally rejecting his claim, to the amount
+							of near 400000 dollars, as not included in the Treaty— Which decision he
+							says was only this day notified to him by <persRef ref="watkins-tobias"
+									>D<hi rend="superscript">r.</hi> Watkins</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-08">
+					<head>8 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-08"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Adams-Onis Treaty</note><note
+							type="subject">Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>8. VI:</date> Swam with <persRef ref="giusta-antoine"
+								>Antoine</persRef> in the Potowmack, an hour and a half— The swarm
+							of visitors at my house and at the Office, rather increases than
+							diminishes since the close of the Session of Congress. This morning
+							there came a man by the name of <persRef ref="belt-unknown3"
+								>Belt</persRef>, who had nothing in his appearance to recommend him;
+							but pretending to have discovered in the Western Country extensive lead
+							mines, which he was willing for a suitable compensation to make known to
+							the Government. I advised him to call on the Commissioner of the General
+							Land Office. <persRef ref="berryman-n">M<hi rend="superscript">r</hi>
+								Berryman</persRef> came, to renew his solicitations for employment;
+							and endeavoured to explain or palliate a mode of solicitation to which
+							he had heretofore resorted— <persRef ref="ironside-george">M<hi
+									rend="superscript">r</hi> Ironside</persRef> came with a proof
+							Sheet of the National Government Journal, containing the first part of
+							the Documents relating to the Negotiation for the suppression of the
+							Slave-trade.— At the Office, <persRef ref="nelson-jeremiah">Jeremiah
+								Nelson</persRef>, <persRef ref="kingston-stephen">Stephen
+								Kingston</persRef>, <persRef ref="richards-g">G. Richards</persRef>
+							the Delegate from the Michigan Territory, <persRef
+								ref="stackelberg-berndt">Baron Stackelberg</persRef>— The three
+							Commissioners under the eleventh Article of the Florida Treaty, <persRef
+								ref="white-hugh">H. L. White</persRef>, <persRef ref="king-william"
+								>W. King</persRef> and <persRef ref="tazewell-littleton">L. W.
+								Tazewell</persRef>, and their Secretary <persRef
+								ref="watkins-tobias">D<hi rend="superscript">r</hi>
+								Watkins</persRef>, <persRef ref="rowlett-john">John
+								Rowlett</persRef>, <persRef ref="robinson-jeremy">Jeremy
+								Robinson</persRef>, a <persRef ref="griswold-george">M<hi
+									rend="superscript">r</hi> George Griswold</persRef>, and
+								<persRef ref="wyer-edward">E. Wyer</persRef>, followed each other,
+							in succession scarcely intermitted— Nelson renewed a recommendation for
+							a Consular Office— Kingston’s papers were not ready for him, but are to
+							be delivered to him to-morrow. Richards wished for some Letter or
+							certificate that he did not oppose the re-appointment of <persRef
+								ref="witherell-james">judge Witherell</persRef>, as a judge for the
+							Territory of Michigan— Richards is a Catholic priest— A man of his
+							Church applied to him to marry him; having a wife living, but from whom
+							he was separated or divorced— Richards refused to marry him, and by
+							direction of his bishop, gave him notice; that if he did marry, he would
+							be excommunicated. The man did marry, and Richards did excommunicate
+							him, as he said the Church had done with three kings— The bigamist sued
+							him for damages in the Court of Michigan, and recovered a verdict
+							against him. This is the action upon which, on a motion in arrest of
+							judgment the judges <persRef ref="woodward-augustus">Woodward</persRef>
+							and Witherell differed, and the third judge being absent, no decision
+							could be given. Of the new judges one was Richards’s Counsel, and the
+							other Counsel against him, and cannot sit in the cause— Richards fears
+							that the decision will remain with Witherell, and that he will be
+							prejudiced against him— The case is hard, and peculiar— Stackelberg has
+							no answer from his Baltimore Correspondents, and had determined to write
+							to <persRef ref="tottie-unknown">Tottie</persRef> and <persRef
+								ref="arfsidsen-unknown">Arfsidsen</persRef>, not to accept or pay
+							his bills— I advised him to wait another day. The Florida Claim
+							Commissioners, closed their Sessions and adjourned without day. D<hi
+								rend="superscript">r.</hi> Watkins brought the Volume of Records of
+							their proceedings, and four Schedules, containing Lists of the Memorials
+							presented to them, and upon which they have acted—one of which is to be
+							transmitted to the Treasury Department, where the Claims are to be paid.
+							There is a great Mass of Documents and Vouchers, which it is provided by
+							the Convention shall be deposited in the Department of State, and as
+							there will be for sometime frequent occasion to recur to them, the
+							Commissioners recommended that they should remain in the custody of D<hi
+								rend="superscript">r</hi> Watkins, the only person who understands
+							the order and arrangement in which they are kept— I spoke to them of
+								<persRef ref="meade-richard">R. W. Meade’s</persRef> Protest. M<hi
+								rend="superscript">r</hi> Tazewell said they would furnish me with a
+							minute and thorough analysis of his claim, shewing to demonstration that
+							there was no <pb type="ms" n="353"/>part of it within the Treaty— That
+							Spain was bound to pay it. Judge White said that the board had perhaps
+							rejected some claims that were good, and admitted some that ought to
+							have been rejected; some such mistakes were unavoidable; but the errors
+							were not considerable, and he hoped that on the whole substantial
+							justice had been done— On taking leave of the Commissioners, I thanked
+							them in behalf of the Executive Government, for the zeal, industry and
+							ability with which they had discharged the duties of the Commission—
+							Robinson, brought me a number of recommendatory Letters— Griswold had
+							Letters of Introduction from <persRef ref="king-charles">C.
+								King</persRef> and <persRef ref="wheaton-henry">H.
+							Wheaton</persRef>— He was the bearer of a Letter from the Presidents of
+							ten Insurance Companies in New-York, complaining of the capture of three
+							U.S. Vessels, by the Colombian Privateer, General Santander, <persRef
+								ref="chase-john">Captain Chase</persRef> of Baltimore; and two
+							depositions shewing that all the Officers of the privateer were American
+							Citizens; and that 40 men of her crew were enlisted at New-Orleans and
+							shipped at the Belize— I took these Papers to the <persRef
+								key="monroe-james">President</persRef>. He had received a Baltimore
+							Newspaper containing a long communication to justify these captures— I
+							left with him the papers brought by M<hi rend="superscript">r</hi>
+							Griswold— And he determined that Watkins should be retained as long as
+							should be necessary in custody of the Florida claim Commission papers,
+							with a continuance of the Salary he has had as their Secretary— <persRef
+								ref="wirt-william">M<hi rend="superscript">r</hi> Wirt</persRef>
+							spent a couple of hours with me this Evening: and spoke much of <persRef
+								ref="edwards-ninian">N. Edwards</persRef>, of <persRef
+								ref="webster-daniel">Webster</persRef>, of <persRef
+								ref="randolph-john">J. Randolph</persRef> and of Tazewell; who has
+							written what Wirt calls a Peeler against Webster and in support of
+							Randolph, which is to be published in the Richmond Enquirer—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-09">
+					<head>9 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-09"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Adams Family
+						Finances</note></bibl>
+					<div type="docbody">
+						<p><date>9. VI:15.</date> Change of weather in the Night— Heat still
+							continuing. Swam in the Potowmack with <persRef ref="giusta-antoine"
+								>Antoine</persRef>, near an hour and a half. Returning home I met
+								<persRef ref="cranch-william">judge Cranch</persRef>, who had a
+							small sum of Potowmack Bridge Stock to dispose of, for <persRef
+								ref="norton-jacob">M<hi rend="superscript">r</hi> Norton</persRef>
+							of Weymouth. Norton is obliged to part from his Church because he has
+							become a Baptist— A speculative and wavering mind; lost in the mazes of
+							its own ingenuity. <persRef ref="johnson-george">G. Johnson</persRef>
+							was here. The business of the Mills has been a losing concern— All the
+							labour of the year has been lost; and instead of a resource for
+							retirement, is likely to prove a heavy clog upon my affairs— Yet I am
+							embarked, and must share the fortune’s of the ship— I shall continue the
+							experiment for another year. At the Office, <persRef
+								ref="whitman-ezekiel">E. Whitman</persRef> of Maine, <persRef
+								ref="wirt-william">M<hi rend="superscript">r</hi> Wirt</persRef> and
+								<persRef ref="gamble-thomas">M<hi rend="superscript">r</hi>
+								Gamble</persRef>, <persRef ref="ogden-david3">D. B. Ogden</persRef>,
+								<persRef ref="everett-charles">D<hi rend="superscript">r.</hi>
+								Everett</persRef>, <persRef ref="griswold-george">G.
+								Griswold</persRef>, <persRef ref="kingston-stephen">Stephen
+								Kingston</persRef>, <persRef ref="stackelberg-berndt">Baron
+								Stackelberg</persRef> and <persRef ref="watkins-tobias">D<hi
+									rend="superscript">r</hi> Watkins</persRef>, absorbed and
+							distracted the day. Several of these visitors came on account of
+							claimants in whose favour awards have been made by the Florida Treaty
+							Commission just closed. The schedule was sent to the Treasury with a
+							Letter from me to <persRef key="crawford-william-harris">the
+								Secretary</persRef>. I had received yesterday a second Letter from
+								<persRef ref="meade-richard">D. W. Meade</persRef>, asking an order
+							upon D<hi rend="superscript">r.</hi> Watkins for the return of the
+							documents which he had laid before the Commissioners in support of his
+							claim; and a certified copy of the final opinion of the Commissioners
+							upon it. But the Treaty stipulates that all the Documents and vouchers,
+							reported by the Commissioners shall be deposited in the Department of
+							State, but gives no authority to the Secretary of State to dispose of
+							them in any manner; and upon enquiry I found that no <hi rend="italic"
+								>Opinions</hi> of the Commissioners had been returned with the
+							Records, and vouchers— Not even that which I had understood <persRef
+								ref="tazewell-littleton">M<hi rend="superscript">r</hi>
+								Tazewell</persRef> yesterday to have promised me. There is nothing
+							but the bare decision of the Commissioners upon each case— D<hi
+								rend="superscript">r</hi> Everett came to take leave; going on a
+							Summer excursion to Virginia— M<hi rend="superscript">r</hi> Kingston
+							was furnished with the Letter that he had requested, to <persRef
+								ref="brown-james">M<hi rend="superscript">r</hi> Brown</persRef> our
+							Minister in France. Baron Stackelberg had an answer from his
+							Correspondents at Baltimore, who cannot pay him the money upon his
+							Bills, of which they have otherwise disposed; but offer him a Bill upon
+							Liverpool, upon condition of a guaranty which he cannot give. He has
+							determined therefore to write and request that the Bills may not be
+							accepted or paid; and now desires me to take his Bills as I had
+							suggested— I desired him to make a written application, with copies and
+							translations of the extracts from the despatches to him of <persRef
+								ref="engstrom-lars">Count Engëstrom</persRef>, and the Swedish <pb
+								type="ms" n="354"/>Treasurer. Mess<hi rend="superscript">rs.</hi>
+							Griswold and Ogden came, upon the application from the Insurance
+							companies at New-York, against the depredations of the Colombian
+							Privateer, General Santander— I called at the President’s, and he
+							directed a cabinet meeting, for to-morrow at one O’Clock— After I
+							returned to the Office D<hi rend="superscript">r</hi> Watkins called
+							again— I directed that all the Documents and Vouchers reported by the
+							Commissioners should be immediately transmitted to the Department— D<hi
+								rend="superscript">r</hi> Watkins seemed anxious to know, in what
+							capacity, he should have the custody of the papers— I said as late
+							Secretary to the Commissioners— He thought there would be no occasion
+							for his attendance more than a few days or weeks— Evening walk with
+								<persRef ref="hellen-johnson">Johnson Hellen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-10">
+					<head>10 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-10"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Foreign Relations</note><note
+							type="subject">U.S. Constitution</note><note type="subject"
+							>Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>10. V:45.</date> After a week of the most intense heat I have ever
+							experienced, with frequent and heave Thunder showers, it cleared off in
+							the Night with a sweeping Northwest wind and <persRef ref="fahrenheit-daniel">Fahrenheit’s</persRef> thermometer
+							from eleven last Evening to six this morning fell from 71. to 54. I
+							nevertheless took the Bath with <persRef ref="giusta-antoine"
+								>Antoine</persRef> in the Potowmack, and buffeted the waves about an
+							hour— <persRef ref="mann-james">D<hi rend="superscript">r</hi>
+								Mann</persRef>, brought me a Letter of Introduction from <persRef
+								ref="bailey-john">J. Bailey</persRef>. He is an army Surgeon,
+							stationed at Fort Independence, and came here merely to visit the place,
+							on a short furlough— <persRef ref="frye-nathaniel">M<hi
+									rend="superscript">r</hi> Frye</persRef> called— At the Office,
+								<persRef ref="selden-cary">M<hi rend="superscript">r.</hi>
+								Selden</persRef> introduced Mess<hi rend="superscript"
+								>rs.</hi><persRef ref="pollard-unknown">Pollard</persRef> and
+								<persRef ref="brown-unknown14">Brown</persRef> from Norfolk,
+							Virginia. They came for a certified copy of a decision by the Florida
+							Claim Commissioners in which they were interested; and it was given
+							them— Cabinet Meeting at one— Mess<hi rend="superscript"
+								>rs.</hi><persRef ref="calhoun-john">Calhoun</persRef> and <persRef
+								ref="wirt-william">Wirt</persRef> present. <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> is with the Commissioners of the Navy on a tour
+							to Norfolk, Virginia— <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r</hi> Anderson</persRef> the Comptroller was
+							with the <persRef key="monroe-james">President</persRef> upon a Question
+							concerning the transfer of 15000 dollars from the appropriation for
+							compensation to the members of the House of Representatives, to that of
+							the contingent expenses of the House— The latter of these appropriations
+							for the present year, being deficient that sum and the former redundant.
+							The question was upon the power of the President to direct the
+							transfer—See U.S. Laws. Act of 3. March 1809. Vol. 4. p. 221. Act of 3.
+							March 1817. Vol. 6. p 235. Act of 16. Feb<hi rend="superscript">y</hi>
+							1818. p. 256. and that depends on the question whether the expenditures
+							of the House of Representatives, may constructively be considered, as
+							expenditures of the Treasury Department— M<hi rend="superscript">r</hi>
+							Wirt thinks they may— No decision this day— The President had a Letter
+							from <persRef ref="lafayette">General La Fayette</persRef>, referring to
+							the Resolution of Congress, that a Public Ship be sent to bring him to
+							the United States. He declares his intention to come this Summer, but
+							expresses a preference to coming in a Public ship; from various
+							considerations, without positively declining it— The President who
+							thought that important political consequences were involved in this
+							personal compliment, offered for discussion, whether a Public Ship
+							should nevertheless be sent to France, for the General, or whether a
+							person should be sent out to attend him as a companion hither— A Letter
+							from <persRef ref="brown-james">M<hi rend="superscript">r</hi>
+								Brown</persRef>, confirmed what was already known; that many people
+							in France, perhaps the Government party generally have considered this
+							invitation as indicating strong hostility to the Bourbons— The more of
+							exhibition there is in carrying it into execution; the more this
+							sentiment will be felt; and the President said he thought the form in
+							which it would shew itself would be in slights to M<hi
+								rend="superscript">r</hi> Brown— And he related how after the attack
+							upon the Chesapeake, the <persRef ref="charlotte2">Queen of
+								England</persRef> at a Drawing-Room passed him without speaking to
+							him— On the other hand if full effect should not be given by the
+							Executive to the Resolution of Congress, the People of this Country
+							would be much dissatisfied— There was much desultory Conversation, but
+							no decision— Some remarks were made upon the inconsiderateness of the
+							Resolution— Upon the expense which it must occasion, left entirely
+							unprovided for. Of the inconveniences and charges upon him, and the
+							attitude of Public exhibition under which he must appear wherever he may
+							go in this Country— I thought he saw much of this himself; and that he
+							meant to decline coming out in a public ship, positively, though from
+							delicacy he had not said so in peremptory terms— Another question
+							discussed was whether the President could now sign the Act, concerning
+							the Florida wreckers, which was examined, and actually announced to the
+							House as having been signed, but accidentally among forty or fifty other
+							Acts approved the last <pb type="ms" n="355"/>evening before the close
+							of the Session, remained without his signature. Could the President sign
+							an Act, Congress not being in Session. Wirt thought he could— So did I—
+							The Article of the Constitution concerning the signature of the
+							President to Acts of Congress was read and analyzed. Nothing in it
+							requiring that the President should sign, while Congress are in Session—
+							Calhoun said that uniform practice had established a practical
+							Construction of the Constitution— I observed that the practice had
+							merely grown out of the precedents in the British Parliament. But the
+							principles were different. The King was a constituent part of
+							Parliament, and no Act of Parliament could be valid without the king’s
+							approbation— But the President is not a constituent part of Congress,
+							and an Act of Congress may be valid as Law without his signature or
+							assent— Calhoun still thought that the uniform practice made the Law.
+								M<hi rend="superscript">r</hi> Wirt also thought that as the
+							President had examined the Act for signature, and it had been announced
+							that he had signed it; he might sign it now and date it as of that time,
+							nunc pro tunc— The President seemed to be afraid of the captious and
+							cavilling spirit of the time, and that there might be misrepresentation
+							of motives, if the Act should be signed in this manner— Calhoun was
+							under the same impression— And as the Act was to commence its operation
+							only in October, and was not of an urgent character it was concluded to
+							be the safest course to leave the Act unsigned, and state the facts to
+							Congress at their next Session— The Letter from the Insurance Companies
+							of New-York, and the two depositions enclosed with it were read and
+							considered— The <persRef ref="chase-john">Captain</persRef>, all the
+							Officers, and a large portion of the men of the privateer Gen<hi
+								rend="superscript">l.</hi> Santander are Citizens of the United
+							States— She took in forty men, and part of her equipment in the United
+							States— She took and sent in to Laguira two Vessels of the United
+							States, and took out twenty-six bales of dry goods from a third— I read
+							a despatch from <persRef ref="nelson-hugh">H. Nelson</persRef>,
+							mentioning complaints of <persRef ref="heredia-narciso">Count
+								Ofalia</persRef>, the Spanish Minister of foreign Affairs against
+							depredations of South-American privateers fitted out in this Country—
+							The President wished me to send for <persRef ref="salazar-jose">M<hi
+									rend="superscript">r</hi> Salazar</persRef>, and remonstrate
+							with him, to give strong Instructions to <persRef ref="anderson-richard"
+								>R. C. Anderson</persRef>, and to send out <persRef
+								ref="watts-beaufort">Watts</persRef> by the way of Laguira, to
+							demand restitution— All this I approved, but proposed also, that
+							Instructions should be given to our Commanders of armed vessels to take
+							the privateer General Santander, and bring her in for trial—by virtue of
+							the Acts of Congress of 20. April 1818. U.S. Laws Vol. 6. P. 320. of 3.
+							March 1819. p. 412. 15. May 1820. p. 529. And of 30. Jan<hi
+								rend="superscript">y</hi> 1823. 17. C. 2. S. ch 7. p 5. M<hi
+								rend="superscript">r</hi> Wirt entered largely into the
+							consideration of the effect of those Laws, as expounded by the decisions
+							of the U.S. Courts; the conclusion of which was, that we could not
+							require of the Republic of Colombia to acknowledge the principle, that
+							free ships make free goods: neither by our Treaty with Spain; nor by the
+							Law of Nations— That we could not take at Sea, out of our own
+							Jurisdiction, any vessel for violation of the Law of 20. April 1818.
+							That we could take the privateer General Santander for violation of the
+							Act of 3. March 1819. only upon the charge of having taken out 26 bales
+							of dry goods from one of our merchantmen—but that she could be taken for
+							that. M<hi rend="superscript">r</hi> Calhoun doubted the right of
+							expatriation— Said he was always against it, in feeling, and had never
+							committed himself upon it, during the late war— I agreed with him in the
+							Sentiment; but said we had foreclosed this argument against ourselves,
+							by the Oath, renouncing foreign Allegiance which we required from
+							foreigners, as the condition of naturalization— After long discussion,
+							the Meeting was adjourned till tomorrow at Noon— I read <persRef
+								ref="meade-richard">R. W. Meade’s</persRef> two Letters and Protest;
+							and my draft of an answer, which was approved; and accordingly
+							afterwards sent— Evening walk with <persRef ref="hellen-johnson">Johnson
+								Hellen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-11">
+					<head>11 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-11"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">U.S. Constitution</note><note
+							type="subject">Foreign Relations</note><note type="subject"
+							>Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>11. VI.</date> Swam with <persRef ref="giusta-antoine"
+								>Antoine</persRef> to the 4<hi rend="superscript">th.</hi> lamp post
+							on the Bridge, and back 1 1/2 hour. Too cold for him— Chill on coming
+							out of the water—my own exertion too great. <persRef ref="lee-william"
+								>W. Lee</persRef> came with <persRef ref="curtis-unknown2"
+								>Curtis</persRef> applying for the appointment of Consul at Tampico—
+								<persRef ref="carbery-thomas">M<hi rend="superscript">r</hi>
+								Carbery</persRef> late Mayor of this City, superseded by the recent
+							election of <persRef ref="smallwood-samuel">M<hi rend="superscript"
+									>r</hi> Smallwood</persRef> came to solicit the appointment of
+							fourth Auditor— Cabinet Meeting at Noon— <persRef ref="calhoun-john"
+								>Calhoun</persRef> and <persRef ref="wirt-william">Wirt</persRef>
+							present. <persRef ref="southard-samuel">Southard</persRef> was expected
+							this day, but will only be here to-morrow— I put a question, which had
+							not been much taken into view yesterday— Whether the unsigned Act of
+							Congress is, or is not law, without the <persRef key="monroe-james"
+								>President’s</persRef> signature— The chief question yesterday
+							having been, whether the President could now sign it. The Constitution
+							provides that unsigned and unreturned Acts, shall after ten days be Law,
+							unless Congress by adjourning within the ten days, prevent the return of
+							the Act— In this case the adjournment, though it took place within the
+							ten days did not <hi rend="italic">prevent</hi> the return, because the
+							return with objections had not <pb type="ms" n="356"/>been intended, and
+							it had even been announced to the house that it had been signed. Wirt
+							thought nevertheless that the Act was not Law, and so the President
+							decided— The case of the Privateer General Santander was again debated—
+							All the grounds of yesterday re-explored— I read the paragraphs of my
+							Instructions to <persRef ref="anderson-richard">R. C. Anderson</persRef>
+							respecting the obligation of our Treaty with Spain, upon the Republic of
+							Colombia, and referred to the project of a commercial Treaty sent me by
+								<persRef ref="salazar-jose">Salazar</persRef>. M<hi
+								rend="superscript">r</hi> Wirt insisted, that we could not without
+							inconsistency deny the right of belligerents by the Law of Nations, to
+							take the property of enemies, in neutral vessels—and read in the State
+							papers <persRef ref="jefferson-thomas">M<hi rend="superscript">r</hi>
+								Jefferson’s</persRef> Letter to <persRef ref="genet-edmund"
+								>Genet</persRef>, upon that subject. I considered the Law of Nations
+							upon this point as unsettled; but M<hi rend="superscript">r</hi> Wirt’s
+							argument was supported by decisions of the Supreme Court, against which
+							the Executive Government could not safely assume an adversary principle—
+							That knot of National Law, will always ultimately resolve itself into a
+							question of <hi rend="italic">force</hi>. The question as to the
+							obligation of the Republic of Colombia, to abide by the stipulation of
+							the Article of our Treaty of 1795 with Spain, made when Colombia, formed
+							a part of the Spanish Dominions, presents a problem of more complexity—
+							As a general principle the Independence of Colombia, absolves her from
+							the engagements of the Treaties of Spain with other powers; but some of
+							the obligations of those Treaties, remain binding upon her, such for
+							example as demarcations of boundaries; and there are strong equitable
+							claims for considering this stipulation of the number— I instanced the
+							case of the <persRef ref="pedro-iv">Emperor of Brazil</persRef>; who has
+							declared that <hi rend="italic">he</hi> shall consider himself bound by
+							all the Treaties of Portugal— The opinion of M<hi rend="superscript"
+								>r</hi> Wirt however was that we could not insist absolutely upon
+							it. M<hi rend="superscript">r</hi> Calhoun concurred with it, and
+							although the President thought otherwise, I was sure it would be a
+							desperate attempt to maintain against a foreign State a position, upon
+							which there is so much division among ourselves. M<hi rend="superscript"
+								>r</hi> Wirt still thought that the privateer General Santander
+							might be taken for the 26 bales of goods taken out of one of the
+							captured vessels, but I observed that I wished the final determination
+							not to be taken till tomorrow when the Secretary of the Navy will be
+							here— The more, as upon looking into the Colombian privateering
+							Ordinance this act appears to be authorized by it— There was some
+							question about a Commission of 4<hi rend="superscript">th.</hi> Auditor,
+							to be sent to <persRef ref="vanness-william">W. P. Van
+							Ness</persRef>—and a doubt whether it should go from the Treasury or
+							State Department. It is said in the newspapers that he has declined the
+							appointment. Further discussion, whether a frigate shall be sent for
+								<persRef ref="lafayette">General La Fayette</persRef>; and whether
+							to Havre, Brest or Marseilles— Decision postponed— At the Office.
+								<persRef ref="preble-henry">H. Preble</persRef> came, concerning his
+							claim, not allowed by the Florida Treaty Commissioners— The applications
+							to the Spanish Government for copies of the Documents in the case, have
+							all failed, and Preble wishes to resort to this and the Spanish
+							Government for redress. Two Quakers, by the names of <persRef
+								ref="james-unknown">James</persRef> and of <persRef
+								ref="lytle-unknown">Lytle</persRef> came with a <persRef
+								ref="howland-unknown2">M<hi rend="superscript">r</hi>
+								Howland</persRef>, to expound claims upon Great Britain, in which
+							James is interested, for captures in 1805 and 1807. James is a Man about
+							four-score years of age, and he gave me a long account of these
+							captures, and of all the proceedings upon them shewing that great
+							injustice had been done him as he thought— And he argued that as the
+							United States had made peace with Great-Britain without obtaining
+							indemnity for his losses, they were themselves bound to make him that
+							indemnity— This is a favourite argument of all sufferers by depredation
+							and wrong from foreign Governments. The argument of abstract right is
+							strong— But as the Justice obtainable from foreign Nations is at all
+							times, and under every state of things very imperfect, and as the only
+							alternative in cases of denial of justice is the abandonment of the
+							claim or War, a nation by abandoning the claim, after exhausting every
+							pacific expedient for obtaining, neither partakes of the injustice done,
+							nor makes itself responsable to the sufferer— For War, even if it
+							eventually obtains justice for that sufferer secures it by the
+							sufferings of thousands of others equally unmerited and which must
+							ultimately remain unindemnified— And mere inability to obtain justice,
+							cannot incur the <pb type="ms" n="357"/>obligation which it is unable to
+							enforce. <persRef ref="barbour-john">John S. Barbour</persRef>, <persRef
+								ref="hodgson-william">Hodgson</persRef> and <persRef
+								ref="wyer-edward">E. Wyer</persRef> called at the Office— As did
+								<persRef ref="rowlett-john">John Rowlett</persRef> with sundry
+							copies of <persRef ref="tanner-henry">Tanner’s</persRef> Atlas. Evening
+							walk with <persRef ref="hellen-johnson">Johnson Hellen</persRef> to
+								<persRef ref="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye’s</persRef>— <persRef ref="bingham-unknown">M<hi
+									rend="superscript">rs</hi> Bingham</persRef> and <persRef
+								key="smith-catherine-johnson">M<hi rend="superscript">rs</hi> W. S.
+								Smith</persRef> there— Letter to my Son—<persRef
+								ref="adams-charles2">C. F. A.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-12">
+					<head>12 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-12"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Slavery</note><note type="subject">Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>12. VI.</date> The change of weather is so great, that I shall for
+							the present intermit my morning baths. At the Office— <persRef
+								ref="halsey-unknown">Halsey</persRef> for <persRef
+								ref="agnew-unknown">Agnew</persRef>, in the Porto-Rico-Affair—
+							Complaint against <persRef ref="parker-cortland">C. L. Parker</persRef>
+							Consul at Curacao; and request of Instructions to him— <persRef
+								ref="stackelberg-berndt">Stackelberg</persRef>, with a Letter and
+							papers, to draw Bills for £1000 Sterling. <persRef
+								ref="burrows-unknown2">Burrows</persRef>—upon two cases—one of a
+							vessel seized; and the other of a vessel sold without transfer of
+							Register.— <persRef ref="cheves-langdon">L. Cheves</persRef>, to ask for
+							papers for <persRef ref="meade-richard">R. W. Meade</persRef>— Told him
+							I had written to Meade, and sent him a copy of the decision of the
+							Commissioners upon his claims—and that no opinion had been delivered.
+							Cheves spoke also of an old claim of a <persRef ref="hamilton-unknown11"
+									>M<hi rend="superscript">r</hi> Hamilton</persRef> of
+							South-Carolina, concerning which he had written in 1822. He said the
+							Slave Commissioners would disagree about the average value of the
+							Slaves. <persRef ref="robinson-jeremy">Jeremy Robinson</persRef> came,
+							about his papers and claim for Salary or compensation, and his
+							solicitation for future employment— I asked him to make out in writing a
+							short and specific statement of his claim for compensation; to be
+							decided upon by the <persRef key="monroe-james">President</persRef>— At
+							the President’s— <persRef ref="anderson-joseph">M<hi rend="superscript"
+									>r</hi> Anderson</persRef> the Comptroller, <persRef
+								ref="southard-samuel">Southard</persRef> and <persRef
+								ref="wirt-william">Wirt</persRef> were there— They both agreed that
+							the President had the power to transfer the appropriation from the pay
+							of members to the contingent expenses of the House of Representatives— I
+							did not concur in the opinion, but had not thoroughly examined the Laws
+							or the question— I thought the House ought to be made sensible
+							themselves of the embarrassments resulting from their own excessive
+							restrictions. It is only by a broad Latitude of Construction, that the
+							power of transfer can in this case be assumed— But it is of urgent
+							necessity, and the President gave the order— The case of the Colombian
+							Privateer General Santander was again considered— The taking of enemy’s
+							property out of a neutral ship, is authorised by the Colombian
+							privateering Ordinance: and so is the fitting out of privateers by
+							foreigners— I had received a Letter from <persRef
+								ref="ingersoll-charles">C. J. Ingersoll</persRef>, proposing that we
+							should proclaim and enforce a new and liberal American Law of Nations,
+							and particularly that free ships should make goods; which I read at this
+							meeting— But it was unanimously determined not to resort at this time,
+							to force, but to despatch as soon as possible <persRef
+								ref="watts-beaufort">B. T. Watts</persRef>, directing him to land at
+							Laguira, and endeavour there to obtain the restoration of the property—
+							To send strong Instructions to Anderson, urging the principle of free
+							ships making free goods and remonstrating against the employment of our
+							Citizens as Officers and Crews of their privateers— I am also to send
+							for <persRef ref="salazar-jose">M<hi rend="superscript">r</hi>
+								Salazar</persRef> the Colombian Minister to come here, and confer
+							with him upon the subject; and there is to be another Meeting on Monday
+							for final determination relating to it— After returning to the Office I
+							gave <persRef ref="hodgson-william">Hodgson</persRef> the Colombian
+							Privateering Ordinance to make a translation of it as soon as possible—
+								<persRef ref="wyer-edward">Wyer</persRef> called in after dinner,
+							and intimated that <persRef ref="scott-john">Scott</persRef> of Missouri
+							had told him that <persRef ref="noble-james">Noble’s</persRef> testimony
+							given before the Committee of Investigation this day, had implicated
+								<persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef> in the proceedings of <persRef
+								ref="edwards-ninian">Edwards</persRef> against <persRef
+								key="crawford-william-harris">Crawford</persRef>.— And that it was
+							of the most decisive character against Edwards himself. And that Edwards
+							himself had refused to answer some interrogatories of the Committee—
+							Evening walk with <persRef ref="hellen-johnson">Johnson
+							Hellen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-13">
+					<head>13 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-13"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Unitarianism</note></bibl>
+					<div type="docbody">
+						<p><date>13. VI:30.</date><persRef ref="hellen-johnson">Johnson Hellen
+							</persRef>left me this morning, to return to Rockville, and to proceed
+							thence to-morrow to Bedford. Heard <persRef ref="little-robert"
+								>Little</persRef>, from Acts 17.19.20. “And they took him, and
+							brought him unto Areopagus, saying, May we know what this new doctrine,
+							whereof thou speakest is?— For thou bringest strange things to our ears:
+							we would know therefore what these things mean”— It was the second
+							anniversary from the opening of the Church; and the Sermon was an
+							exposition of the principles of the Society. <persRef ref="brent-daniel"
+								>D. Brent</persRef> had called on me before church, and mentioned
+							that he had been present yesterday at the examination of <persRef
+								ref="noble-james">M<hi rend="superscript">r</hi> Noble</persRef>,
+							and that it must operate most unfavourably to <persRef
+								ref="edwards-ninian">M<hi rend="superscript">r</hi>
+								Edwards</persRef>. <persRef ref="taylor-john">J. W. Taylor</persRef>
+							was at Church; and after the service was over I went in with him to
+								<persRef ref="unknown18">his brother’s</persRef> where <pb type="ms"
+								n="358"/>he now lodges, and he gave me a summary account of the
+							proceedings of the Committee. Noble’s testimony was of the strongest
+							character against him. Evidently studied for operation and effect— Not
+							only strong as to a positive and absolute denial by Edwards that he was
+							the author of the A. B. Letters, but for a high panegyric upon the
+							ability and integrity of <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef>, and upon his great
+							services to the Western Country, pronounced by him— <persRef
+								ref="cheves-langdon">L. Cheves</persRef> also pronounced a high
+							Eulogium upon M<hi rend="superscript">r</hi> Crawford’s management of
+							the finances, and particularly upon his transactions with the Western
+							Banks— The second Letter from <persRef ref="stephenson-benjamin"
+								>Stephenson</persRef> a copy of which Edwards has brought is not
+							found at the Treasury, nor recollected by any person there— Edwards
+							delivered in yesterday a reply to M<hi rend="superscript">r</hi>
+							Crawford’s Answer, longer than his Address; but it was not read—The
+							Committee having sat till ten last Night examining Edwards and Noble—
+								<persRef ref="benton-thomas">Benton</persRef> acknowledged himself
+							the writer of the Letter in the Richmond Enquirer, reporting incorrectly
+							the Statement of Noble, and Benton acknowledged that he had
+							misunderstood him— Upon <persRef ref="barbour-john">J. S.
+								Barbour’s</persRef> speaking to <persRef ref="cook-daniel"
+								>Cook</persRef>, after Noble had given his testimony, Benton said
+							that Noble must not go; as an attempt would be made to discredit him.
+								<persRef ref="floyd-john">Floyd’s</persRef> bias continues as it has
+							been from the beginning— Webster’s equally strong though less apparent—
+								<persRef ref="mcarthur-duncan">M’Arthur’s</persRef> growing—
+								<persRef ref="livingston-edward">Livingston</persRef> still retains
+							something like a balance— In the afternoon I heard a Stranger at
+								<persRef ref="baker-daniel">M<hi rend="superscript">r</hi>
+								Bakers</persRef> from Romans 12.12. “Rejoicing in hope.”— And in the
+							Evening, M<hi rend="superscript">r</hi> Little, again, from 1. Peter
+							2.15.16.—“For so is the will of God, that with well doing ye may put to
+							silence the ignorance of foolish men:—as free, and not using your
+							liberty for a cloke of maliciousness, but as the servants of God.”
+								<persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> was there and walked home with me, gave me some
+							particulars of his late visit to Norfolk and Richmond— And he gave me a
+							despatch with some enclosures received from <persRef
+								ref="stewart-charles">Captain Stewart</persRef> in the Pacific.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-06-14">
+					<head>14 June 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-06-14"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>14. VI:30.</date> Received two Letters from <persRef
+								key="adams-louisa-catherine">my wife</persRef>, the first since she
+							left the City, and they relieved me from great anxiety. She reached
+							Bedford the 8<hi rend="superscript">th.</hi> and her health has improved
+							by the journey— At Noon, attended the Cabinet Meeting— <persRef
+								ref="calhoun-john">Calhoun</persRef>, <persRef ref="southard-samuel"
+								>Southard</persRef> and <persRef ref="wirt-william">Wirt</persRef>
+							present. Case of the Colombian privateer General Santander— The <persRef
+								key="monroe-james">President</persRef> read a paper that he had
+							drawn; not finished; but which he proposed to issue as a proclamation,
+							or public declaration, of our principles, relating to neutrality, and to
+							South-America— The whole subject was discussed in a desultory manner.
+								M<hi rend="superscript">r</hi> Wirt was confirmed in his opinion
+							that the Colombian Republic is not bound to admit the principle that
+							Free Ships make free goods; either by the Law of Nations, or by our
+							Treaty with Spain— And as the Colombian privateering ordinance
+							authorises foreigners to fit out and take Commissions for Privateers
+							under their flag, and also to take enemy’s property out of neutral
+							ships, Chase cannot be taken, or tried as a Pirate upon either of those
+							grounds. The right of expatriation was again brought into question, and
+								M<hi rend="superscript">r</hi> Calhoun expressed very strongly the
+							opinion that Citizens of the United States native born have no such
+							right, except Virginians by virtue of a Law of the State. M<hi
+								rend="superscript">r</hi> Wirt recurred to the decisions of the
+							Supreme Court, of which there have been several; admitting the right of
+							expatriation as a general principle; but denying it in every particular
+							case that has come before them— The last was in 1822. the Santissima
+							Trinidad—in which they refused to acknowledge the expatriation of a
+								<persRef ref="chaytor-james">Captain Chaytor</persRef>, under
+							circumstances similar to those of <persRef ref="chase-john"
+								>Chase</persRef> in this case: reported in the 7<hi
+								rend="superscript">th.</hi> Volume of <persRef ref="wheaton-henry"
+								>Wheaton</persRef>— The result is that we are to treat the whole
+							subject diplomatically, and write much; but not to issue orders to take
+							and bring in the privateer— M<hi rend="superscript">r</hi> Calhoun and
+								M<hi rend="superscript">r</hi> Southard were both averse to the
+							President’s issuing the Declaration or Manifesto that he had
+							contemplated; and he gave up the idea— There was some talk of publishing
+							an Article in the National Intelligencer, holding out threats of issuing
+							orders for taking Chase and his Privateer, which <pb type="ms" n="359"
+							/>it was supposed would frighten him off and deter others; but I
+							disapprove all menaces as measures of Government, when you determine not
+							to strike— The President rests much upon general considerations— Upon
+							our interest and policy to sustain the South-American Nations.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1803-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="38"
+				mhs:precedingFile="JQADiaries-v27-1803-08-p035.xml"
+				mhs:followingFile="JQADiaries-v27-1803-10-p043.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1803-09-01" to="1803-09-30"/></bibl>
+
+				<!--D/JQA/27.268-->
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-01">
+					<head>1 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Residences</subject>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">September 1803.</hi></dateline>
+						<p><date>1. </date>At 4 this afternoon was a meeting of the Historical
+							Society, which I attended. I presented to the Society seven volumes of
+							the Journals of the House of Representatives under the Provincial
+							Government, and also a <pb n="39" type="ms"/>a copy of the Conquest of
+							Canaan. Some other Communications were made— The meeting dissolved
+							between 5 and 6.— This morning <persRef ref="u">D<hi rend="superscript"
+									>r:</hi> Cutler</persRef> and <persRef ref="davis-john">Judge
+								Davis</persRef> called upon me, to look at the Flora Batava which I
+							received a few days ago, for the American Academy— I agreed this morning
+							with <persRef ref="davis-john">M<hi rend="superscript">r:</hi> John
+								Odin</persRef>, to sell him my house in Hanover Street, where I now
+							dwell— I am to give him the deed and possession, on the 1<hi
+								rend="superscript">st:</hi> of next month.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-02">
+					<head>2 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Dined at <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> W. Smith’s</persRef>, with <persRef
+								ref="sheafe-james;sheafe-sarah">M<hi rend="superscript">r:</hi> and
+									M<hi rend="superscript">rs:</hi> J. Sheaffe</persRef> of
+							Portsmouth; <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Nichols</persRef>, and a young <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Swett</persRef> of Newbury-Port— In
+							the evening I attended a meeting of the Stockholders of the Fire and
+							Marine Insurance Company, to choose a President and Directors— Those of
+							the last year were rechosen— With <persRef ref="jones-t">T. K.
+								Jones</persRef>, instead of <persRef ref="codman-john2">J.
+								Codman</persRef> deceased— A statement of the Company’s Affairs was
+							laid before the Stockholders. The dividend was 20 per Cent.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-03">
+					<head>3 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>Dined at <persRef ref="quincy-josiah2">M<hi
+									rend="superscript">r:</hi> Quincy’s</persRef>; with <persRef
+								ref="allyn-john">M<hi rend="superscript">r:</hi> Allyn</persRef> of
+							Duxbury and <persRef ref="eliot-john3">D<hi rend="superscript">r:</hi>
+								Elliot</persRef>— This afternoon between 5 and 6 I went to Quincy,
+							with <persRef ref="gardner-john">M<hi rend="superscript">r:</hi>
+								Gardner</persRef>— <persRef ref="shaw-william">W. Shaw</persRef>
+							went out with <persRef ref="dexter-richard">Dexter</persRef>— Found
+								<persRef ref="adams-abigail">my mother</persRef>, a little better;
+							so as to give us some hopes of her recovery.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-04">
+					<head>4 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Heard <persRef ref="pipon-john">M<hi rend="superscript"
+									>r:</hi> Pipon</persRef>, of Taunton; in the forenoon upon Hope—
+							Afternoon upon filial Affection. <persRef ref="beale-benjamin2">M<hi
+									rend="superscript">r:</hi> Beale</persRef>, and my <persRef
+								ref="adams-peter">Uncle Adams</persRef> spent the Evening with us.—
+							Read little; and wrote nothing— <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef> here at dinner, and
+							to pass the Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-05">
+					<head>5 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Return’d with <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef> and <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>,
+							this morning to Boston— Wrote letters to <persRef ref="hellen-walter"
+									>M<hi rend="superscript">r:</hi> Hellen</persRef>, and to
+								<persRef ref="pickman-benjamin">B. Pickman jun<hi rend="superscript"
+									>r:</hi></persRef>— At tea, with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, <persRef ref="frye-carolina">Caroline</persRef> and
+							the <persRef ref="adams-george;adams-john2">children</persRef> at
+								<persRef ref="sullivan-william">M<hi rend="superscript">r:</hi> W.
+								Sullivan’s</persRef>— <persRef ref="hall-joseph">M<hi
+									rend="superscript">r:</hi> Hall</persRef> there; came home and
+							spent an hour with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-06">
+					<head>6 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>, and the <persRef
+								ref="adams-john2">child</persRef>, went out with me to
+							Quincy— My object was to attend on a Committee Of the Court of Sessions,
+							to view the spot where a road is petitioned for— It goes through part of
+							my land— Just as we reached <persRef ref="adams-john">my
+								father’s</persRef> house it began to rain with all the appearance of
+							a storm. I went with my father to <persRef ref="u">Newcomb’s</persRef>
+							tavern where the Committee were assembled. They adjourned untill half
+							past two, and we return’d to dinner— The afternoon was fair, and we went
+							over the ground with the Committee— I left them at about 5 and with my
+							wife and child came home— The evening was so cold as to require a fire—
+							The annual meeting of the proprietors of Neponsit Bridge; and also a
+							meeting of the Directors was this day held in Boston; which I could not
+							attend. The Directors of the last year were rechosen.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-07">
+					<head>7 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Weather so cold, we had a fire the whole day— I attempted
+							to do some business, but without success. <persRef ref="dexter-aaron"
+									>M<hi rend="superscript">r:</hi> Dexter</persRef> and <persRef
+								ref="dexter-rebecca">his lady</persRef> call’d on us this afternoon,
+							to invite us on Friday Evening to tea, with <persRef ref="u">Gen<hi
+									rend="superscript">l:</hi> Smith</persRef> who is in town.— Club
+							this Evening at <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Amory’s</persRef>— Thin.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-08">
+					<head>8 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Our <persRef ref="adams-john2">youngest child</persRef>
+							continues quite unwell— <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef> here this Evening— I
+							began this day to make preparations for our removal.— <persRef
+								ref="pickman-benjamin">M<hi rend="superscript">r:</hi>
+								Pickman</persRef> called upon me this morning, and we agreed that I
+							should take up my note to him, the first of next month— I saw <persRef
+								ref="morrill-james2">M<hi rend="superscript">r:</hi>
+								Morrill</persRef>, and desired him if he could, to let, my pew in
+							the first church. <persRef ref="jackson-james3">D<hi rend="superscript"
+									>r:</hi> Jackson</persRef> called on me, to mention that the
+							Society for the Study of Natural Philosophy, had elected <persRef
+								ref="howard-john2">D<hi rend="superscript">r:</hi> Howard</persRef>,
+							as a member— I told him that I was <hi rend="italic">much</hi>
+							<pb n="40" type="ms"/>much pleased with the choice; though I could
+							scarce have a right to a vote, as being under the necessity of leaving
+							the town, and of course the Society— He said there would be a meeting
+							to-morrow evening, at <persRef ref="quincy-josiah2">M<hi
+									rend="superscript">r:</hi> Quincy’s</persRef>; but being engaged
+							at <persRef ref="dexter-aaron">M<hi rend="superscript">r:</hi>
+								Dexter’s</persRef> I cannot attend it.</p>
+						<p>I have read Le Belier, and Fleur d’Epine of <persRef
+								ref="hamilton-anthony">Count Antoine Hamilton</persRef>, an Irishman
+							by birth, attached to <persRef ref="james-ii">James 2.’s</persRef>
+							Court, in his exile, and who wrote french with the utmost purity and
+							elegance of style— These two works are fairy tales, at once in imitation
+							of and a satyre upon the Arabian Nights. There appears much resemblance
+							between the manner of this writer, and. that of the <persRef
+								ref="crebillon-claude">younger Crebillon</persRef>. <persRef
+								ref="wieland-christoph">Wieland</persRef> the German imitates them—
+							But Hamilton is never indecent, which cannot be said of either of the
+							others— The name of <persRef ref="tarare"><hi rend="italic"
+								>Tarare</hi></persRef>, as a character, is in Fleur d’Epine, the
+							hero of the tale— This name, <persRef ref="beaumarchais-pierre"
+								>Beaumarchais</persRef> has adapted to another Story.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-09">
+					<head>9 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>Called at <persRef ref="quincy-josiah2">M<hi
+									rend="superscript">r:</hi> Quincy’s</persRef> Office, and
+							settled with him the action of <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Murray</persRef>, against the <persRef
+								ref="wendell-oliver">President</persRef> and Directors of the Union
+							Bank— Remainder of the day did little or nothing— Evening at <persRef
+								ref="dexter-samuel">M<hi rend="superscript">r:</hi>
+								Dexter’s</persRef>, at Roxbury— <persRef ref="frye-carolina"
+								>Caroline</persRef> went with me; but <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> could not leave <persRef ref="adams-john2">her
+								child</persRef>— <persRef ref="u">General Smith</persRef>, and his
+							family, <persRef ref="u">M<hi rend="superscript">r:</hi> Mason</persRef>
+							and his family, <persRef ref="blake-george;blake-sarah">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> George Blake</persRef>, <persRef ref="u;u">M<hi
+									rend="superscript">r:</hi> &amp; Miss Sumner</persRef> were the
+							Company.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-10">
+					<head>10 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>I shall henceforth have no other occupation than to make
+							preparations for our departure— I purchased two shares in the Neponsit
+							Bridge Corporation of <persRef ref="whitman-kilborn">M<hi
+									rend="superscript">r:</hi> K. Whitman</persRef>— Went out to
+							Quincy in the Stage this afternoon— Took <persRef ref="adams-george"
+								>George</persRef> with me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-11">
+					<head>11 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r:</hi> Whitney</persRef>. Read a few letters
+							of <persRef ref="derabutin-marie">Madame de Sevigné</persRef>, and spent
+							the leisure part of the day, in looking over the fruit and kitchen
+							garden— I brought out for <persRef ref="adams-john">my father</persRef>
+							<persRef ref="forsyth-william">Forsyth’s</persRef> treatise upon the
+							management of fruit-trees.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-12">
+					<head>12 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>Return’d to Boston this morning; my <persRef
+								ref="smith-abigail">Sister Smith</persRef> came with me; and went
+							back to Quincy this afternoon— <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Foster</persRef> call’d on me, and I settled my
+							assessments on my Neponsit-Bridge shares, up to the October assessment
+							inclusive— Pass’d the evening at <persRef ref="welles-benjamin">M<hi
+									rend="superscript">r:</hi> B. Welles’s</persRef> with a Company
+							of about 40. ladies and Gentlemen— <persRef ref="u">General
+								Smith</persRef> &amp; <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Breck</persRef> were there, with their families.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-13">
+					<head>13 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Employed very busily the whole day in packing up books,
+							and preparing to quit the house— <persRef ref="boylston-ward">M<hi
+									rend="superscript">r:</hi> Boylston</persRef> called upon me— I
+							paid <persRef ref="pickman-william">M<hi rend="superscript">r:</hi>
+								William Pickman</persRef> for <persRef ref="pickman-benjamin">his
+								brother</persRef> part of my note due to him— For the remainder, my
+							house must pay.— Read one Act of The Winter’s Tale, and part of <persRef
+								ref="florian-jean">Florian’s</persRef> Estelle.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-14">
+					<head>14 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Continued all day in the same employment as yesterday—
+							As the time of departure approaches I find myself pressed for want of
+							time— My papers are in some Confusion. After I return’d from Europe, I
+							spent one fortnight at Quincy, solely putting in order my papers letter
+							&amp;c belonging to the 7. years I had been abroad— Those papers
+							therefore are perfectly well sorted— And they are the only papers I have
+							in that situation— I never spent any time more profitably— Club this
+							evening at <persRef ref="dawes-thomas">Judge Dawes’s</persRef>, instead
+							of <persRef ref="davis-john">Judge Davis’s</persRef>, he being at Salem—
+							It was not fully attended— <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Bronson</persRef> there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-15">
+					<head>15 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>This morning at 7. two Carts came in from Quincy, which
+							we loaded, one with books and the other with furniture, and sent them
+							out about 2. in the afternoon. They are to come in again next Tuesday,
+							for two loads more. Continued packing— <persRef ref="frye-carolina"
+								>Caroline</persRef> and <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef> pass’d the Evening at
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Sumner’s</persRef>
+							in Roxbury.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-16">
+					<head>16 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-16"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="41" type="ms"/>
+						<p><date>16. </date>Continued employed as before. Finished this day the
+							packing of my books. Sold <persRef ref="boylston-ward">M<hi
+									rend="superscript">r:</hi> Boylston</persRef> One Share of the
+							Neponsit Bridge Corporation. N: 56.— Read <persRef ref="florian-jean"
+								>Florian’s</persRef> Estelle, and some small poems in the same
+							volume.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-17">
+					<head>17 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>I purchased some shares in the New-England Insurance
+							Company, after having endeavoured yesterday to procure some without
+							success— Was busied still in preparations for my departure. Wrote to
+								<persRef ref="u">Col<hi rend="superscript">l:</hi> Pope</persRef> at
+							New-Bedford to inquire for a vessel going to Baltimore— Also to <persRef
+								ref="may-joseph">Col<hi rend="superscript">l:</hi> Jos:
+								May</persRef>, Secretary to the Assistant fire Society, requesting
+							them as I am about to remove from the town, to erase my name from their
+							list of members— This was the day of quarterly meeting; and they dined
+							at Watertown; I intended to have gone out, but could get no opportunity
+							for a conveyance. In the afternoon I went out with <persRef
+								ref="dexter-richard">Dexter</persRef> to Quincy— Pass’d over the new
+							road as far as the bridge.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-18">
+					<head>18 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Heard <persRef ref="thomas-nehemiah">M<hi
+									rend="superscript">r:</hi> Thomas</persRef> of Scituate, whom I
+							did not know— Find <persRef ref="adams-abigail">my mother</persRef>, God
+							be praised, much better. Spent the leisure part of my time, chiefly in
+							arranging and sorting my letters and papers received since I have been
+							in America. Read a few letters of <persRef ref="derabutin-marie"
+								>Sevigne</persRef>; and walk’d with <persRef ref="adams-john">my
+								father</persRef> over his grounds, to examine the fruit— Spent the
+							Evening with him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-19">
+					<head>19 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Return’d to Boston early this morning— We this day
+							pack’d up all our glass and China-Ware. I made out several Accounts and
+							arranged papers— Conversation with <persRef ref="quincy-josiah2"
+								>Quincy</persRef> at noon; and when he called upon me this Evening—
+							Political, and particular.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-20">
+					<head>20 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="briesler-john">M<hi rend="superscript"
+									>r:</hi> Briesler</persRef>, came in from Quincy, and assisted
+							us in packing— I dined at <persRef ref="quincy-josiah2">M<hi
+									rend="superscript">r:</hi> Quincy’s</persRef> with a small
+							company of Gentlemen— <persRef ref="benson-egbert">Judge
+								Benson</persRef> of New-York was there; and we sat very late.
+								<persRef ref="bradford-samuel4">Col<hi rend="superscript">l:</hi>
+								Bradford</persRef> attempted a sale of five Middlesex Canal Shares,
+							but could not effect it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-21">
+					<head>21 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-21"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>Still employed the whole day in packing and arranging
+							papers. <persRef ref="gurley-john">M<hi rend="superscript">r:</hi>
+								Gurley</persRef> and <persRef ref="dexter-andrew">M<hi
+									rend="superscript">r:</hi> Andrew Dexter</persRef> called upon
+							me, respecting the lease of my house in Court Street— M<hi
+								rend="superscript">r:</hi> Gurley, who has forfeited the lease, by a
+							breach of its agreements on his part, is about to leave the State and
+							remove to New-Orleans; and has undertaken to make an assignment of his
+							lease over to M<hi rend="superscript">r:</hi> Dexter, without consulting
+							me; I informed him I should not consent to this, and that he must make
+							some new agreement with me, or I should enter upon the estate, as under
+							a forfeiture of the lease— We had much discussion but came to no terms—
+								<persRef ref="odin-john">M<hi rend="superscript">r:</hi>
+								Odin</persRef> called upon me— He is to have my deed, and to pay me
+							the money next Monday— The club this evening was at <persRef
+								ref="dexter-aaron">D<hi rend="superscript">r:</hi>
+								Dexter’s</persRef>— I attended, for the last time in all
+							probability.— Executed power of attorney, and affidavit against effects
+							of <persRef ref="birdsavagebird">Bird, Savage &amp; Bird</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-22">
+					<head>22 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Mitchell</persRef> and <persRef ref="thomas5">Thomas</persRef> came early this morning with their
+							Carts, and took two more loads of our furniture out to Quincy. We were
+							busy in loading them all the morning— About 2. P.M. they went away— I
+							wrote a letter to <persRef ref="williams-samuel2">M<hi
+									rend="superscript">r:</hi> S. Williams</persRef> in London, to
+							enclose my power of attorney to him, and my affidavit of debt due me by
+								<persRef ref="birdsavagebird">Bird, Savage and Bird</persRef>, to
+							send by <persRef ref="welles-benjamin">M<hi rend="superscript">r:</hi>
+								B. Welles</persRef>. Attended a meeting of the Committee of
+							publications of the American Academy, and took up with me, the Papillons
+							d’Europe, to present to the Academy.— <persRef ref="lathrop-john2">D<hi
+									rend="superscript">r:</hi> Lathrop</persRef>, <persRef
+								ref="warren-john3">D<hi rend="superscript">r:</hi> Warren</persRef>,
+							and <persRef ref="kirkland-john">D<hi rend="superscript">r:</hi>
+								Kirkland</persRef> were there— Met <persRef ref="townsend-horatio"
+									>M<hi rend="superscript">r:</hi> Townsend</persRef>— This
+							afternoon I sent him several papers, for the Court at Dedham next week,
+							and two deeds to be recorded there.— Tea, and pass’d the Evening, with
+								<persRef ref="adams-louisa-catherine">my wife</persRef>, <pb n="42"
+								type="ms"/>her sister <persRef ref="frye-carolina">Caroline</persRef>, the <persRef ref="adams-john2;adams-george">two
+								children</persRef> and <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef>, at <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy’s</persRef>— He was out at the Bridge, and came home late;
+							having broken down with his carriage— <persRef ref="cheverus-jean">M<hi
+									rend="superscript">r:</hi> Chevreau</persRef>, the Roman
+							Catholic clergyman was there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-23">
+					<head>23 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>Wrote a number of letters on the business of the
+							Academy— Delivered one of thanks to <persRef ref="winthrop-thomas">M<hi
+									rend="superscript">r:</hi> Winthrop</persRef>, who tells me he
+							has found where the place called Naumeag was— I called on <persRef
+								ref="gurley-john">M<hi rend="superscript">r:</hi> Gurley</persRef>;
+							and looked over the alterations he has made in my house— We could not
+							agree upon any terms— Went out with <persRef ref="otis-harrison">M<hi
+									rend="superscript">r:</hi> Otis—(H. G.)</persRef> and dined with
+								<persRef ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef>—<persRef ref="u">M<hi rend="superscript">r:</hi>
+									M<hi rend="superscript">c:</hi>Donogh</persRef>—<persRef
+								ref="warren-john3">D<hi rend="superscript">r:</hi> Warren</persRef>
+							and <persRef ref="warren-john">his son</persRef>, and <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Mair</persRef> were there—
+							Returned home between 7 and 8 in the evening— Rec<hi rend="superscript"
+								>d:</hi> a letter from <persRef ref="u">Col<hi rend="superscript"
+									>l:</hi> Pope</persRef>— New Bedford—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-24">
+					<head>24 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>This day, <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> and the <persRef
+								ref="adams-john2;adams-george">family</persRef> were to have quitted
+							the house in Boston, and gone out to Quincy; but we could not accomplish
+							all our preparations for departure; they concluded to stay untill
+							Monday, and I went out in the Carriage, with <persRef
+								ref="dexter-richard">Dexter</persRef>, alone— I was engaged the
+							greatest part of the day, in making my final arrangements, and in
+							endeavouring to come to a settlement with <persRef ref="gurley-john"
+									>M<hi rend="superscript">r:</hi> Gurley</persRef>— I called on
+								<persRef ref="parsons-theophilus">M<hi rend="superscript">r:</hi>
+								Parsons</persRef>, whom Gurley has employed as Counsel— We finally
+							agreed to refer the decision of our questions to <persRef
+								ref="perkins-thomas">Col<hi rend="superscript">l:</hi> T. H.
+								Perkins</persRef>; and signed an agreement to that effect.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-25">
+					<head>25 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-25"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Heard a young <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Lincoln</persRef>— Employed all the leisure part of the
+							day in arranging papers, and in making records of the American Academy,
+							as Corresponding Secretary— Collected together all my letters,
+							letter-books, Journals and Diaries, which I have deposited, in a large
+							trunk, in <persRef ref="adams-john">my father’s</persRef> Office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-26">
+					<head>26 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>The two Carts went to Boston again this day, and brought
+							away, all the remainder of our furniture. It was between 4 and 5 in the
+							afternoon, before they were entirely loaded, and it then began to rain.
+							In coming out, several of the articles got damaged by the rain. I went
+							into Boston very early in the morning— Called on <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Babcock</persRef>, and left his
+							papers: <hi rend="strikethrough">with him</hi> but he was not at home—
+							He called afterwards on me, and paid me my account— I saw <persRef
+								ref="perkins-thomas">Col<hi rend="superscript">l:</hi>
+								Perkins’s</persRef> at his store— He declined deciding our questions
+							alone— We afterwards agreed to join <persRef ref="davis-t">M<hi
+									rend="superscript">r:</hi> T. Davis</persRef>, and <persRef
+								ref="sargent-daniel">Capt<hi rend="superscript">n:</hi> D. Sargent
+									jun<hi rend="superscript">r:</hi></persRef> with him— They met
+							at <persRef ref="vila-james">Vila’s</persRef> this afternoon, between 5
+							and 6. heard us, untill past 8. and made their award— In the mean time,
+							my house had been thoroughly cleared— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> with <persRef ref="frye-carolina"
+							>Caroline</persRef>, two maids, and the <persRef
+								ref="adams-george;adams-john2">two children</persRef> went out to
+							Quincy, in the Carriage— I was to have taken out <persRef
+								ref="newcomb-betsey">Betsey Newcomb</persRef>, but finding myself
+							detained so late; and that it rained, I sent her down to lodge at
+								<persRef ref="whitcomb-tilly">Whitcomb’s</persRef>, and went and
+							ask’d a bed for myself at <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> Smith’s</persRef>— <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>,
+							had kept his bed, and chamber in the house— In addition to the other
+							business, I this day delivered the deed of the house to <persRef
+								ref="odin-john">M<hi rend="superscript">r:</hi> Odin</persRef>, and
+							assigned over the policy to him. Received payment of it from him— Paid
+							my note to <persRef ref="pickman-benjamin">B. Pickman jun<hi
+									rend="superscript">r:</hi></persRef> and took it up— <persRef
+								ref="bradford-samuel4">Col<hi rend="superscript">l:</hi>
+								Bradford</persRef> sold two of <persRef ref="adams-john">my
+								father’s</persRef> Middlesex Canal Shares, at Auction—at 18/1 to the
+							pound— They were bought by <persRef ref="jackson-john5">J.
+								Jackson</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-27">
+					<head>27 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-27"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>I went down to my late house this morning, and cleared
+							off every thing that had remained behind. Received the award of the
+							referees in my case with <persRef ref="gurley-john">M<hi
+									rend="superscript">r:</hi> Gurley</persRef>. They have increased
+							his rent 100 dollars a year— We made an endorsement on the lease,
+							conformable to their award. I paid <persRef ref="hall-benjamin">M<hi
+									rend="superscript">r:</hi> B. Hall</persRef>, my Assessments on
+							my Canal Shares, and on the two to be transferr’d by <persRef
+								ref="adams-john">my father</persRef>— Went with <persRef
+								ref="davis-john">Judge Davis</persRef> to the Academy’s Room in the
+							State-House, and took some blank circular letters— Dined at <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi>
+								Smith’s</persRef>, and between 4 and 5 in the afternoon; I took up
+								<persRef ref="newcomb-betsey">Betsey Newcomb</persRef> at <persRef
+								ref="whitcomb-tilly">Whitcomb’s</persRef>, and came out to Quincy;
+							thus terminating my second residence in Boston, which has lasted, almost
+							two years.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-28">
+					<head>28 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="43" type="ms"/>
+						<p><date>28. </date>I went to Boston again this morning— <persRef
+								ref="smith-louisa">Louisa Smith</persRef> went with me. Delivered
+								<persRef ref="jackson-john5">J. Jackson</persRef> the Certificates
+							of Canal Shares, transferred by <persRef ref="adams-john">my
+								father</persRef>, and received payment. Deposited in the Union Bank
+							the exact sum, to settle my father’s Account— Deposited in the Branch
+							Bank, for safe keeping, a small red trunk, containing an hundred Eagles,
+							and my important securities of property— I dined at <persRef
+								ref="whitcomb-tilly">Whitcomb’s</persRef>— Called in the afternoon
+							on <persRef ref="otis-harrison">M<hi rend="superscript">r:</hi>
+								Otis</persRef>, who agreed to go with us— On Saturday, to
+							Providence— Whitcomb furnishes the Carriage and Horses— I received from
+								<persRef ref="johnson-catherine">M<hi rend="superscript">rs:</hi>
+								Johnson</persRef> a letter with the unpleasant information that
+								<persRef ref="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen</persRef>, has lost his <persRef ref="hellen-washington"
+								>youngest child</persRef>: he died the 19<hi rend="superscript"
+								>th:</hi> inst<hi rend="superscript">t:</hi>— We returned to Quincy
+							early this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-29">
+					<head>29 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>Spent the day, in arranging my books and papers at
+							Quincy, and in writing letters, as Corresponding Secretary to the
+							American Academy— <persRef ref="tufts-cotton2">D<hi rend="superscript"
+									>r:</hi> Tufts</persRef>, with <persRef ref="tufts-susanna">his
+								wife</persRef>, and <persRef ref="tufts-mercy2">daughter in
+								Law</persRef>, were here this afternoon, and at tea. Settled
+							accounts with <persRef ref="adams-john">my father</persRef>, and gave
+							him a check on the Union Bank for the balance.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-30">
+					<head>30 September 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef ref="dexter-richard">R. Dexter</persRef> went
+							into Boston, and received the balance from the Union Bank— Return’d this
+							afternoon, and brought me letters from <persRef ref="pitcairn-joseph"
+									>M<hi rend="superscript">r:</hi> Pitcairn</persRef>— I went up
+							with the <persRef ref="adams-louisa-catherine;frye-carolina"
+								>ladies</persRef> successively to <persRef ref="cranch-richard">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef>— Afterwards down
+							to <persRef ref="u">Mitchell’s</persRef>, and again to M<hi
+								rend="superscript">r:</hi> Cranch’s where I pass’d part of the
+							evening— <persRef ref="u">Everett</persRef> came out this evening, with
+							a Carriage and four horses to take us to Providence to-morrow; <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							came out with him. <persRef ref="otis-samuel">M<hi rend="superscript"
+									>r:</hi> Otis</persRef>, will meet us at Milton.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-09-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day.</hi></date> On the eve of removing and of
+							taking a journey, my manner of living has not been settled or regular
+							enough for any general statement in this particular. I have now closed
+							my residence in Boston; probably for several years— Perhaps forever— It
+							has like every other period of my life had its pleasures and its pains—
+							The transition from the station and the means of expence I had
+							previously possessed, could not be agreeable; yet I found it less
+							mortifying than might be expected, and easily reconciled my mind to it—
+							I have practiced all the economy I thought practicable, but have needed
+							still more— My accounts I have kept very regularly and have ascertained
+							the expence at which I could live in Boston as I have lived.— I fix it
+							at $2400 a year, besides house-rent, which may be valued at $600 more.
+							My business has given me about $1000; but by some successful
+							dispositions of property, and with the income, I have derived from the
+							Estate I had, my capital has remained unimpaired: it has however
+							remained equally unimproved, and as to the amount of my possessions, I
+							am just where I was two years ago—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

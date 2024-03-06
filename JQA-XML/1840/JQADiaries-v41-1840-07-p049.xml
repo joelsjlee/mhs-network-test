@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v41-1840-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="49" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v41-1840-08-p052.xml" mhs:volume="41">
+				<bibl n="metadata"><date from="1840-07-29" to="1840-07-31"/></bibl>
+
+				<!-- D/JQA/41 July 1840 Robert Huberty -->
+
+				<div type="entry" xml:id="jqadiaries-v41-1840-07-29">
+					<head>29 July 1840</head>
+					<bibl><author>JQA</author><date type="creation" when="1840-07-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Smithsonian Institution</subject>
+						<subject>Elections, Presidential (1840)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="49"/>
+						<dateline>Washington Wednesday 29. July 1840.</dateline>
+						<p><date>29. V. </date>Wednesday.</p>
+						<list>
+							<item>Cutts Richard</item>
+							<item>Mary E. E. Cutts</item>
+							<item>Parris Albion K</item>
+							<item>Bell John</item>
+						</list>
+						<p>We had fixed on to-morrow as the day of our departure upon our return to
+							Quincy, but <persRef ref="adams-louisa-catherine">my wife</persRef> was
+							so unwell in the former part of this day that it was doubtful whether we
+							should not be under the necessity of postponing our movement, one or
+							more days— Towards evening however she so far recovered her strength and
+							Spirits that she concluded to proceed in the morning— We were all
+							intently occupied and none more so than <persRef ref="hellen-mary">M<hi
+									rend="superscript">rs.</hi> Adams</persRef>, in packing up,
+							settling accounts and bills, and getting ready to go at six O’Clock
+							to-morrow. Mary has concluded to go, and take her daughter <persRef
+								ref="adams-mary4">Mary-Louisa</persRef>, with us. As the order of
+							the <persRef ref="selden-william">Treasurer of the United
+								States</persRef> in favour of myself as Attorney to <persRef
+								ref="lobdell-ebenezer">Ebenezer Lobdell</persRef>, promised me by
+							the <persRef ref="woodbury-levi">Secretary of the Treasury</persRef>, to
+							be forthcoming yesterday was not yet in hand, I called this day noon at
+							his Office and received it from him— It was drawn on the Collector of
+							the Customs at Boston, instead of the new <persRef ref="hill-isaac"
+								>Receiver General Isaac Hill</persRef>, as I had requested and he
+							had promised— He now said that M<hi rend="superscript">r</hi> Hill had
+							not yet quite completed his arrangements for entering upon the execution
+							of his office— I asked him what was the present condition of the
+							Smithsonian funds invested in bonds of the State of Arkansaw.— He said
+							the interest upon the bonds had been hitherto punctually paid, and he
+							was just now receiving proposals for a new investment of the interest of
+							the last half year—and he read to me several Letters containing these
+							proposals.— They were of the States of New-York and others at 5. per
+							Cent a year, and at about 90 per Cent, and of Kentucky and Arkansaw at 6
+							per Cent interest—the Kentucky bonds at 90 per Cent, and those of
+							Arkansaw at 70. He said he should take the lowest bid. I expressed my
+							strong disapprobation of the Sale by the <persRef ref="paulding-james"
+								>Secretary of the Navy</persRef> of Stocks of the States, at a much
+							lower price than he had purchased them at— He said there had never been
+							any sale of the Stocks of the States by the Department of the Treasury.—
+							Besides the struggle to redeem the arrears of my Diary which accrued
+							unavoidably in the last fortnight of the Session, I answered and
+							declined the invitation of <persRef ref="downing-andrew">M<hi
+									rend="superscript">r</hi> A. J. Downing</persRef> to visit his
+							Botanical Garden, and Nursery at Newburgh opposite <persRef
+								ref="dewindt-john">M<hi rend="superscript">r</hi> de
+								Wint’s</persRef>— My wife visited this evening her brother <persRef
+								ref="johnson-thomas-baker">M<hi rend="superscript">r</hi> Thomas B.
+								Johnson</persRef>, who has been very sick, but is convalescent.
+								<persRef ref="smith-catherine-johnson">M<hi rend="superscript"
+									>rs</hi> W. S. Smith</persRef> left us this day, and removed to
+								<persRef ref="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye’s</persRef>. My neighbour <persRef ref="parris-albion">M<hi
+									rend="superscript">r</hi> Parris</persRef>, and <persRef
+								ref="cutts-richard">M<hi rend="superscript">r</hi> Cutts</persRef>
+							and <persRef ref="cutts-mary">his daughter</persRef> visited us this
+							Evening; and <persRef ref="bell-john">M<hi rend="superscript">r</hi>
+								John Bell</persRef> of Tennessee, with whom I had a long
+							conversation, upon the prospects of the Presidential Election— We agreed
+							that the present appearances were favourable, though by no means certain
+							for a change; but I asked M<hi rend="superscript">r</hi> Bell, what were
+							the expectations beyond the change, and found him quite unprepared to
+							answer— He knew not who would compose the Cabinet of <persRef
+								ref="harrison-william">Gen<hi rend="superscript">l.</hi>
+								Harrison</persRef>, and was not disposed to bestow much confidence
+							in advance upon whoever it might be— I told him that at all Events he
+							must be the Speaker of the House of Representatives, and he confessed
+							that it would be the summit of his ambition— I was up packing till near
+							midnight— Dismissed <persRef ref="dumphy-thomas">Thomas</persRef> with a
+							warm recommendation—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v41-1840-07-30">
+					<head>30 July 1840</head>
+					<bibl><author>JQA</author><date type="creation" when="1840-07-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Bank of the United States</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="50" type="ms"/>
+						<p><date>30. IV. </date>Thursday</p>
+						<p>From Washington through Baltimore to Philadelphia.</p>
+						<p>At six this morning, with <persRef ref="adams-louisa-catherine">my
+								wife</persRef>, my deceased son <persRef ref="adams-john2"
+								>John’s</persRef>
+							<persRef ref="hellen-mary">widow</persRef>, and her daughter <persRef
+								ref="adams-mary4">Mary Louisa</persRef>, and <persRef
+								ref="leary-jeremy">Jeremy Leary</persRef> and <persRef
+								ref="flinn-mary">Mary Flinn</persRef> a waiting man and woman,
+							natives of Ireland I took the Rail-road Cars from Washington to
+							Baltimore, which city we reached at half past eight— The Cars were
+							filled as usual, but of the other passengers the only one with whom I
+							was acquainted was <persRef ref="underwood-joseph">M<hi
+									rend="superscript">r</hi> Joseph R. Underwood</persRef> a member
+							of the House of Representatives from Kentucky; who left our company at
+							the viaduct house seven miles short of Baltimore— He is returning home
+							and was to join company with <persRef ref="pope-john">M<hi
+									rend="superscript">r</hi> John Pope</persRef> on the road to
+							Frederick this day— After waiting one hour at Baltimore we started in
+							the Railway Cars for Philadelphia—crossed the causway between two waters
+							24 miles from Baltimore, and the Susquehanna river at Havre de Grace 36
+							miles from Baltimore—snatched a scramble dinner, the Ladies not
+							alighting from the Cars at Wilmington Delaware 36 miles from
+							Philadelphia, and reached Grays ferry nearly an hour before the Cars
+							from Philadelphia, for Baltimore came out to meet us.— The Horses which
+							took them out took us in and at 4. P.M. we alighted at the depot in
+							Market Street— Here was bustle and confusion, but we found good lodgings
+							at the Union Hotel in Chesnut Street, now kept by <persRef
+								ref="jones-john10">M<hi rend="superscript">r</hi> Jones</persRef>,
+							who was formerly the bar keeper at the United States Hotel— Many of the
+							passengers from Baltimore, proceeded immediately in another line of Cars
+							to New-York— The distance between that City and Washington being now
+							regularly one day’s journey— We met in the drawing room at Jones’s,
+								<persRef ref="williams-elizabeth2">M<hi rend="superscript">rs</hi>
+								Williams</persRef>, daughter of the late <persRef
+								ref="pinkney-william">William Pinkney</persRef> of Baltimore, in
+							deep mourning, and on her return alone from the North where she has been
+							with her <persRef ref="williams-cumberland">sick husband</persRef>— She has so much changed since I had last seen her
+							that I did not know her till she recognized me and named herself to me—
+							Towards evening I walked out and called at <persRef ref="sergeant-john">M<hi rend="superscript"
+								>r</hi> John Sergeant’s</persRef>. At his door, as I rung the bell I met his
+							third daughter <persRef ref="wise-sarah">Sarah</persRef>, with <persRef
+								ref="wise-henry">M<hi rend="superscript">r</hi> Henry A.
+								Wise</persRef> to whom she is engaged to be married— They were
+							walking out together, and as soon as she had ascertained that her father
+							and <persRef ref="sergeant-margaretta">mother</persRef> were both gone
+							out, I hastened to take leave, conscious of being quite a supernumerary
+							in that company. In the evening M<hi rend="superscript">r</hi> and M<hi
+								rend="superscript">rs</hi> Sergeant called upon us at our lodgings,
+							but my wife and M<hi rend="superscript">rs</hi> John Adams had both gone
+							to bed. <persRef ref="connell-john">M<hi rend="superscript">r</hi> John
+								Connell</persRef> likewise paid me a visit, and I had conversation
+							with him respecting the Bank of the United States and <persRef
+								ref="biddle-nicholas">M<hi rend="superscript">r</hi> Nicholas
+								Biddle</persRef>— It has been recently charged that he is indebted
+							to the Bank far beyond his means of solvency; and the stock of the bank
+							has within a few days fallen from 73 to 61— Connell says that the charge
+							is false and that M<hi rend="superscript">r</hi> Biddle owes nothing to
+							the Bank— I suppose he means on his own account. There is a heavy debt
+							due from the late Cashier <persRef ref="cowperthwaite-joseph">M<hi
+									rend="superscript">r</hi> Cowperthwait</persRef>. Connell says
+							he believes it is all secured? Oh! quantum est in rebus inane! I saw
+							this Evening also <persRef ref="sears-david2;sears-miriam">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								David Sears</persRef> of Boston, and <persRef ref="u">M<hi
+									rend="superscript">rs</hi> Aylwin</persRef>, the daughter of
+							<persRef ref="langdon-john3">John Langdon</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v41-1840-07-31">
+					<head>31 July 1840</head>
+					<bibl><author>JQA</author><date type="creation" when="1840-07-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="51" type="ms"/>
+						<p><date>31. V. </date>Friday.</p>
+						<p>From Philadelphia to New-York. Long-Island Sound.</p>
+						<p>This morning we left our lodgings at the Union Hotel, and at 7. O’Clock
+							departed in the Steamer, for Bordentown; and thence proceeded in the
+							Cars to South Amboy; and thence in the Steamer Independence to
+							New-York—as we were drawing up to the wharf, a man was leaning against
+							the slight railing round the bow of the boat—the railing gave way and
+							the man was precipitated into the river—before the alarm could be given
+							he was far astern of the Steamer, and apparently could not swim; she was
+							immediately backed to endeavour to save him, and the aid of several
+							small boats plying in the vicinity of the spot was called and given, but
+							before he could be reached he went down and was ushered into eternity—
+							The steamer went in to the side and I gave no sign of feeling more than
+							others, but the heart knew its own bitterness.</p>
+						<p>At the same wharf where the Independence landed at 3. in the afternoon
+							was lying the Steamer Massachusetts to depart at 5 for Stonington and
+							Providence— I merely crossed the wharf from one boat to the other, and
+							went not in to the City at all— <persRef ref="adams-louisa-catherine">My
+								wife</persRef> and <persRef ref="hellen-mary">M<hi
+									rend="superscript">rs</hi> John Adams</persRef> took a stroll,
+							and returned— At 5. P.M we parted from the wharf, and the first
+							operation of the Steamer was to run down and swamp a small row boat in
+							which were three men, who in an instant found themselves floating in
+							deep waters, to struggle for their lives. They were however all saved,
+							and we made no stay to apologize for the cold bath into which we had
+							plunged them— I met some old acquaintance and made some new ones in the
+							course of this day— Among the morning passengers from Philadelphia was
+								<persRef ref="moore-samuel">D<hi rend="superscript">r</hi>
+								Moore</persRef>, some time Director of the United States Mint in
+							that City, and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Wharton</persRef> a Lawyer of some standing— <persRef
+								ref="fisher-james">M<hi rend="superscript">r</hi> James
+								Fisher</persRef> said to be <unclear>86</unclear> years of age, who
+							accosted me, and told me that the first time he saw me was at the house
+							of <persRef ref="johnson-joshua">M<hi rend="superscript">r</hi> Joshua
+								Johnson</persRef> on Tower Hill at London in 1796 or 1797— He
+							introduced me now to <persRef ref="fisher-nancy">M<hi rend="superscript"
+									>rs</hi> Fisher</persRef>, his wife and said they were going on
+							a visit to <persRef ref="king-john">M<hi rend="superscript">r</hi> John
+								Alsop King</persRef> on Long-Island—his son, <persRef
+								ref="king-charles4">D<hi rend="superscript">r</hi> Charles
+								King</persRef> having married a <persRef ref="king-hannah">grand
+								daughter</persRef> of M<hi rend="superscript">r</hi> Fisher— We had
+							also as Messmate passengers <persRef ref="warren-john;warren-susan">D<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								John Warren</persRef> of Boston, and <persRef
+								ref="crowninshield-harriet">M<hi rend="superscript">rs</hi>
+								Crowninshield</persRef> daughter of <persRef ref="sears-david2"
+								>David Sears</persRef>, and wife of <persRef
+								ref="crowninshield-benjamin">B. W. Crowninshield’s</persRef>
+							<persRef ref="crowninshield-george">son</persRef>. D<hi
+								rend="superscript">r</hi> Warren has been to Philadelphia, to
+							testify in a trial upon habeas corpus, for the possession of an <persRef
+								ref="dhautville-frederick">infant</persRef> between a young Genevan
+							named <persRef ref="dhautville-paul">d’Hauteville</persRef>, and
+								<persRef ref="dhautville-ellen">his wife</persRef> a daughter of
+								M<hi rend="superscript">r</hi> Sears—a Marriage of disappointed
+							ambition made by the mother under a delusive belief that d’Hauteville
+							was a Count, when her daughter was with her in her late European tour.
+							When they found that he was a mere plebeian his wife deserted him,
+							returned to her mother, and came back with her from Europe— Meanwhile
+							this child, a son was born; and she has kept him in her charge— But
+							d’Hauteville has followed them from Europe, demanding first his wife;
+							but upon finding her reluctant, waiving that claim and insisting only
+							upon his paternal right to the child— There has been much extra-judicial
+							negotiation, and much litigation in state tribunals in the case which is
+							now under advisement upon a habeas corpus before a judge at
+							Philadelphia— I took two State Rooms in the Massachusetts and we cleaved
+							the waters of Long-Island Sound, through a smooth sea a light eastern
+							breeze, and a dark Evening till I turned in at 10 p.m.</p>
+					</div>
+				</div>
+
+			</div>
+		</body>
+	</text>
+</TEI>

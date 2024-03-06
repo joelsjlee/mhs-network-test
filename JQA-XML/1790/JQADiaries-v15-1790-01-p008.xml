@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v15-1790-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="8"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v15-1790-02-p011.xml" mhs:volume="15">
+				<bibl n="metadata"><date from="1790-01-01" to="1790-01-31"/></bibl>
+
+				<!-- DJQA 1790-01 DJQA15 January 1790 -->
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-01">
+					<head>1 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="8"/>
+						<p><date>1. </date>Called upon the Ladies. no Colds. Eve at <persRef
+								ref="bradbury-theophilus">M<hi rend="superscript">r.</hi> B’s</persRef>
+							office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-02">
+					<head>2 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Dined with <persRef ref="jenkins-lewis">M<hi rend="superscript"
+									>r:</hi> L. Jenkins</persRef>— Evening at our office.
+							unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-03">
+					<head>3 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>Long walk. <persRef ref="andrews-john2">Parson
+								Andrews</persRef>. Eve with <persRef ref="putnam-samuel"
+								>P.</persRef> at <persRef ref="bradbury-theophilus">M<hi rend="superscript"
+									>r</hi> Bradbury’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-04">
+					<head>4 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>A couple of hours at <persRef ref="bradbury-theophilus"
+									>M<hi rend="superscript">r:</hi> Bradbury’s</persRef>. Eve, at <persRef
+								ref="jackson-jonathan2">M<hi rend="superscript">r</hi> Jackson</persRef>.
+								<persRef ref="wigglesworth-edward4">E. S. W.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-05">
+					<head>5 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Very cold. Evening at <persRef ref="frazier-moses">M<hi
+									rend="superscript">r:</hi> Frazier’s</persRef>. <persRef
+								ref="farnham-william">W. F.</persRef> and <persRef ref="pike-w">M<hi
+									rend="superscript">r:</hi> Pike</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-06">
+					<head>6 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="thomas-joseph">Thomas</persRef> come home.
+							Club at <persRef ref="hooper-thomas">Hooper’s</persRef>. <persRef
+								ref="sawyer-william">Sawyer</persRef> nice. <persRef
+								ref="wigglesworth-edward4">E. S. W.</persRef>
+						</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-07">
+					<head>7 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Thaw. Eve at <persRef ref="farris-william">Captain
+								Farris’s</persRef>, with a large Company.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-08">
+					<head>8 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Eve with <persRef ref="putnam-samuel">Putnam</persRef> at
+								<persRef ref="wigglesworth-edward3">Col<hi rend="superscript">l</hi>
+								W’s</persRef>. Backgammon with <persRef ref="fletcher-john">Capt<hi
+									rend="superscript">n.</hi> Fletcher</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-09">
+					<head>9 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>Dined with <persRef ref="parsons-theophilus">M<hi
+									rend="superscript">r:</hi> Parsons</persRef>. Evening at <persRef
+								ref="bradbury-theophilus">M<hi rend="superscript">r.</hi>
+								Bradbury’s</persRef> office</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-10">
+					<head>10 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef ref="kimball-true">Parson Kimball</persRef>.
+							Evening at <persRef ref="andrews-john2">M<hi rend="superscript">r:</hi>
+								Andrews’s</persRef>, with <persRef ref="putnam-samuel"
+								>Putnam</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-11">
+					<head>11 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>Snow in the afternoon. Eve at <persRef
+								ref="sawyer-micajah">D<hi rend="superscript">r:</hi> Sawyer’s</persRef>.
+								<persRef ref="thomas-joseph">T.</persRef> departed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-12">
+					<head>12 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>Eve. with <persRef ref="putnam-samuel">P.</persRef> and
+								<persRef ref="thomas-joseph">T.</persRef> at <persRef
+								ref="frazier-moses">M<hi rend="superscript">r:</hi> Frazier’s</persRef>.
+							Cards. Female caprice.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-13">
+					<head>13 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Snow, rain; hail. Club at <persRef ref="little-moses"
+								>Little’s</persRef>. <persRef ref="thompson-thomas"
+								>Thompson</persRef>, <persRef ref="coffin-charles2">Coffin</persRef>
+							&amp; <persRef ref="thomas-joseph">Thomas</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-14">
+					<head>14 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>5<hi rend="superscript">th.</hi> Assembly. Small company; but
+							remarkably agreeable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-15">
+					<head>15 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>Call’d to see <persRef ref="brown-katherine">Miss
+								Jones</persRef>. curious conversation. Eve at <persRef
+								ref="wigglesworth-edward3">Col<hi rend="superscript">l:</hi>
+							W’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-16">
+					<head>16 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Dined with <persRef ref="parsons-theophilus">M<hi
+									rend="superscript">r:</hi> Parsons</persRef>. walk’d. <persRef
+								ref="atkins-dudley">M<hi rend="superscript">r.</hi> Atkins</persRef> with
+							Letters.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-17">
+					<head>17 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Heard <persRef ref="andrews-john2">Parson
+								Andrews</persRef>. and pass’d the Eve<hi rend="superscript">g:</hi> at his
+							house.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-18">
+					<head>18 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Evening at <persRef ref="frazier-moses">M<hi rend="superscript"
+									>r:</hi> Frazier’s</persRef>. chat with <persRef
+								ref="newhall-mary">M. Newhall</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-19">
+					<head>19 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Thaw. Bad walking. Eve at <persRef ref="u">M<hi
+									rend="superscript">rs.</hi> Farris</persRef>. T B. <persRef
+								ref="greenleaf-john3">J. G.</persRef>
+							<persRef ref="cutler-samuel">S. C.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-20">
+					<head>20 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Dined with <persRef ref="tracy-nathaniel2">M<hi
+									rend="superscript">r:</hi> Tracy</persRef>. Ship stop’d at Bar. Club
+							with me for <persRef ref="putnam-samuel">P.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-21">
+					<head>21 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Cold. good travelling: Eve with <persRef
+								ref="hooper-thomas">Hooper</persRef> at <persRef
+								ref="wigglesworth-edward3">Col<hi rend="superscript">l:</hi>
+							W’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-22">
+					<head>22 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Afternoon sleighing with Lads &amp; in the Eve<hi
+								rend="superscript">g:</hi> with Ladies.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-23">
+					<head>23 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date><persRef ref="putnam-samuel">Putnam</persRef> went to
+							Salem. dined with <persRef ref="parsons-theophilus">M<hi rend="superscript"
+									>r:</hi> Parsons</persRef>. Evening partly at <persRef
+								ref="andrews-john2">Parson Andrews’s</persRef>. <persRef
+									ref="brown-katherine">K. J.</persRef> &amp; <persRef
+								ref="wigglesworth-sarah">S. W.</persRef> very bad cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-24">
+					<head>24 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Cold better. dined at M<hi rend="superscript">r:</hi> H Heard
+								<persRef ref="welch-francis">M<hi rend="superscript">r:</hi>
+							Welch</persRef>. Tea at <persRef ref="bradbury-theophilus">M<hi
+									rend="superscript">r:</hi> Bradbury’s</persRef>. Eve. <persRef
+										ref="brown-katherine">K. J.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-25">
+					<head>25 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Evening at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Farris’s</persRef>. dull. Home in a sleigh. 7. at once.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-26">
+					<head>26 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Evening at <persRef ref="sawyer-micajah">D<hi rend="superscript"
+									>r:</hi> Sawyer’s</persRef>. Miss Parsons. Conversation on
+							assemb:</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-27">
+					<head>27 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Snow and Rain all day. Club at <persRef
+								ref="thomas-joseph">Thomas’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-28">
+					<head>28 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>6<hi rend="superscript">th.</hi> Assembly. Not remarkably
+							fortunate. <persRef ref="putnam-samuel">Putnam</persRef> with me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-29">
+					<head>29 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>Fine Day. Visits. Sleighing in the Eve<hi rend="superscript"
+								>g.</hi> Danced at <persRef ref="thomas-joseph"
+							>Thomas’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-30">
+					<head>30 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef ref="putnam-samuel">Putnam</persRef> dull. Evening at <persRef
+								ref="bradbury-theophilus">M<hi rend="superscript">r.</hi>
+								Bradbury’s</persRef> office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v15-1790-01-31">
+					<head>31 January 1790</head>
+					<bibl><author>JQA</author><date type="creation" when="1790-01-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Heard <persRef ref="andrews-john2">M<hi rend="superscript"
+									>r.</hi> Andrews</persRef>. Evening chiefly at <persRef
+								ref="carter-nathaniel">M<hi rend="superscript">r:</hi> N.
+							Carter’s</persRef>.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

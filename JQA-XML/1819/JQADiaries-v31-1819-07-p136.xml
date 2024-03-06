@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v31-1819-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="136"
+				mhs:precedingFile="JQADiaries-v31-1819-06-p122.xml"
+				mhs:followingFile="JQADiaries-v31-1819-08-p147.xml" mhs:volume="31">
+				<bibl n="metadata"><date from="1819-07-01" to="1819-07-31"/></bibl>
+				<!-- D/JQA/31.527 -->
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-01">
+					<head>1 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">July 1819.</hi></dateline>
+						<p><date>1. V:15. </date>Thursday. <persRef key="adams-louisa-catherine">My
+								wife</persRef>, unexpectedly got home, between six and seven O’Clock
+							this Morning; and brought with her <persRef ref="boyd-thomas">Thomas
+								Boyd</persRef>, one of <persRef ref="boyd-harriet">her
+								Sister’s</persRef> Sons, who went to M<hi rend="superscript"
+								>r.</hi><persRef key="smith-william-steuben">W. S.
+							Smith’s</persRef>— <persRef ref="cardelli-pietro">Cardelli</persRef>
+							whom she met at Fredericsburg returning from <persRef
+								ref="madison-james">M<hi rend="superscript">r.</hi>
+								Madison’s</persRef>, came in the Steam-Boat with her. Cardelli
+							called, about Noon, and brought me an answer from M<hi
+								rend="superscript">r</hi> Madison, to my last Letter— Cardelli has
+							been a fortnight at Monticello and a fortnight at Montpellier, and has
+							taken the Busts of <persRef ref="jefferson-thomas">M<hi
+									rend="superscript">r</hi> Jefferson</persRef> and M<hi
+								rend="superscript">r</hi> Madison, much to his own Satisfaction and
+							theirs. I received also a Letter from the <persRef key="monroe-james"
+								>President</persRef> dated at Nashville, 14. June, with enclosures,
+							which made it necessary for me to write to <persRef ref="thompson-smith"
+									>M<hi rend="superscript">r</hi> Thompson</persRef> the Secretary
+							of the Navy, and to <persRef ref="laserna-mateo">M<hi rend="superscript"
+									>r</hi> de la Serna</persRef>, the Spanish Chargé d’Affaires,
+							which I did at the Office.— Compared with <persRef ref="brent-daniel"
+									>M<hi rend="superscript">r</hi> Brent</persRef>, the Manuscript
+							of the Secret Journals of Congress. <persRef ref="frye-nathaniel">M<hi
+									rend="superscript">r</hi> Frye</persRef>, M<hi
+								rend="superscript">r</hi> and <persRef key="smith-catherine-johnson"
+									>M<hi rend="superscript">rs</hi> W. S. Smith</persRef> and
+								<persRef ref="forbes-john">M<hi rend="superscript">r</hi>
+								Forbes</persRef>, were here this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-02">
+					<head>2 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-02"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note><note type="subject">Foreign Relations</note><note
+							type="subject">Immigration</note></bibl>
+					<div type="docbody">
+						<p><pb type="ms" n="137"/><date>2. IV:30.</date> A person by the name of
+								<persRef ref="hillman-henry">Henry Hillman</persRef> came to me this
+							morning, and complained that he had been dismissed without sufficient
+							Cause from the Office of Overseer to the Stone cutters at the Capitol;
+							and a foreigner and single man, put in his place. That he had been to
+								<persRef ref="lane-samuel">Col<hi rend="superscript">l.</hi>
+								Lane</persRef> the Commissioner, who told him he had given all his
+							authority to <persRef ref="blagden-george">M<hi rend="superscript"
+									>r</hi> Blagden</persRef>, the man who had displaced Hillman;
+							who had a personal pique against him—was a foreigner, and invariably
+							partial to foreigners, against native Americans. I told him that I had
+							no controul over the Commissioner, but if he would make a statement in
+							writing of his complaint, and procure certificates of his good conduct
+							and character, which he said he could, numerous and respectable, I would
+							present them to the <persRef key="monroe-james">President</persRef>, on
+							his return— Sat to <persRef ref="king-charles2">M<hi rend="superscript"
+									>r</hi> King</persRef>. <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef> accompanied me
+							to his house, but did not like the picture so that he changed its
+							attitude— At the Office came <persRef ref="anderson-thomas">M<hi
+									rend="superscript">r</hi> T. D. Anderson</persRef> late Consul
+							at Tunis, and now appointed to Tripoli— He came for Instructions, a
+							Credential Letter, and upon an old claim for compensation as a bearer of
+							despatches to Madrid. This claim must be settled by the President, it
+							having arisen while he was Secretary of State. <persRef
+								key="hyde-de-neuville-jean">M<hi rend="superscript">r</hi> Hyde de
+								Neuville</persRef> came to enquire if I had received late Letters
+							from France; and he spoke again of his project of a Consular Convention—
+							I told him as I had no Powers to treat, it would be necessary for me to
+							wait till the President’s return, to give him an answer, and that
+							probably he would prefer arranging a general Commercial Treaty, at the
+							same time with the Consular Convention— He has this deeply at heart, and
+							it has invariably been an object of high importance to the French
+							Government under the Bourbons ever since their first Connection with the
+							United States— It is all political machinery in the guise of Consular
+							Regulations. <persRef ref="jay-john">M<hi rend="superscript">r</hi>
+								Jay’s</persRef> Report upon the first Consular Convention, which I
+							have read since de Neuville sent me his project, has disclosed to me the
+							whole system. But de Neuville says unless there be a Consular
+							Convention, it will be best for France to keep no Consuls here; as it
+							occasions expence, and the Consuls have no powers— He asked also whether
+							he and <persRef key="hyde-de-neuville-ann">Madame de Neuville</persRef>
+							should call upon <persRef ref="monroe-elizabeth">M<hi rend="superscript"
+									>rs.</hi> Monroe</persRef> to take leave— As I could not answer
+							him upon this subject, he said the foreign Ministers were placed in an
+							unpleasant predicament, by not knowing whether their visits would be
+							received, and yet being unwilling to omit any mark of respect to the
+							President’s family which might be expected. I told him I would make some
+							enquiry, and let him know the result— M<hi rend="superscript">rs</hi>
+							Adams spent the Evening abroad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-03">
+					<head>3 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-03"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Oregon
+							Territory</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>3. IV:45.</date> As the time of the morning Tides approaches I
+							returned this Morning to my Bath in the Potowmack— The tide was low, it
+							being about the period of the Neaps, and had turned about two hours
+							before I was there. The morning was so cool, that it was rather an
+							effort than a pleasure to go in to the water— At the Office, I received
+							despatches from <persRef ref="prevost-john">J. B. Prevost</persRef> at
+								S<hi rend="superscript">t.</hi> Iago de Chile<space/>March last;
+							after his return from taking possession at the Mouth of Columbia River.
+							I made a draft of Instructions to <persRef ref="anderson-thomas">T. D.
+								Anderson</persRef>, Consul at Tripoli, and of a Letter to <persRef
+								ref="stith-townshend">T. Stith</persRef> the Consul at Tunis.
+							Received also a Note from <persRef key="hyde-de-neuville-jean">the
+								French Minister</persRef>, concerning a Consular Convention. He and
+								<persRef key="hyde-de-neuville-ann">M<hi rend="superscript">rs</hi>
+								de Neuville</persRef> came this Evening to see <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef>, but she was gone out, to visit <persRef
+								ref="monroe-elizabeth">M<hi rend="superscript">rs</hi>
+								Monroe</persRef>. <persRef ref="bailey-john">M<hi rend="superscript"
+									>r</hi> Bailey</persRef> was also here this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-04">
+					<head>4 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-04"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Finances</note><note type="subject">Foreign Relations</note><note
+							type="subject">Health and Illness</note><note type="subject"
+							>Recreation</note><note type="subject">Seminole Wars</note></bibl>
+					<div type="docbody">
+						<p><date>4. V.</date> Independence day— But being Sunday, its celebration is
+							postponed till to-morrow. My Son <persRef ref="adams-john2"
+								>John</persRef> is this day sixteen. Bathed in the River. I had
+							morning visits from <persRef ref="brent-daniel">D. Brent</persRef>,
+								<persRef ref="forbes-john">Forbes</persRef>, <persRef
+								ref="cardelli-pietro">Cardelli</persRef>, and <persRef
+								ref="hay-george">G. Hay</persRef>. Cardelli is in great agitation,
+							from fear that he will not obtain employment as a Sculptor at the
+							Capitol; and utterly averse to being placed in a station subordinate to
+							his Countryman <persRef ref="andrei-giovanni">Andrei</persRef>, who is
+							also employed there. M<hi rend="superscript">r</hi> Hay came to tell me
+							that <persRef ref="monroe-elizabeth">M<hi rend="superscript">rs</hi>
+								Monroe</persRef> had determined not to receive the visit of<persRef
+								ref="hyde-de-neuville-jean;hyde-de-neuville-ann" type="multi"> M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> de
+								Neuville</persRef> to take leave. He also entered into Conversation,
+							upon <persRef ref="jackson-andrew">General Jackson</persRef>, the
+							Seminole War, <persRef ref="arbuthnot-alexander">Arbuthnot</persRef> and
+								<persRef ref="ambrister-robert">Armbrister</persRef>, topics of
+							which the interest has been for a moment revived, by the debate of the
+								11<hi rend="superscript">th. </hi>of May in the British House of
+							Lords, a debate in which the <persRef ref="pettyfitzmaurice-henry"
+								>Marquis of Lansdowne</persRef>, took infinite pains to display his
+							entire ignorance upon the long prepared and pompously fore announced
+							subject of his own motion. M<hi rend="superscript">r</hi> Hay seemed
+							desirous to hear me talk on this subject, and I freely indulged him— The
+							proceedings relating to it in both Houses of Congress, were so deeply
+							tinged with electioneering colours, that the real merits of the question
+							formed a very small part of <pb type="ms" n="138"/>the causes of
+							discussion— The controversy will be probably renewed hereafter, and thus
+							I presume was the real intention of those who pursued it with so much
+							inveteracy last winter— I employed the leisure of the day in reviewing
+							my Account Books, and the Accounts of the last Month— <persRef
+								ref="hellen-mary">Mary Hellen</persRef> is unwell with an eruption
+							upon the face— After dinner, I rode with <persRef
+								key="adams-louisa-catherine">my wife</persRef> to <persRef
+								ref="french-m">M<hi rend="superscript">rs</hi> French’s</persRef>,
+							beyond Georgetown, where we found <persRef ref="clark-susanna">M<hi
+									rend="superscript">rs</hi> S. B. Clarke</persRef> with <persRef
+								ref="clark-susan">her child</persRef>— The day was fine, and the
+							Evening very cool.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-05">
+					<head>5 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-05"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">American
+							Revolution</note><note type="subject">Louisiana Purchase</note><note
+							type="subject">Missouri Compromise</note><note type="subject"
+							>Recreation</note><note type="subject">Science and
+							Technology</note><note type="subject">Sectionalism</note><note
+							type="subject">Slavery</note><note type="subject">U.S.
+							Constitution</note></bibl>
+					<div type="docbody">
+						<p><date>5. IV:45.</date> Morning Bath in the river. The Night and morning
+							cool— At eleven O’Clock there was a procession from the Washington
+							Hotel, to the Congress Hall on the Capitol Hill, where the Declaration
+							of Independence was read by <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r</hi> Anderson</persRef>, the Comptroller of
+							the Treasury, and an Oration delivered by <persRef ref="lee-richard"
+									>M<hi rend="superscript">r</hi> Richard Bland Lee</persRef>,
+							formerly a Member of Congress— The procession was very small, and the
+							Oration reasonably dull— At four O’Clock, I went to the Hotel on the
+							Capitol Hill, where there was a subscription dinner, at which the late
+							Mayor of the City, <persRef ref="orr-benjamin">B. G. Orr</persRef>
+							presided. The dinner and management were very bad; and the company very
+							small— Less than forty persons including the invited guests, the old
+							revolutionary Officers— There were twenty-one toasts, but the State of
+							Alabama being now the twenty-second State, I gave it as a volunteer;
+							upon which <persRef key="crawford-william-harris">Crawford</persRef> who
+							seems to have thought I was encroaching upon his territories, gave—“the
+							admission of new States on the principles of the federal
+							Constitution—that they should be <hi rend="italic">Republican</hi>.”—
+							This toast glanced at the failure of the Territory of Missouri, to
+							become a State, at the last Session of Congress, owing to a restriction
+							introduced by the House of Representatives, excluding Slavery from the
+							State and declaring free all persons to be born there after a certain
+							period— The Senate struck out the provision, and the Bill failed by the
+							disagreement between the two Houses. The attempt to introduce the
+							restriction introduced a violent agitation among the Members from the
+							Slave-holding States, and it has been communicated to the States
+							themselves; and to the Territory of Missouri. The Slave drivers, as
+							usual, whenever this topic is brought up, bluster and bully, talk of the
+							white Slaves of the Eastern States, and the dissolution of the Union,
+							and Ocean’s of blood— And the Northern men, as usual pocket all this
+							Hectoring; sit down in quiet, and submit to the Slave-scourging
+							Republicanism of the Planters. Crawford who sees how this affair will
+							ultimately go, and who relies on the support of the Slave Drivers, is
+							determined to shew them that he is on their side; and gave this toast to
+							exhibit himself as their champion— On this particular question I did not
+							approve of the attempted restriction upon the State of Missouri, because
+							I believed it not compatible either with the Constitution of the United
+							States or with the Louisiana Treaty— But I think Crawford’s toast not
+							remarkable for delicacy towards the Legislature; while the question is
+							pending before them; and he an Officer of the Executive Government.— As
+							he also flatters himself with support from New-York and Pennsylvania, I
+							doubted a little whether this Toast was altogether judicious, in
+							reference to its possible effect upon them— It may however pass
+							unnoticed in that quarter. I was diverted at perceiving how it was
+							brought out by my Toast of Alabama; the simplest thing in the world;
+							originating in the oversight of the Managers, in preparing only
+							twenty-one toasts— I withdrew immediately after these volunteers were
+							given— <persRef ref="smith-william-steuben;smith-catherine-johnson"
+								type="multi">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> W. S. Smith</persRef> were here, in
+							the Evening— There was a Comet visible, which sat about nine in the
+							Evening; nearly in the North-West.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-06">
+					<head>6 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-06"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Foreign
+							Relations</note><note type="subject">Health and Illness</note><note
+							type="subject">Recreation</note><note type="subject">Science and
+							Technology</note></bibl>
+					<div type="docbody">
+						<p><date>6. V:15.</date> Notwithstanding the cool weather, I persist in
+							bathing every Morning in the river while the tide serves; but this
+							Morning I remained not longer than ten minutes in the water. I had
+							promised to sit to <persRef ref="king-charles2">King</persRef> the
+							Painter, at eleven O’Clock; but after I returned from the Bath, the
+							Newspapers, reading and assorting, and breakfast detained me till past
+							one, when it was too late. I called at King’s and postpone the sitting
+							till the day after to-morrow. At the Office, <persRef
+								ref="poletica-pierre">M<hi rend="superscript">r</hi>
+								Poletica</persRef> called— He returned from his excursion,
+							yesterday; and brought me for perusal some papers concerning the Holy
+							Alliance— An Instruction from the <persRef ref="alexander-i">Emperor
+								Alexander</persRef> to <persRef ref="vansuchtelen-jan">General Van
+								Suchtelen</persRef>, his Minister in Sweden, and the Act of
+							Accession of the Swiss Cantons to the Alliance— <persRef
+								ref="anderson-thomas">M<hi rend="superscript">r</hi> T. D.
+								Anderson</persRef>, the Consul bound to Tripoli, came to take leave;
+							and was anxious to obtain a further advance upon a prior unsettled
+								acc<hi rend="superscript">t.</hi> I declined giving it without a
+							certificate from the 5<hi rend="superscript">th. </hi>Auditor <persRef
+								ref="pleasonton-stephen">Pleasonton</persRef>, that there would in
+							any event be so much due to him in the unsettled account, which
+							certificate he could not obtain. I examined with M<hi rend="superscript"
+								>r</hi><pb type="ms" n="139"/><persRef ref="brent-daniel"
+								>Brent</persRef> part of the manuscript secret Journal of the old
+							Congress. <persRef key="hyde-de-neuville-ann">Madame de
+								Neuville</persRef>, and <persRef ref="decatur-stephen;decatur-susan"
+								type="multi">Commodore and M<hi rend="superscript">rs</hi>
+								Decatur</persRef> were here this Evening— <persRef
+								ref="frye-nathaniel;frye-carolina" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Frye</persRef> called with <persRef ref="frye-louisa">their
+								child</persRef> while we were at dinner, but did not stay, <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> and <persRef ref="hellen-mary">Mary
+							Hellen</persRef>, being both out with the Chicken pox. The Comet was
+							again visible this Evening; being about one sign, distant, North of the
+							Sun. It is large and bright, though less apparent, because the Harvest
+							Moon, is just now coming to the full.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-07">
+					<head>7 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-07"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Finances</note><note type="subject">Health and
+							Illness</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>7. IV:30.</date> Morning Bath. It was the day of the Full Moon, and
+							the tide was high. I was again occupied with my old accounts, and was
+							late at the Office. Stopped at the Metropolis Bank, and renewed my Note
+							there for ninety days, with a repayment of 1000 dollars. Met <persRef
+								ref="tayloe-john">Col<hi rend="superscript">l.</hi> Tayloe</persRef>
+							there. The <persRef ref="franzoni-unknown">widow</persRef> of <persRef
+								ref="franzoni-carlo">Franzoni</persRef> the Italian Architect, who
+							was my next door neighbour, and died suddenly some weeks since, came
+							this Evening with <persRef ref="andrei-unknown">M<hi rend="superscript"
+									>rs</hi> Andrei</persRef> the wife of <persRef
+								ref="andrei-giovanni">another of those Architects</persRef>, to
+							solicit my assistance to obtain that she should be paid for the whole
+							quarter during which her husband died, his Salary— I promised to do any
+							thing in my power for her, but I am afraid it is unprecedented, and
+							would be objectionable as a Precedent— Evening visit from <persRef
+								ref="poletica-pierre">M<hi rend="superscript">r</hi>
+								Poletica</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-08">
+					<head>8 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-08"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>8. V:15.</date> Some accident or newspaper paragraph put me last
+							evening upon examining the par of exchange between the United States and
+							England, which brought on Logarithmic calculations of the comparative
+							value of the silver and gold coins of the two Countries. It swallowed up
+							the last Evening, and this Morning with the exception of the hour and a
+							half for bathing. I took Philip with me to the river. Sat between two
+							and three hours to <persRef ref="king-charles2">King</persRef>— <persRef
+								ref="obrien-richard">Captain O’Brien</persRef> came to the Office
+							about his claims, which must be referred to Congress. I attended this
+							Evening a Ball given at parting by the <persRef
+								key="hyde-de-neuville-jean">French Minister Hyde de
+								Neuville</persRef>— There were between two and three hundred
+							persons, and the heat was insupportable. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> not being entirely recovered, did not go, but spent
+							the Evening with her <persRef key="smith-catherine-johnson">Sister
+								Smith</persRef>— I played Chess with <persRef ref="thruston-buckner"
+								>Judge Thruston</persRef>— Came home about eleven.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-09">
+					<head>9 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-09"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Commerce</note><note
+							type="subject">Foreign Relations</note><note type="subject"
+							>Immigration</note><note type="subject">Recreation</note><note
+							type="subject">Science and Technology</note></bibl>
+					<div type="docbody">
+						<p><date>9. V:</date> Morning bath. I received a Summons to attend the
+							Circuit Court of the District, this morning, upon the trial of <persRef
+								ref="braconnier-mark">Mark</persRef> and <persRef
+								ref="braconnier-francis">Francis Braconnier</persRef>, two young
+							Frenchmen living here, and exercising the trade of Silver-Smiths. They
+							were indicted upon two charges; one of having counterfeited the current
+							silver coin; and the other for having uttered counterfeit coin. I was
+							summoned on their part to testify to their characters. I knew nothing of
+							them personally; but <persRef ref="giusta-antoine">Antoine</persRef> had
+							occasionally employed them for work, and was well acquainted with them.
+							Their character as far as I had heard any thing of it was good— I
+							attended the Court and took Antoine with me. It was past Noon before the
+							trial came on. The eivdence against them was that they had passed to
+							several persons about one dollar’s worth of counterfeit 16<hi
+								rend="superscript">ths. </hi>of a dollar, commonly called here five
+							penny bits: but there was no evidence of their having made them. The
+							Story that they told was that a foreigner came some time since to their
+							shop, with a handful of these five-penny bits, and ordered them to make
+							waistcoat buttons of those with the best impressions, and to take the
+							rest for their pay. He had also ordered them to procure other five penny
+							bits, and make buttons of them. They produced a witness who swore that
+							he was at their shop, when this man came, and gave them the order and
+							the five-penny bits.— The strongest circumstances against them were that
+							being Silver-Smiths they should have received and passed off these
+							pieces for genuine money; the bare inspection of them being sufficient
+							to shew that they were not of good silver. The only explanation of
+							which, consistent with their innocence was that coming from a country
+							where genuine small coins are made of debased metal and being foreigners
+							here, they might know these pieces to be bad silver, and yet believe
+							them to be genuine coins. They had also requested the attendance of the
+								<persRef key="hyde-de-neuville-jean">French Minister</persRef>, who
+							did not come, but sent <persRef ref="thierry-fb">M<hi
+									rend="superscript">r</hi> Thierry</persRef>, with a certificate
+							in their favour, and of the <persRef ref="goupydequabeck-alexander"
+								>Viscount de Quabeck</persRef> who neither came nor sent. The trial
+							lasted till past two O’Clock, although the arguments of Counsel, both
+							for the prosecution and for the defendant’s were very short. There was a
+							Silversmith upon the Jury, who was sworn, and testified that he should
+							have known by bare inspection <pb type="ms" n="140"/>that the pieces
+							which were produced in Court, and which they had passed, were
+							counterfeit— <persRef ref="jones-walter">Walter Jones</persRef> the
+							District Attorney, and of course the prosecutor, told me that there were
+							bad reports in circulation against these men; and among the rest that
+							when their shop was burnt down last Spring, coining instruments and a
+							box of Counterfeit half-dollars were found there— He asked a question of
+								<persRef ref="mauro-phillip">Mauro</persRef>, one of the witnesses,
+							whether he knew any thing of this, or had heard such reports at that
+							time: Mauro answered that he was at the fire; and saw every thing in and
+							about their shop.— That he saw nothing of the kind; and never heard a
+							surmise of it until within these two or three days. I left the
+							Court-House before the Jury came in with their verdict— They acquitted
+							both the Prisoners— Antoine entered his name as a foreigner intending to
+							apply for naturalization, after he shall have resided in the United
+							States, the five years required by Law— I rode to my Office; and was
+							there informed by <persRef ref="brent-daniel">M<hi rend="superscript"
+									>r</hi> Brent</persRef>, that a vessel had arrived this Morning
+							at Alexandria, in thirty days from Cadix. The Captain of which brought
+							intelligence that the Treaty of 22<hi rend="superscript">d.</hi>
+							February last, taken out by <persRef ref="forsyth-john">M<hi
+									rend="superscript">r</hi> Forsyth</persRef>, had not been, and
+							was not likely to be ratified. The cause, was supposed to be the
+							interference of the British Government— This account was in the City
+							Gazette this afternoon, and M<hi rend="superscript">r</hi> Hyde de
+							Neuville came this Evening to my house much occupied with it— He had
+							this day received a Letter from <persRef ref="demun-unknown">M<hi
+									rend="superscript">r</hi> de Mun</persRef> of 27. April, in
+							which he says that the <persRef ref="unknown13">Spanish Ambassador at
+								Paris</persRef> was extremely dissatisfied with the Treaty; and that
+							the <persRef ref="stuart-charles">English Ambassador</persRef>,
+							declaimed against it, even in an indecent manner, from which he
+							concluded that the British Government would do every thing in their
+							power to prevent the ratification of the Treaty— M<hi rend="superscript"
+								>r</hi> de Neuville was also much out of humour with the
+							determination of the President’s Lady, <persRef ref="monroe-elizabeth"
+									>M<hi rend="superscript">rs</hi> Monroe</persRef>, not to
+							receive <persRef key="hyde-de-neuville-ann">Madame de
+							Neuville</persRef>, on a visit to take leave. The Comet was this Evening
+							very brilliant.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-10">
+					<head>10 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-10"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Finances</note><note type="subject">Adams-Onis
+						Treaty</note></bibl>
+					<div type="docbody">
+						<p><date>10. IV:45.</date> As the tide no longer serves for bathing before
+							my breakfast hour in the morning I suspend again my river bath, although
+							the weather which this day came on, <persRef ref="fahrenheit-daniel">Fahrenheit</persRef> at 88. is better suited
+							for bathing than it has been during the week that I have bathed; which
+							has been generally cool. I was to have sat, this day to <persRef
+								ref="king-charles2">M<hi rend="superscript">r</hi> King</persRef>,
+							but becoming engaged with my old Accounts, was again too late, and we
+							postponed the sitting till Monday. <persRef key="hyde-de-neuville-jean"
+									>M<hi rend="superscript">r</hi> Hyde de Neuville</persRef> was
+							at the Office, and said he expected to leave the City for New-York, next
+							Monday. We had some further Conversation upon the eighth Article of the
+							Treaty with Spain, of which I promised him a copy to take with him to
+							France— There was a false report from Cadix this day, through Boston
+							that the Treaty had been ratified— It is by an arrival nearly three
+							weeks of older date than the one at Alexandria— I rode out this Evening
+							with <persRef key="adams-louisa-catherine">my wife</persRef> and
+								<persRef ref="hellen-mary">Mary Hellen</persRef>— The heat quite
+							oppressive, and almost total calm.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-11">
+					<head>11 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-11"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Science
+							and Technology</note></bibl>
+					<div type="docbody">
+						<p><date>11. IV:</date> I rose twice in the Night with the intention of
+							having a morning view of the Comet, but was disappointed. And when I
+							rose for the day at four O’Clock, Jupiter and Venus were both
+							conspicuously visible, but no Comet to be found. Yet the Newspapers say
+							it has been brighter in the Morning, than before it sets at Night— The
+							day was intensely warm. <persRef ref="fahrenheit-daniel">Fahrenheit</persRef> at 92. but a fresh Southern breeze
+							made it supportable, and by our dinner hour at 6. P.M. had brought up a
+							violent gust of wind, accompanied with distant thunder and followed by a
+							light shower of rain. It passed over in the course of an hour, and I
+							went with <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> and <persRef ref="hellen-mary">Mary
+								Hellen</persRef> to <persRef ref="frye-nathaniel">M<hi
+									rend="superscript">r</hi> Frye’s</persRef>, where we spent an
+							hour of the Evening— The weather was but little tempered by the gust and
+							rain— I this day commence the fifty third year of my age.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-12">
+					<head>12 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-12"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Foreign
+						Relations</note></bibl>
+					<div type="docbody">
+						<p><date>12. V:15.</date> A <persRef ref="stull-unknown">M<hi
+									rend="superscript">r</hi> Stull</persRef> brought to my house a
+							draft of <persRef ref="henry-bernard">Bernard Henry</persRef>, the
+							Consul at Gibraltar, for monies, (two hundred Pounds Sterling) advanced
+							to <persRef ref="robinson-william">W. D. Robinson</persRef>, an American
+							Citizen, who has been two or three years confined as a prisoner in
+							Mexico, and at the Havanna, and who lately escaped from Cadix to
+							Gibraltar, by breaking his Parole. As the Government of the United
+							States had made repeated applications to that of Spain, to obtain his
+							release, M<hi rend="superscript">r</hi> Henry thought it probable they
+							would pay M<hi rend="superscript">r</hi> Robinson’s debts— He had
+							however directed M<hi rend="superscript">r</hi> Stull to withdraw the
+							draft, if objection should be made to accepting it. I told him there was
+							no appropriation from which it could be paid, and he took it away. He
+							told me that he had seen a Letter from Gibraltar mentioning first a
+							report that the Treaty had been ratified, but afterwards stating that
+							the writer had seen an official account from Madrid that it was not
+							ratified on the 28<hi rend="superscript">th. </hi>of May— I had engaged
+							to sit to <persRef ref="king-charles2">M<hi rend="superscript">r</hi>
+								King</persRef> the Painter; but the heat of the weather was so
+							insupportable, that I called at his lodgings, and <pb type="ms" n="141"
+							/>postponed the sitting till the day after to-morrow. At the Office I
+							had a copy of the abortive Treaty with Spain made out, to send to
+								<persRef key="hyde-de-neuville-jean">M<hi rend="superscript">r</hi>
+								de Neuville</persRef>, and I made a draft of observations upon the
+								8<hi rend="superscript">th. </hi>Article, to remind him of the point
+							of discussion upon that Article at the time when it was drawn up; and
+							upon which de Neuville himself had made a written Memorandum at the
+							time— <persRef ref="forbes-john">M<hi rend="superscript">r</hi>
+								Forbes</persRef>, and <persRef
+								ref="smith-william-steuben;smith-catherine-johnson" type="multi"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+									>rs</hi> W. S. Smith</persRef> were here this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-13">
+					<head>13 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-13"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Science and
+							Technology</note></bibl>
+					<div type="docbody">
+						<p><date>13. V:15.</date> A <persRef ref="pomeroy-thomas">M<hi
+									rend="superscript">r</hi> Pomeroy</persRef> of Windsor in the
+							State of Vermont came this Morning to solicit employment, and to
+							recommend a machine invented by his partner <persRef ref="hedge-lemuel"
+								>Lemuel Hedge</persRef>, and for which they have a patent, for
+							ruling paper. It performs the operation of ruling both sides of the
+							paper at once; like <persRef ref="konig-fredrich">Königs</persRef>
+							printing Press. But they lost all their property last Spring by fire,
+							and now their only resource is the sale of these machines— Pomeroy
+							wished for an introduction to the Russian Minister; I told him to call
+							at his house and I was sure <persRef ref="poletica-pierre">M<hi
+									rend="superscript">r</hi> Poletica</persRef>, would readily
+							receive him— I called at a <persRef ref="brown-unknown4">M<hi
+									rend="superscript">r</hi> Brown’s</persRef> shop in F. Street,
+							near the Bank of the Metropolis, and saw one of the ruling Machines— Its
+							construction is simple and they say a ream of paper can be ruled with it
+							in 13 minutes— This Evening, with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef> and <persRef
+								key="smith-catherine-johnson">M<hi rend="superscript">rs</hi> W. S.
+								Smith</persRef> we paid visits to <persRef
+								ref="anderson-joseph;anderson-patience" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Anderson</persRef>— And afterwards <persRef
+								ref="hyde-de-neuville-jean;hyde-de-neuville-ann" type="multi">M<hi
+									rend="superscript">r</hi> and Madame Hyde de Neuville</persRef>
+							came and took leave of us upon their departure for France. There was
+							another false report from Gibraltar, of 3. June, that the Treaty with
+							Spain had been ratified— <persRef ref="calhoun-john">M<hi
+									rend="superscript">r</hi> Calhoun</persRef> the Secretary at
+							War, arrived this Evening from Carolina.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-14">
+					<head>14 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-14"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Finances</note></bibl>
+					<div type="docbody">
+						<p><date>14. V:</date><persRef ref="wilson-alexander">Alexander
+								Wilson</persRef> a Quaker belonging to Philadelphia, to whom on the
+								24<hi rend="superscript">th. </hi>of March 1795. I gave at the Hague
+							a Letter to <persRef ref="moreau-jean">General Moreau</persRef>, then
+							commanding the French Army at Utrecht, to enable him to pass through the
+							army, on his way to Hamburg, called to see me this Morning. Soon after
+							that incident, he returned to Philadelphia, where and on a farm within
+							five miles of which he has ever since resided— He has now <persRef
+								ref="wilson-unknown2">a wife</persRef> and children, and is
+							returning from a Summer excursion, with them into the State of Ohio. He
+							told me the course of his adventures, after I gave him the Letter until
+							he returned to the United States, and he recollected the particulars of
+							his transactions with me, at that time, more circumstantially than I
+							did— I found upon recurring to my diary that he remembered them
+							correctly— <persRef ref="cardelli-pietro">Cardelli</persRef> came to ask
+							my advice, with his hopes and his fears. <persRef ref="lane-samuel"
+									>Col<hi rend="superscript">l.</hi> Lane</persRef> has not given
+							him employment upon his business as a Sculptor— <persRef
+								ref="jefferson-thomas">M<hi rend="superscript">r</hi>
+								Jefferson’s</persRef> bust which he left at Monticello to be
+							forwarded from Milton has not yet arrived, and he is afraid it may be
+							lost or damaged— He is extremely averse to return to work at the
+							ornaments of Cornices at the Capitol, and yet he must work for his
+							subsistence. I advised him at all events to return to his work; and wait
+							with patience till Col<hi rend="superscript">l.</hi> Lane gives him
+							something better. He said money was not his object, and he would offer
+							to work at his proper business, for the same wages now given him for
+							making eggs— I brought up my old Accounts in my Waste-Book, and Journal
+							to the close of the last year. My transactions of private pecuniary
+							business have been to an amount sufficiently important, and sufficiently
+							complicated to require that the accounts of them should have been kept
+							by the mode of double entry. I ought to have begun keeping them thus in
+							1790. when I commenced life in the practice of Law. But Book-keeping is
+							not taught as a part of Classical Education, which is a great oversight,
+							and I had neither learnt it, nor was aware of its importance. I had
+							indeed no property, and for two or three years very little business to
+							book; yet of that little, and of all my expences I did keep accounts,
+							though not in a regular system of Books. When I went to Holland in 1794.
+							I commenced in the Book which I have since used as a Ledger, a regular
+							account of my receipts and payments on public account, and also of all
+							my expences; but none of other pecuniary transactions. I found the want
+							of it by experience; and upon resuming the practice of the Law, after my
+							return from Europe in 1801. I began to keep regular Books— A Waste-Book
+							and Journal in one; and a Ledger— My own agency, for <persRef
+								ref="adams-john">my father</persRef>; with the Bankruptcy of the
+							House of <persRef ref="bird-robert">Bird</persRef><persRef
+								ref="savage-benjamin">Savage</persRef> and <persRef ref="bird-henry"
+								>Bird</persRef>, and its consequences; my wanderings about the
+							world; <persRef ref="adams-charles">my brother’s</persRef> agency of my
+							Affairs, of which I was at one time three years without any account, and
+							the great variety of affairs in which I have been concerned, have not
+							only produced some confusion in the formal part <pb type="ms" n="142"
+							/>of my Account Books, but some confusion in my ideas as to the mode of
+							keeping them. I have made no entries in the Ledger since 1814. and never
+							attempted the experiment of making out a Trial-Balance. I have but very
+							imperfect catalogues of my Library, and no proper Inventory either of my
+							household Furniture, or of my Real Estate— On my last return to this
+							Country, I suspended making entries, in my Waste-Book and Journal, till
+							I could enter upon it a summary of my brother’s agency Accounts during
+							my absence in Europe. Last Summer I went through a partial examination
+							of them, which I have now resumed and completed— In the mean time, my
+							entries upon loose papers, had run up to nearly three sheets; which I
+							have at length transferred to the Waste-Book and Journal; and in
+							scrutinizing the modes of making the entries, I have ascertained the
+							sources of most of the errors in my former entries. It remains for me
+							still to revise and correct them; for which I must wait, if it is
+							destined to me another period of leisure— I Sat to <persRef
+								ref="king-charles2">King</persRef> the Painter, who being
+							dissatisfied with the Portrait which he has taken, this day began
+							another— At the Office <persRef ref="mason-john">General Mason</persRef>
+							came and introduced a <persRef ref="robertson-william">M<hi
+									rend="superscript">r</hi> Robertson</persRef>, who has been
+							recommended by <persRef ref="ripley-eleazer">General Ripley</persRef>,
+							and employed by the War Department at the Havanna. He has been
+							soliciting to be employed there again by the Department of State; but we
+							shall have no present occasion for sending to Havanna— <persRef
+								ref="brown-william10">Young Brown</persRef>, son of <persRef
+								ref="brown-katherine">M<hi rend="superscript">rs</hi> K.
+								Brown</persRef> of Georgetown, came with a Letter from her, to
+							solicit a place, of Clerk, said to be vacant in the War Department. He
+							had also a Letter of Recommendation from Gen<hi rend="superscript"
+								>l.</hi> Mason, to <persRef ref="calhoun-john">M<hi
+									rend="superscript">r</hi> Calhoun</persRef>, to whom I advised
+							him to apply immediately, and promised to speak to him, in his favour.
+								<persRef ref="hyde-de-neuville-jean;hyde-de-neuville-ann"
+								type="multi">M<hi rend="superscript">r</hi> and Madame Hyde de
+								Neuville</persRef> left the City this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-15">
+					<head>15 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-15"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Bank of
+							the United States</note></bibl>
+					<div type="docbody">
+						<p><date>15. V:</date> In my earnestness to bring up my old accounts, I had
+							again neglected my daily diary, till I had this morning three days to
+							recover. It employed the time till near Noon, when I gave a sitting of
+							two hours to <persRef ref="king-charles2">King</persRef>. Called at the
+							Branch Bank; at the Office I received a Letter with enclosures from E.
+								<persRef ref="fromentin-eligius">Fromentin</persRef>. Continued the
+							examination of the Secret Journals of the Old Congress for publication.
+							There was a light thunder shower this Evening without rain enough
+							however to moisten the ground— Made a very short Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-16">
+					<head>16 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-16"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Finances</note><note type="subject">Commerce</note><note
+							type="subject">Health and Illness</note><note type="subject"
+							>Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>16. IV:30.</date> M<hi rend="superscript">r</hi><persRef
+								ref="greenleaf-james">James Greenleaf</persRef> came to solicit the
+							appointment of Commercial Agent at Port au Prince, for <persRef
+								ref="armstrong-andrew">Andrew Armstrong</persRef> of New-York, whose
+							name he left with me. I brought up all the arrears of my Accounts in my
+							Waste-Book and Journal; and called at the Office of <persRef
+								ref="anderson-joseph">M<hi rend="superscript">r</hi>
+								Anderson</persRef> the Comptroller; requesting him to take up my
+							Accounts during my last Missions in Europe for Settlement. He promised
+							me that he would the next week as he has often done before— I called
+							upon <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef> the Secretary of War at his Office, and we had
+							much and various conversation upon the most interesting topics of the
+							time, in relation to public affairs. He thinks we shall unavoidably come
+							within a year, to a paper money currency; and I believe he judges
+							rightly. We shall come to it and to all its unjust and cruel
+							consequences. The last of which to be dreaded is a civil War between
+							Debtor and Creditor. <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef> and M<hi
+								rend="superscript">r</hi> Calhoun were afterwards at my Office.
+							Crawford wishes to employ two new Revenue Cutters to take a small
+							piratical vessel, roving between Mobile and Florida Point; but the
+							Captain cannot be commissioned till the <persRef key="monroe-james"
+								>President</persRef> returns— We concluded that the <persRef
+								ref="thompson-smith">Secretary of the Navy</persRef>, might <hi
+								rend="strikethrough">put them</hi> in the mean time put them under
+							the command of Officers of the Navy. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> went this Evening to <persRef ref="french-m">M<hi
+									rend="superscript">rs</hi> French’s</persRef> and saw <persRef
+								ref="clark-susanna">M<hi rend="superscript">rs</hi> Clark</persRef>,
+							who is ill with the meazles. <persRef ref="poletica-pierre">M<hi
+									rend="superscript">r</hi> Poletica</persRef>, and <persRef
+								ref="lomonosoff-sergie">M<hi rend="superscript">r</hi>
+								Lomonossoff</persRef> spent part of the Evening here. Poletica will
+							be a very troublesome personage. He concludes that <persRef
+								ref="campbell-george">M<hi rend="superscript">r</hi>
+								Campbell</persRef> will return immediately to the United States,
+							because he has had the misfortune of losing in one week the <persRef
+								ref="campbell-george2;campbell-benjamin;campbell-elizabeth"
+								type="multi">three children</persRef> whom he took with him to
+							Russia, and Poletica enquired as an affair of confidence whether there
+							was any chance that <persRef ref="harris-levett">Levitt Harris</persRef>
+							would be appointed the Minister in his stead. He intimated that Harris
+							himself had solicited him to use his influence to obtain the appointment
+							for him. He made a number of impertinent observations, about Harris’s
+							being a man of fortune, and about the necessity the President was under,
+							of appointing persons who had distinguished themselves by public
+							services. <pb type="ms" n="143"/>He also remarked that <persRef
+								ref="jenkinson-robert">Lord Liverpool</persRef> and <persRef
+								ref="castlereagh-robert">Lord Castlereagh</persRef> used to make to
+							the Russian Ambassador, confidential Communications like that which he
+							now inofficially asked— I told him that the Heads of the British Cabinet
+							knew before-hand who would be appointed to Offices, for the appointments
+							were made by them— I had not the same authority; and could not tell him
+							whether in the Event of M<hi rend="superscript">r</hi> Campbell’s return
+							home, there would be any chance for the appointment of M<hi
+								rend="superscript">r</hi> Harris. The event itself of M<hi
+								rend="superscript">r</hi> Campbell’s return so soon had not been
+							anticipated, and there was no nothing but conjecture upon which its
+							probability was inferred— I see that extreme circumspection will in
+							future be necessary in my relations and intercourse with this man, and
+							am very apprehensive that will not be sufficient to keep terms with
+							him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-17">
+					<head>17 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-17"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Foreign
+							Relations</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>17. IV:</date> The time of tide is returning at which I can again
+							bathe in the Potowmack, before breakfast; which I did this Morning.
+								<persRef ref="law-thomas">M<hi rend="superscript">r</hi> Thomas
+								Law</persRef> called this day on a visit— I sat two hours to
+								<persRef ref="king-charles2">M<hi rend="superscript">r</hi>
+								King</persRef>. Received a Letter from the <persRef
+								key="monroe-james">President</persRef> of the United States, dated
+							the 5<hi rend="superscript">th. </hi>of this Month at Lexington
+							Kentucky; he shortens his tour and returns by the nearest road, to his
+							Estate in Albemarle County, Virginia. Received also Letters of 1. May
+							from <persRef ref="erving-george">G. W. Erving</persRef> at Madrid—
+							Forsyth had not then arrived there— These Letters leave no doubt that
+							the Treaty of 22. Feb<hi rend="superscript">y.</hi> will not at present
+							be ratified; and that every thing concerning our relations with Spain is
+							again afloat under circumstances of greater difficulty than ever—
+								<persRef ref="frye-nathaniel;frye-carolina" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Frye</persRef> with their <persRef ref="frye-louisa"
+								>infant</persRef> called here, while we were at dinner, and <persRef
+								ref="bailey-john">M<hi rend="superscript">r</hi> Bailey</persRef>
+							was here in the Evening. [symbols]</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-18">
+					<head>18 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-18"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>18. V:30.</date> The weather has become so cool that I omitted the
+							bath this morning. <persRef ref="hay-george">M<hi rend="superscript"
+									>r</hi> George Hay</persRef> came to say that <persRef
+								ref="monroe-elizabeth">M<hi rend="superscript">rs</hi>
+								Monroe</persRef> and the <persRef key="monroe-james"
+								>President’s</persRef> family do not intend to go and meet him at
+							his house in Albemarle County, as he expected they would; but that after
+							stopping there a few days for repose, he will return to this City. Hay
+							spoke of the state of Affairs with Spain, and expressed quite an
+							unfavourable opinion of <persRef ref="forsyth-john">Forsyth</persRef>,
+							who he said was a man devoured by Vanity. <persRef ref="thierry-fb"
+									>M<hi rend="superscript">r</hi> Thierry</persRef>, now acting as
+							the Charge d’Affaires of France came to say that he had been with
+								<persRef ref="hyde-de-neuville-jean;hyde-de-neuville-ann"
+								type="multi">M<hi rend="superscript">r.</hi> and Madame de
+								Neuville</persRef> to Baltimore, whence he returned last Evening.
+							They had proceeded the day before on their Journey— I received
+							despatches from <persRef ref="gallatin-albert">A. Gallatin</persRef>,
+							dates to 31 May; but nothing important— I took a short walk over the
+							fields before dinner, and in the Evening, with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> and <persRef ref="hellen-mary">Mary Hellen</persRef>
+							paid a visit to <persRef ref="middleton-henry">M<hi rend="superscript"
+									>r</hi> Middleton</persRef> and <persRef
+								ref="middleton-mary;middleton-eleanor;middleton-maria" type="multi"
+								>his family</persRef> at Kalorama. He has just returned from
+							Carolina. <persRef ref="lee-william">W. Lee’s</persRef><persRef
+								ref="lee-susan;lee-mary" type="multi">two daughters</persRef> were
+							there, and he came in afterwards himself. I wasted much of this day; and
+							made an ineffectual attempt to resume my Report upon weights and
+							measures.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-19">
+					<head>19 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-19"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Health
+							and Illness</note><note type="subject">Privateering</note><note
+							type="subject">Recreation</note><note type="subject">Science and
+							Technology</note></bibl>
+					<div type="docbody">
+						<p><date>19. V:15.</date> Had a severe cramp in one leg this morning before
+							day-break. Bathed in the river. Returning home, I stopped at the house
+							of <persRef ref="ironside-george">M<hi rend="superscript">r</hi>
+								Ironside</persRef>, who keeps a school for boys. As my <persRef
+								ref="adams-john2">Son John</persRef> is to enter the University at
+							Cambridge this Summer, I propose to take his younger brother <persRef
+								ref="adams-charles2">Charles</persRef>, from Boston where they have
+							been two years at the town Latin School together, and boarding at
+								<persRef ref="welsh-thomas">D<hi rend="superscript">r.</hi>
+								Welsh’s</persRef>— My object was to enquire of M<hi
+								rend="superscript">r</hi> Ironside, if he knew and practised the
+							course of Instruction for preparing students for Cambridge— He said he
+							was, and that he kept his school now, entirely for teaching the
+							Classics. His terms are 200 dollars a year for board and tuition—and 15
+							dollars a Quarter for tuition alone. He gives only the Saturday for a
+							weekly Holiday; and the Month of August for a Vacation— <persRef
+								ref="anderson-joseph">M<hi rend="superscript">r</hi>
+								Anderson</persRef> the Comptroller, called here at the request of
+								<persRef ref="gantt-unknown">M<hi rend="superscript">rs.</hi>
+								Gantt</persRef> and <persRef ref="ewell-unknown">M<hi
+									rend="superscript">rs.</hi> Ewell</persRef> the Sisters
+								of<persRef ref="campbell-harriot"> M<hi rend="superscript">rs</hi>
+								G. W. Campbell</persRef>, to ask if we had information of that
+							terrible calamity which has befallen her, in the loss of three children
+							in one week at S<hi rend="superscript">t.</hi> Petersburg— I gave him
+								<persRef ref="lewis-john">J. D. Lewis’s</persRef> Letter to <persRef
+								key="adams-louisa-catherine">my wife</persRef>, containing the
+							account. It is a subject upon which I have not fortitude to think—
+								<persRef ref="dougherty-joseph">Dougherty</persRef> came to solicit
+							again a re-appointment as Superintendant of the building where the
+							Offices of the State, War and Navy Departments are kept; from which he
+							was removed for having assaulted and beaten <persRef ref="lane-samuel"
+									>Col<hi rend="superscript">l.</hi> Lane</persRef>— He has been
+							prosecuted for the same act, and sentenced to 30 days imprisonment and
+							to pay a fine of 50 dollars. He has just been discharged from the term
+							of his imprisonment, and asked me if there was any chance of his
+							obtaining <pb type="ms" n="144"/>a re-appointment to the place from
+							which he was removed. I told him in candour, I thought there was none—
+							First because the place is already filled— Secondly because the
+							transaction for which he was removed was of a character that could not
+							be overlooked; and thirdly because no person would be appointed without
+							the sanction of the <persRef key="monroe-james">President</persRef>, who
+							was highly offended with him.— He said he knew the President was
+							prejudiced against him; and if he should interfere, there was no chance
+							for him; but he did not see what the President had to do with the
+							appointment. I assured him that no person would receive it without the
+							President’s approbation— At the Office I had many visitors— <persRef
+								ref="obrien-richard">Captain O’Brien</persRef> with his never-ending
+							and inexplicable claims. M<hi rend="superscript">r</hi> Anderson and his
+								<persRef ref="anderson-alexander">Son</persRef>, of New-York; just
+							now from Michillimackinac; who were introduced to me by <persRef
+								ref="lee-william">M<hi rend="superscript">r</hi> William
+								Lee</persRef>— Anderson says he met me last September in the
+							Steam-boat from Staten-Island to New-York. <persRef
+								ref="jamison-unknown">M<hi rend="superscript">r</hi>
+								Jamison</persRef>, who came with a complaint from an Insurance
+							Company at Baltimore, on a piratical capture, and a claim at
+							Port-au-Prince; and <persRef ref="poletica-pierre">M<hi
+									rend="superscript">r</hi> Poletica</persRef>, who came, without
+							business; but perhaps to pick up crumbs for a despatch— I wrote to
+								<persRef ref="antrobus-gibbs">Antrobus</persRef> and to the
+							President— M<hi rend="superscript">rs</hi> Adams passed the Evening
+							abroad. The Comet was again visible, but grows nightly more dim.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-20">
+					<head>20 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-20"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note></bibl>
+					<div type="docbody">
+						<p><date>20. V:15.</date> The last Night and this Morning were so cool, that
+							I again omitted going to the bath. But wasted the hours in calculations
+							of the par of exchange between the Coins and their Standards in the
+							United States France and England. I sat two hours to <persRef
+								ref="king-charles2">King</persRef>; and at the Office did little
+							else but examine the Manuscript of the Secret Journals of the Old
+							Congress. <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> with <persRef ref="hellen-mary">Mary
+								Hellen</persRef> went this Evening to the Theatre. <persRef
+								ref="forbes-john">M<hi rend="superscript">r</hi> Forbes</persRef>
+							and <persRef ref="stackpole-unknown">M<hi rend="superscript">r</hi>
+								Stackpole</persRef> of Boston, called upon me this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-21">
+					<head>21 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-21"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Bank of
+							the United States</note><note type="subject">Commerce</note><note
+							type="subject">Panic of 1819</note><note type="subject"
+							>Privateering</note><note type="subject">Recreation</note><note
+							type="subject">Seminole Wars</note></bibl>
+					<div type="docbody">
+						<p><date>21. V:</date> Morning Bath. Absorbed in Logarithms and Exchange—
+							Sat two Hours to <persRef ref="king-charles2">King</persRef>, who is
+							taking two Portraits at once— <persRef key="crawford-william-harris"
+									>M<hi rend="superscript">r</hi> Crawford</persRef>, the
+							Secretary of the Treasury called at my Office, and said he had concluded
+							it would be best to Commission at once the Commanders and Officers of
+							the two Revenue Cutters, and if I would issue the Commissions, he would
+							take it upon himself to give them; to which I agreed— He gave me the
+							name of <persRef ref="loomis-jairus">Jairus Loomis</persRef> the man who
+							blew up the Negro Fort, as Commander of one of the Cutters; and two
+							names for Mates of each of the Cutters— For the Commander of the second
+							Cutter he said he must wait to hear further from the <persRef
+								ref="gelston-david">Collector at New-York</persRef>— I asked
+							Crawford how his returns of revenue hold out. He says they are falling
+							off in Virginia, and Bonds are laying over, elsewhere. The Banks are
+							breaking, or as they call it suspending Specie payments all over the
+							Country, but the United States Bank, is in a great measure relieved from
+							the pressure that was bearing upon it— They will lose however by the
+							Baltimore swindlers about two Millions of Dollars— <persRef
+								key="adams-louisa-catherine">My wife</persRef> was unwell, confined
+							great part of this day to her bed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-22">
+					<head>22 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-22"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Commerce</note><note
+							type="subject">Florida Annexation</note><note type="subject">Foreign
+							Relations</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>22. IV:45.</date> Bath in the Potowmack. Took Philip with me. It
+							was the morning of the new moon, with a blustering breeze, which dashed
+							the waves at the face, and some of the river water down my throat. It
+							had the aspect of blowing up rain, which is much needed; but passed over
+							with a very slight sprinkling. <persRef ref="lee-richard">M<hi
+									rend="superscript">r</hi> Richard B. Lee</persRef> called at my
+							house to enquire if in the Event of Ratification of the Spanish Treaty,
+							British grants of Lands in Florida, made while the British owned the
+							Province would be valid. I told him they would be as valid under the
+							Government of the United States, as they were under that of Spain; but
+							that he might spare himself the trouble of any further enquiry, at least
+							for the present; there being no prospect of the Ratification— He spoke
+							of a grant of two millions of acres from Tampa Bay to the river S<hi
+								rend="superscript">t.</hi> John’s, which I presume cannot be valid.
+							I wasted my time again in enquiries about Coins and Exchange. At the
+							Office I received a Letter from the Commissioner, <persRef
+								ref="vanness-cornelius">C. P. Van Ness</persRef>, and wrote to him.
+							Evening at home. <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> rode out with
+								<persRef ref="hellen-mary">Mary Hellen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-23">
+					<head>23 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-23"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>23. IV:45.</date> Bath in the river alone. Sat two hours to
+								<persRef ref="king-charles2">King</persRef>. A severe drought has
+							been prevailing here several weeks. The change of Moon brought the
+							prospect of a change of weather. This day was cool, and I returned home
+							from my Office in a shower, drizzling between Mist and Rain. Received
+							Letters from <persRef ref="purviance-john">Purviance</persRef>, dated
+							30. May at Bordeaux, and from <persRef ref="strobel-daniel">D.
+								Strobel</persRef> the Consul there of 31. May. Purviance landed 28.
+							May, after a Quarantine of ten days, in the Garonne. <persRef
+								ref="erving-george">G. W. Erving</persRef> arrived at Bordeaux from
+							Madrid the same day with Purviance, and says the Treaty will not be
+							speedily ratified. Purviance 30. May, writes that he had concluded not
+							to go to Madrid <pb type="ms" n="145"/>yet Strobel the next day writes
+							that he had gone on that Morning to Bayonne— Not a word either from
+							Erving, or from <persRef ref="forsyth-john">Forsyth</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-24">
+					<head>24 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-24"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note></bibl>
+					<div type="docbody">
+						<p><date>24. V:</date> There was a little rain in the Night, and the Morning
+							being cool and lowering, I omitted my usual bath in the river. I was
+							swallowed up in calculations and meditations upon Coins, Currency and
+							Exchange, the only excuse for which that I can devise is the connection
+							of the subject with weights and measures; upon which I am called to
+							report to the Senate— Sat again to <persRef ref="king-charles2"
+								>King</persRef>; another noisome encroachment upon my time— There
+							were several light showers in the course of the day. <persRef
+								ref="middleton-henry;middleton-mary" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Middleton</persRef>, with their <persRef
+								ref="middleton-eleanor;middleton-maria" type="multi">two
+								daughters</persRef> were here, this Evening; and <persRef
+								key="smith-william-steuben">W. S. Smith</persRef>. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> and <persRef ref="hellen-mary">Mary Hellen</persRef>
+							spent the Evening at <persRef key="smith-catherine-johnson">M<hi
+									rend="superscript">rs</hi> Smith’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-25">
+					<head>25 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-25"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note><note type="subject">Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>25. V:</date> A very heavy thunder shower in the Night, but without
+							clearing or cooling the atmosphere. I bathed in the river; the last time
+							for this Series of tides. When I came home, I found <persRef
+								ref="cardelli-pietro">Cardelli</persRef>; still complaining that he
+							has not received <persRef ref="jefferson-thomas">M<hi rend="superscript"
+									>r</hi> Jefferson’s</persRef> Bust, nor an answer from M<hi
+								rend="superscript">r</hi> Jefferson to a Letter; which he wrote to
+							him about it— I plunge deeper and deeper into my enquiries, concerning
+							Coins, Currencies and Exchange—the deeper I go, the deeper, and the
+							darker appears the deep beneath; and although the want of time will soon
+							force me to break away from the subject, without even finding its
+							bottom; yet it now fascinates and absorbs me to the neglect of the most
+							necessary business, and even of my daily diary. <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> and <persRef
+								key="smith-catherine-johnson">his wife</persRef> dined with us— The
+							Ladies rode out after dinner, and I had a long Evening visit from
+								<persRef ref="poletica-pierre">M<hi rend="superscript">r</hi>
+								Poletica</persRef>— A late Evening Shower.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-26">
+					<head>26 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. V:</date> A Showery day; with Thunder, and intervals of sultry
+							heat. To recover the arrears of my diary I was obliged to intermit my
+							examinations of the Currency, Coin and Exchange Subject. Sat to <persRef
+								ref="king-charles2">King</persRef>. <persRef ref="monroe-elizabeth"
+									>M<hi rend="superscript">rs</hi> Monroe</persRef> sent me a
+							Letter to the <persRef key="monroe-james">President</persRef> from a man
+							at New-York named <persRef ref="hardy-unknown">Hardy</persRef>,
+							petitioning for a respite for <persRef ref="hardy-unknown2">his
+								son</persRef>, who is under sentence of death, for desertion, from
+							the army, after having been once pardoned for the same offence. I took
+							the Letter to <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef>, who promised to have a Letter written to Harvie,
+							informing him that the sentence will not be executed, before the
+							President shall have seen and considered his Letter— It will not be
+							executed at all; but perhaps commuted. <persRef ref="obrien-richard"
+								>Captain O’Brien</persRef>, came and besieged me again with his old
+							Algerine claim; which was settled by <persRef ref="madison-james">M<hi
+									rend="superscript">r</hi> Madison</persRef> while Secretary of
+							State; and it avails me nothing to tell the old Jack-tar, slave-consul,
+							that I have no power to revise and set aside that settlement. He brought
+							me another budget of papers, to look at, through the Spy-glass, as he
+							expressed it— And seemed disappointed at my persisting to assure him
+							that Congress alone could provide for the further satisfaction of his
+							claim— I rode home from my Office— <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef> spent the
+							Evening abroad at <persRef ref="meigs-clara">M<hi rend="superscript"
+									>rs</hi> Meigs’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-27">
+					<head>27 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-27"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note></bibl>
+					<div type="docbody">
+						<p><date>27. IV:30.</date><persRef ref="wrifford-allison">M<hi
+									rend="superscript">r</hi> Wrifford</persRef> the teacher of
+							writing came this morning, with specimens of the improvement made by
+							some of his scholars in a course of twelve lessons, of which he had
+							certificates from <persRef ref="anderson-joseph">M<hi rend="superscript"
+									>r</hi> Anderson</persRef> the Comptroller and <persRef
+								ref="lee-william">William Lee</persRef>. He wished me to sign such a
+							certificate, which I declined. Sat again for my Portrait to <persRef
+								ref="king-charles2">M<hi rend="superscript">r</hi> King</persRef>—
+							Called at <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun’s</persRef> Office with two Letters, received, one
+							yesterday, the other this day from <persRef ref="gallatin-albert">A.
+								Gallatin</persRef>, shewing the prospect that the Treaty with Spain
+							will not be ratified. This Evening, with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs.</hi>
+								Adams</persRef> and <persRef ref="hellen-mary">Mary
+							Hellen</persRef>, I paid visits to <persRef ref="crawford-susanna">M<hi
+									rend="superscript">rs</hi> Crawford</persRef>, and afterwards to
+								<persRef ref="monroe-elizabeth">M<hi rend="superscript">rs</hi>
+								Monroe</persRef>. <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef> had gone to the
+							Theatre— <persRef ref="hay-george;hay-eliza" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Hay</persRef>, <persRef ref="monroe-maria">Maria Monroe</persRef>,
+							the <persRef key="monroe-james">President’s</persRef> youngest daughter,
+							and <persRef ref="hay-hortensia">M<hi rend="superscript">r</hi> Hay’s
+								daughter, Hortensia</persRef>, were there. M<hi rend="superscript"
+								>rs</hi> Hay had been quite ill— The Showers and Thunder have
+							scarcely yet cooled the atmosphere.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-28">
+					<head>28 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-28"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Commerce</note><note type="subject">Foreign Relations</note><note
+							type="subject">Privateering</note></bibl>
+					<div type="docbody">
+						<p><date>28. V:</date> Wading deeper and deeper into currency, coins and
+							exchange. At the Office, <persRef ref="obrien-richard">Captain
+								O’Brien</persRef> came with another budget of papers for my
+							examination— It is a great and painful effort to persevere in resistance
+							to the importunities of claimants and solicitors, without loss of
+							temper— O’Brien is an old Irishman, who was once Consul-General at
+							Algiers; chiefly because he had been nine or ten years a slave there. He
+							was a Master of a vessel, and is an exact copy of <persRef
+								ref="smollett-tobias">Smollett’s</persRef> novel Sailors. His
+							discourse is patched up entirely of Sea-phrases; and he prides himself
+							upon nothing so much as his language— Eleven years after having had all
+							his Accounts settled, he comes and advances claims to an amount little
+							less than 30 000 dollars, without the vestige of <pb type="ms" n="146"
+							/>of a new document to support them. He brings me bundle after bundle of
+							papers to read and examine and persists in spite of my assurance ten
+							times repeated that I have neither authority to revise his Accounts, nor
+							funds to provide for his claims. The great difficulty in such cases is
+							to preserve good humour, and it has its inconvenience too. For these
+							importunate people, take mildness for encouragement, and consume time
+							and Patience in proportion as they are endured. <persRef ref="adams-f"
+									>M<hi rend="superscript">r</hi> F. Adams</persRef> of
+							Alexandria, brought me a Letter from <persRef ref="cranch-william">Judge
+								Cranch</persRef>. He has been appointed Consul at Trieste; but now
+							applies for that of Marseilles, vacant by the recent Death, of <persRef
+								ref="cathalan-stephen">S. Cathalan</persRef>; and a better place—
+							The Candidates for it swarm of course— I received two packets of
+							despatches for <persRef ref="poletica-pierre">M<hi rend="superscript"
+									>r</hi> Poletica</persRef>, from a <persRef
+								ref="vermilye-unknown">Captain Vermilye</persRef> at New-York. He
+							brought them from Havre, and they have been broken open, and abused by
+							Pirates, who boarded and plundered the vessel on her passage— One of the
+							Packets was a Commission to <persRef ref="ivanoff-theodore">M<hi
+									rend="superscript">r</hi> Ivanoff</persRef> as Consul General of
+							Russia, in the Room of <persRef ref="kosloff-nicholas"
+							>Kosloff</persRef>— I sent them to Poletica, with Captain Vermilye’s
+							Letter. He came, and shewed me a despatch from <persRef
+								ref="nesselrode-karl">Count Nesselrode</persRef> dated in February,
+							containing piteous lamentations upon the change of Ministry in France,
+							and a warm panegyric upon the <persRef ref="richelieu-armand">Duke de
+								Richelieu</persRef> and he read me part of a private Letter from
+								<persRef ref="pozzodiborgo-carlo">Pozzo di Borgo</persRef>, dated
+							20. May, chiefly filled with speculations on French, German, Italian,
+							and Spanish politics— All disclosing the Russian view of things— I
+							shewed Poletica the correspondence between the ex-king of Sweden
+								<persRef ref="gustav-iv">Gustavus</persRef>, and the present
+								<persRef ref="charles-xivjohn">king Charles John</persRef>— <persRef
+								ref="forbes-john">Forbes</persRef> was at our house this Evening,
+							and with <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> and <persRef ref="hellen-mary">Mary
+								Hellen</persRef>, I passed part of it at <persRef
+								key="smith-william-steuben">W. S. Smith’s</persRef>. We had visits
+							from <persRef ref="smith-samuel;smith-margaret3" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> S.
+								H. Smith</persRef>; but M<hi rend="superscript">rs</hi> Adams being
+							out they did not stop.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-29">
+					<head>29 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-29"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">American
+							Revolution</note></bibl>
+					<div type="docbody">
+						<p><date>29. V:</date><persRef ref="wheaton-joseph">M<hi rend="superscript"
+									>r</hi> Joseph Wheaton</persRef> called upon me this Morning to
+							announce himself as a candidate for the Office of Register of Wills for
+							the County of Washington in this District, in the place of <persRef
+								ref="blake-james">Dr. James H. Blake</persRef>, who died yesterday.
+							He brought me a large bundle of recommendations, and urged very
+							earnestly his claims, as a revolutionary Officer of great Merit,
+							important services, and now distressed with poverty. After giving a
+							sitting to <persRef ref="king-charles2">King</persRef>, I went to the
+							Office, where <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef> immediately introduced to me a <persRef
+								ref="vandenbergh-hvs">M<hi rend="superscript">r</hi> Van den
+								Bergh</persRef> a young lawyer who has come from New-York, to
+							solicit the appointment of Consul at Marseilles— <persRef
+								ref="forbes-john">Forbes</persRef> says <persRef ref="noah-mordecai"
+								>M. M. Noah</persRef> has also an inclination for it. <persRef
+								ref="harrison-j">D<hi rend="superscript">r</hi> Harrison</persRef>
+							came with recommendations as a revolutionary Officer and a written
+							Application to be appointed Register of Wills— I received despatches
+							from <persRef ref="campbell-george">G. W. Campbell</persRef>, asking
+							permission to return to the United States upon a leave of absence.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> rode out this Evening. The day was
+							oppressively warm— I procured an old volume of Newspapers containing
+								<persRef ref="hamilton-alexander">A. Hamilton’s</persRef> Report on
+							the Mint.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-30">
+					<head>30 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-30"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Health
+							and Illness</note></bibl>
+					<div type="docbody">
+						<p><date>30. IV:</date> Read <persRef ref="hamilton-alexaader"
+								>Hamilton’s</persRef> Report upon the Mint. Found in it information
+							material to my enquiries. Called at <persRef ref="king-charles2"
+								>King’s</persRef>; but it was too late to sit. The heat was
+							oppressive. <persRef ref="fahrenheit-daniel">Fahrenheit</persRef> 88. I called to see <persRef
+								ref="forrest-richard">R. Forrest</persRef> who is ill in bed: much
+							alarmed and desponding. Fears it is a paralytic stroke, taken by
+							exposing himself one day last week to the heat of the Sun; great part of
+							the day. <persRef ref="poletica-pierre">Poletica</persRef> called at my
+							Office to thank me for some S<hi rend="superscript">t.</hi> Petersburg
+							Newspapers, which I sent him yesterday— After dinner I had a visit from
+								<persRef ref="lee-william">W. Lee</persRef>, with <persRef
+								ref="carey-mathew">Matthew Carey</persRef> from Philadelphia, who is
+							going to Philadelphia. We spent the Evening with a party at <persRef
+								ref="middleton-henry">M<hi rend="superscript">r</hi>
+								Middleton’s</persRef> at Kalorama.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-31">
+					<head>31 July 1819</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07-31"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Slavery</note></bibl>
+					<div type="docbody">
+						<p><date>31. V:15.</date> The heat was so extreme—(<persRef ref="fahrenheit-daniel">Fahrenheit</persRef> at 92) that I
+							rode to and from my Office. <persRef ref="mckeever-isaac">Captain
+								M’Kever</persRef> of the Navy came and made some enquiries, what
+							should be done with certain negroes more than one hundred in number,
+							taken at Pensacola, while it was in our possession, and now removed into
+							the Alabama Territory, or State. They were taken from American vessels;
+							but are claimed as Spanish property. I told him it must be referred to
+							the <persRef key="monroe-james">President</persRef> on his return—
+								<persRef ref="force-peter">Force</persRef> was at the Office
+							respecting the contract for printing the Laws of the next Session of
+							Congress— <persRef ref="thruston-charles">Young Thruston</persRef> to
+							solicit the appointment of Register of Wills; and <persRef
+								ref="mitchel-unknown">Mitchell jun<hi rend="superscript"
+								>r</hi></persRef>. about the affairs of <persRef
+								ref="robinson-william">W. D. Robinson</persRef>. My only occupation
+							at the Office was examining for the press, the manuscript of the
+							Journals of the old Congress and franking packages for the Post
+							Office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1819-07-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1819-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<!-- This is a summary entry without a date.-->
+						<p><date><hi rend="italic">Day.</hi></date> Differs little from the last Month.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

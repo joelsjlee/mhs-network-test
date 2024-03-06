@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1803-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="1" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v27-1803-02-p006.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1803-01-01" to="1803-01-31"/></bibl>
+
+				<!--D/JQA/27.1 January 1803-->
+
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-01">
+					<head>1 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="1"/>
+						<lg><l>Μαθητὴς προτέρȣ ὕϚερός εϚιν ὄρθρος.</l></lg>
+						<lg>
+							
+							<l>But you, with pleasure, own each error past,</l>
+							<l>And make each day, a Critic on the last.</l>
+						</lg>
+						<p>
+							<persRef ref="pope-alexander">Pope</persRef>.</p>
+						<dateline><hi rend="italic">January 1803.</hi></dateline>
+						<p><date>1. </date>Detained at home great part of the morning. Spent the
+							remainder of it at my Office— <persRef ref="dexter-richard"
+								>Dexter</persRef> came to town with a Chaise; and I went with him,
+							after dinner to Quincy. The roads extremely rough. <persRef
+								ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef> called at my Office in the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-02">
+					<head>2 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r:</hi> Whitney</persRef>— His afternoon
+							discourse was an annual sermon— Wrote a letter to my brother <persRef
+								ref="adams-thomas">Thomas</persRef>, and made a translation of the
+							first pages of <persRef ref="luzac-jean">M<hi rend="superscript">r:</hi>
+								Luzac’s</persRef> Oration de Socrate Cive— There is a translation,
+							which will not answer.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-03">
+					<head>3 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>A Snow-storm of extreme violence arose in the night, and
+							continued through the greatest part of this day, so that I did not
+							attempt to return home— Pass’d the day in the Office— The forenoon,
+							translating from <persRef ref="luzac-jean">Luzac’s</persRef> Socrates—
+							The afternoon and evening, reading <persRef ref="rousseau-john">J. B.
+								Rousseau</persRef>. Towards night it cleared away.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-04">
+					<head>4 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Return’d to Boston this morning in the Stage; with only
+							one companion part of the way. Had a meeting of the directors of
+							Neponset river Bridge, and agreed upon a petition to the General Court;—
+							to alter the place of the Bridge— <persRef ref="boylston-ward">M<hi
+									rend="superscript">r:</hi> Boylston</persRef> was at my Office—
+							Pass’d the evening at <persRef ref="gore-john">M<hi rend="superscript"
+									>r:</hi> J. Gore’s</persRef>, with a large company.— Play’d at
+							Cards, with <persRef ref="babcock-adam">M<hi rend="superscript">r:</hi>
+								Baboock</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								M’Lane</persRef>, and <persRef ref="green-gardner">M<hi
+									rend="superscript">r:</hi> G. Greene</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-05">
+					<head>5 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-05"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Went out to Dedham in a Chaise, to attend the Court of
+							Common Pleas which was to sit there; but found upon my arrival that the
+							Court had yesterday been adjourn’d to the 17<hi rend="superscript"
+								>th:</hi> by two Justices; no judge having yet been appointed in
+							stead of <persRef ref="everett-oliver2">M<hi rend="superscript">r:</hi>
+								Everett</persRef> who died a few days since— After sitting about an
+							hour with <persRef ref="townsend-horatio">M<hi rend="superscript"
+									>r:</hi> Townsend</persRef>, I return’d to Boston to dinner—
+							Much of the snow had disappeared in the interval. Rain towards Night.
+							Walking home, <persRef ref="hall-joseph">M<hi rend="superscript">r:</hi>
+								Hall</persRef> overtook me, and came with me. We play’d a couple of
+							games of chess.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-06">
+					<head>6 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Morrill</persRef> called at my Office— Petition for Incorporation of
+							the Trustees under <persRef ref="boylston-john2">John
+								Boylston’s</persRef> Will. We had a violent storm with rain all
+							night, and it rain’d the greater part of this day.— Clear’d in the
+							afternoon, and grew cold— Walk’d in the Mall, and then wrote at my
+							Office most of the Evening.— <persRef ref="smith-louisa">Louisa
+								Smith</persRef> who came to town last Saturday, and is with <persRef
+								ref="adams-louisa-catherine">us</persRef>, went this Evening, with
+								<persRef ref="smith-hannah">M<hi rend="superscript">rs:</hi>
+								Smith</persRef> to the Assembly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-07">
+					<head>7 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Court of Common-Pleas sat this forenoon; which I
+							attended— <persRef ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Pitts</persRef> called upon me. The afternoon I did not
+							leave home— In the Evening, we had a Company of about forty persons, who
+							danc’d, untill about Midnight— I danced myself the whole Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-08">
+					<head>8 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Our Company had been gone only a few minutes when there
+							was an alarm of fire; several shops burnt down— At four in the morning,
+							there was a second alarm at the same place; it was soon extinguish’d.
+							Day at my Office— In the afternoon I went out to Quincy with <persRef
+								ref="brackett-james">M<hi rend="superscript">r:</hi> James
+								Bracket</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-09">
+					<head>9 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="2" type="ms"/>
+						<p><date>9. </date>Day very cold— Heard <persRef ref="whitney-nicholas">M<hi
+									rend="superscript">r:</hi> Whitney</persRef> of Hingham: who
+							dined with <persRef ref="adams-louisa-catherine">us</persRef>. Wrote a
+							letter to <persRef ref="adams-thomas">my brother</persRef>, with an
+							enclosure— Engaged upon the <persRef ref="socrates">Socrates</persRef>;—but could not go through so much as I wish’d.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-10">
+					<head>10 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-10"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Science and Technology</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Return’d to Boston early this morning.— Dined with
+								<persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy</persRef>— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Dowse</persRef>, <persRef ref="dutton-warren">M<hi
+									rend="superscript">r:</hi> Dutton</persRef>, <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Wells</persRef>, and <persRef
+								ref="vose-solomon">M<hi rend="superscript">r:</hi> Vose</persRef>,
+							Quincy’s classmate were there— In the evening Quincy, <persRef
+								ref="jackson-james3">D<hi rend="superscript">r:</hi>
+								Jackson</persRef> and myself attended at the Society’s chamber and
+							attempted some chemical experiments— We made some oxygen gas, from
+							manganese; and broke one of our bottles, in the process— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> and the <persRef ref="frye-carolina;smith-louisa"
+								>ladies</persRef> spent the evening at <persRef ref="millar-c">M<hi
+									rend="superscript">rs:</hi> C. Millar’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-11">
+					<head>11 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>Court of Common Pleas sitting; and I attended— Had a
+							meeting of the directors of Neponset river bridge— Calls from various
+							persons upon business— In the Evening, <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> had a party of ladies at home— <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Codman</persRef>, <persRef
+								ref="otis-sally">M<hi rend="superscript">rs:</hi> Otis</persRef>,
+								<persRef ref="smith-hannah">M<hi rend="superscript">rs:</hi>
+								Smith</persRef>, <persRef ref="gardner-sarah">M<hi
+									rend="superscript">rs:</hi> Gardner</persRef>, <persRef
+								ref="storer-susan;storer-hannah2;storer-anna">Miss
+							Storer’s</persRef>, <persRef ref="bailey-charlotte">Charlotte
+								Welsh</persRef> &amp;c.— <persRef ref="hall-joseph">Hall</persRef>
+							was at my Office this afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-12">
+					<head>12 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>This is the day to which the Legislature of the
+							Commonwealth was adjourned.— I attended at the Senate chamber, both
+							morning and afternoon; but there were not members enough to form a
+							quorum— The house made one in the afternoon— At my Office writing for a
+							couple of hours— In the evening, attended the club at <persRef
+								ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson’s</persRef>— <persRef ref="davis-john">Judge Davis</persRef>
+							also held a District Court in the forenoon; and postponed it to the
+								26<hi rend="superscript">th:</hi> for evidence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-13">
+					<head>13 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-13"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>Attended at the Court of Common Pleas, and in the
+							Senate, who just made out to form a quorum— Sent a joint Committee to
+							inform the <persRef ref="strong-caleb">Governor</persRef>, who answered
+							he would meet the two houses to-morrow at 12. o’clock. Voted to chuse at
+							11. to-morrow morning, a chaplain instead of <persRef
+								ref="thacher-peter">D<hi rend="superscript">r:</hi>
+								Thacher</persRef>, who died since the last Session. I put <persRef
+								ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef> in nomination— This afternoon I presented a
+							petition from the Directors of the Neponset Bridge, for altering the
+							place where it is to be built— Joint-Committee— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Coffin</persRef> and <persRef
+								ref="thompson-isaac">M<hi rend="superscript">r:</hi>
+								Thompson</persRef> of the Senate— Presented also the petition of the
+							Trustees and Executor of <persRef ref="boylston-john2">John
+								Boylston’s</persRef> Will, to be incorporated, with the overseers of
+							the poor for the town of Boston— Joint Committee— Myself on the part of
+							the Senate— Both houses agreed to have but one session a day; and to
+							injoin upon all the Committees to sit in the afternoon. Went to the Ball
+							this Evening— Danced with <persRef ref="thompson-sarah3">Countess
+								Rumford</persRef>, <persRef ref="otis-sally">M<hi rend="superscript"
+									>rs:</hi> Otis</persRef> and <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Jon<hi rend="superscript">n:</hi>
+								Davis</persRef>— Play’d whist about half an hour with <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Crafts</persRef>, <persRef
+								ref="cobb-david">M<hi rend="superscript">r:</hi> Cobb</persRef> and
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Joy</persRef>.—
+							Took <persRef ref="u">Miss Morton</persRef> home— It was past one in the
+							morning before we got home ourselves— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, <persRef ref="smith-louisa">Louisa Smith</persRef>
+							and <persRef ref="frye-carolina">Caroline</persRef>, all went.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-14">
+					<head>14 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Attended at the Senate— The <persRef ref="strong-caleb"
+								>Governor</persRef> made his speech at 12 o’clock— Committed in the
+							Senate, to <persRef ref="tudor-william">M<hi rend="superscript">r:</hi>
+								Tudor</persRef>, <persRef ref="hill-aaron">D<hi rend="superscript"
+									>r:</hi> Hill</persRef> and myself to draw up the answer— We
+							agreed that the chairman, M<hi rend="superscript">r:</hi> Tudor should
+							draw it up.— At 11. o’clock the chaplain was chosen. The votes were 17.—
+								<persRef ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef> had 10. <persRef ref="baldwin-thomas">M<hi
+									rend="superscript">r:</hi> Baldwin</persRef> 6 and <persRef
+								ref="stillman-samuel">D<hi rend="superscript">r:</hi>
+								Stillman</persRef> 1. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Coffin</persRef> and myself were chosen a Committee to
+							inform M<hi rend="superscript">r:</hi> Emerson of his election— Which we
+							did immediately after the Senate rose.— It rain’d and storm’d so much
+							the whole afternoon and evening that I did not leave my house. Our
+							Society was to have met this evening.— <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef> went out to Quincy
+							with <persRef ref="u">M<hi rend="superscript">r:</hi> Welles</persRef>,
+							and return’d this Evening— <persRef ref="smith-louisa">Louisa
+								Smith</persRef> left <persRef ref="adams-louisa-catherine"
+								>us</persRef> this day, and went to spend some days with <persRef
+								ref="smith-hannah">M<hi rend="superscript">rs:</hi>
+							Smith</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-15">
+					<head>15 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="3" type="ms"/>
+						<p><date>15. </date>Attended at the Senate this morning— No object of
+							material consequence was brought before them. met the Committee on the
+							petition for incorporation, of <persRef ref="boylston-john2">John
+								Boylston’s</persRef> trustees— They desired me to draw a bill—
+								<persRef ref="brooks-peter">M<hi rend="superscript">r:</hi> P. C.
+								Brooks</persRef> was at my Office— After dinner, I went with
+								<persRef ref="adams-louisa-catherine">my wife</persRef> and <persRef
+								ref="adams-george">child</persRef>, and <persRef ref="frye-carolina"
+								>Caroline</persRef>, to Quincy— In the evening we saw the blaze of a
+							great fire at Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-16">
+					<head>16 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r:</hi> Whitney</persRef>. Continued the
+							translation of <persRef ref="luzac-jean">Luzac’s</persRef> Oration de
+							Socrate Cive— And to vary the employment with a little pleasantry,
+							translated <persRef ref="fontenelle-bernard">Fontenelle’s</persRef>
+							Sonnet of <persRef ref="apollo">Apollo</persRef> and <persRef
+								ref="daphne">Daphne</persRef>; which I found in La Harpe.— Read part
+							of <persRef ref="milton-john">Milton’s</persRef> Paradise regained.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-17">
+					<head>17 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Curtis</persRef> and <persRef ref="brackett-james">M<hi
+									rend="superscript">r:</hi> Bracket</persRef> called on me before
+							I left Quincy— We all return’d to Boston this forenoon. I attended at
+							the Senate, but no quorum was formed— Dined at <persRef
+								ref="davis-jonathan">M<hi rend="superscript">r:</hi> Jonathan
+								Davis’s</persRef>; with a small company of Gentlemen— Spent the
+							Evening at home, reading part of <persRef ref="shakespeare-william"
+								>Shakespear’s</persRef> tempest to the <persRef
+								ref="adams-louisa-catherine;frye-carolina">Ladies</persRef>— After
+							we went to bed, and just before midnight, there was an alarm of fire— I
+							went to it, and remained there untill it was subdued— An house, shop and
+							store close upon Winisimet ferry were burnt down— At about half past one
+							in the morning I return’d home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-18">
+					<head>18 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Rose late, and attended the Senate— We have two or three
+							members additional to those who were here last week. The answer to the
+								<persRef ref="strong-caleb">Governor’s</persRef> speech, drawn up by
+								<persRef ref="tudor-william">M<hi rend="superscript">r:</hi>
+								Tudor</persRef> was reported, adopted, and by the same Committee
+							appointed to draw it up, delivered to him— Several persons called at my
+							Office, after the adjournment— I pass’d the afternoon, and part of the
+							evening there— Call’d at <persRef ref="brooks-peter">M<hi
+									rend="superscript">r:</hi> Brookes’s</persRef> Office in the
+							afternoon— <persRef ref="lloyd-james">M<hi rend="superscript">r:</hi>
+								James Lloyd</persRef> brought me a subscription paper for a new bank
+							in this town— I declined subscribing as being a member of the
+							Legislature.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-19">
+					<head>19 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>There was little business done, and none of consequence
+							in the Senate this day. The afternoon I spent at my Office— Evening at
+							the club at <persRef ref="kirkland-john">D<hi rend="superscript">r:</hi>
+								Kirkland’s</persRef>.— <persRef ref="henry">Henry</persRef> out this
+							night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-20">
+					<head>20 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Applied to <persRef ref="bourne-shearjashub">Justice
+								Bourne</persRef> for a writ— But <persRef ref="henry"
+								>Henry</persRef> returned this forenoon. In the Senate little
+							business was transacted, except references to Committees— In the
+							afternoon I went to the Senate chamber, but the Committee which I was to
+							attend had adjourn’d— Spent the evening at my Office, writing— Dined at
+								<persRef ref="crafts-w">M<hi rend="superscript">r:</hi> W.
+								Crafts’s</persRef> with a small company of gentlemen.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-21">
+					<head>21 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-21"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="frye-carolina">Caroline</persRef> has been
+							some days unwell— The business in Senate begins to be more important.
+							The applications for Banks and Insurance Companies are commencing— This
+							forenoon an alarm of fire near my own house called me out— It was at
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Sumner’s</persRef>
+							Office; but was extinguish’d before it had done much damage— Dined with
+								<persRef ref="allen-jeremiah">Sheriff Allen</persRef>, and nine or
+							ten Gentlemen— At four in the afternoon I attended at Faneuil Hall; at a
+							meeting of the town’s Committee for negotiating with the Legislature for
+							their right in the old State-House— We agreed upon an alternative of two
+							proposals to make them, and chose a Sub-committee to treat with the
+							Committee from the General Court— At 6. I met with the Committee of both
+							houses upon two applications for new Banks; one in Boston, and one at
+							Newbury-Port— Heard them and their Counsel until 9 o’clock— <persRef
+								ref="parsons-theophilus">M<hi rend="superscript">r:</hi>
+								Parsons</persRef> attended— I passed the remainder of the evening
+							with the Society for the Study of Natural Philosophy; from whose last
+							two meetings I had been detained— Sold <persRef ref="adams-john">my
+								father’s</persRef> six per Cents and deferr’d Stock, and purchased
+							for him some shares in the fire and marine insurance Company.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-22">
+					<head>22 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="4" type="ms"/>
+						<p><date>22. </date>No business of material consequence in the Senate this
+							forenoon— Adjourned to 11. o’clock Monday Morning.— At one o’clock I
+							went to <persRef ref="whitcomb-tilly">Whitcomb’s</persRef>, where
+								<persRef ref="whitcomb-catherine">his child</persRef>, a daughter,
+							born the 23<hi rend="superscript">d:</hi> of last month, was baptized by
+								<persRef ref="parker-samuel2">D<hi rend="superscript">r:</hi>
+								Parker</persRef>, by the name of Catherine Louisa— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> and myself stood as sponsors.— Spent the afternoon,
+							and principal part of the Evening at my Office, writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-23">
+					<head>23 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>Heard <persRef ref="allen-jonathan">M<hi
+									rend="superscript">r:</hi> Allen</persRef> this morning, and
+								<persRef ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef> in the afternoon— After the service the members of
+							the Society were detained to vote for joining in a petition with the
+							Brattle-Street church, for a removal of the restraint limiting the power
+							of taxation upon pews to two shillings by the week. The standing
+							Committee were chosen agents for the purpose— Walk’d in the Mall towards
+							evening. Call’d at <persRef ref="babcock-adam">M<hi rend="superscript"
+									>r:</hi> Babcock’s</persRef>, but did not find him at home— At
+								<persRef ref="smith-william3">M<hi rend="superscript">r:</hi>
+								Smith’s</persRef> and shew’d him the Act of Incorporation I have
+							drawn up for the Trustees of the Boylston donations— Call’d at the
+							post-office— Rest of the Evening at home— <persRef ref="hall-joseph"
+									>M<hi rend="superscript">r:</hi> Hall</persRef>, came with
+								<persRef ref="greene-benjamin3">M<hi rend="superscript">r:</hi> B.
+								Greene jun<hi rend="superscript">r:</hi></persRef> to my house this
+							morning; and with <persRef ref="wells-john">M<hi rend="superscript"
+									>r:</hi> John Welles</persRef> again at noon; upon the business
+							of a new petition for an Insurance Company.— Just before dinner,
+								<persRef ref="frye-carolina">Caroline</persRef> came down from her
+							chamber, and called me to look at the hearth, from the corners of which
+							smoke was continually issuing— I had the stones and bricks of the hearth
+							immediately taken up, and found a large beam crossing under the hearth,
+							on fire, and burnt more than half through. We extinguished it
+							immediately; and I sent for a mason to come to-morrow and alter the
+							hearth.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-24">
+					<head>24 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Had our chimnies alter’d— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> and <persRef ref="frye-carolina">Caroline</persRef>
+							spent the Evening at <persRef ref="gray-sarah">Miss Gray’s</persRef>;
+							but I was so much engaged in business that I could not go. All the
+							forenoon in the Senate; the serious business is just commencing.
+							Reported from the Committee on petition of <persRef ref="boylston-john2"
+								>J. Boylston’s</persRef> Trustees; that they have leave to bring in
+							a bill. Report accepted, and the bill read the first time— Presented the
+							petition for a new Insurance Company.— Read and Committed— The <persRef
+								ref="sullivan-james2">Attorney General</persRef> and <persRef
+								ref="joy-john">M<hi rend="superscript">r:</hi> J. Joy</persRef> gave
+							<persRef ref="tudor-william">M<hi rend="superscript">r:</hi>
+								Tudor</persRef> and me a petition from the President and Directors
+							of the Middlesex Canal Company, with a bill drawn up to be presented—
+							Moved for a Committee to enquire into the expediency of the
+							Commonwealth’s subscribing and paying in 200,000 Dollars more to the
+							Union Bank—and to provide for the means— Committee raised— <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Coffin</persRef> moved for a
+							Committee to consider the expediency of making application to the
+							Congress of Union for the liberty to transfer part of their Stock in the
+							funds, to pay off the State debt— Committee raised— At 1/2 past 3 p.m.
+							met the Committee raised to consider the expediency of prohibiting
+							horse-racing— Agreed <persRef ref="bidwell-barnabas">M<hi
+									rend="superscript">r:</hi> Bidwell</persRef> should draw up a
+							bill— At 4. o’clock met the Committee on the bill pass’d by the house
+							for incorporating a new Marine Insurance Company.— <persRef
+								ref="gardner-samuel">M<hi rend="superscript">r:</hi> S. P.
+								Gardner</persRef> and <persRef ref="lee-nathaniel2">M<hi
+									rend="superscript">r:</hi> N. Lee</persRef> came before the
+							Committee and argued their cause— The Committee agreed to many
+							alterations in the bill, which I am to draw up and report to morrow— We
+							were kept untill almost 8 o’clock, and I pass’d the remainder of the
+							Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-25">
+					<head>25 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Drew up this morning the alterations proposed in the
+							Bill for establishing a new Insurance Company, for the consideration of
+							the Committee— Other petitions of the same kind were presented and
+							committed. A good deal of private business was dispatched, but none of
+							public nature. Met at 1/2 past three the Committee on the expediency of
+							publishing the private Statutes, and agreed upon a report— At four the
+							Committee on the Insurance bill met and discussed the alterations <pb
+								n="5" type="ms"/>I had drawn up— They directed me to prepare a new
+							copy of them, as finally agreed upon to be reported to-morrow— It was
+							almost 8 in the evening when we adjourned— I went to my Office, and
+							wrote untill 9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-26">
+					<head>26 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date><persRef ref="brackett-james">M<hi rend="superscript"
+									>r:</hi> Bracket</persRef> called on me to attend the District
+							Court for him, which I did— The business was adjourned over untill the
+							day after to-morrow— Attended at the Senate— Our alterations of the
+							Insurance Company bill were reported; but other business engaged the
+							time and the consideration of them was postponed untill to’morrow
+							morning, at 10. There was a meeting of the Academy which I could attend
+							only for a few minutes— <persRef ref="adams-john">My father</persRef>,
+								<persRef ref="tufts-cotton2">D<hi rend="superscript">r:</hi>
+								Tufts</persRef> and <persRef ref="pickman-benjamin">M<hi
+									rend="superscript">r:</hi> Pickman</persRef> dined with us—
+								<persRef ref="frye-carolina">Caroline</persRef>, confined to her
+							chamber— In the afternoon I attended the Committees of the town of
+							Boston and of the General Court relative to the Old State House— We made
+							our proposals for the consideration of the Committee from the
+							Legislature, but came to no conclusion—The Committee on the proposed
+							subscription to the Banks met and after some conversation agreed to
+							notify the Directors of the Union Bank, and meet again to-morrow at 4.
+							o’clock— The Committee on the application for a Bank at Northampton met
+							at 6 and heard the applicants and their Counsel— Between 7 and 8 we
+							adjourned. Remainder of the evening at the club at <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy’s</persRef>— <persRef ref="stedman-william">M<hi
+									rend="superscript">r:</hi> Stedman</persRef> there— <persRef
+								ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef> told me I was reported to be in opposition to the
+							new Insurance Company; and that I had no conception how <hi
+								rend="italic">unpopular</hi> my opposition is— Had some conversation
+							with <persRef ref="wells-john">J. Welles</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-27">
+					<head>27 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>The Insurance Company bill was debated at the second
+							reading, and the amendment proposed by the Committee to provide for a
+							general subscription, <hi rend="strikethrough">provided for</hi>
+							rejected by a large majority— The Senate then adjourned without
+							discussing the remainder of the bill— At half past twelve, the Senate
+							attended in the Council Chamber, at a meeting of the Overseers of
+							Harvard College, where by an unanimous vote they concurred in the
+							nomination of <persRef ref="davis-john">John Davis</persRef>, as a
+							member of the Corporation— In the afternoon at 1/2 past 3. I met the
+							joint Committee on the petition of <persRef ref="simpson-jonathan2"
+								>Jonathan Simpson</persRef>— He appeared and produced his note— But
+							the Committee came to no determination upon the subject— At 4. Met with
+							the Joint Committee, and the Directors of the Union-Bank, on the subject
+							of a subscription to that Bank— Conversed with them, and afterwards in
+							Committee, untill between 7. and 8 in the evening; then adjourned
+							without deciding on a report— Rest of the Evening at my Office,
+							writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-28">
+					<head>28 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Part of the morning I was engaged in the Senate, and the
+							remainder in the Admiralty Court, before <persRef ref="davis-john">Judge
+								Davis</persRef>, on <persRef ref="brackett-james">Captain
+								Bracket’s</persRef> business. The libel against his vessel was
+							discharg’d— An Act past both houses to postpone the sitting of the
+							Supreme Court in the County of Suffolk, from the second to the last
+							Tuesday in February, and for the County of Norfolk from next week untill
+							the last Tuesday in March. The bill for prohibiting horse-races was read
+							the first time; and one or two turn-pike bills— I dined at <persRef
+								ref="wells-john">M<hi rend="superscript">r:</hi> John
+								Welles’s</persRef> with a company of fifteen Gentlemen— Spent the
+							Evening with the Society, where I read a synopsis of the 9<hi
+								rend="superscript">th:</hi> 10<hi rend="superscript">th:</hi> and
+								11<hi rend="superscript">th:</hi> chapters of <persRef
+								ref="lavoisier-antoine">Lavoisier</persRef>— Our meeting was small.—
+								<persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> and <persRef ref="frye-carolina"
+								>Caroline</persRef> spent the evening at <persRef
+								ref="greene-elizabeth">M<hi rend="superscript">rs:</hi> Gardner
+								Greene’s</persRef>, with a very large company. I was there a few
+							minutes at the close of the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-29">
+					<head>29 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="6" type="ms"/>
+						<p><date>29. </date>A vote was pass’d in Senate this forenoon to concur with
+							the house in raising a Committee for an address to remove <persRef
+								ref="sargent-paul">P. D. Sargent</persRef> and<space/><persRef
+								ref="vinal-william">Vinall</persRef> from the offices of Justices of
+							the Sessions and Common Pleas in the County of Hancock— It was an
+							impeachable offence which occasioned this measure— And I thought the
+							mode of proceeding by Address, especially without giving the parties an
+							opportunity to be heard, was improper. The numbers on taking the vote
+							were 13 and 10— After the adjournment, <persRef ref="boylston-ward">M<hi
+									rend="superscript">r:</hi> Boylston</persRef> called at my
+							Office. I went out to Quincy, early after dinner, in the Chaise.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-30">
+					<head>30 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Heard <persRef ref="ware-henry">M<hi rend="superscript"
+									>r:</hi> Ware</persRef>—who dined with us. It snow’d part of the
+							day, and then turn’d to rain— In the evening it grew cold again— Spent
+							the principal part of the day at the Office, reading and writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-31">
+					<head>31 January 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Return’d to Boston this morning— <persRef
+								ref="smith-louisa">Louisa Smith</persRef> came into town likewise;
+							and we took <persRef ref="adams-susanna4">Susan</persRef> to her school,
+							at Milton— Town-meeting called to reconsider a vote pass’d last week for
+							petitioning the legislature for a Law, that all buildings more than ten
+							feet high, should henceforth be erected entirely of brick— The vote was
+							confirmed— I did not get to town soon enough to attend the meeting— Nor
+							untill the Senate had adjourned— This afternoon I attended a couple of
+							hours at the Committee Room, on the petition from the two Churches in
+							Boston— Spent the Evening at my Office— <persRef ref="frye-carolina"
+								>Caroline</persRef> went this afternoon to Roxbury to spend some
+							days with <persRef ref="dexter-catherine">M<hi rend="superscript"
+									>rs:</hi> Dexter</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-01-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day—</hi></date> Rise irregularly from 6 to 8
+							o’clock. Read or write at home untill 1/2 past nine. Breakfast— Attend
+							the Senate untill two— Return to Dinner— At 1/2 past 3 again attend the
+							Committees untill 7, 8, &amp; 9. in the evening— When I have leisure in
+							the afternoon or evening, I pass it at my Office, writing. But I
+							continue generally to spend two evenings in the week at Quincy, one at
+							Club, one at the Society, and upon an average, one at the Ball, or in
+							Company— All my time is employed.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

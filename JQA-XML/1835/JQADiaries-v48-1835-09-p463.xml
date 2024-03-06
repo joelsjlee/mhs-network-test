@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v48-1835-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="463" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v48-1835-10-p475.xml" mhs:volume="48">
+				<bibl n="metadata"><date from="1835-09-14" to="1835-09-30"/></bibl>
+
+				<!-- D/JQA/48 September 1835 Robert Huberty -->
+				<!-- NB: this file contains entries for 14 to 25, and 29 to 30 September -->
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-14">
+					<head>14 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					
+					</bibl>
+					<div type="docbody">
+						<pb n="463"/>
+						<dateline>Monday 14. September 1835</dateline>
+						<p>At half past seven O’Clock this morning the Stage from Boston to Plymouth
+							stop’d at my door in Quincy— <persRef ref="davis-isaac">M<hi
+									rend="superscript">r</hi> Isaac P. Davis</persRef> and <persRef
+								ref="brooks-peter">M<hi rend="superscript">r</hi> Peter C.
+								Brooks</persRef> were in it—my Son <persRef key="adams-charles2"
+								>Charles</persRef> and I immediately joined them, and the Stage
+							proceeded to Plymouth where we arrived at 1/2 past12 at Noon— We came
+							through Hingham, Scituate, Hanover 4. Corners, Pembroke Duxbury and
+							Kingston— There were three women in the Stage, one of them with a child
+							under two years old, very quiet— She left the Stage at Scituate and one
+							of the other women at Kingston— There were also three other men in the
+							Stage who were and remained strangers to us— There is comparatively very
+							little improvement of the Country from Hingham to Plymouth— The
+							appearance of it is however pleasing—the Season has been fine and the
+							verdure is yet upon the fields and upon the trees— Indian corn, and
+							apple Orchards just ripening— Groves of pitchpine trees with sapling
+							black Oaks mark the approach to Plymouth— We stop’d at <persRef ref="u"
+									>M<hi rend="superscript">rs</hi> Nicholson’s</persRef>, where we
+							met several Gentlemen boarders— Before and after dinner we had several
+								visitors—<persRef ref="davis-thomas2">M<hi rend="superscript">r</hi>
+								Thomas</persRef> and <persRef ref="davis-joseph">Joseph Morton
+								Davis</persRef>, <persRef ref="u">M<hi rend="superscript">r</hi>
+									Russell</persRef> and <persRef ref="u">his Son</persRef>—<persRef ref="bartlett-zacheus">D<hi
+										rend="superscript">r.</hi> Zaccheus Bartlett</persRef>—A <persRef ref="u">Son</persRef> of <persRef ref="thomas-joshua">judge Thomas</persRef>
+							at whose house I lodged in 1802 <persRef ref="hayward-nathan">D<hi rend="superscript">r</hi> Heyward</persRef>
+							<persRef ref="thacher-james">D<hi rend="superscript">r</hi> Thacher</persRef>—<persRef ref="u">M<hi rend="superscript"
+								>r</hi> Russell</persRef> a member of the House of Representatives and <persRef ref="hedge-isaac">Isaac
+							Lothrop Hedge</persRef> one of the Senators of the County— We visited the registry
+							of Deeds and saw the records of the first settlement in 1620— The town
+							Hall and the enclosed fragment of the primitive rock— The remainder of
+							the rock on the wharf—the New Meeting house of <persRef ref="kendall-james">D<hi rend="superscript"
+								>r</hi> Kendall</persRef>—and grave yard on the brow of the Hill— We had
+							visitors again in the Evening—some of whom left us to attend the wedding
+							of <persRef ref="emerson-ralph">Ralph Waldo Emerson</persRef> with <persRef ref="emerson-lydia">Miss Jackson</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-15">
+					<head>15 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="464" type="ms"/>
+						<p><date>15. <unclear>VI</unclear>:5. </date>Tuesday—rose with the Sun—
+							Visits from <persRef ref="kendall-james">D<hi rend="superscript">r</hi> Kendall</persRef>, <persRef ref="warren-winslow2">D<hi
+								rend="superscript">r</hi> Winslow Warren</persRef>, and several of our
+							yesterday’s visitors again— We ordered our baggage to be sent on by the
+							Stage to Sandwich, and after breakfast went in a barouche and pair to
+							Manomet Pond—to a House kept by a man named <persRef ref="u">Holmes</persRef>— Thence <persRef key="adams-charles2">Charles</persRef> and I
+							with <persRef ref="davis-joseph">M<hi rend="superscript">r</hi> Morton Davis</persRef> and <persRef ref="hedge-charles">M<hi
+								rend="superscript">r</hi> Charles Hedge</persRef> went out in a small boat and
+							caught a few fish I caught myself two Cod; but the tide was low and a
+							heavy surf though with fine weather— We dined at Holmes’s—<persRef ref="thacher-james">D<hi
+								rend="superscript">r.</hi> Thacher</persRef> 82. <persRef ref="hayward-nathan">D<hi rend="superscript"
+								>r</hi> Heyward</persRef> <persRef ref="u">M<hi rend="superscript">r</hi> Russell</persRef> and <persRef ref="u">his
+									Son</persRef>—<persRef ref="davis-thomas2">Thomas</persRef> and Morton Davis and Charles Hedges dined there with us— At
+							4. P.M. we took the Barouche and came 12 1/2 miles to Sandwich, chiefly
+							through Pine woods and Sands— At<space/>house in Sandwich we meet <persRef ref="walker-james">M<hi
+								rend="superscript">r</hi> Walker</persRef> the Minister of Charlestown and
+							<persRef ref="walker-catherine">M<hi rend="superscript">rs</hi> Walker</persRef>— He said he was going upon a
+							mission to the Marshpee tribe of Indians— <persRef ref="hayward-joshua;hayward-sarah">M<hi rend="superscript">r</hi>
+							and M<hi rend="superscript">rs</hi> Heyward</persRef> the latter a beautiful
+							daughter of <persRef ref="mclean-john2">Judge M’lean</persRef> of the U.S. Supreme Court <persRef ref="emmons-john">M<hi
+								rend="superscript">r</hi> Emmons</persRef> and <persRef ref="king-jerusha">M<hi rend="superscript">rs</hi>
+									Gedney King</persRef> and <persRef ref="king-gedney">M<hi rend="superscript">r</hi> King</persRef>— All persons from
+							Boston who come to pass a week or weeks here in pursuit of amusement or
+							of health We spent the Evening with this party—by the side of a good
+							fire which we have needed both last Evening and this— Since I left home
+							yesterday morning I had found no opportunity to write till now, and I
+							availed myself of a comfortable bed-chamber to write a short Letter to
+							<persRef key="adams-louisa-catherine">my wife</persRef>, and also the preceding and this page. I sought for the Comet,
+							but in vain.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-16">
+					<head>16 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Commerce</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="465" type="ms"/>
+						<p><date>16. VI. </date>Wednesday— From Sandwich to Woodville Falmouth</p>
+						<p>My late hours last Night delayed my rising, till with the Sun We
+							breakfasted at Seven, and <persRef ref="king-gedney;king-jerusha">M<hi rend="superscript">r</hi> and M<hi
+								rend="superscript">rs</hi> King</persRef> immediately after departed in the
+							Stage for Boston— <persRef ref="brooks-peter">M<hi rend="superscript">r</hi> Brooks</persRef>, <persRef ref="davis-isaac">M<hi
+								rend="superscript">r</hi> Davis</persRef> <persRef key="adams-charles2">Charles</persRef> and I went in our Barouche
+							to the old village of Sandwich where I had been once in my life
+							before—that is in April 1787. 48 years have since passed away, but we
+							passed by the House where old <persRef ref="freeman-nathaniel2">General Freeman</persRef> then resided, and the new
+							Meeting House on the spot where the old one stood in which we saw our
+							Tutor <persRef ref="burr-jonathan">Jonathan Burr</persRef> ordained— The Pond, the Brook and the Waterfall are
+							still there with all their lively remembrances, but there is now,
+							besides a very extensive glasshouse establishment, belonging to <persRef ref="jarves-deming">M<hi
+								rend="superscript">r</hi> Deming Jarves</persRef>, which we now visited, and
+							over every part of which we went— It is far less extensive than that of
+							<persRef ref="dyott-thomas">D<hi rend="superscript">r</hi> Dyott</persRef>, at Kensington near
+							Philadelphia; but there are here 350. workmen and boys employed at wages
+							from 9 to 25 dollars a week—and they not only make here the same sort of
+							pressed glass which I had seen made there, but M<hi rend="superscript"
+								>r</hi> Jarves claims to be the inventor of it and that it was first
+							made here. We returned and dined at <persRef ref="u">Hinckley’s</persRef> tavern with the company
+							we had left there, and with the addition of <persRef ref="merrick-john">M<hi rend="superscript"
+								>r</hi> Merrick</persRef> the Minister of the Parish where M<hi
+									rend="superscript">r</hi> Burr had been settled— <persRef ref="emmons-john">M<hi
+								rend="superscript">r</hi> Emmons</persRef> had been out to hunt Deer, but lost
+							his dog and returned without game— At half-past two we took again to the
+							Barouche, and came across Cape Cod, through Falmouth, to Wood’s Hole, or
+							Woodville. At North Falmouth, we had some conversation with the
+							<persRef ref="nye-ebenezer">Postmaster Nye</persRef>— At half past 6, we arrived at the tavern kept by <persRef ref="webster-j">J.
+							Webster</persRef> and sent for <persRef ref="u">an old Sea Captain Hatch</persRef> who came and agreed to go
+							out with M<hi rend="superscript">r</hi> Davis and me early tomorrow
+							Morning to fish for the Tautaug or Black fish, and the Scuphaug or White
+							fish— There is now no company at Woodville; but it is a Summer resort
+							for valetudenarians from Boston, and M<hi rend="superscript">r</hi>
+							Brooks’s son <persRef ref="brooks-edward">Edward</persRef> with <persRef ref="sturgis-william">William Sturgis</persRef> and their families were some
+							weeks here during the late Summer Season.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-17">
+					<head>17 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Steam Power</subject>
+						<subject>Colonization Movements</subject>
+						<subject>Press</subject>
+						<subject>Anti-Slavery Movements</subject>
+						<subject>Science and Technology</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="466" type="ms"/>
+						<p><date>17. V. </date>Thursday.— From Woodville to Nantucket—</p>
+						<p>I rose at 5. O’Clock, and <persRef ref="davis-isaac">M<hi rend="superscript">r</hi> Davis</persRef> and I went
+							out with <persRef ref="u">Captain Hatch</persRef> in a fishing boat into Martha’s vineyard Sound,
+							to fish for Tautaug and Scuphaug—otherwise called Black fish and white
+							fish— We caught 8 or ten of the first and one of the latter which
+							resembles a large silver fish. But our time was limited— I caught only
+							one large Tautaug, and at a quarter past 9 we were obliged to return to
+							Woodville. We breakfasted at <persRef ref="webster-j">Webster’s</persRef> Tavern, and at 10 O’Clock the
+							Steamer Telegraph <persRef ref="barker-nathaniel">Captain Nathaniel Barker</persRef> touched at the wharf and took
+							us in— We dined on board the Boat, and arrived at 20 minutes past 2 at
+							the Island and Town of Nantucket— We had on board the boat ten or twelve
+							fellow passengers among whom was a <persRef ref="u">methodist Minister named Lindsey</persRef>, who
+							gave me <persRef ref="fisk-willbur">D<hi rend="superscript">r</hi> Wilbur Fiske’s</persRef> inaugural address
+							as President of the Wesleyan University at Middletown Connecticut—21.
+								Sept<hi rend="superscript">r.</hi> 1831—An Address of the same D<hi
+								rend="superscript">r.</hi> Fisk to the Middletown Colonization
+							Society 4. July 1835—and a Zion’s Herald extra—upon Slavery and against
+							the abolitionists— At Nantucket we took lodgings at <persRef ref="u">Starbuck’s</persRef> Hotel,
+							where we found <persRef ref="silliman-benjamin">Professor Silliman</persRef> and <persRef ref="silliman-benjamin2">his Son</persRef>, and <persRef ref="paine-robert3">Robert Treat Paine</persRef>
+							who is here engaged in Astronomical observations for the geodesical map
+							of the State— Professor Silliman is delivering a course of Lectures on
+							Geology— Numbers of the Citizens of the Island visited us in the
+							afternoon, among whom <persRef ref="u">M<hi rend="superscript">r</hi> Bunker</persRef> of the
+							Committee of Arrangements upon the delivery of Professor Silliman’s
+							Lectures, who invited us to attend one of them this Evening which we
+							did—from 7 till near 9 O’Clock— It was at the Town Hall— There was a
+							full auditory of at least 300 persons—men and women, all neatly dress’d—
+							The Lecture was on the primary formations of the earth, and the remains
+							of gigantic animals chiefly of the Saurian, Lizard or Crocodile
+							kind—</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-18">
+					<head>18 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Commerce</subject>
+						<subject>Science and Technology</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="467" type="ms"/>
+						<p><date>18. VI. </date>Friday— Dinner at Siaskonset.</p>
+						<p>We had numerous visitors this morning among whom <persRef ref="burnell-barker">M<hi rend="superscript"
+							>r</hi> Barker Burnell</persRef>, <persRef ref="folger-walter">Walter Folger</persRef>, <persRef ref="morton-martin">D<hi rend="superscript"
+								>r</hi> Morton</persRef> Collector of the Port, <persRef ref="u">M<hi rend="superscript">r</hi>
+									Barrett</persRef>, <persRef ref="u">M<hi rend="superscript">r</hi> Tuck</persRef>, <persRef ref="mitchell-aaron">M<hi rend="superscript"
+								>r</hi> Mitchell</persRef>—&amp;c— After Breakfast we visited the wharf from
+							which we had a view of the Harbour— Then <persRef ref="folger-philip">M<hi rend="superscript">r</hi>
+							Philip Folger’s</persRef> manufacture of Spermaceti Candles— Then the Athenaeum
+							where is a small Library, and a collection of curiosities chiefly from
+							the South-Sea Islands— Then the top of the Meeting house tower, whence
+							we had a view of the whole Island, and distant prospects of Martha’s
+							Vineyard the mainland of Cape-Cod, and of the boundless Ocean— Then a
+							private School of thirty-five boys and girls kept by a <persRef ref="u">M<hi
+								rend="superscript">r</hi> Pearce</persRef> who told me he had attended my
+							Lectures at Harvard University in 1808 and 1809— Then the School founded
+							by <persRef ref="coffin-isaac2">Admiral Sir Isaac Coffin</persRef>, for his relations of whom there are about
+							130 male and female in attendance— Then two Banks, of one of which M<hi
+								rend="superscript">r</hi> Burnell is Cashier— We then went to
+							Siaskonsets head land on the South-side of the Island, where there is a
+							small village, and where several of the Citizens of Sherburne have small
+							neat country houses for Summer Residence— We visited an establishment of
+							dunghill fowls, ducks and geese on the way belonging to <persRef ref="u;u">two brothers
+								Macy</persRef> and kept by an Irishman.— We visited Saconet head dined at <persRef ref="elkins-george">M<hi
+								rend="superscript">r</hi> Elkins’s</persRef> on Chicken-chowder—Mess<hi
+								rend="superscript">rs.</hi> Burnell, Morton, Barrett, Mitchell,
+							Tuck, <persRef ref="paine-robert3">R. T. Paine</persRef> were of our dinner party— Bowls after dinner I went
+							with M<hi rend="superscript">r</hi> Philip Folger after dinner to his
+							Country-House— Saw <persRef ref="u">his wife</persRef>, daughter and niece—returned to Town,
+							visited M<hi rend="superscript">r</hi> Walter Folger— Saw his Clock and
+							Telescope, and closed the evening by attending <persRef ref="silliman-benjamin">Professor Silliman’s</persRef>
+							Lecture on tertiary formations.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-19">
+					<head>19 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Steam Power</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="468" type="ms"/>
+						<p><date>19. VI. </date>Saturday— From Nantucket to New-Bedford.</p>
+						<p>The hour of departure of the Steamer Telegraph was 9 of the morning; but
+							she was out to tow a vessel into the harbour. The vessel ran aground and
+							we waited for the boat a full hour upon the wharf. we visited a portrait
+							painter named <persRef ref="swain-william">Swain</persRef>—and the garden and green-house of <persRef ref="mitchell-aaron">M<hi
+								rend="superscript">r</hi> Aaron Mitchell</persRef> raising peaches grapes and
+							flowers from the deep sands— We took leave of <persRef ref="silliman-benjamin">Professor Silliman</persRef> and <persRef ref="silliman-benjamin2">his
+								Son</persRef>, <persRef ref="burnell-barker">M<hi rend="superscript">r</hi> Burnell</persRef>, <persRef ref="morton-martin">D<hi rend="superscript"
+									>r</hi> Morton</persRef>, <persRef ref="folger-philip">Philip Folger</persRef>, <persRef ref="myrick-peter">Captain Myrick</persRef> and sundry others, and
+							at 10. A.M. loosened from the wharf. M<hi rend="superscript">r</hi>
+							Burnell promised to write to me about the Breakwater and the Bar— <persRef ref="paine-robert3">R. T.
+								Paine</persRef> embarked with us and landed at <persRef ref="holmes-john3">Holmes’s</persRef> hole on Martha’s vineyard—
+							We had as fellow passengers a company of Circus men with their whole
+							establishment in three large baggage waggons and eight horses— They
+							departed from the wharf with a chorus of horns clarinets and a drum— We
+							touched only at Holmes’s Hole, and at Wood’s hole or Woodville, where we
+							saw <persRef ref="u">Captain Chase</persRef> on the wharf— At half-past 3 we landed at New-Bedford
+							with another flourish of horns and hautboys and Clarinets from our
+							companions of the Circus— We were received by <persRef ref="congdon-benjamin">M<hi rend="superscript"
+								>r</hi> Congdon</persRef>, Chairman of the Selectmen of the Town, who had a
+							Carriage in readiness to receive us. We preferred walking and were
+							accompanied by all the Selectmen to our lodgings at <persRef ref="u">M<hi
+								rend="superscript">rs</hi> Doubledays</persRef>— Here we had numerous
+							visitors, but soon walked out and round the town with <persRef ref="arnold-james">M<hi
+								rend="superscript">r</hi> Arnold</persRef>. We admired the finely splendid
+							Palace-Houses of the Citizens, specially visited that of <persRef ref="parker-john7">M<hi
+								rend="superscript">r</hi> Parker</persRef> and viewed its magnificent
+							furniture— We took tea spent the Evening and supped with M<hi
+								rend="superscript">r</hi> Arnold, who had a large party of Gentlemen
+							to meet us— We saw also M<hi rend="superscript">r</hi> Arnold’s garden—
+							Returned to our lodgings at 11. P.M.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-20">
+					<head>20 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="469" type="ms"/>
+						<p><date>20. VI:15. </date>Sunday— Heard <persRef ref="edes-henry2">M<hi rend="superscript"
+							>r</hi><space/>Edes</persRef>, from Leviticus 19.18—Thou shalt love thy neighbour
+							as thyself— Visits from <persRef ref="davis-john">judge John Davis</persRef>—<persRef ref="davis-joseph">M<hi rend="superscript">r</hi>
+								Morton Davis</persRef> and <persRef ref="rodman-samuel">M<hi rend="superscript">r</hi> Rodman</persRef>—and <persRef ref="u">M<hi
+									rend="superscript">r</hi> Russell</persRef>— <persRef ref="eliot-td">M<hi rend="superscript">r</hi> T.
+							D. Eliot</persRef> had accompanied us in the morning— After dinner we went with
+							<persRef ref="u">M<hi rend="superscript">r</hi> Mack</persRef> and heard <persRef ref="angier-joseph">M<hi
+								rend="superscript">r</hi> Joseph Angier</persRef>, recently settled as the
+							Minister of this Church, from Luke 10.27. “And he answering said, ‘Thou
+							shalt love the Lord thy God with all thy heart, and with all thy soul,
+							and with all thy strength, and with all thy mind[’]”— He omitted the
+							remainder of the verse, which is the repetition of M<hi
+								rend="superscript">r</hi> Edes’s morning text from Leviticus— There
+							is great difference of Style, as well as of delivery between these two
+							young men.— M<hi rend="superscript">r</hi> Edes’s manner being more
+							plain and better adapted to the understanding of uncultivated minds—all
+							his reasonings were pointed to the practical exercise of benevolence—
+								M<hi rend="superscript">r</hi> Angier ingeniously brought his
+							discourse to the same conclusion, but he discussed somewhat largely the
+							question what was to be understood by the word Love as applied to God,
+							and very properly urged that it was a sentiment entirely different from
+							that affection which is borne towards any earthly object. He observed
+							that there was danger of mistaking one of these Sentiments for the
+							other, and he noticed the cumulation of human faculties to which the
+							commandment is applied— The Heart, the Soul, the strength and the mind—
+							He did not however attempt to define those faculties to discriminate
+							them from each other— The understanding, the affections, the reasoning
+							faculty and the will, appear to be intended in the use of those words,
+							and perhaps they were used only to enforce in the most emphatic manner,
+							the precept— M<hi rend="superscript">r.</hi> Russell one of our visitors
+							reminded me that I had measured him in the year 1815 at London for a
+							Passport— After the Church Service this afternoon, <persRef ref="brooks-peter">M<hi
+								rend="superscript">r</hi> Brooks</persRef> and <persRef ref="davis-isaac">M<hi rend="superscript">r</hi>
+									I. P. Davis</persRef> visited again at <persRef ref="arnold-james">M<hi rend="superscript">r</hi> Arnold’s</persRef>,
+							and saw his fine flower-garden and two green houses, and M<hi
+								rend="superscript">r</hi> Arnold himself closed the Evening with a
+							visit to us— The boil on my hand almost disqualified me for writing, and
+							I read in <persRef ref="bulwerlytton-edward">Bulwer’s</persRef> England and Englishmen lent me by a fellow lodger at
+								<persRef ref="u">M<hi rend="superscript">rs</hi> Doubleday’s</persRef>, <persRef ref="u">M<hi rend="superscript"
+								>r</hi> Mack</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-21">
+					<head>21 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="470" type="ms"/>
+						<p><date>21. VI. </date>Monday— From New-Bedford to Quincy.</p>
+						<p>My crippled hand makes me lose two morning hours before I rise— This
+							morning we had several additional visitors, among whom <persRef ref="ratch-william">M<hi
+								rend="superscript">r</hi> William Ratch</persRef> 76 years of age, strong and
+							hearty— He reminded me that he had travelled with me in the year 1825 in
+							the Steamboat from Providence to New-York— <persRef ref="warren-c">C. H. Warren</persRef> <persRef ref="eliot-td">T. D. Eliot</persRef>,
+							<persRef ref="angier-joseph">Joseph Angier</persRef>, <persRef ref="u">M<hi rend="superscript">r</hi> Tolman</persRef>, and sundry others
+							whose names it was impossible for me to recollect— At half past 8 we
+							departed from New-Bedford in the Stage, and came through Fairhaven,
+							Rochester, Middleborough, South-Bridgwater, West-Bridgwater Bridgwater
+							and Randolph, to Dorchester, just beyond Milton Bridge There my Son
+							<persRef key="adams-charles2">Charles</persRef> and I parted from our companions— <persRef ref="brooks-peter">M<hi rend="superscript">r</hi>
+								Brooks</persRef> and <persRef ref="davis-isaac">M<hi rend="superscript">r</hi> I. P. Davis</persRef>, continued their
+							journey to Boston. We engaged a Carriole and came home to Quincy where
+							at half past five by God’s blessing we found all the family well.— We
+							had among our fellow-travellers from New Bedford a very respectable
+							Methodist preacher by the name of <persRef ref="mudge-enoch">Mudge</persRef>— The road from New-Bedford is
+							fine all the way— The towns through which we passed all thrifty and
+							prosperous At South Bridgwater we had an uncommonly good dinner, at an
+							excellent inn—from Randolph to Milton Mills we came over the Blue-hill
+							Turnpike, and found upon it a village two miles long of neat,
+							comfortable and elegant dwelling Houses with two large Houses of
+							worship, all a new Creation since the turnpike was opened, that is
+							within the last fifteen years— We passed by East-Randolph, about two
+							miles distant at the right hand as we came, exhibiting a village
+							apparently as flourishing as that through which we passed— Near the
+							whole Blue-hill turnpike and much of the New Bedford road is cut through
+							with forests of Pitchpine, Black and white Oak, white maple, white Birch
+							and Hornbeam, all but the Pitchpine small and young wood The largest
+							trees are of the Button wood, Sycamore or Planetrees—as we approach
+							Milton white Elms, Chesnuts—Hickories Ash, commence and the Locust trees
+							cease— Indian Corn, Potatoes grazing and pasture lands are all the
+							cultivation— There are in Middleborough four large ponds.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-22">
+					<head>22 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="471" type="ms"/>
+						<p><date>22 VI. </date>Tuesday— Quincy</p>
+						<list>
+							<item>Spear William</item>
+							<item>M<hi rend="superscript">rs</hi> T. B. Adams</item>
+							<item>Louisa C. Smith</item>
+							<item>M<hi rend="superscript">rs</hi> John Angier</item>
+							<item>Elizabeth C. Adams</item>
+							<item>Beale George W.</item>
+							<item>Ann Beale</item>
+							<item>Greenleaf E. Price</item>
+						</list>
+						<p>My Son <persRef key="adams-charles2">Charles’s</persRef> <persRef ref="adams-john17">elder boy, who bears my name</persRef> was this day two years old—
+							Blessed be God for the gift of this child; and will it please the father
+							of mercies that he may live to lead a virtuous an useful, and so far as
+							happiness belongs to the condition of human existence a happy life—
+							<persRef ref="spear-william">William Spear</persRef> was here and I went with him down to the Mount Wollaston
+							Beach, and viewed the piece of Land which <persRef ref="hardwick-henry">Harry Hardwick</persRef> has so often
+							and so pertinaciously importuned me to sell to him— While we were there
+							<persRef ref="spear-alpheus">Alpheus Spear</persRef> came down in his waggon and after him three other men with
+							waggons to purchase Seaweed— They were from Randolph and Alpheus said
+							the only one of them whom he knew was named <persRef ref="u">Taper</persRef>. I visited my Oaks,
+							white walnuts, and pignut trees there which were in scanty bearing—none
+							of the fruit ripe— I gathered nevertheless some nuts and acorns— <persRef ref="adams-ann">M<hi
+								rend="superscript">rs</hi> T. B. Adams</persRef> with her two daughters <persRef ref="adams-abigail2">M<hi
+									rend="superscript">rs</hi> Angier</persRef> and <persRef ref="adams-elizabeth">Elizabeth</persRef>, and <persRef ref="smith-louisa">Louisa C. Smith</persRef>
+							dined and spent the day and Evening with us— <persRef ref="beale-george">M<hi rend="superscript"
+								>r</hi> Beale</persRef> and his daughter <persRef ref="beale-ann">Anne</persRef>, and <persRef ref="greenleaf-ezekial">E. Price Greenleaf</persRef> were
+							here in the Evening Charles went to Boston this morning, and returned to
+							dine—with extreme difficulty I wrote a few minutes of the last two days,
+							but am entirely disabled from writing as I intended some reflections
+							upon the observations I had made in our weeks excursion—Plymouth,
+							Sandwich, Falmouth Woodville—the Vineyard Sound, Nantucket and New
+							Bedford offer a large field for great variety of comment, and remark;
+							but the head partakes the imbecility of the hand—and my reflections pass
+							away never to return— I found a Letter here from <persRef ref="pearce-dutee">D. J. Pearce</persRef> calling
+							for an immediate answer which I cannot write— I visited my garden,
+							Nursery, and Seminary but at this period the vegetation of the Season
+							has almost entirely ceased— My Seminary has been weeded and a new soil
+							surrounds my young seedling trees— The corner Seminary maple has not
+							grown at all in my absence; but with perhaps twenty other plants from
+							the Washington and Philadelphia seeds, promises to survive the
+							approaching winter and become hereafter a lofty tree.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-23">
+					<head>23 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="472" type="ms"/>
+						<p><date>23. V.15. </date>Wednesday</p>
+						<list>
+							<item>Woodward D<hi rend="superscript">r</hi></item>
+						</list>
+						<p><persRef key="adams-charles2">Charles</persRef> went this morning to Boston, and returned to dine— He, and <persRef ref="adams-abigail4">his
+							wife</persRef>, and <persRef ref="hellen-mary">Mary</persRef> spent the Evening at <persRef ref="adams-ann">M<hi rend="superscript">rs</hi> T.
+							B. Adams’s</persRef>— I could not go, for the boil upon my right hand, which still
+							inflames and swells without coming to a head— <persRef key="adams-louisa-catherine">My wife</persRef> sent for <persRef ref="woodward-ebenezer">D<hi
+								rend="superscript">r</hi> Woodward</persRef>, who came and lanced it, and
+							ordered that a plaister of Basilicon ointment should be substituted
+							to-morrow morning for the flax seed poultice which has succeeded that of
+							bread and milk first applied after my return— With excessive difficulty,
+							I journalised for yesterday but could write no more, and idled away the
+							day—only hearing <persRef ref="adams-mary4;adams-georgeanna">my grand children</persRef> read— I avail myself also of this
+							interruption of my intended occupations to read the Dissertations upon
+							the Congress of Nations upon which I unwisely agreed to give an opinion.
+							The American Peace Society have offered a prize of 1000 dollars for the
+							best dissertation upon a Congress of Nations, as an Institution for the
+							preservation of Peace. There are 13. competitors for this prize, and
+							<persRef ref="kent-james">Chancellor Kent</persRef> of New-York, <persRef ref="webster-daniel">M<hi rend="superscript">r</hi> Daniel
+							Webster</persRef> and myself are appointed umpires to decide which of them is
+							entitled to the prize— They were first s</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-24">
+					<head>24 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="473" type="ms"/>
+						<p><date>24. V.15. </date>Thursday</p>
+						<list>
+							<item>Spear Alpheus</item>
+						</list>
+						<p>My hand is entirely disabled. I attempted to write the journal of
+							yesterday but was obliged to desist and you see this is not my
+							handwriting— <persRef ref="spear-alpheus">Alpheus Spear</persRef> came this morning about the renewal of his
+							lease of the Mount Wollaston farm he was about an hour detailing to me
+							all his resources to prove that he did not want it, but still as he was
+							there he was quite willing to have it— He came to no precise proposition
+							but said he wanted about 315 dollars expended in repairs on the lower
+							barn, about nine hundred dollars to pull down the old house and build a
+							new one, and from seventy five to one hundred dollars upon a watering
+							place near the beach— He offered eight hundred dollars a year for rent;
+							if I would pay all the taxes— I promised to go down next Tuesday if the
+							weather should be fair to see how he proposes his repairs should be made
+							and to talk over the affair with him again— <persRef ref="smith-louisa">Louisa C. Smith</persRef> came to
+							enquire how it went with my hand— I planted rows N<hi rend="superscript"
+								>o.</hi> 8 and 9. cleared hazle bush patch row N<hi
+								rend="superscript">o.</hi> 8. twelve whole pears of the Corner tree
+							on the patch in N<hi rend="superscript">o.</hi> 9. twelve whole Orange
+							pears—and in each a drill row of peach, plum, and cherry stones, apple
+							seeds and acorns brought yesterday from Mount Wollaston—unable to write
+							I have read a large part of Manuscript D on the Congress of Nations—one
+							of the best that I have yet read but not worth a thousand dollars. he
+							quotes unmercifully from <persRef ref="azuni-domenico">Azuni</persRef>—once in a while from <persRef ref="vattel-emer">Vattel</persRef>, and once
+							from <persRef ref="webster-daniel">Daniel Webster</persRef> the last quotation very apt M<hi rend="superscript"
+								>r</hi> Webster being one of the Judges to award the Prize— <persRef key="adams-charles2">Charles’</persRef>
+							<persRef ref="adams-abigail4">Wife</persRef> took a ride on horseback— I read some Letters from <persRef ref="walpole-horace">Horace Walpole</persRef>
+							to <persRef ref="mann-horace2">Sir Horace Mann</persRef>—shivering with cold—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-25">
+					<head>25 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="474" type="ms"/>
+						<p><date>25. V. </date>Friday</p>
+						<list>
+							<item>Woodward D<hi rend="superscript">r.</hi></item>
+							<item>Greenleaf E. P.</item>
+						</list>
+						<p>I Awoke between one and two oclock this morn<hi rend="superscript">g</hi>
+							with a pain of a sprained wrist and lay musing upon it from that time
+							till after the clock struck five—then found myself utterly unable to
+							write and began upon a large Manuscript Dissertation upon the Congress
+							of Nations for the Abolition of War— Sent for <persRef ref="woodward-ebenezer">D<hi rend="superscript"
+								>r.</hi> Woodward</persRef> who came and inspected my hand again and directed
+							a liniment for the sprain, but that subsided before the liniment was
+							procured and deprived it of the credit of effecting the cure— I wrote by
+							the hand of <persRef ref="hellen-mary">my daughter Mary</persRef> a Letter to <persRef ref="webster-daniel">Dan<hi rend="superscript"
+								>l.</hi> Webster</persRef> and packed up and dispatched for him four of the
+							Dissertations upon the Congress of Nations—and then began to dig into
+							the fifth— <persRef key="adams-charles2">Charles</persRef> went to Boston and returned to dine— <persRef ref="greenleaf-ezekial">E. Price
+							Greenleaf</persRef> came after dinner and inspected the seedling apple tree which
+							he some weeks since budded for me— I answered a Letter from a Committee
+							of the Boston Society for the diffusion of useful knowledge requesting
+							me to deliver five or six Lectures or at least one Introductory Lecture
+							upon suitable subjects to begin at about the last of next month</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-29">
+					<head>29 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+						
+					</bibl>
+					<div type="docbody">
+						<pb n="475" type="ms"/>
+						<p><date>29. V. </date>Tuesday.—</p>
+						<list>
+							<item>Greenleaf E. Price</item>
+						</list>
+						<p>Morning at home; but inactive— Crippled hand— <persRef key="adams-charles2">Charles</persRef> went to <hi
+								rend="strikethrough">Boston and returned to dine</hi> the Railway—
+							Afternoon walk with <persRef ref="greenleaf-ezekial">Price Greenleaf</persRef> to Mount Wollaston— <persRef key="adams-louisa-catherine">M<hi
+								rend="superscript">rs</hi> Adams</persRef> and Charles, fishing for Tom-Cod—
+							Examined House and grounds— Overtaken by the rain— <persRef ref="hellen-mary">Mary</persRef> and <persRef ref="adams-abigail4">Charles’s
+								wife</persRef> rode on horseback— Copious rain all the Evening— Answers to <persRef ref="story-joseph">judge
+									Story</persRef> and <persRef ref="smith-ng">N. G. Smith</persRef></p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v48-1835-09-30">
+					<head>30 September 1835</head>
+					<bibl><author>JQA</author><date type="creation" when="1835-09-30"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. V. </date>Wednesday</p>
+						<list>
+							<item>Spear William</item>
+						</list>
+						<p>Morning walk with <persRef ref="greenleaf-ezekial">E. Price Greenleaf</persRef>—round the Square from Arnold’s
+							brook—stop’d at <persRef ref="brigham-josiah">Brigham’s</persRef> shop— <persRef ref="spear-william">W. Spear</persRef> came and I went with him to the
+							small <persRef ref="borland-leonard">Borland</persRef> and Pine-hill wood lots. Sales to be advertised Day
+							wasted— Congress of Nations Manuscripts— <persRef ref="walpole-horace">H. Walpole</persRef> to <persRef ref="mann-horace2">H. Mann</persRef> <persRef key="adams-charles2">Charles</persRef>
+							went to Boston and returned to dine—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

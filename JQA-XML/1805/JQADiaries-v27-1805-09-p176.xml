@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1805-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="176"
+				mhs:precedingFile="JQADiaries-v27-1805-08-p170.xml"
+				mhs:followingFile="JQADiaries-v27-1805-10-p182.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1805-09-01" to="1805-09-30"/></bibl>
+
+				<!--D/JQA/27.1131-->
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-01">
+					<head>1 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">September 1805.</hi></dateline>
+						<p><date>1. </date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> was very unwell last
+							Night, and the greater part of this day. I heard <persRef
+								ref="whitney-peter">M<hi rend="superscript">r:</hi>
+								Whitney</persRef>— Afternoon and Evening at <persRef
+								key="adams-john">my father’s</persRef>— <persRef ref="smith-abigail"
+								>My Sister Smith</persRef> went to our house to tea, and M<hi
+								rend="superscript">rs:</hi> Adams and <persRef ref="pope-eliza"
+								>Eliza Johnson</persRef> came to my father’s in the Evening—
+								<persRef ref="black-esther">M<hi rend="superscript">rs:</hi>
+								Black</persRef> was there, and <persRef ref="quincy-josiah2">M<hi
+									rend="superscript">r:</hi> Quincy</persRef>— I walked home, with
+							the Ladies— Read <persRef ref="sterne-lawrence">Sterne’s</persRef>
+							Sermons 8. On Time and Chance— His inference from the text is that there
+							is no such thing as time and chance.— 9. On the character of <persRef
+								ref="herod">Herod</persRef>— And 10. On the shortness and
+							uncertainty of life— Read also, further in <persRef
+								ref="courtdegebelin-antoine">Court de Gebelin’s</persRef> preface,
+							and a Chapter of <persRef ref="aristotle">Aristotle</persRef>.— M<hi
+								rend="superscript">r:</hi> Whitney’s Sermon was from 1. Timothy
+							IV.8— His divisions— Godliness is profitable 1. in the pursuits of this
+							life—as Riches— Honours— Pleasure— 2. At the hour of death— And 3.
+							Remarks on the promise contained in the text— This division appears to
+							me defective in point of Unity. The third head not being congruous to
+							the first and second.— He preached all day on one text taking up the
+							first head, in the morning, and the others after dinner. He had a long
+							quotation from an author in a style too different from his own. His
+							delivery is not absolutely bad; but he has the singing tone, and is very
+							monotonous.— Little Management of accent; none of emphasis— He begins
+							his sentences at a low note, uniformly the same; then gradually rises a
+							note or two upon every emphatic word, untill at the close he drops plum
+							to a note somewhat lower than that with which he commences— He reads the
+							Bible, and the Psalms to be sung, in the same manner— His pronunciation
+							of words is generally good.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-02">
+					<head>2 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> and <persRef
+								ref="pope-eliza">Eliza Johnson</persRef> went to Boston this
+							morning, and returned in the Evening. I dined at <persRef
+								key="adams-john">my father’s</persRef>— In the forenoon I neither
+							read nor wrote— It slip’d away, like so many others I know not how.—
+							After dinner, I read a Chapter of <persRef ref="aristotle"
+								>Aristotle</persRef>— <persRef ref="courtdegebelin-antoine">Court de
+								Gebelin</persRef>; and the Advertisement at the head of <persRef
+								ref="daguesseau-henri">D’Aguesseau’s</persRef> Works— I find this is
+							a book to which I must attend— I bathed this afternoon, at <persRef
+								ref="black-moses">M<hi rend="superscript">r:</hi> Black’s</persRef>
+							wharf.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-03">
+					<head>3 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-03"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>Pass’d the forenoon, writing; and after dinner, went on a
+							shooting party, with <persRef key="adams-thomas">my brother</persRef>—
+							We got some birds but were not very successful— I read the short account
+							of <persRef ref="daguesseau-henri">D’Aguesseau’s</persRef> life, in the
+							first Volume of his works; and in the Evening read to <persRef
+								ref="adams-louisa-catherine;pope-eliza">the ladies</persRef> the
+							fourth book of <persRef ref="ovid">Ovid’s</persRef> Metamorphoses;
+							translated by <persRef ref="eusden-laurence">Eusden</persRef>; excepting
+							the Story of <persRef ref="salmacis">Salmacis</persRef> and <persRef
+								ref="hermaphroditus">Hermaphroditus</persRef>, which is by <persRef
+								ref="addison-joseph">Addison</persRef>.— Eusden’s verse is
+							harmonious enough; but flat— He makes even Ovid uninteresting.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-04">
+					<head>4 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date><persRef key="adams-john">My father</persRef>, and all
+							his family dined and pass’d the day with <persRef
+								ref="adams-louisa-catherine;pope-eliza">us</persRef>.— This Evening
+							I walk’d with the Ladies— Read only the 23<hi rend="superscript">d:</hi>
+							and last of <persRef ref="lawson-john">Lawson’s</persRef> Lectures, with
+							his Latin Historic Poem of Irene.— These lectures contain many useful
+							observations on the subject of Oratory, and <persRef ref="blair-hugh"
+								>Blair</persRef> has borrowed freely from them— But the plan of the
+							work is very defective. For the purpose of enlivening and diversifying
+							his subject the author introduces here an Allegorical Vision, and there
+							a Platonic Dialogue— Now an English Poem, and now a Rhapsody in latin
+							Verse.— <hi rend="strikethrough">Here</hi> At one place, a fable in
+							rhyme, and at another a tale in prose, which give the whole such a
+							motley complexion, that the Common Centre to all these exercusions
+							remains hardly discernible. The style is formed upon the models of the
+								<pb n="177" type="ms"/>antient languages, without due accommodation
+							to the idiom of that in which it is written— Hence it is harsh and
+							elliptical.— The Lectures are in a degree methodical, but the
+							arrangement is not well made. M<hi rend="superscript">r:</hi> Lawson’s
+							verse is somewhere near the level of mediocrity.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-05">
+					<head>5 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef key="adams-george">George</persRef> was very ill
+							in the Night, and kept us up with him, untill very late— I was quite
+							unwell all this day; walk’d in the Evening, with <persRef
+								ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>— I
+							wrote in the forenoon— And read part of <persRef ref="cicero-marcus"
+								>Cicero’s</persRef> second Dialogue de Oratore, in the french
+							translation after dinner.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-06">
+					<head>6 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Attended this afternoon a Meeting of the Directors of
+							Neponsit Bridge; and was chosen President; <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Smith</persRef> being no longer a
+							proprietor.— Went with <persRef ref="beale-benjamin">Captain
+								Beale</persRef>— Afterwards pass’d part of the Evening at <persRef
+								key="adams-john">my father’s</persRef>— Finished reading S<hi
+								rend="superscript">t:</hi> John’s Gospel in the Greek Testament—
+							Read also a little of <persRef ref="cicero-marcus">Cicero’s</persRef>
+							Second Dialogue de Oratore, in the french translation— <persRef
+								ref="jenks-william">M<hi rend="superscript">r:</hi> Jenks</persRef>
+							at Cambridge, has lent me <persRef ref="stapylton-robert"
+								>Stapylton’s</persRef> translation of <persRef ref="juvenal"
+								>Juvenal</persRef>, which I this day received.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-07">
+					<head>7 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Dined with the Club at <persRef ref="greenleaf-thomas"
+									>M<hi rend="superscript">r:</hi> T. Greenleaf’s</persRef>— All
+							there, excepting <persRef ref="black-moses">M<hi rend="superscript"
+									>r:</hi> Black</persRef>. I invited them to my house, next
+							Saturday— At <persRef key="adams-john">my father’s</persRef> this
+							afternoon— <persRef key="adams-abigail">My Mother</persRef> is very ill—
+							Seized this morning with an old complaint— <persRef ref="adams-ann">M<hi
+									rend="superscript">rs:</hi> T. B. Adams</persRef> also is very
+							unwell— I came home with <persRef ref="cranch-mary2">M<hi
+									rend="superscript">rs:</hi> Cranch</persRef>; and from her house
+							walk’d home with <persRef key="adams-george">George</persRef>. Found
+								<persRef ref="greenleaf-t">M<hi rend="superscript">r:</hi> T.
+								Greenleaf jun<hi rend="superscript">r:</hi></persRef> with <persRef
+								ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>. He
+							soon after left us— I read to the Ladies <persRef ref="berkeley-george"
+								>Berkley’s</persRef> first Dialogue, between <persRef
+								ref="philonous">Philonous</persRef> and <persRef ref="hylas"
+								>Hylas</persRef>, containing the immaterial system— This morning, I
+							began the Acts of the Apostles in the Greek Testament— Read also
+								<persRef ref="juvenal">Juvenal’s</persRef> first Satire, in <persRef
+								ref="stapylton-robert">Stapylton’s</persRef> translation, with the
+							notes.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-08">
+					<head>8 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Heard <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Ely</persRef>, a young Clergyman, not yet settled— <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							dined with us— In the afternoon we went to <persRef key="adams-john">my
+								father’s</persRef>. Home early this Evening— M<hi rend="superscript"
+								>r:</hi> Ely’s Morning Sermon, was from Luke XV.17. The Story of the
+							prodigal Son— In the afternoon, his text was Mark X.21. The History of
+							the rich young Man, who lacked the one thing needful— They were both
+							discourses of the historical kind, a miscellaneous collection of remarks
+							drawn from the stories, told in those passages— Of course without much
+							method— M<hi rend="superscript">r:</hi> Ely is a young Man, of copious
+							Imagination, and ardent zeal— What he principally wants is polish. His
+							manner partakes of the same good qualities and defects— He speaks with
+							great earnestness, and without the reading whine— But his voice wants
+							flexibility, and correctness— His pronunciation has the ordinary fault
+							of frequently slurring over certain vowels; and one peculiar to himself;
+							of misplacing often the accent on long words, as propitiat<hi
+								rend="italic">ó</hi>ry, subl<hi rend="italic">ú</hi>nary, &amp;c.—
+							Time and Industry will make him a very good preacher— I read <persRef
+								ref="sterne-lawrence">Sterne’s</persRef> Sermons 11. On
+							Evil-Speaking— 12. Forgiveness of Injuries; exemplified in the Story of
+								<persRef ref="joseph3">Joseph</persRef> and his brethren; and 13.
+							Moderation of our Desires—in the case of <persRef ref="elisha"
+								>Elisha</persRef> and the Shunamite.— They contain little or none of
+							the author’s pathetic powers; but they are full of just and ingenious
+							observations upon human life and manners— The style is careless— The
+							sentences often in so many members, so intricate, and <hi rend="italic"
+								>cumulative</hi> of thought, that they are often perplexed, and
+							sometimes not grammatical; the close of the period running wide from the
+							beginning.— I also read the second, and part of the third of <persRef
+								ref="berkeley-george">Berkeley’s</persRef>
+							<hi rend="italic">Immaterial</hi> Dialogues.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-09">
+					<head>9 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>I pass’d the afternoon at <persRef key="adams-john">my
+								father’s</persRef>, in the Office— Saw <persRef
+								ref="hubbard-susanna">M<hi rend="superscript">rs:</hi>
+								Hubbard</persRef>, (my Cousin) and <persRef ref="u">her
+								daughter</persRef>. <persRef ref="greenleaf-mary">M<hi
+									rend="superscript">rs:</hi> T. Greenleaf</persRef> was at our
+							house— I read, <persRef ref="stapylton-robert">Stapylton’s</persRef>
+								2<hi rend="superscript">d:</hi> Satire of <persRef ref="juvenal"
+								>Juvenal</persRef>— Part of a Chapter of <persRef ref="aristotle"
+								>Aristotle</persRef>— <persRef ref="u">Tartarin’s</persRef>
+							discourse to the Parliament of Paris, on the presentation of the Letters
+							of <persRef ref="daguesseau-henri">D’Aguesseau</persRef>, as Chancellor—
+							This is founded upon an usage, with which I am not acquainted. It
+							consists of an Eulogium upon the man, and upon <persRef
+								ref="daguesseau-henri2">his father</persRef> and <persRef
+								ref="daguesseau-antoine">grand-father</persRef>, and closes with
+							requiring, that it be endorsed on the letters that they have been read
+							and registered, to be executed accordingly. In the Evening, I finished
+							reading <persRef ref="berkeley-george">Berkeley’s</persRef>
+							Dialogues.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-10">
+					<head>10 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef key="adams-john">My father</persRef> called on
+							me this forenoon, with a letter from <persRef ref="waterhouse-benjamin"
+									>D<hi rend="superscript">r:</hi> Waterhouse</persRef> respecting
+							the answer to be sent to the Council of the Interior, of the Batavian
+							Republic.— Afternoon at my father’s— Read the remainder of <persRef
+								ref="aristotle">Aristotle’s</persRef> long chapter on the topics of
+							enthymem’s.— Read also <persRef ref="terrasson-antoine"
+								>Terrasson’s</persRef> Discourse to the Cour des Aides on presenting
+								<persRef ref="daguesseau-henri">d’Aguesseau’s</persRef> letters as
+							Chancellor— The subject is the same as that of <persRef ref="u"
+								>Tartarin</persRef> to the Parliament of Paris; but it is much
+							better handled— This is really an Eloquent Oration, and in the style of
+							Panegyric, may be studied as a model— Walk’d home with <persRef
+								ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef> this
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-11">
+					<head>11 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-11"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="178" type="ms"/>
+						<p><date>11. </date>The weather is again at the excess of Summer Heat, and
+							the drought continues, as from the beginning of June. Went to <persRef
+								key="adams-john">my father’s</persRef> this afternoon— <persRef
+								ref="hubbard-susanna">M<hi rend="superscript">rs:</hi> Hubbard, (who
+								was my Cousin Susanna Adams)</persRef> with <persRef ref="u">her
+								son</persRef> &amp; <persRef ref="u">daughter</persRef> were there.
+							They returned home this afternoon— <persRef key="adams-abigail">My
+								Mother</persRef> is again quite unwell— <persRef key="adams-thomas"
+								>My brother</persRef> was on a fishing-party— I read a Chapter of
+							Aristotle— And <persRef ref="cochin-charles">Cochin’s</persRef>
+							Discourse to the Grand Conseil, on the presentation of <persRef
+								ref="daguesseau-henri">M. d’Aguesseau’s</persRef> letters as
+							Chancellor— This appears to me much inferior to either of the two
+							others— Yet Cochin’s reputation for Eloquence, stands higher than those
+							of <persRef ref="u">Tartarin</persRef> or <persRef
+								ref="terrasson-antoine">Terrasson</persRef>— I wrote to the Conseil
+							de l’Interieur of the Batavian Republic, and enclosed the Letter to
+								<persRef ref="waterhouse-benjamin">D<hi rend="superscript">r:</hi>
+								Waterhouse</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-12">
+					<head>12 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Went in to Boston with <persRef
+								ref="smith-william-steuben">William Smith</persRef>, and returned at
+							Night without him— I transacted in Boston part of the business on which
+							I went, but could not accomplish the whole— I met <persRef
+								ref="davis-john">judge Davis</persRef>, about half a mile from my
+							house in Quincy— He was with <persRef ref="may-joseph">Col<hi
+									rend="superscript">l:</hi> Jos: May</persRef>, and going to
+							Plymouth— He gave me a draught of votes pass’d by the Corporation of
+							Harvard College the 2<hi rend="superscript">d:</hi> inst<hi
+								rend="superscript">t:</hi>—relative to the Boylston Professorship of
+							Rhetoric and Oratory— I engaged to go into Boston and converse with him
+							on the subject this day week. I dined with <persRef ref="otis-samuel"
+									>M<hi rend="superscript">r:</hi> S. A. Otis</persRef>—<persRef
+								ref="nott-eliphalet">M<hi rend="superscript">r:</hi>
+							Nott</persRef>—President of Schenectady College, <persRef
+								ref="channing-william">M<hi rend="superscript">r:</hi>
+								Channing</persRef>, <persRef ref="buckminster-joseph">M<hi
+									rend="superscript">r:</hi> Buckminster</persRef>, and <persRef
+								ref="otis-harrison">M<hi rend="superscript">r:</hi> H. G.
+								Otis</persRef> were there.— Called at <persRef ref="welsh-thomas"
+									>D<hi rend="superscript">r:</hi> Welsh’s</persRef> before I came
+							out of Boston— Found a fire, on reaching home, the change of weather
+							since yesterday, being almost as from Midsummer to Midwinter.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-13">
+					<head>13 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Cold, dry Storm— I went to <persRef key="adams-john">my
+								father’</persRef>s this afternoon. <persRef ref="beale-benjamin"
+								>Captain Beale</persRef> was there in the Evening— I wrote to
+								<persRef ref="dunlap-john">M<hi rend="superscript">r:</hi>
+								Dunlap</persRef> of Alexandria, and enclosed to him a letter for
+								<persRef ref="hall-susanna2">M<hi rend="superscript">rs:</hi>
+								Hall</persRef> of Barbadoes— Read a Chapter of <persRef
+								ref="aristotle">Aristotle</persRef>, and finished the first part of
+							the Racines Grecques, which I have learnt through by heart. At an
+							average of 3. Stanzas a day from the 4<hi rend="superscript">th:</hi> of
+							July when I began them— Some of the first days however I miss’d, and
+							from the 1<hi rend="superscript">st:</hi> of this month I have learnt
+							four Stanza’s a day.— I have however so little remembrance of any word
+							out of the day’s lesson, that I think it necessary to go through the
+							book again to make it in any manner useful— In the Evening I read to
+								<persRef ref="adams-louisa-catherine;pope-eliza">the
+								Ladies</persRef>
+							<persRef ref="berkeley-george">Berkeley’s</persRef> second Dialogue.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-14">
+					<head>14 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>The Saturday’s club dined with me this day. All present
+							except <persRef ref="black-moses">M<hi rend="superscript">r:</hi>
+								Black</persRef>, who is unwell; and <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Blackburn</persRef>, who sent an
+							apology— <persRef key="adams-abigail">My Mother</persRef> is again very
+							unwell.— I began to go through the Racines Grecques a second time, and
+							propose to take now 5 Stanza’s a day. I was so much occupied with the
+							Company, that I had not time for any writing or reading, but that of the
+							morning before breakfast.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-15">
+					<head>15 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-15"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Heard a <persRef ref="richardson-joseph">M<hi
+									rend="superscript">r:</hi> Richardson</persRef>, a young man,
+							who keeps School at Charlestown, and is not yet settled.— His texts were
+							A.M. 1. Corinthians XIII.13. and P.M. John VII.46. Both miscellaneous
+							subjects, one a dissertation on Faith, Hope, Charity, in succession—the
+							other Comments upon several passages of the Sermon on the Mount— As
+							things said by him who spake as never Man spoke.— This is the easiest of
+							all modes of writing a Sermon, and as the early essays of a young
+							preacher, is not improper— Of course the doctrine is desultory, and
+							cannot be very impressive— M<hi rend="superscript">r:</hi> Richardson’s
+							speaking is good, and he reads tolerably well— The principal defect in
+							his pronunciation, which I remarked, was his dropping the <hi
+								rend="italic">r</hi> in words of several syllables, after a vowel—as
+								Tab<hi rend="italic">e</hi>nacle—Const<hi rend="italic"
+								>e</hi>nation—Gov<hi rend="italic">e</hi>nor, Prop<hi rend="italic"
+								>e</hi>ty— <persRef ref="whitney-peter">M<hi rend="superscript"
+									>r:</hi> Whitney</persRef> has the same fault; and it is common
+							among us.— The afternoon and Evening, I pass’d at <persRef
+								key="adams-john">my father’s</persRef>: and <persRef
+								ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef> also
+							were there— <persRef ref="harrod-charles">M<hi rend="superscript"
+									>r:</hi> Charles Harrod</persRef>, was there too— I read little,
+							but searched for sources of information concerning the Greek Language—
+							Found a treatise on the pronunciation of the Letters, at the head of
+							<persRef ref="scapula-johann">Scapula’s</persRef> Lexicon, and a Collection of short axioms at the end of an old
+							<persRef ref="schrevelius-theodorus">Schrevelius</persRef>, the English Edition— I am impatient seriously to engage
+							<persRef ref="demosthenes">Demosthenes</persRef>, but have not yet the strength— Late home this Evening.— I
+							read <persRef ref="sterne-lawrence">Sterne’s</persRef> Sermons XIV. On Self-examination XV. <persRef ref="job">Job’s</persRef> expostulation
+							with <persRef ref="jobswife">his wife</persRef>—and XVI. Character of <persRef ref="shimei">Shimei</persRef>.— The first contains many
+							observations worthy of being meditated, and laid to heart— Points out
+							and warns against several Causes whence self-examination so often is to
+							so little purpose for reformation; and urges us <hi rend="italic"
+								>truly</hi> to prove our own works— But it seems not to have
+							sufficient connection with the text— Job’s expostulation is chiefly
+							remarkable, as containing the various explanations attempted of the
+							strange passage, “Curse God and Die”— The Character of Shimei, is
+							satyrical: and might as well have been called the character of Abishai—
+							It is the time-serving, treacherous sycophant— But the latter part of
+							the Sermon, flies from the subject, and sinks almost into insipidity— It
+							bears numerous marks of hasty and careless composition</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-16">
+					<head>16 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-16"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Weather again above summer heat— In the afternoon I went
+							to <persRef key="adams-john">my father’s</persRef>, and bathed at <persRef ref="black-moses">M<hi rend="superscript">r:</hi> Black’s</persRef>
+							Wharf. Read <persRef ref="u">Monsieur Morlhon’s</persRef> Eulogium on <persRef ref="daguesseau-henri">Chancellor d’Aguesseau</persRef>, at
+							the head of his works.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-17">
+					<head>17 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-17"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="179" type="ms"/>
+						<p><date>17. </date><persRef ref="tufts-cotton2">Doctor Tufts</persRef> called on me this morning; to advise me
+							concerning my health, which is very indifferent. There is but one thing
+							which can help me; and that is, idleness— A prescription, which I cannot
+							take, so long as I can keep on my feet— The afternoon I spent at <persRef key="adams-john">my
+							father’s</persRef>— Finished the analysis of <persRef ref="aristotle">Aristotle’s</persRef> Rhetoric, Book Second—
+							Began to read <persRef ref="demosthenes">Demosthenes</persRef>, first Philippic; and to learn over again the
+							Greek Grammar.— Bathed with <persRef key="adams-thomas">my brother</persRef>, at <persRef ref="black-moses">M<hi rend="superscript"
+								>r:</hi> Black’s</persRef> wharf.— Spent the Evening at <persRef ref="greenleaf-daniel">M<hi
+									rend="superscript">r:</hi> D. Greenleaf’s</persRef>; where I found <persRef ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>,
+							and <persRef ref="u">M<hi rend="superscript">r:</hi> Millar</persRef>, &amp; <persRef ref="greenleaf-thomas">M<hi
+								rend="superscript">r:</hi> T. Greenleaf</persRef> with their families.— My
+							brother &amp; <persRef ref="adams-ann">his wife</persRef>, followed me thither.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-18">
+					<head>18 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date><persRef ref="pearson-eliphalet">Professor Pearson</persRef> called upon me this morning with <persRef ref="quincy-josiah2">M<hi
+								rend="superscript">r:</hi> Quincy</persRef>, and had some conversation with me
+							respecting the late vote of the Corporation of the College, authorising
+							a suspension of certain parts of the duties assigned to the
+							Professorship; upon a condition; against which I stated to him an
+							objection— We came to no conclusion upon the subject.— I dined at <persRef key="adams-john">my
+								fathers</persRef> with <persRef key="adams-louisa-catherine">my wife</persRef> &amp; <persRef ref="pope-eliza">her Sister</persRef>— In the Evening, <persRef ref="smith-abigail">my Sister Smith</persRef>
+							and her family returned from Boston— And <persRef key="adams-thomas">my brother</persRef> with <persRef ref="adams-ann">his wife</persRef>, who
+							had pass’d the day there— The extreme warmth of the weather, relaxes by
+							an uncontroulable necessity my studies. I read little else this
+							afternoon than the Eloge of <persRef ref="daguesseau-henri">d’Aguesseau</persRef>, by <persRef ref="u">Thomas</persRef>, which is the best of
+							these commendatory pieces, that introduce his works; and the last of
+							them.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-19">
+					<head>19 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Went to Boston with <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+							Adams</persRef>, and returned at Night— Met <persRef ref="davis-john">Judge Davis</persRef> at the Academy’s room in
+							the State-House— Made Arrangements for packing, and sending away to the
+							various Societies, the volumes of the Academy’s transactions, last
+							published— Conversed also with him respecting the vote of the
+							Corporation, and explained to him, my objections to the condition they
+							had annexed to the power of suspending part of the regulations
+							containing the professor of Rhetoric’s duties— He thought the vote might
+							be modified to conform to my wishes. I dined with him. Saw <persRef ref="delisle-caton">M<hi
+								rend="superscript">r:</hi> Delille</persRef>, who is going to quit my house,
+							but he knows not exactly when.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-20">
+					<head>20 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Pass’d the afternoon, in the Office at <persRef key="adams-john">My Fathers</persRef>— Began
+							upon the third Book of <persRef ref="aristotle">Aristotle’s</persRef> Rhetoric— Read also the first
+							Discourse of <persRef ref="daguesseau-henri">d’Aguesseau</persRef>, as Avocat-General. It was the Custom of the
+							Advocates-General in the High Courts, of which there were three to
+							pronounce alternately every year a discourse address’d to the Advocates,
+							on the opening of the Sessions— d’Aguesseau, who held for ten years the
+							Office of an Advocate general delivered three of these Discourses, and
+							with them the Collection of his Works Commences— The subject of this is
+							the professional Independence of the Advocate, and it is an eloquent
+							Oration.— It holds up the profession of an Advocate in a very
+							respectable light, and urges upon those who exercise it a just sense of
+							its dignity and excellent moral principles— The distinction between the
+							Avocat and Procureur I do not fully understand, though I believe it the
+							same as that of a Counsellor and Attorney— I also finished this morning
+							the Acts of the Apostles in the Greek Testament— Wrote a little.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-21">
+					<head>21 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="apthorp-g">M<hi rend="superscript">r:</hi> Apthorp</persRef> called on me
+							this Morning; respecting the affairs of the Bridge— I agreed to go down
+							with him, Monday; In the afternoon, at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Smith’s</persRef>, and <persRef ref="cranch-richard">M<hi rend="superscript">r:</hi> Cranch’s</persRef>— This afternoon, I
+							read part of <persRef ref="cicero-marcus">Cicero’s</persRef> third Dialogue de Oratore, in the french
+							translation; and in the Evening finished reading to <persRef ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>
+							<persRef ref="berkeley-george">Berkeley’s</persRef> Dialogues— The reasoning of this Book appears to me
+							conclusive— The Style is elegant, but the part of <persRef ref="hylas">Hylas</persRef> might be
+							improved— The dialoge would be more natural if he did not so often
+							confess himself defeated.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-22">
+					<head>22 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Heard <persRef ref="pierce-john">M<hi rend="superscript">r:</hi> Pearce</persRef> of
+							Brooklyne—in the forenoon from Job. VIII.9.—and afternoon John III.16.—
+							His divisions in the morning, were that we <hi rend="italic">know
+								nothing</hi> of 1. God. 2. Nature. 3. Scripture. 4. Man. 5.
+							Ourselves.—and in the afternoon 1. The love of God to the world 2. The
+							necessity of Faith to Salvation— This last division appears to me
+							ingenious, and less easy than the other— Both are sufficiently
+							methodical. M<hi rend="superscript">r:</hi> Pearce speaks very well, and
+							excepting that he occasionally slurs a vowell pronounces well
+								too—figu<hi rend="italic">r</hi>tively, was the word where the
+							omission of a letter was most remarkable— He falls occasionally into a
+							tone, but generally avoids it.— Read <persRef ref="sterne-lawrence">Sterne’s</persRef> Sermons. XVII. The Case of
+							<persRef ref="hezekiah">Hezekiah</persRef> and the Messengers, or against Ostentation— XVIII. The Levite
+							and his Concubine; or indulgence to frailty, and XIX <persRef ref="felix-antonius">Felix’s</persRef> behaviour
+							to <persRef ref="paul">Paul</persRef>—or against <pb n="180" type="ms"/>Avarice— Sterne’s usual mode
+							of sermonizing, is to work up some historical incident in the Bible,
+							into a little novel—and to intersperse characters, general maxims of
+							morality, and pathetic touches, through the discourse as occasion
+							offers. He is very fond of personifying the Passions, and often
+							introduces supposed soliloquies or dialogues; with occasional strokes of
+							humour and of Satire— The whole compound forms a singular species of
+							Sermon— Never very profound; but very animated, and generally full of
+							good morality— There is however too much sameness both of manner and of
+							doctrine in them, and the morals are sometimes too lax, as particularly
+							in the Story of the Levite and his Concubine— Yes, there are crimes of
+							deeper die than female frailty, but the pulpit is not a place to
+							apologize even for that— The moral of this Sermon, is exactly that of
+							<persRef ref="kotzbue-august">Kotzebue’s</persRef> Misanthropy and Repentance; but what will do for the Stage,
+							is not always suitable for the temple— I read this afternoon also
+							<persRef ref="daguesseau-henri">d’Aguesseau’s</persRef> 2<hi rend="superscript">d:</hi> discourse as
+							Avocat-General.— On the knowledge of Mankind Necessary to the lawyer.
+							very good. He gives the example of <persRef ref="cicero-marcus">Cicero</persRef>, extorting the pardon of
+							<persRef ref="marcellus-marcus">Marcellus</persRef> from <persRef ref="caesar-julius">Caesar</persRef>, as the highest triumph of eloquence. In the
+							Evening, read to <persRef ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>, the 5<hi rend="superscript">th:</hi> book
+							of the Metamorphoses; translated, or rather travestied by <persRef ref="maynwaring-arthur">Arthur
+								Maynwaring</persRef>.— The Story of <persRef ref="perseus">Persius</persRef> and his <persRef ref="medusa">Medusa’s</persRef> head is too long in
+							the original— But the rape of <persRef ref="Proserpine">Proserpine</persRef>, and the contest of the Muses
+							with the daughters of <persRef ref="Picus">Picus</persRef>, is very pleasing there, and might be so
+							still in the hands of a good translator.— We commence making fires.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-23">
+					<head>23 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date><persRef ref="apthorp-g">M<hi rend="superscript">r:</hi> Apthorp</persRef> called on me
+							this morning, and I went with him to <persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+							Quincy</persRef>— There I took <persRef ref="u">Torrey’s</persRef> bond, as toll-man at the Bridge— We then
+							proceeded as far as <persRef ref="bass-josiah">M<hi rend="superscript">r:</hi> Bass’s</persRef>; but finding
+							he was not gone to the Bridge, we returned— Rain part of the morning,
+							and all the afternoon; which kept us at home— I finished reading <persRef ref="cicero-marcus">Cicero</persRef>
+							de Oratore; and began his Orator, in the french Translation— In the
+							Evening read to <persRef ref="adams-louisa-catherine;pope-eliza">the Ladies</persRef>, The 6<hi rend="superscript">th:</hi> Book of
+							the Metamorphoses, very well translated by <persRef ref="croxall-samuel">M<hi rend="superscript"
+								>r:</hi> Croxall</persRef>.— The Story of <persRef ref="tereus">Tereus</persRef>, <persRef ref="procne">Procne</persRef> &amp; <persRef ref="philomela">Philomela</persRef>, is
+							too shocking; but those of <persRef ref="niobe">Niobe</persRef>, of <persRef ref="arachne">Arachne</persRef>, and of the Lycian Peasants
+							turned into frogs, are very entertaining.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-24">
+					<head>24 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date><persRef ref="apthorp-g">M<hi rend="superscript">r:</hi> Apthorp</persRef> called upon me
+							again, and I went with him down to the Bridge, where we found <persRef ref="bass-josiah">M<hi
+								rend="superscript">r:</hi> Bass</persRef> at work. We waited to observe the
+							rising of the tide, and how far it overflowed the road— It was about a
+							foot— Returned home to dinner. In the afternoon, I went down to <persRef key="adams-john">my
+								father’s</persRef>— Found there <persRef ref="osgood-timothy">M<hi rend="superscript">r:</hi> T. Osgood</persRef>,
+							formerly of Haverhill— <persRef ref="adams-ann">M<hi rend="superscript">rs:</hi> T. B. Adams</persRef> went
+							with him to Boston— <persRef key="adams-thomas">My brother</persRef> went this morning to attend the Court of
+							Common Pleas at Dedham— Evening at home— I read this afternoon, a
+							Chapter of <persRef ref="aristotle">Aristotle’s</persRef> Rhetoric, and in the Evening, part of “Lame
+							Jervas,” in the <persRef ref="edgeworth-maria">Edgeworth’s</persRef> popular tales.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-25">
+					<head>25 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Morning at home— Afternoon and Evening at <persRef key="adams-john">my father’s</persRef>
+							where there was a party at tea— A <persRef ref="freeman-jonathan2">M<hi rend="superscript">r:</hi>
+							Jonathan Freeman</persRef> of Hanover in New-Hampshire, with his family, came in
+							while we were there— He was on his way to Cape Cod, where he is going to
+							visit <persRef ref="freeman-nathaniel2">his brother</persRef>. He was formerly a member of Congress from
+							New-Hampshire.— I read this afternoon a Chapter of <persRef ref="aristotle">Aristotle</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-26">
+					<head>26 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date><persRef ref="pope-eliza">Eliza Johnson</persRef> went out this morning with <persRef ref="smith-william-steuben">W. Smith</persRef>, and
+							pass’d the day at <persRef ref="black-moses">M<hi rend="superscript">r:</hi> Black’s</persRef>. In the
+							afternoon I went to <persRef key="adams-john">my father’s</persRef>— <persRef key="adams-louisa-catherine">The Ladies</persRef> were gone to Weymouth.— Read
+							only a short Chapter in Aristotle— And in the Evening to the Ladies, the
+							remainder of Lame Jervas, in the popular tales.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-27">
+					<head>27 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="smith-abigail">My Sister Smith</persRef>, with <persRef ref="smith-william-steuben">her Son</persRef> and <persRef ref="dewindt-caroline">daughter</persRef> dined with
+							<persRef ref="adams-louisa-catherine;pope-eliza">us</persRef>, and <persRef key="adams-abigail">my mother</persRef> came in the afternoon.— I read and wrote but little
+							this day— But in the Evening I read the Will, from the Popular
+							tales.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-28">
+					<head>28 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date><persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi> Quincy</persRef> called here this
+							morning, respecting the missing volume of Congressional Documents, he
+							borrowed of me— He thought there had been only two.— <persRef key="adams-john">My father</persRef> went with
+							him and dined at <persRef ref="u">M<hi rend="superscript">r:</hi> Pomeroy’s</persRef>—Little
+							Cambridge— I dined with <persRef key="adams-abigail">my Mother</persRef>; and <persRef ref="adams-louisa-catherine;adams-george;adams-john2">all my family</persRef> with me— The club
+							was at <persRef ref="u">M<hi rend="superscript">r:</hi> Barrett’s</persRef>.— In the Evening, after
+							we came home, I read the Limerick Gloves, in the popular tales.— At my
+							father’s I read a Chapter of <persRef ref="aristotle">Aristotle</persRef>; and this morning finished in the
+							Greek Testament, the epistle to the Romans— But I wrote nothing— This
+							part of my employments so often fails, that I must change the order of
+							my studies, and make this as it must be the indispensable— Leaving
+							others less urgent to be affected by the occasional daily circumstances,
+							which break in upon my regular occupation.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-29">
+					<head>29 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="181" type="ms"/>
+						<p><date>29. </date>Heard <persRef ref="whitney-peter">M<hi rend="superscript">r:</hi> Whitney</persRef> this
+							morning, and <persRef ref="u">M<hi rend="superscript">r:</hi> Gardner</persRef> at Church this
+							afternoon.— At the Office, at my father’s afterwards, and read a Chapter
+							of Aristotle— M<hi rend="superscript">r:</hi> Gardner, and <persRef ref="shaw-william">M<hi
+								rend="superscript">r:</hi> Shaw</persRef>, who came with him, returned to
+							Boston this Evening— We had had another dry Storm these <hi
+								rend="strikethrough">Evening</hi> two days— I came home early this
+							Evening, read alone.— M<hi rend="superscript">r:</hi> Whitney’s Sermon
+							was from 1. Corinthians X.32. “Give none Offence.”— His divisions were
+							1. The restrictions under which this precept must be received; or the
+							cases when we ought to give Offence; and 2. The cases to which the
+							injunction does extend.— The discourse was altogether moral, in the
+							usual strain of M<hi rend="superscript">r:</hi> Whitney’s Sermons. M<hi
+								rend="superscript">r:</hi> Gardner’s text was. Philippians III.1.
+							“Finally, my brethren, <hi rend="italic">rejoice</hi> in the Lord.”—
+							Upon this theme, the Sermon, was an ingenious, satyrical dissertation
+							upon religious <hi rend="italic">Melancholy</hi>; with particular
+							application to field-preachers, and camp meetings— Some of which within
+							these few months have been held and numerously attended, in the
+							neighbourhood of Boston.— But religious <hi rend="italic"
+								>melancholy</hi>, and field-preaching, or attendance upon it are
+							very distinct things. The former may deserve a very <hi rend="italic"
+								>serious</hi> treatment, while humour and severity may be justly be
+							used against the latter— M<hi rend="superscript">r:</hi> Gardner treated
+							both parts of the subject superficially— In tracing religious
+							melancholy, the only cause of it which occurred to him was <hi
+								rend="italic">bodily indisposition</hi>; and accordingly he
+							recommended to the sufferer, a physician— Now there are other Causes of
+							this distemper, much more within the preacher’s department, which he
+							might have noticed— So in censuring camp-meetings and field-preachers,
+								M<hi rend="superscript">r:</hi> Gardner did not enter into any
+							consideration of their mischievous tendencies, and effects; he only
+							viewed them as the schools of religious melancholy; kept by “fanaticism,
+							which (said he) is religion run mad; or superstition, which is religion
+							frightened out of her wits”— His arguments to prove that no man at this
+							day can be guilty of the Sin against the Holy Ghost, or the deadly Sin;
+							or the unpardonable Sin, were plain and obvious enough, and his
+							explanation of the texts where this offence is mentioned I suppose just—
+							He appeared somewhat embarrassed with an Article of the Church of
+							England, which asserts <hi rend="italic">Predestination</hi>, nor did
+							his quotation from the <persRef ref="sanderson-robert">Bishop of Lincoln</persRef> help him out of the difficulty—
+							This prelates idea is that predestination, in the 39 Articles means
+							nothing but <hi rend="italic">fore-knowledge</hi>.— It is better to be
+							silent on this topic, than to attempt such escapes from its difficulty—
+								M<hi rend="superscript">r:</hi> Gardner’s manner is good. He reads
+							and Speaks well—that is according to the rules of <persRef ref="sheridan-thomas2">Sheriden</persRef> and <persRef ref="walker-john2">Walker</persRef>—
+							His accent, emphasis, pause, and modulation, are all correct; but he
+							wants flexibility of voice— He also wants a certain sensibility of
+							manner, which gives animation to a speaker— His pronunciation has none
+							of the ordinary faults of this climate; he was bred in England, and is
+							studious of the English utterance— But he has considerable faults
+							peculiar to himself, the most remarkable is sounding wrong the <hi
+								rend="italic">r</hi>, after a consonant—for he says g<hi
+								rend="italic">o</hi>reat—g<hi rend="italic">o</hi>racious—t<hi
+								rend="italic">o</hi>rumpet—and in other instances, sinks a vowel
+							preceding the r, where it <hi rend="italic">is</hi>, as suff<hi
+								rend="italic">r</hi>ing—for suffering, &amp;c.— I began this morning
+							the first Epistle to the Corinthians in the Greek Testament.—and read
+							Sterne’s Sermons XX. The Story of the Prodigal Son— XXI.— National
+							Mercies considered— An Occasional Sermon, upon the King’s Inauguration;
+							and XXII. On the unfortunate life of the Patriarch <persRef ref="jacob">Jacob</persRef>.— I noticed
+							last Sunday the general characters of <persRef ref="sterne-lawrence">Sterne’s</persRef> manner— His introduction
+							to the 19<hi rend="superscript">th:</hi> Sermon gives the <hi
+								rend="italic">principle</hi>, upon which he thus writes— That Sermon
+							is one of his best— It has some of his finest touches of pathetic— Some
+							of his most pleasant strokes of humour— Many of his most ingenious
+							deductions of generalities, and an adaptation of antient Scenery to
+							modern Manners, which is striking, and very agreeable— And yet the whole
+							ends in satyrical remarks on the practice of sending young men to
+							Travel, for their Education— Many of Sterne’s Sermons rise in a blaze,
+							and fall extinct like a sky-rocket. He spends all his brilliancy, before
+							he has got half through his work, and ends with a pitiful conclusion.
+							The inaugural Sermon is of a cast somewhat different, but has nothing
+							very remarkable. The Story of Jacob, has no single moral; but raises a
+							variety of good doctrines, from the various incidents of his life. The
+								<hi rend="italic">subject</hi>, is the shortness and misery of life—
+							But Sterne’s lesson is “to enjoy is to obey.”—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-30">
+					<head>30 September 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="182" type="ms"/>
+						<p><date>30. </date><persRef ref="apthorp-g">M<hi rend="superscript">r:</hi> Apthorp</persRef> called upon me
+							this morning, and I went with him to the bridge; where we gave our
+							directions to <persRef ref="bass-josiah">M<hi rend="superscript">r:</hi> Bass</persRef>, respecting his
+							further proceeding to repair the road— Return’d home to dinner. <persRef ref="dewindt-caroline">Caroline
+								Smith</persRef>, and <persRef ref="clark-susanna">Susan</persRef> dined with us.— Found at the Office below, <persRef key="adams-thomas">my brother</persRef>,
+							who came from Boston this morning— But returns to Dedham to attend the
+							Supreme Court to-morrow— I came home early this Evening, and read to <persRef ref="adams-louisa-catherine;pope-eliza">the
+							Ladies</persRef> “Out of Debt, out of danger”; from the popular tales— The last
+							and best Story of the first Volume.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-09-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise about 6. The Racines
+							Grecques, and the Greek Testament still employ me till 9 or 10 O’Clock,
+							when we generally breakfast— I then employ half an hour in hearing
+							<persRef key="adams-george">George</persRef> learn to read in French. Pass the remainder of the forenoon, when
+							not interrupted, in writing this Journal; keeping my daily accounts, and
+							sketches for future lectures. at 1. we dine. I rest or work in my garden
+							an hour— Walk down to <persRef key="adams-john">my father’s</persRef>— There read and Analyze a Chapter of
+							<persRef ref="aristotle">Aristotle’s</persRef> Rhetoric— Pass an hour with the family at my father’s—
+							Return home for the Evening, and read an hour or two, to <persRef key="adams-louisa-catherine">my wife</persRef> and
+							<persRef ref="pope-eliza">Sister</persRef>— Between 10 and 11. after a very light supper, we retire to bed—
+							After having gone completely through the first part of the Racines
+							Grecques, learning by heart 3. Stanzas every day—I found that my memory
+							scarcely ever retained more than the lesson of the day; and I had no
+							more command over any previous lessons than if I had never bestowed half
+							an hour upon the Book. This proved to me the necessity of going through
+							it again— My former labour however facilitates my present toil; and I
+							now learn five Stanza’s every day— I have thus gone through 85 Stanzas
+							the second time— I also now use an additional exercise, and make a
+							practise of repeating over the lessons of four or five successive days,
+							at once— As for instance the whole letter Α.—then Β. Γ. Δ—then Ε. Ζ. Η.
+							Θ.— So that I shall divide the whole into about eight lessons. Yet is
+							the memory so much like the buckets of the Danaïds, that I still find my
+							learning run out almost as fast as I pour it in— And I shall be obliged
+							to go through this Book a third Time, to attain any thing like a ready
+							command over its contents— The days have already become so short, that
+							one Chapter of Aristotle occupies the whole time I can find in the
+							afternoon— And I have now but one Month left, before I must take my
+							departure for Washington; and abandon for the winter the studies, which
+							have so agreeably occupied me since the beginning of July— My knowledge
+							of Greek is yet imperceptible. From my own dulness I learn to excuse
+							that of my Son George, whose progress in French is as slow, as my own in
+							Greek.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

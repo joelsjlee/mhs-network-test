@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1798-02">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="month" mhs:startingPage="209"  mhs:precedingFile="JQADiaries-v24-1798-01-p206.xml" mhs:followingFile="JQADiaries-v24-1798-03-p212.xml" mhs:volume="24">
+                <bibl n="metadata"><date from="1798-02-01" to="1798-02-28"/></bibl>
+
+                <!-- D/JQA/24.1220 -->
+
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-01">
+                    <head>1 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-01"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <dateline><hi rend="italic">February 1798.</hi></dateline>
+                        <p><date>1. </date>Tea this Evening at the <persRef ref="schultz-carl">Baron
+                                Schulz von Ascheraden’s</persRef>, with <persRef ref="u">his
+                                sister</persRef>, a maiden Lady who lives with him. Company small.
+                                <persRef ref="u">Madame de Carisien</persRef> widow of the <persRef
+                                ref="voncarisien-carl">late Swedish Minister</persRef> and a
+                                <persRef ref="u">Chevalier de Bressac</persRef>; a french
+                            Neapolitan— Little exercise of late from having much writing.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-02">
+                    <head>2 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-02"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="210" type="ms"/>
+                        <p><date>2. </date>Spent the day at home. Writing in the former part of it.
+                            Began reading <persRef ref="imlay-gilbert">Imlay’s</persRef> Account of the Western
+                            Country of America— Evening reading of Geography, and <persRef
+                                ref="thomson-james">Thomson’s</persRef> Liberty; a dull Poem.</p>
+                    </div>
+                </div>
+
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-03">
+                    <head>3 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-03"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Health and Illness</subject>
+                        <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>3. </date>Evening at <persRef ref="alvensleben-philipp">Baron
+                                Alvensleben’s</persRef> assembly: not a Ball. That amusement is
+                            suspended by the illness of the <persRef
+                                ref="frederick-william-iii;louiseauguste">king &amp;
+                            queen</persRef>, both of whom have the measles; as also the <persRef
+                                ref="frederica-sophia">Princess Louis</persRef>, &amp; <persRef
+                                    ref="wilhelmina2">Princess of Orange</persRef>. Play’d
+                            Whist, with <persRef ref="u">Madame de Molcke</persRef>, <persRef
+                                ref="u">Madame de Wulknitz</persRef> &amp; <persRef
+                                ref="vonzastrow-alexander">M. Zastrow</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-04">
+                    <head>4 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-04"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>4. </date>Day chiefly at home. <persRef ref="u"
+                                >Mademoiselle de Schultz</persRef> called and took tea with <persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+                            <persRef ref="schultz-carl">Her brother</persRef> is very unwell this
+                            day.— I have been writing some Letters, but find myself still too often
+                            interupted.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-05">
+                    <head>5 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-05"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Court Life and Society (European)</subject>
+                        <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>5. </date>At the <persRef ref="wilhelminaofhesse">Princess
+                                Henry’s</persRef> at the beginning of the Evening. <persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>.
+                            stayed there to supper; for by the peculiar usages of this Court the
+                            wives of foreign Ministers are expected to sup with the Princesses,
+                            although the Ministers themselves are not. The reason is that the Ladies
+                            have no rank, and there can be no dispute for precedence between them—
+                            Met <persRef ref="vonthulemeyer-friedrich">M. de Thulemeyer</persRef>,
+                            for the first time, and recognized him.— Came away as the Princess sat
+                            down to cards, and went to <persRef ref="augustusferdinand">Prince
+                                Ferdinand’s</persRef>, where we had a special invitation for this
+                            Evening.— Whist with <persRef ref="u">Madam de Bredow</persRef>.
+                                <persRef ref="u">Madame de Massow</persRef>, and the <persRef
+                                ref="neale-ferdinand">Count Neale</persRef>.— Came home before
+                            supper.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-06">
+                    <head>6 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-06"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>6. </date><persRef ref="neale-pauline">M<hi rend="superscript">lle.</hi> de
+                                Neale</persRef> and <persRef ref="deberg-louisa">M<hi rend="superscript"
+                                    >lle:</hi> de Berg</persRef>, called this forenoon upon <persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>—
+                            Wrote a letter to <persRef ref="adams-abigail">my mother</persRef>.—
+                            Evening at home.— Geography. 4<hi rend="superscript">th:</hi> part of <persRef
+                                ref="thomson-james">Thomson’s</persRef> Liberty. Nothing in it to
+                            give an interest.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-07">
+                    <head>7 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-07"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>7. </date>Walk with <persRef ref="adams-louisa-catherine">M<hi
+                                    rend="superscript">rs:</hi> A.</persRef> and a long one alone. Evening
+                            at <persRef ref="vonzinzendorf-friedrich">Count Zinzendorff’s</persRef>
+                            who had a tea and card party. Some conversation with <persRef
+                                ref="haugwitz-christian">Count Haugwitz</persRef>. Reversi with
+                                <persRef ref="u">Madame de Haaren</persRef>, <persRef ref="u">M<hi
+                                    rend="superscript">lle:</hi> Dorville</persRef>, and a frenchman
+                                <persRef ref="u">M<hi rend="superscript">r:</hi> Dubois</persRef>.— Home
+                            soon after 9.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-08">
+                    <head>8 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-08"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>8. </date>The day and evening at home, excepting the usual walks.
+                            Finished <persRef ref="thomson-james">Thomson’s</persRef> poor Poem of
+                            Liberty. Some Geography. There is a great sameness in the mode of
+                            passing time when we are once settled.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-09">
+                    <head>9 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-09"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>9. </date>Evening at a tea and card party at the <persRef
+                                ref="vonheinitz-friedrich">Baron Heinitz’s</persRef>. He has them
+                            weekly. These parties all have a great resemblance to one another, and
+                            you meet at them nearly the same company. They assemble between 6 and 7
+                            in the Evening; in a suite of four or five rooms containing each as many
+                            card tables. Every person is to make up his own party for play, which is
+                            usually Cassino, Ombre, Whist or Reversi. They play till about 9 and
+                            soon after all the company retire.— Play’d Whist, with the <persRef
+                                ref="u">Countess de Keyserling</persRef>, the <persRef ref="u"
+                                >Marquis de S<hi rend="superscript">t:</hi> Vincent</persRef>, and a
+                                <persRef ref="gallatin-pierre">Chevalier de Gallatin</persRef>, who
+                            enquired of me about <persRef ref="gallatin-albert">his
+                                namesake</persRef> in America.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-10">
+                    <head>10 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-10"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>10. </date>Weather dull, rainy, windy; resembling the ordinary
+                            winter weather— Evening at <persRef ref="alvensleben-philipp">M<hi
+                                    rend="superscript">r:</hi> Alvensleben’s.</persRef> the last of his six
+                            weekly assemblies. Reversi with <persRef ref="u">Madame de
+                                Haaren</persRef>, <persRef ref="muzquiz-ignacio">M.
+                                Musquitz</persRef> and <persRef ref="u">M: de Wulknitz</persRef>.—
+                                <persRef ref="u">M<hi rend="superscript">r:</hi> Knoblauch</persRef> the
+                            Danish chargé des affairs says that the Young <persRef
+                                ref="bernstorff-christian">Count de Bernstorff</persRef> is <hi
+                                rend="italic">Secretary of</hi> State, and at the head of the
+                            department of foreign affairs. But not Minister of State; which is an
+                            higher rank.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-11">
+                    <head>11 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-11"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>11. </date>Day at home. Weather very bad. Finished <persRef
+                                ref="imlay-gilbert">Imlay’s</persRef> great hotch-pot about America,
+                            and commenced upon <persRef ref="washington-george">General
+                                Washington’s</persRef> official Letters, which I have never
+                            regularly read. Evening Geography, and the first Canto of <persRef
+                                ref="thomson-james">Thomson’s</persRef> Castle of Indolence a very
+                            agreeable Poem, though its plan has not sufficient method for so long a
+                            work.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-12">
+                    <head>12 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-12"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>12. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+                                    >rs:</hi> Adams</persRef> very unwell: so that she could not go
+                            out.— Evening at the <persRef ref="wilhelminaofhesse">Princess
+                                Henry’s</persRef>. Whist with the <persRef ref="haugwitz-johanna"
+                                >Countess Haugwitz</persRef>, <persRef ref="u">Madame de
+                                Moltke</persRef> and <persRef ref="u">M. de Knoblauch</persRef>, the
+                            Danish chargé des affairs.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-13">
+                    <head>13 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-13"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Health and Illness</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="211" type="ms"/>
+                        <p><date>13. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+                                    >rs:</hi> Adams</persRef> continues very unwell, so as to give
+                            me extreme anxiety and alarm.— Wrote to <persRef ref="murray-william2"
+                                    >M<hi rend="superscript">r:</hi> Murray.</persRef> At the Cassino in the
+                            afternoon. Evening read the remainder of <persRef ref="thomson-james"
+                                >Thomson’s</persRef> Castle of Indolence.</p>
+                    </div>
+                </div>
+
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-14">
+                    <head>14 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-14"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>14. </date>Day again at home. Letter to <persRef
+                                ref="adams-charles">My Brother Charles</persRef>. <persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+                                Adams</persRef> still unwell. Walk before dinner— Read all <persRef
+                                ref="thomson-james">Thomson’s</persRef> short Poems, all of which
+                            are pleasing.— Geography Preface to <persRef ref="walsh-william"
+                                >Walsh’s</persRef> Poems.— Thomson used to consider his Liberty as
+                            his most valuable Poem.— <persRef ref="milton-john">Milton</persRef>
+                            gave a similar preference to his Paradise regained.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-15">
+                    <head>15 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-15"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>15. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+                                    >rs:</hi> Adams</persRef> yet unwell— Home the day through.
+                            Reading <persRef ref="washington-george">Washington’s</persRef> official
+                            Letters: my Geography, and part of <persRef ref="shakespeare-william"
+                                >Shakespeare’s</persRef> tempest.— Admitted this Evening as a member
+                            of the Casino. No writing. My time not employed with sufficient
+                            industry.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-16">
+                    <head>16 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-16"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>16. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+                                    >rs:</hi> Adams</persRef> was apparently well again all the
+                            former part of the day; but in the Evening— Our hopes were raised merely
+                            to be more severely dashed to the ground.— Dined with the <persRef
+                                ref="danadia-joao">Vicomte d’Anadia</persRef>, the Portuguese
+                            Minister— A very splendid dinner.— Company about twenty-five persons.—
+                            Interesting conversation with the <persRef ref="muzquiz-ignacio">Marquis
+                                de Musquitz</persRef> &amp; with <persRef ref="u">Captain de
+                                Knoblauch</persRef> the Danish chargé des affairs.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-17">
+                    <head>17 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-17"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>17. </date><persRef ref="adams-louisa-catherine">My wife</persRef>
+                            yet very ill.— Wrote a letter in the forenoon. Evening a short time at
+                            the <persRef ref="hordt-sophia">Countess Hordt’s</persRef>, where there
+                            was a large party— I stayed but about half an hour. There was a Ball to
+                            at <persRef ref="u">Count Wingersky’s</persRef>, which I did not
+                            attend.— I learn nothing.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-18">
+                    <head>18 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-18"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                        <subject>Court Life and Society (European)</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>18. </date>Walk this forenoon in the Park.— <persRef ref="u">The
+                                Abbé de Bissi</persRef> called to see me this afternoon— He is a man
+                            of some understanding and information.— Evening at <persRef
+                                ref="augustusferdinand">Prince Ferdinand’s</persRef>. <persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+                            could not go, being still quite unwell.— Whist with the <persRef
+                                ref="haugwitz-johanna">Countess Haugwitz</persRef>, <persRef
+                                ref="konigsdorf-luisa">Countess Königsdorff</persRef> &amp; <persRef
+                                ref="u">Count Kielmanusegg</persRef>—the party was larger than
+                            usual— Appointment to call on <persRef ref="haugwitz-christian">Count
+                                Haugwitz</persRef> at 5 to morrow afternoon. Did not stay to
+                            supper.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-19">
+                    <head>19 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-19"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>19. </date>Called upon <persRef ref="haugwitz-christian">Count
+                                Haugwitz</persRef> this afternoon according to appointment.
+                            Conversation with him principally upon the late french decree against
+                            neutral navigation.— My correspondence contains its substance. I shall
+                            see him again. Evening at home writing to the <persRef
+                                ref="pickering-timothy">Secretary of State</persRef> &amp;c.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-20">
+                    <head>20 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-20"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>20. </date>Went this morning to look out for lodgings. We are to
+                            quit those which we now hold on the first of May. Saw two houses neither
+                            of which will suit us.— There appear to be no convenient, though great
+                            abundance of magnificent houses at Berlin.— Dined with <persRef ref="u"
+                                    >M<hi rend="superscript">r:</hi> Schickler</persRef> at 1. Company of
+                            about twenty persons as usual. The Swedish <persRef ref="u">Count
+                                Gyldenstolpe</persRef> &amp; the <persRef ref="vonompteda-ludwig"
+                                >Baron d’Ompteda</persRef> were among them. We came away at about 4.
+                            This is the general custom here.— Evening reading at home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-21">
+                    <head>21 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-21"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="strikethrough">24.</hi> 21. </date><persRef
+                                ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+                            again unwell.— Writing as much as I can— Walk before dinner. At the
+                            Casino, in the Evening. Latter part of it at home, alone and
+                            unhappy.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-22">
+                    <head>22 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-22"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>22. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+                                    >rs:</hi> A.</persRef> again better, to flatter us again, and
+                            make the curse more bitter. Ball this evening at <persRef
+                                ref="vonfinckenstein-karl">Count Finckenstein’s</persRef>. Went
+                            there for a few minutes; but soon returned to my anxious home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-23">
+                    <head>23 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-23"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>23. </date>A short walk in the forenoon and wrote a couple of
+                            Letters.— Afternoon at the Casino. Evening at home; finished the little
+                            course of Geography, and also <persRef ref="washington-george">General
+                                Washington’s</persRef> Official Letters.— Reading likewise, <persRef
+                                ref="shakespeare-william">Shakspeare’s</persRef> plays.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-24">
+                    <head>24 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-24"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="212" type="ms"/>
+                        <p><date>24. </date>Rainy day. Wrote a long letter to the <persRef
+                                ref="adams-john">President</persRef>. Short walk after dinner and an
+                            hour at the Casino.— Reading <persRef ref="shakespeare-william"
+                                >Shakspeare</persRef> in the Evening— Began for morning reading the
+                            Memoir’s and Letters of <persRef ref="lee-charles">General
+                            Lee</persRef>.</p>
+                    </div>
+                </div>
+
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-25">
+                    <head>25 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-25"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>25. </date>This morning a letter, which should have gone a
+                            fortnight ago, to the Post-Office, was brought here by a soldier who
+                            said he had found it in the Street open, and finding it in English had
+                            after some fruitless enquiries to whom it belonged, carried it to
+                                <persRef ref="bruce-thomas">Lord Elgin’s</persRef> from whence he
+                            was immediately sent with it here. Upon enquiry I found that Frederic to
+                            whom it had been given on the 10<hi rend="superscript">th:</hi> to carry to the
+                            Post-Office, had given it to one of his comrades who offered to carry it
+                            for him; but who pocketed the money given him to frank it, and kept the
+                            letter untill this morning when he lost it in the street.— This is the
+                            story with which I must now content myself. The letter was not very
+                            important; but it impresses the absolute necessity of two cautionary
+                            rules. The one that nothing must be written without attention to the
+                            chance of its being intercepted: and the other that none but a
+                            confidential person <hi rend="italic">must</hi> be entrusted with
+                            letters to be delivered at the Post-Office— I have not indeed at this
+                            time to learn either of these maxims; but it is almost impossible to
+                            have an unceasing attention even to principles of which the application
+                            daily recurs.— Walk out just before dinner; met <persRef
+                                ref="garlike-benjamin">M<hi rend="superscript">r:</hi> Garlike</persRef>,
+                            secretary of the British legation, who said the soldier came this
+                            morning before he was out of bed, with the letters which the servants
+                            told him must belong to me, and which he told them to bring over to me,
+                            but did not see them.— There was one to <persRef ref="williams-samuel2"
+                                    >M<hi rend="superscript">r:</hi> Williams</persRef> &amp; one to the
+                                <persRef ref="pickering-timothy">Secretary of State</persRef> of the
+                                10<hi rend="superscript">th:</hi> inst<hi rend="superscript">t:</hi>— Both had been
+                            enclosed under a cover to Williams, which was taken off and has not been
+                            returned.— Evening at home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-26">
+                    <head>26 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-26"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Court Life and Society (European)</subject>
+                        <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>26. </date>Undertaking to write, what I shall probably never
+                            finish.— Dined with <persRef ref="bruce-thomas">Lord Elgin</persRef>.—
+                            Company not numerous.— Evening at the <persRef ref="wilhelminaofhesse"
+                                >Princess Henry’s</persRef>.— Reversi, with the <persRef ref="georgeofmecklenburg"
+                                >Prince of Mecklenburg</persRef>, <persRef ref="riedesel-charlotte"
+                                >Madame de Riedesel</persRef>, and the <persRef ref="reuss-augusta"
+                                >Countess Reuss</persRef>.— Lord Elgin asked whether I had made any
+                            representations here upon the late french decree against neutral
+                            Navigation. The Danish <persRef ref="u">Chargé d’Affaires</persRef> had
+                            he said, and remonstrances from this Court had been made at Paris, but
+                            no answer yet received.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-27">
+                    <head>27 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-27"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>27. </date>Rose very late, having been disturbed in the night—
+                            Wrote a little in the morning. An hour in the afternoon at the Casino—
+                            The plan which I hinted at yesterday and at the execution of which I
+                            employed a little more time this morning, already presents difficulties
+                            which I fear will prove insuperable.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-28">
+                    <head>28 February 1798</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02-28"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>28. </date>Walk with <persRef ref="adams-louisa-catherine">M<hi
+                                    rend="superscript">rs:</hi> A.</persRef> in the alley of lime trees; and
+                            afterwards a short one alone. Continued writing; but not to my
+                            satisfaction. Reading <persRef ref="shakespeare-william"
+                                >Shakespeare</persRef> in the Evening.</p>
+
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v24-1798-02-xx">
+                    <head>Day</head>
+                    <bibl><author>JQA</author><date type="creation" when="1798-02"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">Day</hi>.</date> Rise usually at 7. Read till 9.
+                            Breakfast. Read. Write &amp;c till 2. Walk from thence untill 3. Dine.—
+                            Converse or dress to go out untill 6 or 7. Evening either out, in
+                            company or at home reading untill 9 or 10. Supper and soon after 10. to
+                            bed.— This life is regular enough: but not altogether such as pleases
+                            myself.— After finishing <persRef ref="dupratz-antoine">Du page du
+                                pratz’s</persRef> History of Louisiana, I read <persRef
+                                ref="imlay-gilbert">Imlay’s</persRef> compilation, which was
+                            followed by <persRef ref="washington-george">General
+                                Washington’s</persRef> Official Letters, and these, by <persRef
+                                ref="lee-charles">Lee’s</persRef> memoir’s and Letters, which I
+                            propose finishing to-morrow.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

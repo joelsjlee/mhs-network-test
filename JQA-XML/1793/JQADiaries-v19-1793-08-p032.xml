@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v19-1793-08">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="32"  mhs:precedingFile="JQADiaries-v19-1793-07-p028.xml" mhs:followingFile="JQADiaries-v19-1793-09-p037.xml" mhs:volume="19">
+				<bibl n="metadata"><date from="1793-08-01" to="1793-08-31"/></bibl>
+
+				<!--DJQA 1793-08 DJQA19 August 1793-->
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-01">
+					<head>1 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">August.</hi></dateline>
+						<p><date><hi rend="italic">1.</hi></date> All the forenoon taking
+							depositions in the Admiralty cause. adverse party satisfied I believe.
+							Evening walk as usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-02">
+					<head>2 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="33" type="ms"/><date><hi rend="italic">2.</hi></date>
+							<persRef ref="welsh-abigail">M<hi rend="superscript">rs:</hi> Welsh</persRef>,
+							went to Quincy Yesterday. Returned this Evening. no admiralty
+							proceedings this afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-03">
+					<head>3 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">3.</hi></date> Depositions before <persRef
+								ref="barrett-samuel">M<hi rend="superscript">r:</hi> Barrett</persRef>, all
+							the forenoon. Went to Quincy towards night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-04">
+					<head>4 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">4.</hi></date> Rain this morning. Meeting A.M.
+							Time spent to little advantage. At home in the afternoon. Evening at
+								<persRef ref="cranch-richard">M<hi rend="superscript">r:</hi>
+								Cranch’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-05">
+					<head>5 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">5.</hi></date> To Milton early this morning. Was
+							to have gone thence in the stage. but overtook <persRef ref="u">M<hi
+									rend="superscript">r:</hi> D’Hauteval</persRef>, and went with him in
+							his Chaise. Large ship below. obtained a decree for Fairservice’s wages,
+							which was executed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-06">
+					<head>6 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">6.</hi></date> Dined with <persRef
+								ref="freeman-nathaniel">Freeman</persRef>, and considerable company.
+							Weather extremely warm. Great eagerness, as to the engagement of the
+							Boston and Ambuscade frigates.— <persRef ref="otis-harrison"
+								>Otis</persRef> and <persRef ref="u">Austin</persRef>
+							difference.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-07">
+					<head>7 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">7.</hi></date> Busy through the day. <persRef
+								ref="adams-abigail">My mother</persRef>, <persRef
+								ref="smith-abigail">sister</persRef> &amp;c in town, on their way to
+							Haverhill. Club this Evening with me. Embarassed about leaving town
+							&amp; my business; but could not get off.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-08">
+					<head>8 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">8.</hi></date> Set out with <persRef
+								ref="smith-louisa">Louisa</persRef> this morning at about 7: found
+							our friends at Medford. proceeded to Andover where we dined. Stopped
+							&amp; took tea at <persRef ref="allen-jonathan">M<hi rend="superscript">r:</hi>
+								Allen’s</persRef> in Bradford. and arrived at Haverhill just before
+							dark.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-09">
+					<head>9 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">9.</hi></date> Rainy in light showers the whole
+							day. Visited my friends. At <persRef ref="cranch-william">M<hi
+									rend="superscript">r.</hi> Cranch’s</persRef> office, read in Ossian.
+								<persRef ref="white-john2">At M<hi rend="superscript">r:</hi>
+								White’s</persRef> forenoon &amp; after. <persRef ref="sargeant-mary"
+									>M<hi rend="superscript">rs:</hi> Sargeant</persRef> at tea.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-10">
+					<head>10 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">10.</hi></date> Returned alone to Boston. Weather
+							very warm. Unwell. On my arrival was informed I had been posted on the
+							mast of the french frigate la Concorde, as an aristocrat, with several
+							others. defamed; proscribed;— what next?</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-11">
+					<head>11 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">11.</hi></date> Went to Quincy this forenoon.
+							very unwell the whole day. At <persRef ref="cranch-richard">M<hi
+									rend="superscript">r.</hi> Cranch’s</persRef> in the Evening:— <persRef
+								ref="smith-william-steuben">W. Smith</persRef> very anxious to see
+								<persRef ref="smith-abigail">his mamma</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-12">
+					<head>12 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">12.</hi></date> Returned to Boston this morning.
+							found the business upon which I returned rendered unnecessary. but other
+							to do. fracas yesterday between <persRef ref="jarvis-charles">D<hi
+									rend="superscript">r:</hi> Jarvis</persRef> &amp; <persRef ref="price-j"
+								>J. Price</persRef> on one part &amp; Woodward on the other. Saw
+								<persRef ref="u">Woodward</persRef>: endeavoured to bring on a
+							composition.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-13">
+					<head>13 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">13.</hi></date> Argument this forenoon before the
+							Judge of Probate, upon a question relative to Dower. proceed with a
+							probability that the matter will be amicably settled. 14. Singular
+								conv<hi rend="superscript">n.</hi><hi rend="italic"> </hi>however with
+								<persRef ref="jarvis-charles">D<hi rend="superscript">r:</hi>
+								Jarvis</persRef> this evening in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-14">
+					<head>14 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">14.</hi></date> Very warm weather. Saw <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Fitch</persRef>.
+								<persRef ref="adams-abigail">my mother</persRef> &amp; <persRef
+								ref="smith-abigail">Sister</persRef> in Town. returned from
+							Haverhill. Club at <persRef ref="amory-john2">M<hi rend="superscript">r:</hi>
+								Amory’s</persRef>.— Walk with him afterwards in the Mall—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-15">
+					<head>15 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="34" type="ms"/><date><hi rend="italic">15.</hi></date> Miserable
+							business before <persRef ref="gardner-joseph">Justice Gardner</persRef>—
+							Dined with <persRef ref="gardner-james">J. Gardner</persRef>, <persRef
+								ref="cooper-samuel2">Cooper</persRef> &amp; <persRef
+								ref="frazier-nathan">Frazier</persRef>. <persRef
+								ref="callender-john">Callender</persRef> came after dinner—from
+							thence walk’d in the Mall. left Gardner— Saw <persRef
+								ref="freeman-nathaniel">Freeman</persRef> at my Office—repeated an
+							old folly.— <unclear>. . .</unclear> memento!!</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-16">
+					<head>16 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">16.</hi></date> All the family in town. Dined at
+								<persRef ref="bowdoin-james2">M<hi rend="superscript">r.</hi>
+								Bowdoin’s</persRef>: large and formal party. Came off immediately
+							after dinner. <persRef ref="freeman-nathaniel">Freeman</persRef>.
+								conv<hi rend="superscript">n:</hi> with him. Company at supper, when I got
+							home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-17">
+					<head>17 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">17.</hi></date> Dined at <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi> Smith’s</persRef> with
+							considerable company. Walk in the Mall with <persRef
+								ref="frazier-nathan">Frazier;</persRef> afterwards with <persRef
+								ref="sargent-daniel">Sargent</persRef>. Letter from <persRef
+								ref="crafts-thomas">T. Crafts</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-18">
+					<head>18 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">18.</hi></date> Heard <persRef ref="osgood-david"
+									>M<hi rend="superscript">r:</hi> Osgood</persRef> of Medford A.M.
+								<persRef ref="thatcher-peter">M<hi rend="superscript">r:</hi>
+								Thacher</persRef> in the afternoon. Tea at <persRef
+								ref="gardner-james">J. Gardners</persRef> with <persRef
+								ref="sargent-daniel">Sargent</persRef>— Walk in the Mall.— Rain came
+							up very suddenly; but was soon over.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-19">
+					<head>19 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">19.</hi></date> Dined at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Storer’s</persRef>. Afternoon principally at
+								<persRef ref="greenleaf-benjamin">Justice Greenleaf’s</persRef>.
+							Very large party this Evening at <persRef ref="u">Miss
+								Russell’s</persRef>. Conversation with <persRef ref="eustis-jacob"
+								>J. Eustis</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-20">
+					<head>20 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">20.</hi></date> Dined with <persRef
+								ref="gardner-james">J. Gardner</persRef>. <persRef
+								ref="frazier-nathan">Frazier</persRef> took me in. More prudent than
+							usual, when dining there. Evening in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-21">
+					<head>21 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">21.</hi></date> Inv<hi rend="superscript">n:</hi> to dine
+							with <persRef ref="allen-jeremiah">the Sheriff</persRef>; but was
+							engaged. Afternoon latter part foolishly at <persRef
+								ref="gardner-joseph">Justice Gardner’s</persRef>; was in too much
+							passion. Went with <persRef ref="smith-abigail">My Sister</persRef>
+							&amp;c to <persRef ref="u">M<hi rend="superscript">rs:</hi>
+							Dickason’s</persRef>. Afterw<hi rend="superscript">ds:</hi> in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-22">
+					<head>22 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">22.</hi></date> Whole afternoon taking deposition
+							before <persRef ref="barrett-samuel">M<hi rend="superscript">r:</hi>
+								Barrett</persRef>. Laws, Government &amp;c all insulted by
+							frenchmen— Saw <persRef ref="gardner-james">J. G.</persRef> and was too
+							warm in talking with him on the subject.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-23">
+					<head>23 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">23.</hi></date> Tolerably steady at my Office.—
+								<persRef ref="wheelock-a">A. Wheelock</persRef>—on a new sort of
+							business. Tea at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Dickason’s</persRef>. considerable company. Afterwards went to
+								<persRef ref="tudor-william">M<hi rend="superscript">r:</hi>
+								Tudor’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-24">
+					<head>24 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">24.</hi></date> Family all dined at <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Russells</persRef>. I was engaged at
+							club. went out 5 in a coach. French frigate sailed, much to our
+							satisfaction. Returned to Town. Evening late at C. Hall.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-25">
+					<head>25 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">25.</hi></date> Heard <persRef ref="clarke-john"
+									>M<hi rend="superscript">r:</hi> Clark</persRef> A.M. writing all the
+							afternoon and Evening at my office. <persRef ref="smith-abigail">my
+								Sister</persRef> went to Watertown—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-26">
+					<head>26 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">26.</hi></date>
+							<persRef ref="smith-abigail">My Sister</persRef> returned this forenoon.
+							Settled the business of <persRef ref="u">Iznardi</persRef> and <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Foster</persRef>— Walk’d this
+							Evening in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-27">
+					<head>27 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">27.</hi></date> S.J.C. met, and adjourned till
+							the morning. Saw <persRef ref="u">Sohier</persRef> in the forenoon
+							relative to his business. he is very ill.— Eve as usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-28">
+					<head>28 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">28</hi></date> Constant attendance upon Court.
+								<persRef ref="smith-abigail">My Sister</persRef> went out to Quincy,
+							and <persRef ref="welsh-abigail">M<hi rend="superscript">rs:</hi>
+								Welsh</persRef>. Where they dined. M<hi rend="superscript">rs:</hi> W
+							returned at night. Club at <persRef ref="u">M<hi rend="superscript">r.</hi>
+								Bulfinch’s</persRef>. Inv<hi rend="superscript">n:</hi> from <persRef
+								ref="tudor-delia">M<hi rend="superscript">rs:</hi> Tudor</persRef> to
+							tea.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-29">
+					<head>29 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">29.</hi></date> Whole day at Court. Trial of
+							Cause <persRef ref="u">Hinckley</persRef> &amp; <persRef ref="u"
+								>Bent</persRef>, and a new Question— Heavy anxiety upon my mind.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-30">
+					<head>30 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">30.</hi></date> Days in Court— Evenings walking
+							in the Mall. no business of much consequence transacted.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v19-1793-08-31">
+					<head>31 August 1793</head>
+					<bibl><author>JQA</author><date type="creation" when="1793-08-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">31.</hi></date> Dined at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Vaughan’s</persRef>. considerable company of
+							gentlem<unclear>en.</unclear> warm weather. Walk in the Eve with <persRef
+								ref="sargent-daniel">Sargent</persRef> &amp; <persRef ref="u"
+								>Paine</persRef> &amp; alone.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

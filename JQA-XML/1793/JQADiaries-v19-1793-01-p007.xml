@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v19-1793-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="month" mhs:startingPage="7"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v19-1793-02-p009.xml" mhs:volume="19">
+                <bibl n="metadata"><date from="1793-01-01" to="1793-01-31"/></bibl>
+
+                <!-- DJQA 1793-01 DJQA19 January 1793 -->
+                <!-- {{NB: Entry for the 22d comes after entry for 26th in the original diary}} -->
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-01">
+                    <head>1 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-01"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="7"/>
+                        <dateline><hi rend="italic">January 1793.</hi></dateline>
+                        <p><date><hi rend="italic">1.</hi></date> Dined with <persRef
+                                ref="freeman-jonathan">J. Freeman</persRef> and <persRef
+                                ref="sargent-daniel">D. Sargent</persRef> at C. Hall, upon exquisite
+                            venison. spent the Evening there likewise. C.C.P. met. fresh cause of
+                            vexation to me.— Officious hope.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-02">
+                    <head>2 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-02"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">2.</hi></date> Dull and cold weather. Dined with
+                                <persRef ref="amory-thomas">Tho<hi rend="superscript">s:</hi>
+                                Amory</persRef>, and a large Company of young men. very convivial.
+                            Stroll towards night, and finally concluded to go home. Club with
+                                <persRef ref="welsh-thomas">D<hi rend="superscript">r:</hi>
+                            Welsh</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-03">
+                    <head>3 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-03"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">3.</hi></date> Intended not to attend the
+                            Assembly, but finally concluded to go. It was the 7<hi rend="superscript"
+                                >th:</hi> and tolerably agreeable. Conversation with <persRef
+                                ref="otis-harrison">Otis</persRef>. rather remarkable. Danced with
+                                <persRef ref="carter-mary">Miss Carter</persRef>; and with <persRef
+                                ref="gray-s">S. Gray.</persRef></p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-04">
+                    <head>4 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-04"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">4.</hi></date> Dined at <persRef ref="welles-s"
+                                    >M<hi rend="superscript">r</hi> S. Welles’s</persRef>, with a family
+                            party. Dull weather. Spent the Evening at my Office. Called on <persRef
+                                ref="u">M<hi rend="superscript">r:</hi> Roberdeau</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-05">
+                    <head>5 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-05"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Haitian Revolution (1791-1804)</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">5.</hi></date> Dined at <persRef
+                                ref="perkins-james2">M<hi rend="superscript">r:</hi> James
+                                Perkins’s</persRef>. <persRef ref="u">D’Hauteval</persRef>, &amp;
+                                <persRef ref="breck-samuel">Breck</persRef>, who go to Philadelphia
+                            on Monday. Unpleasant news from S. Domingo.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-06">
+                    <head>6 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-06"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">6.</hi></date> Meeting A.M. <persRef
+                                ref="thayer-nathaniel">M<hi rend="superscript">r:</hi> Thayer</persRef>
+                            preached.— Walk with <persRef ref="crafts-thomas">Crafts</persRef>. Went
+                            with him and <persRef ref="u">d’Hauteval</persRef>, and dined at
+                            Olympia. I think for the last time. Heard la messe. Returned early in
+                            the Eve<hi rend="superscript">g:</hi></p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-07">
+                    <head>7 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-07"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">7.</hi></date> Called on <persRef
+                            ref="blake-joseph2">Jo: Blake</persRef> between twelve &amp; 1. he
+                            was married, last night. Dined at <persRef ref="quincy-ann">M<hi
+                                    rend="superscript">rs.</hi> Quincy’s</persRef>. <persRef ref="u">M<hi
+                                    rend="superscript">r:</hi> Roberdeau</persRef> &amp;c. C.C.P. sat this
+                            afternoon, &amp; called the def<hi rend="superscript">t:</hi> actions. Eve<hi
+                                rend="superscript">g:</hi> at my Office.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-08">
+                    <head>8 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-08"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">8.</hi></date> Excused myself from dining with
+                                <persRef ref="u">M<hi rend="superscript">r:</hi> Bulfinch</persRef>: Court
+                            of Sessions sat. <persRef ref="u">Watchman</persRef> tried, for his
+                            affair with <persRef ref="u">Jarvis</persRef>, and acquitted. Evening at
+                            my office.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-09">
+                    <head>9 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-09"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">9.</hi></date> Went to Quincy, with <persRef
+                                ref="u">M<hi rend="superscript">r:</hi> Roberdeau</persRef>, and <persRef
+                                ref="quincy-josiah2">J. Quincy</persRef>. rainy day. returned at
+                            night. Club with me. Lost nothing by being absent. Club very thin.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-10">
+                    <head>10 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-10"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">10.</hi></date> Dined with <persRef
+                                ref="phillips-william">M<hi rend="superscript">r:</hi> W. Phillips</persRef>
+                                jun<hi rend="superscript">r:</hi> Paid, wedding visit to <persRef
+                                ref="blake-joseph">J. Blake</persRef>. talk’d with <persRef
+                                ref="gray-s">Miss S. Gray</persRef>. Went to the Concert. Stay’d but
+                            did not dance. <persRef ref="u">Jarvis’s</persRef> two trials; all
+                            acquitted</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-11">
+                    <head>11 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-11"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">11.</hi></date>
+                            <persRef ref="adams-abigail">My mother</persRef> came to Town. Dined at
+                                <persRef ref="smith-william3">M<hi rend="superscript">r:</hi>
+                                Smith’s</persRef>, attended Court p.m. and spent the Evening also at
+                                M<hi rend="superscript">r:</hi> Smith’s.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-12">
+                    <head>12 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-12"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">12.</hi></date> Dined at home. tea at <persRef
+                                ref="smith-william3">M<hi rend="superscript">r:</hi> Smith’s</persRef>.
+                            <persRef ref="u">M<hi rend="superscript">r:</hi> Freeman</persRef>, and <persRef ref="clarke-john">M<hi
+                                rend="superscript">r:</hi> Clarke</persRef>. Remainder of the Eve<hi rend="superscript"
+                                >g:</hi> at Club, where we were late.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-13">
+                    <head>13 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-13"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">13.</hi></date> Very late when I rose. Did not
+                            attend meeting in the forenoon. Very sore eye. heard <persRef ref="clarke-john">M<hi rend="superscript"
+                                >r:</hi> Clark</persRef> P.M. Tea at <persRef ref="smith-william3">M<hi
+                                    rend="superscript">r</hi> Smith’s</persRef>. <persRef
+                                ref="rogers-daniel">M<hi rend="superscript">r:</hi> Rogers</persRef>.
+                            Evening at <persRef ref="gore-christopher">M<hi rend="superscript">r:</hi>
+                                Gore’s</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-14">
+                    <head>14 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-14"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><pb n="8" type="ms"/><date><hi rend="italic">14.</hi></date>
+                            <persRef ref="geyer-frederick">F. W. Geyer</persRef> &amp; <persRef
+                                ref="frazier-rebecca">Miss Frazier</persRef>, married last Evening.
+                            Called there this forenoon. Dined at <persRef ref="u">M<hi rend="superscript"
+                                    >r:</hi> Storer’s</persRef>. Eve<hi rend="superscript">g</hi> at Concert
+                            Hall. Late.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-15">
+                    <head>15 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-15"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">15.</hi></date> C.C. Pleas, had something of an
+                            Argument. Dined at <persRef ref="quincy-ann">M<hi rend="superscript">rs:</hi>
+                                Quincy’s</persRef>; came off immediately after. Evening principally
+                            at my office, rest at home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-16">
+                    <head>16 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-16"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">16.</hi></date> Court adjourned. Rainy day. Dined
+                            with <persRef ref="blake-joseph2">J. Blake</persRef>, and a party; Court
+                            among the rest.— Eheu! Heavy rain in the Eve. Club at <persRef
+                                ref="amory-rufus">R. G. Amory’s</persRef>. Echo.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-17">
+                    <head>17 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-17"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">17.</hi></date> Rain all the forenoon. Cleared up
+                            towards night. Cold. Dined with <persRef ref="tucker-j">M<hi rend="superscript"
+                                    >r.</hi> J. Tucker</persRef>, large Company. 8<hi rend="superscript"
+                                >th:</hi> Assembly, remarkably brilliant. Something like an
+                                explan<hi rend="superscript">n:</hi> yet not enough. danced with <persRef
+                                ref="u">Miss Templeman</persRef>: and with <persRef ref="gardner-m"
+                                >Miss M. Gardner</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-18">
+                    <head>18 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-18"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">18.</hi></date> Fine weather. tolerably steady at
+                            my Office the whole day; and Evening. <persRef ref="gardner-james">J.
+                                Gardner</persRef> called on me. Went to subscribe for the <hi
+                                rend="italic">ox</hi>, and Civic feast. Nonsense, or worse, to which
+                            all submit.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-19">
+                    <head>19 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-19"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">19.</hi></date> Dined at <persRef
+                                ref="smith-william3">M<hi rend="superscript">r:</hi> W. Smith’s</persRef>.
+                            Afternoon with <persRef ref="frazier-nathan">Frazier</persRef> at
+                                <persRef ref="u">Barton’s</persRef>: against my will. Tea at
+                                <persRef ref="green-joshua">M<hi rend="superscript">r.</hi> J.
+                                Green’s</persRef>. Thence to Club, &amp; closed another day of
+                            foolish waste.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-20">
+                    <head>20 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-20"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">20.</hi></date> Attended <persRef
+                                ref="adams-abigail">my mother</persRef> to <persRef
+                                ref="thacher-peter">M<hi rend="superscript">r:</hi> Thacher’s.</persRef>
+                            Dined with <persRef ref="gardner-james">J. Gardner</persRef>. <persRef
+                                ref="u">M<hi rend="superscript">r:</hi> Skipwith</persRef> agreeable.
+                                <persRef ref="u">Barton</persRef>— <persRef ref="clarke-edward2"
+                                >Clark</persRef>. <persRef ref="frazier-nathan">Frazier.</persRef>
+                            After tea, a long walk, &amp; home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-21">
+                    <head>21 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-21"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">21.</hi></date> Dined at home. Tea at <persRef
+                                ref="tudor-william">M<hi rend="superscript">r:</hi> Tudor’s</persRef>.
+                            Nothing but Civic feast. Heard of <persRef ref="winslow-isaac2">M<hi
+                                    rend="superscript">r:</hi> I. Winslow’s</persRef> being drowned. Evening
+                            at <persRef ref="frazier-nathan">N. Frazier’s</persRef>. remarkably
+                            agreeable. He beat me at chess. <persRef ref="lloyd-james"
+                                >Lloyd</persRef>, <persRef ref="u">Barton</persRef>, <persRef
+                                ref="clarke-edward2">Clark</persRef>, and <persRef
+                                ref="gardner-james">Gardner</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-23">
+                    <head>23 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-23"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">23.</hi></date> Walk’d after dinner with <persRef
+                                ref="frazier-nathan">Frazier</persRef> to see the ox roast. C.C.P.
+                            made judgm<hi rend="superscript">ts:</hi> and adjourned. <persRef ref="u"
+                                >Paine</persRef> called on me. Evening &amp; supper at <persRef
+                                ref="bowdoin-james2">M<hi rend="superscript">r:</hi> Bowdoin’s</persRef>.
+                            Went in complete dishabille. large &amp; splendid company. I cannot help
+                            it. Cards. Supper late. N.B. <persRef ref="u">M<hi rend="superscript">rs:</hi>
+                                Russell</persRef>, &amp; the hot-bed.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-24">
+                    <head>24 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-24"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">24.</hi></date> Civic feast, much show &amp; no
+                            substance. Dined at <persRef ref="austin-benjamin"> M<hi rend="superscript"
+                                    >r:</hi> Austin’s</persRef>. Evening at Concert. State-House
+                            illuminated— Unlucky at Concert. Late.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-25">
+                    <head>25 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-25"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><pb n="9" type="ms"/><date><hi rend="italic">25.</hi></date>
+                            <persRef ref="welsh-thomas">D<hi rend="superscript">r:</hi> Welsh</persRef>,
+                            sent for to Concord. N.H.— tea at <persRef ref="gill-rebecca">M<hi
+                                rend="superscript">rs:</hi> Gill’s</persRef>. Evening at <persRef ref="smith-hannah">M<hi rend="superscript"
+                                >rs:</hi> Smith’s</persRef>. Commerce. insipid.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-26">
+                    <head>26 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-26"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">26.</hi></date> Extreme cold day. Dined with <persRef ref="freeman-jonathan">J.
+                            Freeman</persRef>. fish and venison. Evening at Club. rather late: not unlucky.
+                                <persRef ref="williams-samuel3">S. Williams</persRef> new member.
+                                <persRef ref="adams-abigail">My mother</persRef> returned to
+                            Quincy.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-22">
+                    <head>22 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-22"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">22.</hi></date> Sessions met &amp; adjourned.
+                            Lampooned. Evening at home agreeable company. Cards. <persRef
+                                ref="carter-mary">Miss Carter</persRef>, <persRef
+                                ref="smith-elizabeth2">E. Smith</persRef> &amp; <persRef
+                                ref="gray-s">S. Gray</persRef>. but something heavy on my mind.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-27">
+                    <head>27 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-27"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">27.</hi></date>Heard <persRef ref="thacher-peter"
+                            >M<hi rend="superscript">r:</hi> Thacher</persRef> A.M. <persRef ref="clarke-john">M<hi rend="superscript"
+                                >r:</hi> Clark</persRef> P.M. long walk after meeting. Rheumatic. Dejected;
+                            and with reason. Eve<hi rend="superscript">g:</hi> at <persRef
+                                ref="smith-william3">M<hi rend="superscript">r:</hi> Smith’s</persRef>. Home
+                            early.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-28">
+                    <head>28 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-28"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">28.</hi></date> Whole day and Evening at my
+                            Office. reading and writing. but nothing to do. save a few Letters for
+                                <persRef ref="gardner-james">J. Gardner</persRef>.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-29">
+                    <head>29 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-29"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">29.</hi></date> The day spent as Yesterday.
+                                <persRef ref="frazier-nathan">N. Frazier</persRef> called on me P.M.
+                            We spent the Evening at <persRef ref="gardner-james">J.
+                                Gardner’s</persRef>. <persRef ref="u">Miss Templeman</persRef>
+                            there, &amp; <persRef ref="amory-jonathan">J. Amory.</persRef></p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-30">
+                    <head>30 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-30"/><editor
+                            role="transcription">Neal Millikan</editor>
+                    <subject>Recreation</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">30.</hi></date>
+                            <persRef ref="frazier-nathan">Frazier</persRef> in the morning. Very
+                            imprudent in my Conversation. Snow from about noon till the Eve<hi
+                                rend="superscript">g:</hi> Went in a sleigh to <persRef ref="craigie-andrew"
+                                    >M<hi rend="superscript">r:</hi> Craigie’s</persRef>. With <persRef
+                                ref="sargent-daniel">D. Sargent</persRef>
+                            Frazier &amp; <persRef
+                                ref="amory-rufus">R. G. Amory</persRef>, large party. Dancing till
+                            near 2 in the morning. 3. When I got home.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v19-1793-01-31">
+                    <head>31 January 1793</head>
+                    <bibl><author>JQA</author><date type="creation" when="1793-01-31"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date><hi rend="italic">31.</hi></date>
+                            <persRef ref="beale-benjamin2">B. Beale</persRef>. Much fatigued. 9<hi
+                                rend="superscript">th:</hi> Assembly. intended to go, but did not. principal
+                            part of the Evening at my Office. Spirits low.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

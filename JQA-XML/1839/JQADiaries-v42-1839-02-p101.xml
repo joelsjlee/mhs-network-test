@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v42-1839-02">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="101" 
+				mhs:precedingFile="" 
+				mhs:followingFile="JQADiaries-v50-1839-03-p575.xml"  
+				mhs:volume="42">
+				<bibl n="metadata"><date from="1839-02-12" to="1839-02-12"/></bibl>
+
+				<!-- D/JQA/42 February 1839 Robert Huberty -->
+				
+				<div type="entry" xml:id="jqadiaries-v42-1839-02-12">
+					<head>12 February 1839</head>
+					<bibl><author>JQA</author><date type="creation" when="1839-02-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="101"/>
+						<dateline>February 1839.</dateline>
+						<p><date>12. V:30. </date>Tuesday</p>
+						<p>H.R.U.S. Territorial Bills in Committee of the whole on the State of the
+							Union. Pickens in the chair— He decides that a Bill for selling public
+							Lands to the Alabama, Florida, and Georgia Land Company is not a
+							territorial Bill, and therefore not included in the assignment for this
+							day— Appeal from his decision—which is confirmed by the Committee— This
+							excludes from consideration this day Senate Bill N. 224 which I reported
+							with an Amendment, from the Committee of Manufactures last Saturday—
+							Other Territorial bills passed through the Committee and the House,
+							which adjourned about 5. without finishing the business— The Committee
+							rose twice to report no Quorum, and had none nearly the whole day.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

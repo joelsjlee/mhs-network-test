@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v31-1824-11">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="559" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v31-1824-12-p564.xml" mhs:volume="31">
+				<bibl n="metadata"><date from="1824-11-10" to="1824-11-30"/></bibl>
+				<!-- DJQA 1824-11 D/JQA/31 -->
+				<div type="entry" xml:id="jqadiaries-v31-1824-11-10">
+					<head>10 November 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-11-10"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Foreign
+							Relations</note><note type="subject">Slave Trade</note><note
+							type="subject">Oregon Territory</note></bibl>
+					<div type="docbody">
+						<pb n="559"/>
+						<dateline>1824.</dateline>
+						<p><date>Wednesday 10. November—</date> Cabinet Meeting— Present <persRef
+								key="crawford-william-harris">W. H. Crawford</persRef>, <persRef
+								ref="calhoun-john">J. C. Calhoun</persRef>, <persRef
+								ref="southard-samuel">Sam<hi rend="superscript">l.</hi> L.
+								Southard</persRef> and J. Q. Adams— Subject of Consideration the
+							Slave-trade Convention with G.B. I read the despatches N. 11. and 12. of
+							the separate series from <persRef ref="rush-richard">R.
+							Rush</persRef>—and my drafts of a public, and of a Secret and
+							confidential despatch to him— Also a note from <persRef
+								ref="addington-henry">M<hi rend="superscript">r</hi>
+								Addington</persRef>, the British Chargé d’Affaires, announcing his
+							receipt of a full Power to conclude a new Convention, with the single
+							addition of the words “of America” to that sanctioned by the Senate— The
+							opinion was unanimous against acceding to the proposal for concluding a
+							new Convention; at least for the present— Both my drafts were
+							unanimously approved; the <persRef key="monroe-james"
+								>President</persRef>, objecting slightly to the word
+							“unseemliness”—and suggesting the use of <hi rend="italic"
+								>impropriety</hi>, in its stead— I altered the draft
+							accordingly—having used the term unseemliness, only with reference to
+							its having been used by <persRef ref="canning-george">M<hi
+									rend="superscript">r</hi> Canning</persRef> himself, though
+							afterwards withdrawn. M<hi rend="superscript">r</hi> Crawford told twice
+							over the Story of <persRef ref="washington-george">President
+								Washington’s</persRef> having at an early period of his
+							Administration gone to the Senate, with a project of a Treaty to be
+							negotiated, and been present at their deliberations upon it— They
+							debated it, and proposed Alterations, so that when Washington left the
+							Senate chamber, he said he would be damned if he ever went there again.
+							And ever since that time, Treaties have been negotiated by the
+							Executive, <hi rend="italic">before</hi> submitting them to the
+							consideration of the Senate— The President said he had <unclear>. .
+								.</unclear> in to the Senate about eighteen months after the first
+							organization of the pre<unclear>. . .</unclear> Government; and then
+							heard that something like this had occurred— M<hi rend="superscript"
+								>r</hi> Crawford <unclear>. . .</unclear> repeated the Story;
+							varying the words so as to say that Washington <hi rend="italic"
+								>swore</hi> he would never go to the Senate again— M<hi
+								rend="superscript">r</hi> Crawford and M<hi rend="superscript"
+								>r</hi> Calhoun, both expressed them<unclear>. . .</unclear>
+							strongly upon the absurdity of Canning’s two official notes the second
+							of which reta<unclear>. . .</unclear> the argument, while it retracts as
+							erroneous the allegation of facts upon which it <unclear>. . .</unclear>
+							maintained in the first. Calhoun noticed the tone of both the original
+							and substitut<unclear>. . .</unclear> Note of Canning, as offensive— In
+							the original note, there were three gross blund<unclear>. . .</unclear>
+							one of them remains in the substitute, besides the absurdity of an
+							argument reta<unclear>. . .</unclear> the facts upon which it was
+							founded withdrawn. Rush says, Canning had been ill <unclear>. .
+								.</unclear> fever, and Southard observed he had not recovered from
+							it when he wrote the Not<unclear>. . .</unclear> M<hi rend="superscript"
+								>r</hi> Crawford now for the first time spoke against the concession
+							of the right of sea<unclear>. . .</unclear><pb type="ms" n="560"/>said
+							the very proposal of it was an insult, because it implied an admission
+							that we were not competent, or not trustworthy to execute our own Laws—
+							This reasoning is not sound, in its application to the Slave trade
+							Convention— The object is to capture <hi rend="italic">Pirates</hi>—and
+							without any distrust of our own Executive Officers, we may give our aid,
+							and accept that of another for the more effectual execution of a Law
+							common to both— But the remarkable fact in this case is the change of
+								M<hi rend="superscript">r</hi> Crawford’s opinion— When I stood
+							almost alone in resisting the concession of the right of Search, even
+							before we had required as an indispensable preliminary, that Britain
+							should make the Slave-trade piracy, M<hi rend="superscript">r</hi>
+							Crawford, with two successive Committees of the House of
+							Representatives, was bearing down my resistance, and his partizans were
+							using it, as evidence that I was a friend to the Slave-trade— And now,
+							that his supporters in the Senate have taken ground against yielding the
+							right of Search, even for Pirates, he joins in the cry with them, and
+							discovers that the very proposal is an insult— To the argument in
+							Addington’s note, urging that Great Britain upon the faith of our
+							ratifying the Convention, had at our requisition passed an Act,
+							declaring the Slave-trade piracy, he said they might if they pleased
+							repeal their Act— This is true; but it is not of itself a sufficient
+							answer to their argument— I must have stronger ground— M<hi
+								rend="superscript">r</hi> Crawford enquired of the proceedings upon
+							the Convention in Senate; and said <hi rend="italic">he had not seen
+								them</hi>— It was observed that all the amendments adopted in the
+							Senate, were moved by <persRef ref="johnston-josiah">M<hi
+									rend="superscript">r</hi> Josiah S. Johnston</persRef>, a member
+							from Louisiana— M<hi rend="superscript">r</hi> Calhoun particularly
+							noticed in M<hi rend="superscript">r</hi> Canning’s notes a menace, that
+							the British Government would henceforth negotiate with us nowhere, but
+							at Washington— I said I supposed he would limit the expression of the
+							Sentiment to this <unclear>. . .</unclear>cular negotiation; otherwise
+							it would give us the material advantage of always treating <unclear>. .
+								.</unclear>me— Calhoun said that might be the result; but the threat
+							would not be the less offensive <unclear>. . .</unclear> This was the
+							first Cabinet Meeting at which M<hi rend="superscript">r</hi> Crawford
+							had attended since last April. <unclear>. . .</unclear> articulation is
+							yet much affected, and his eye-sight impaired— But his understanding
+							remains <unclear>. . .</unclear>cept with some deficiencies of memory,
+							and ignorance of very notorious facts—probably because <unclear>. .
+								.</unclear> was many months unable to read with his own eyes— M<hi
+								rend="superscript">r</hi> Rush’s advice to send a Frigate <unclear>.
+								. .</unclear> the Columbia river, was mentioned by the President—
+								M<hi rend="superscript">r</hi> Crawford thought a military post
+								<unclear>. . .</unclear> would be proper and sufficient— He was not
+							for sending a Colony or establishing a Territory <unclear>. .
+								.</unclear>— He said he had last winter advised <persRef
+								ref="floyd-john">D<hi rend="superscript">r</hi> Floyd</persRef> to
+							change his plan from a Territory to a <unclear>. . .</unclear>ry post,
+							and the D<hi rend="superscript">r</hi> had told him he would. The
+							President spoke of the information from <unclear>. . .</unclear>gis that
+							an Establishment of a Post sixty or seventy Miles further North, would
+							be prefe<unclear>. . . .</unclear> the mouth of Columbia river— I gave
+							the President my draft of minutes for the parts <unclear>. . .
+								.</unclear> message relating to foreign Affairs— He asked the other
+							members of the Administration <hi rend="italic">for</hi><pb type="ms"
+								n="561"/>for theirs. I left with the President papers relating to
+							the affair of <persRef ref="ducoudray-holstein">Du Coudray
+								Holstein</persRef>, of whom he had directed a Prosecution— And I
+							questioned whether it was not barred by limitation. M<hi
+								rend="superscript">r</hi> Southard thought the limitation of two
+							years applied—and looked to the 5<hi rend="superscript">th.</hi> volume
+							of the Laws Article Crimes and Punishments, but the limitation Section
+							is there omitted— M<hi rend="superscript">r</hi> Southard spoke of
+							several Naval Courts Martial, and particularly of the one to be ordered
+							for the trial of <persRef ref="stewart-charles">Captain
+								Stewart</persRef>— He was uncertain whether in the charges should be
+							included that of violating the blockade declared by the Peruvian
+							Government; inasmuch as we utterly deny the legality of that blockade in
+							all its parts— I thought it desirable that the Court itself should
+							explicitly decide its illegality; but as the judge Advocate must
+							maintain its illegality there seems an inconsistency in his introducing
+							the violation of it among the charges— Southard said it was remarkable
+							that <persRef ref="barton-unknown2">Barton</persRef>, a man named by
+								<persRef ref="prevost-john">Prevost</persRef> as a witness that arms
+							were landed from the Canton, at Arica, under the protection of the
+							Franklin’s guns, had remained in the Pacific and had purchased the
+							bernviano, a small vessel, which Stewart had built, claimed and sold as
+							his own property— On leaving with the President my minutes for a
+							Message—I observed that as this would be his last Session Message,
+							perhaps he would think some <hi rend="italic">general</hi> remarks upon
+							the policy pursued towards foreign Nations during the whole period of
+							his Administration would be expedient— He concurred with the idea— I
+							told him I had said little upon the subject of the Greeks— But he must
+							determine whether he would communicate to Congress the proposals of
+							their Agents at London, through M<hi rend="superscript">r</hi> Rush,
+							that the U.S. should take them under their protection— The President
+							desired me to send him, his last year’s annual message— His Message on
+							internal improvement, and the Report of the Committee of foreign
+							Relations of the House of Representatives at the last Session of
+							Congress on the Porto-Rico piracies— I sent them accordingly, and left
+							with him also the despa<unclear>. . .</unclear> last received from
+								<persRef ref="nelson-hugh">H. Nelson</persRef>, which includes a
+							Note in a very spirited tone, to the Spanish Government.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1824-11-13">
+					<head>13 November 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-11-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>Saturday 13. November.</date> Cabinet Meeting. Present <persRef
+								key="crawford-william-harris">W. H. Crawford</persRef>, <persRef
+								ref="calhoun-john">J. C. Calhoun</persRef>, <persRef
+								ref="southard-samuel">Samuel L. Southard</persRef> and J. Q. Adams.
+							The question was whether the <persRef ref="tillotson-robert">District
+								Attorney</persRef> at New-York should be instructed to commence a
+							prosecution against <persRef ref="ducoudray-holstein">L. Villaume
+								Ducoudray Holstein</persRef> for fitting out in Aug<hi
+								rend="superscript">t</hi> 1822 an expedition against the Spanish
+							Island of Porto-Rico. The opinion in favour of the prosecution was
+							unanimous with the exception of mine— I was against it, first because I
+							considered it barred by the Statute of Limitations— Secondly, because
+								<hi rend="italic">the</hi><pb type="ms" n="562"/>the parties have
+							already been prosecuted for the same thing, in the Island of Curacao,
+							where they suffered eighteen Months Imprisonment; and were condemned to
+							thirty years of the same punishment— This Sentence was reversed by the
+								<persRef ref="william-i">king of the Netherlands</persRef>, who
+							substituted for it, banishment from the Island— And thirdly because it
+							was a mere undertaking—never carried into Execution— It was answered
+							that whether the Statute of Limitations applied or not, was for the
+							Court to determine— The President thought it would not— M<hi
+								rend="superscript">r</hi> Calhoun and M<hi rend="superscript">r</hi>
+							Southard that it would— M<hi rend="superscript">r</hi> Crawford said
+							that the Prosecution at Curacao was not for an Offence against <hi
+								rend="italic">our</hi> Law; and that we had nothing to do with it
+							and that although the expedition never landed at Porto Rico; the fitting
+							out and preparing of it, in our Ports was a consummation of the Offence
+							against our Law— Ducoudray himself, wrote last April to the President;
+							soliciting his protection— And <persRef ref="irvine-baptis">Baptis
+								Irvine</persRef>, later, through <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay</persRef>— There was a question
+							whether these papers should be transmitted to the District Attorney as
+							part of the Evidence— M<hi rend="superscript">r</hi> Crawford thought
+							they should be, and it was so determined— In his Letter to the
+							President, Ducoudray says he was one of the persons who attempted to
+							liberate <persRef ref="lafayette">La Fayette</persRef>, from the Castle
+							of Olmutz—and he has recently published a biographical Memoir of La
+							Fayette— M<hi rend="superscript">r</hi> Calhoun suggested that perhaps
+							it would be well to postpone the prosecution till General La Fayette
+							should return, and that he should be enquired of as to the facts of
+							Ducoudray’s being concerned in the attempt to liberate him— I objected,
+							that I had no doubt the fact was so— That La Fayette would of course be
+							kindly disposed to him; and would advise if at all against the
+							prosecution— But if the prosecution was proper; it ought not to be
+							omitted on account of any service heretofore rendered by Ducoudray to La
+							Fayette— M<hi rend="superscript">r</hi> Crawford concurred <unclear>. .
+								. .</unclear> opinion; and it was determined that the District
+							Attorney at New York should be <unclear>. . .</unclear>ediately directed
+							to commence the prosecution, and that all the papers containing
+								<unclear>. . .</unclear> Evidence, should be sent to him, including
+							those furnished by Ducoudray and B. Irvine <unclear>. .
+							.</unclear>emselves.— The President asked the other members of the
+							Administration to furnish <unclear>. . .</unclear>m with their minutes
+							for the message— I had already given him mine— M<hi rend="superscript"
+								>r</hi> Calhoun <unclear>. . .</unclear> his would be shorted than
+							they were last year—and a mere sequel to them. M<hi rend="superscript"
+								>r</hi> Southard <unclear>. . .</unclear> his would be shorter
+							still— I asked M<hi rend="superscript">r</hi> Crawford how the revenue
+							had turned out. He said <unclear>. . .</unclear> good—between 17. and 18
+							Millions of impost; and about 1200,000 dollars for lands— Four Millions
+							of 7 per Cents have been purchased, and there are 7. Millions in the
+							Treasury.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v31-1824-11-30">
+					<head>30 November 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-11-30"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Era of
+							Good Feelings</note></bibl>
+					<div type="docbody">
+						<p><date><unclear>Tu</unclear>esday 30. November 1824.</date> Cabinet
+							Meeting— Present <persRef key="crawford-william-harris">W. H.
+								Crawford</persRef><persRef ref="calhoun-john">J. C.
+								Calhoun</persRef><unclear>. . .</unclear><hi rend="superscript"
+								>l.</hi><persRef ref="southard-samuel">L. Southard</persRef> and J.
+							Q. Adams— Draft of the Message read by the <persRef key="monroe-james"
+								>President</persRef>— His <unclear>. . .</unclear>d of writing it is
+							upon loose Sheets of paper like Sibylline leaves— A separate Sheet,
+								<unclear>. . . .</unclear> subject distinctly noticed in it. He
+							receives minutes for it, from each of the Heads of <pb type="ms" n="563"
+							/>of Departments; but that from the Treasury has not yet been furnished
+							him— M<hi rend="superscript">r</hi> Crawford intimated, that it was
+							because M<hi rend="superscript">r</hi> Calhoun had sent for his
+							Estimates, back, to make some change in them, and that they had not been
+							returned the same day that he had sent for them— The Message is very
+							long— Southard said it had taken the President three quarters of an hour
+							to read it. He has omitted the paragraph that he had prepared,
+							concerning the reconciliation of Parties. I had told him that as it was
+							written, I thought it would not be received as conciliatory. Its purport
+							was, that there <hi rend="italic">had</hi> been a party, averse to our
+							Republican Institutions; but that by experience they had become
+							reconciled to them— I told him that the federal party to which he
+							alluded, did not admit this; but on the contrary, complained of it as
+							injustice that it had been imputed to them— That they had already
+							complained of it, as noticed in his published correspondence with
+								<persRef ref="jackson-andrew">Gen<hi rend="superscript">l.</hi>
+								Jackson</persRef>— It was his <hi rend="italic">opinion</hi>—That he
+							had avowed; but if his object was conciliation, I thought it would
+							better be promoted by omitting the paragraph he had written, than by
+							inserting it— He referred to it this day merely to say that he should
+							leave it out— After reading it once through; he read it again by
+							paragraphs— <persRef ref="crawford-susanna">M<hi rend="superscript"
+									>rs</hi> Crawford</persRef> in the mean time called in the
+							Carriage for her husband and he went away— He said he did not see that
+							any alteration was necessary in the draft as first read— On the second
+							reading however there was much retrenchment and some alteration— Calhoun
+							and Southard said it was a good business-like Message; and spoke in
+							commendation of its Style— As the <hi rend="italic">last </hi>Session
+							Message that the President is to deliver, it contains more matter of a
+							general character than any of the preceding, and a Summary review of the
+							Policy of the Administration throughout its career— There was no
+							discussion upon any of the <hi rend="italic">topics</hi> introduced into
+							the Message, and no diversity of opinion with regard to any of the
+							recommendations in it. There never has been a period of more tranquility
+							at home and abroad, since our existence as a Nation, than that which now
+							prevails— But M<hi rend="superscript">r</hi> Calhoun objected to one
+							expression in the Message, which declared the agricultural,
+							manufacturing, and commercial interests of the Country to be in a
+							flourishing condition— He said all the Agriculture of the South was in a
+							State of great depression—never greater. He wished the gratulatory term
+							of the Message to be qualified— The President noticed one passage, as
+							favouring by <hi rend="italic">implication</hi> the manufacturing
+							interests; and said he was decidedly for the policy of favouring the
+							manufactures— The paragraph respecting Greece and South-America, was
+							less energetic and vivid than that of the last year, but in the same
+							Spirit. That about <persRef ref="lafayette">General La Fayette</persRef>
+							distinctly recommended that some provision should be made for him by
+							Congress—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

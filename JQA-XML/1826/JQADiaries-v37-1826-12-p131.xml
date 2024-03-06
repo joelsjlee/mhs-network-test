@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v37-1826-12">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="131"  mhs:precedingFile="JQADiaries-v37-1826-11-p101.xml" mhs:followingFile="JQADiaries-v37-1827-03-p159.xml" mhs:volume="37">
+				<bibl n="metadata"><date from="1826-12-01" to="1826-12-23"/></bibl>
+				<!-- D/JQA/37 -->
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-01">
+					<head>1 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline>Friday 1. December 1826</dateline>
+						<p><date>1. V:15.</date> Round Capitol Square 1 hour 10 minutes. Sun rose
+							7:18.</p>
+						<list><item>Thomas— John</item>
+						<item>Forrest. Richard</item>
+						<item>Colt— of Baltimore</item>
+						<item>Gurley. H. H</item>
+						<item><persRef ref="wright-john">Wright. J. C</persRef></item>
+						<item><persRef ref="vinton-samuel">Vinton. Samuel T.</persRef></item>
+						<item><persRef ref="wing-austin">Wing. A.</persRef></item>
+						<item><persRef ref="conway-henry">Conway. H. W</persRef></item>
+						<item>Harrison— W. H</item>
+						<item>Silsbee— Nath<hi rend="superscript">l.</hi></item>
+						<item>Crowninshield B. W.</item>
+						<item>Barber— Noyes</item>
+						<item>Rush— Richard</item>
+						<item>Southard. Samuel L</item>
+						<item>Clay— Henry</item>
+						<item>Barbour James</item>
+						<item>Everett. Edward</item></list>
+						<p><persRef ref="thomas-john">M<hi rend="superscript">r</hi>
+								Thomas</persRef> the naval Architect who resided some time near
+							Bladensburg, and now lives at New-York, called to visit me— He had some
+							machine to exhibit to-morrow Morning at the office of the Secretary of
+							the Navy, where he wished me to attend; which I promised if I should
+							have time— <persRef ref="forrest-richard">M<hi rend="superscript">r</hi>
+								Forrest</persRef> came and introduced <persRef ref="u">M<hi
+									rend="superscript">r</hi> Colt</persRef>, who told me that
+								<persRef ref="u">M<hi rend="superscript">r</hi> Oliver</persRef> of
+							Baltimore, had certain claims upon the Spanish Government; which he was
+							informed might probably be settled to his Satisfaction; if <persRef
+								ref="everett-alexander">the Minister of the United States</persRef>
+							should be instructed to sustain them— The Members of Congress are now
+							arriving in considerable numbers for the Session to commence next
+							Monday. The nine whose names are in the margin, from <persRef
+								ref="gurley-henry">Gurley</persRef> to <persRef ref="barber-noyes"
+								>Barber</persRef> were morning visitors recently arrived— <persRef
+								ref="silsbee-nathaniel">Silsbee</persRef> and <persRef
+								ref="crowninshield-benjamin">Crowninshield</persRef> both told me
+							they had some English Oak Acorns for me from <persRef ref="colman-henry"
+									>M<hi rend="superscript">r</hi> Colman</persRef> of Salem—
+								<persRef key="rush-richard">M<hi rend="superscript">r</hi>
+								Rush</persRef> brought several rectified Statements from the
+							Treasury for the Message, and he read to me the draft of his annual
+							Report upon the Finances, which he has nearly finished, and intends to
+							send in to Congress before the close of the next week. It is a very
+							clear exposition of the present State of the Revenue, and proposes the
+							loan of sixteen Million of Dollars at five per Cent interest to redeem
+							so much of the six per Cents, now or shortly becoming redeemable, which
+							I propose to recommend in the Message. <persRef ref="southard-samuel"
+									>M<hi rend="superscript">r</hi> Southard</persRef> called to say
+							that the number of frigates which we have disposable with a few months
+							notice is twenty. He had yesterday supposed it twenty-two; but had
+							forgotten one, burnt here on the Stocks, by the British in 1814. and
+							another somehow disposed of. <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay</persRef> came with despatches
+							from <persRef ref="middleton-henry">M<hi rend="superscript">r</hi>
+								Middleton</persRef> at Moscow, where he had attended at the
+							Coronation of the <persRef ref="nicholas-i">Emperor
+							Nicholas</persRef>—and had there received his Audience to deliver his
+							Letter of Credence— M<hi rend="superscript">r</hi> Clay had also a
+							Letter from <persRef ref="scott-john">M<hi rend="superscript">r</hi>
+								Scott</persRef> the member from Missouri, proposing that the Message
+							should recommend a graduation of the price of Public Lands, according to
+								<persRef ref="benton-thomas">M<hi rend="superscript">r</hi>
+								Benton’s</persRef> plan; and also an appropriation <pb type="ms"
+								n="132"/>of the proceeds of the lead mines, by a grant to the State
+							of Missouri— M<hi rend="superscript">r</hi> Clay said that Scott had
+							told him that Benton’s propositions had stimulated all the people of the
+							Western Country, to madness for the public Lands—but he added that this
+							was true only of Missouri— That in Ohio, the sentiments of the people
+							were perfectly sound— He said he had told M<hi rend="superscript">r</hi>
+							Scott that he could recommend none of his proposals, and that they were
+							to be considered only as a revival of <persRef ref="burr-aaron"
+								>Burr’s</persRef> enterprize—treasonable in their character—
+								<persRef ref="barbour-james">Governor Barbour</persRef> came;
+							anxious for the paragraph of the Message, concerning the Report of the
+							Board of Officers, on the re-organization of the Militia— I read to him
+							a paragraph which I had prepared, with some remarks pointing out some of
+							the most striking defects of the present system. He thought the simple
+							paragraph stating the objects for which the board of Officers was
+							convened, and referring to their Report was the best— He said he was
+							attacked in the Georgia Newspapers; as having assembled this Board of
+							Officers without any authority whatever—he supposed it was his friend
+								<persRef ref="forsyth-john">Forsyth</persRef>— This was a harrassing
+							day, as well with visitors, as with business— <persRef
+								ref="everett-edward">M<hi rend="superscript">r</hi> Edward
+								Everett</persRef> called and spent part of the Evening with me,
+							conversing upon various topics— He spoke of a Letter from <persRef
+								ref="jefferson-thomas">M<hi rend="superscript">r</hi>
+								Jefferson</persRef> to <persRef ref="vanburen-martin">M<hi
+									rend="superscript">r.</hi> Van Buren</persRef>, of several
+							sheets which he had seen, explanatory of his Letter to <persRef
+								ref="mazzei-phillip">Mazzei</persRef>.— It disclaims many of the
+							inferences which were drawn from it at the time, and questions the right
+							of the federal party to claim <persRef ref="washington-george">President
+								Washington</persRef>, as having been of their side— Everett said he
+							thought he could obtain this Letter for my perusal.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-02">
+					<head>2 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. VII.</date> Sun rose 7:19. Round Capitol Square— Met Hayne, and
+							Clay.</p>
+						<list><item>Rush. Richard. twice.</item>
+						<item>Brown— Gen<hi rend="superscript">l.</hi> Jacob.</item>
+						<item><persRef ref="mallary-rollin">Mallary— Rollin</persRef></item>
+						<item><persRef ref="wales-george">Wales— George E</persRef></item>
+						<item><persRef ref="ruggles-benjamin">Ruggles Benjamin</persRef></item>
+						<item><persRef ref="strong-james">Strong— James</persRef></item>
+						<item><persRef ref="hugunin-daniel">Hugunin. Daniel jun<hi rend="superscript"
+									>r</hi></persRef></item>
+						<item><persRef ref="drayton-william">Drayton William</persRef></item>
+						<item>Wood— Silas</item>
+						<item><persRef ref="sands-joshua">Sands— Joshua</persRef></item>
+						<item><persRef ref="bell-samuel">Bell— Samuel</persRef></item>
+						<item><persRef ref="sloane-john">Sloan— John</persRef></item>
+						<item><persRef ref="whittlesey-elisha">Whittlesey. Elisha</persRef></item>
+						<item><persRef ref="metcalfe-thomas">Metcalfe Thomas</persRef></item>
+						<item><persRef ref="clark-james">Clark James</persRef></item>
+						<item><persRef ref="haile-william">Haile</persRef></item>
+						<item><persRef ref="mclean-william">M’Lean— William</persRef></item>
+						<item><persRef ref="hendricks-william">Hendricks William</persRef></item>
+						<item><persRef ref="test-john">Test John.</persRef></item>
+						<item>Lincoln. Heman</item>
+						<item>Vandeventer Christopher</item>
+						<item>Roberdeau— Isaac</item>
+						<item>Taylor— John W</item>
+						<item>Southard— Samuel L.</item>
+						<item>Clay— Henry.</item>
+						<item>Wood. S. again</item></list>
+						<p>I went out to walk this morning, after Sunrise, and having a sprain on
+							one foot was an hour and a half walking round the Capitol Square— I met
+							and spoke to <persRef ref="hayne-robert">M<hi rend="superscript">r</hi>
+								Hayne</persRef> the Senator from South-Carolina— And <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef>
+							overtook me near the Capitol— He walked round the Square with me, and
+							left me at the central market. <persRef key="rush-richard">M<hi
+									rend="superscript">r</hi> Rush</persRef> called twice; with the
+							final Statements from the Treasury of the balances remaining there on
+							the first of January last, and to be expected on the first of January
+							next—and of the revenue for the present and next succeeding year— He
+							brought me also a report, with several Statements from the <persRef
+								ref="graham-george">Commissioner of the General
+								Land-Office</persRef>, to be communicated with the Message to
+							Congress— M<hi rend="superscript">r</hi> Rush spoke with great surprize
+							of the view taken by M<hi rend="superscript">r</hi> Clay, of the project
+							for the Chesapeake and Ohio Canals, which were as surprizing to him as
+							they had been to me— <persRef ref="brown-jacob">General Brown</persRef>
+							called to say that he had seen and conversed with <persRef
+								ref="taylor-john">M<hi rend="superscript">r</hi> Taylor</persRef>
+							the Speaker, and found his dispositions were very good— The General
+							seemed anxious to know what would be said in the message of the army;
+							and I read to him the paragraph concerning it; with which he was well
+							satisfied— Morning visits from 15 members of the house of
+							Representatives, among whom J. W. Taylor also 3 members of the Senate—
+								<persRef ref="lincoln-heman">M<hi rend="superscript">r</hi>
+								Lincoln</persRef> came to speak of the Columbian College—and their
+							debts— He is of the Baptist denomination, as well as <persRef ref="u"
+									>D<hi rend="superscript">r</hi> Bowles</persRef>, and much
+							concerned at the manner in which they have involved themselves in debt—
+							He thought they would make provision for it hereafter.— <persRef
+								ref="vandeventer-christopher">Major Vandeventer</persRef> brought a
+							large budget of papers from the War Department to be transmitted to
+							Congress with the Message. <persRef ref="roberdeau-isaac">Col<hi
+									rend="superscript">l</hi> Roberdeau</persRef> came and set the
+							Chronometer, by an observation he had this day taken, with <pb type="ms"
+								n="133"/><persRef ref="elliot-william">W. Elliot</persRef>, on
+							Capitol Hill— I had by inattention suffered the Chronometer to run down.
+								<persRef ref="southard-samuel">M<hi rend="superscript">r.</hi>
+								Southard</persRef> came with some information from the Navy
+							Department, and M<hi rend="superscript">r</hi> Clay to recommend the
+							late <persRef ref="kent-james">Chancellor Kent</persRef>, for the
+							appointment of judge of the Southern District of that State— J. W.
+							Taylor came and dined with me, and I had much conversation with him,
+							upon general Politics, upon those of the State of New-York; upon the
+							Circumstances of his own re-election, and upon the appointments to be
+							made, of District Judge, and of Surveyor for the Port of New-York.
+								<persRef ref="wood-silas">M<hi rend="superscript">r</hi> Silas
+								Wood</persRef> came in the Evening, with a recommendation,
+							numerously signed by respectable merchants of the City recommending M<hi
+								rend="superscript">r</hi> Kent for District Judge— But it is four or
+							five years, since he was disqualified by the Constitution of that State,
+							from holding any judicial Office under it, by his age—and his politics
+							have been objectionable to a great majority of the People.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-03">
+					<head>3 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. V:30.</date> Sunday. Sun rose 7:20.</p>
+						<p>Heard <persRef ref="little-robert">M<hi rend="superscript">r</hi>
+								Little</persRef>, morning and evening from Hebrews 11.24.25.26.
+							[“]By faith, <persRef ref="moses">Moses</persRef>, when he was come to
+							years, refused to be called the son of Pharaoh’s daughter;— Choosing
+							rather to suffer affliction with the people of God, than to enjoy the
+							pleasures of sin for a season;— Esteeming the reproach of Christ,
+							greater riches than the treasures in Egypt; for he had respect unto the
+							recompense of the reward.” This was a discourse upon the character,
+							History and Institutions of Moses, and one of M<hi rend="superscript"
+								>r</hi> Little’s best Sermons. The explanation of the text was
+							somewhat tinctured with the preacher’s sectarian opinions— By faith, he
+							understood mere <hi rend="italic">belief</hi>; though I think the
+							Apostle in this chapter, and generally where he uses the term, means
+							something more— In referring to the principal incidents in the life of
+							Moses, he took occasion to remark that his Nurse was his own mother—that
+							her name was <persRef ref="jochebed">Jochebed</persRef>, and that she
+							must have been a very extraordinary woman, having produced and educated
+							three persons of the sublime genius of Moses, the Eloquence of <persRef
+								ref="aaron">Aaron</persRef>, and of the poetic rapture of their
+							Sister <persRef ref="miriam">Miriam</persRef>— He drew in glowing
+							colours the character of the Patriot Moses, who disdained the honours
+							and enjoyments of the Court of Egypt, to be the deliverer of his
+							oppressed Countrymen. In the Evening he made the application to our own
+							times and duties of the principles he had drawn from the biography of
+							Moses in the Morning— In the afternoon I heard <persRef
+								ref="baker-daniel">M<hi rend="superscript">r</hi> Baker</persRef>,
+							from John 14.2 “In my father’s House are many Mansions.” The discourse
+							was not very impressive— <persRef ref="hellen-johnson">Johnson
+								Hellen</persRef> rode with me to Church in the Evening— Walking
+							home, <persRef ref="bailey-john">M<hi rend="superscript">r</hi>
+								Bailey</persRef> told us of the accident he had suffered in
+							New-York, when on his way to come here— He fell into the dock, as he was
+							going to the Steam-boat at 6. in the Morning, and not knowing how to
+							swim, narrowly escaped drowning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-04">
+					<head>4 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Canals</subject>
+						<subject>Internal Improvements</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. VI:30—</date> Round Capitol Square. 1 hour 20 minutes— Cloudy—
+							Day of Snow.</p>
+						<list><item>Southard— Sam<hi rend="superscript">l.</hi> L</item>
+						<item><persRef ref="vanrensselaer-stephen">Van Rensselaer.
+							Stephen</persRef></item>
+						<item>M’Lane Louis</item>
+						<item>Macon— Nathaniel</item>
+						<item>Smith— Samuel</item>
+						<item>Lathrop— Samuel</item>
+						<item>Metcalfe Thomas</item>
+						<item>White. Joseph M</item>
+						<item><persRef key="clay-henry">Clay— Henry</persRef></item>
+						<item><persRef ref="adams-parmenio">Adams— Parmenio</persRef></item>
+						<item><persRef ref="porter-timothy">Porter— Timothy H</persRef></item>
+						<item>Sands— Joshua</item></list>
+						<p>Nineteenth Congress Second Session commenced this day— <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> called twice; with his Report at length prepared,
+							and the papers to be communicated to Congress with it— The two houses
+							met and the House of Representatives proceeded to business with about
+							170 members— The Senate with about 40. The Vice-President <persRef
+								ref="calhoun-john">Calhoun</persRef> took the Chair of the Senate—
+							They appointed the usual Committee of two members of each House—
+								<persRef ref="smith-samuel2">S. Smith</persRef> and <persRef
+								ref="macon-nathaniel">Macon</persRef> of the Senate—<persRef
+								ref="lathrop-samuel">Lathrop</persRef> and <persRef
+								ref="metcalfe-thomas">Metcalfe</persRef> of the House of
+							Representatives, to notify the President that they were in Session, and
+							ready to receive any communication from him— They came about 2. O’Clock—
+							General Smith spoke for the joint Committee, and I answered him, that I
+							proposed to make to the two Houses a Communication in writing at 12.
+							O’Clock to-morrow— They had adjourned, even before the Committee came—
+							But there were not more than half a dozen members called on me in the
+							course of the day—probably on account of the weather— Among those who
+							did come was <persRef ref="mclane-louis">M<hi rend="superscript"
+									>r.</hi><pb type="ms" n="134"/>M’Lane</persRef> of Delaware, for
+							several late Sessions of Congress Chairman of the Committee of Ways and
+							Means— He has been much out of health, but has recovered as the Session
+							of Congress drew near— <persRef ref="white-joseph">M<hi
+									rend="superscript">r</hi> Joseph M. White</persRef> the Delegate
+							from the Territory of Florida from whom I had received a Letter urging
+							me to recommend to Congress in the Message, his project for making a
+							Canal, over the Isthmus of Florida— I now told him that I had thought it
+							best to leave to Congress the Selection of the special objects of
+							internal improvement, for which Appropriations may be necessary, and
+							after having fully expressed myself with regard to the general
+							principle, to wait till called upon in the discharge of my own duty, to
+							give my sanction to every particular undertaking which may be proposed;
+							and I assured them that the Florida Canal, was one of those which I
+							should most readily sustain— <persRef ref="sands-joshua">M<hi
+									rend="superscript">r</hi> Sands</persRef> came to recommend the
+							appointment of the late <persRef ref="kent-james">Chancellor
+								Kent</persRef>, as U.S. District Judge, for the Southern District of
+							New-York— I was engaged great part of this Evening in revising the two
+							Copies of the Message to be sent to-morrow Morning to the two Houses of
+							Congress.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-05">
+					<head>5 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. VI:30.—</date> Sun rose 7:21. Walk at 4. P.M.</p>
+						<list><item>West. M<hi rend="superscript">rs.</hi></item>
+						<item>Barbour. James</item>
+						<item><persRef ref="armstrong-william">Armstrong. William jun<hi
+									rend="superscript">r</hi></persRef></item>
+						<item><persRef ref="miner-charles">Miner. Charles</persRef></item>
+						<item><persRef ref="hayne-robert">Hayne— Robert Y</persRef></item>
+						<item><persRef ref="king-william2">King— William R.</persRef></item>
+						<item><persRef ref="seymour-horatio">Seymour. Horatio</persRef></item>
+						<item><persRef ref="willey-calvin">Willey— Calvin</persRef></item>
+						<item><persRef ref="baldwin-john">Baldwin John</persRef></item>
+						<item><persRef ref="cambreleng-churchill">Cambreleng— Churchill.
+							C</persRef></item>
+						<item>Holcombe— George</item>
+						<item><persRef ref="kerr-john">Kerr. John Leeds</persRef></item>
+						<item><persRef ref="little-peter">Little. Peter</persRef></item>
+						<item><persRef ref="marvin-dudley">Marvin. Dudley</persRef></item>
+						<item><persRef ref="powell-alfred">Powell— Alfred H</persRef></item>
+						<item><persRef ref="owen-george">Owen George M</persRef></item>
+						<item><persRef ref="taliaferro-john">Taliaferro. John</persRef></item>
+						<item><persRef ref="worthington-thomas">Worthington Thomas G.</persRef></item>
+						<item>Southard— Samuel L</item>
+						<item>Ogden— Aaron</item>
+						<item>Frye. Nathaniel j<hi rend="superscript">r.</hi></item>
+						<item>Johnson. Francis</item>
+						<item>Webster— Daniel</item>
+						<item>Taylor— John W.</item></list>
+						<p><persRef ref="u">M<hi rend="superscript">rs</hi> West</persRef> is the
+							Sister of a man named <persRef ref="u">Hare</persRef>, who in 1818. was
+							convicted at Baltimore of robbing the Mail, and sentenced to ten years
+							imprisonment— <persRef ref="hare-joseph">His brother</persRef> was
+							capitally convicted for the same crime and executed— This man has
+							repeatedly petitioned to be released, and now his Sister came with a
+							recommendation, signed by many respectable persons recommending that the
+							remaining time of his imprisonment might be remitted. It is difficult to
+							resist the solicitation of a woman, particularly for mercy to her
+							brother— I told her that I would reflect upon the subject, and if I
+							could find it consistent with my own sense of duty, would comply with
+							the petition— But that the case was of such a nature, that I could not
+							give her encouragement to expect this result— <persRef
+								ref="barbour-james">Governor Barbour</persRef> came in soon after,
+							and on consulting him, I found him more disposed to relenting than I
+							could be myself— Mail Robbery is one of those Offences, the full
+							punishment of which in this Country ought perhaps never to be remitted;
+							and the sentence of ten years imprisonment was in this case itself a
+							very mitigated penalty. The annual Message to both houses of Congress
+							was this day sent in at twelve O’Clock— They adjourned after reading it,
+							and I had visits before dinner from four Senators and twelve members of
+							the House of Representatives— I received them in the parlour below, and
+							in the intervals between their visits continued the perusal of the
+							proceedings of the Court Martial upon the trial of <persRef
+								ref="babcock-samuel">Major Babcock</persRef>— <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> came with <persRef ref="ogden-aaron">Col<hi
+									rend="superscript">l</hi> Ogden</persRef>, and introduced him—
+							He is here again as he was at the last Session of Congress as an Agent
+							for the Officers of the Revolutionary War, claiming the Justice or the
+							munificence of the Nation. He left with me a printed pamphlet stating
+							the foundations of their claim, which he requested me to peruse—
+								<persRef ref="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye</persRef> brought me an order from <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> upon the Executors
+							of <persRef ref="adams-john">my fathers</persRef> Will, for 290 dollars
+							20 Cents, being the balance due upon the devise to him, and <pb
+								type="ms" n="135"/>payable to <persRef ref="lear-benjamin">B. L.
+								Lear</persRef>, Attorney to <persRef key="hyde-de-neuville-jean"
+								>Baron Hyde de Neuville</persRef>, in part payment of Smith’s note
+							to him— He asked me when I would see Lear on the subject— I said towards
+							the close of the week, as in the mean time I should probably be much
+							occupied with visitors— <persRef ref="holcombe-george">D<hi
+									rend="superscript">r</hi> Holcombe</persRef> told me that he had
+							left <persRef ref="mills-elijah">M<hi rend="superscript">r</hi>
+								Mills</persRef> the Senator from Massachusetts dangerously ill at
+							Philadelphia— <persRef ref="johnson-francis">F. Johnson</persRef>,
+								<persRef ref="webster-daniel">Webster</persRef>, and <persRef
+								ref="taylor-john">J. W. Taylor</persRef> were evening visitors— The
+							Speaker seemed much inclined to reappoint the same Chairmen to the
+							Committees of Ways and Means and of Foreign Relations, as were at the
+							Head of them the last Session, and I think he judges rightly— But he
+							will neutralize the hostility of the Chairmen, by the composition of the
+							Committees.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-06">
+					<head>6 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. VI—</date> Cloudy— Walk to the Capitol. Lame.</p>
+						<list><item>Calhoun. J. C.</item>
+						<item><persRef ref="chambers-ezekiel">Chambers. E. F.</persRef></item>
+						<item><persRef ref="chandler-john">Chandler. John</persRef></item>
+						<item><persRef ref="edwards-henry">Edwards— Henry W.</persRef></item>
+						<item><persRef ref="holmes-john">Holmes— John</persRef></item>
+						<item><persRef ref="knight-nehemiah">Knight. Nehemiah R</persRef></item>
+						<item><persRef ref="robbins-asher">Robbins— Asher</persRef></item>
+						<item><persRef ref="rowan-john">Rowan— John</persRef></item>
+						<item><persRef ref="ruggles-benjamin">Ruggles— Benjamin</persRef></item>
+						<item><persRef ref="smith-samuel2">Smith— Samuel</persRef></item>
+						<item><persRef ref="williams-thomas">Williams— Thomas H.</persRef></item>
+						<item><persRef ref="woodbury-levi">Woodbury— Levi</persRef></item>
+						<item><persRef ref="anderson-john">Anderson— John</persRef></item>
+						<item>Barney— John</item>
+						<item><persRef ref="edwards-samuel">Edwards— Samuel</persRef></item>
+						<item><persRef ref="garnsey-daniel">Garnsey— Daniel G.</persRef></item>
+						<item><persRef ref="hayden-moses">Hayden— Moses.</persRef></item>
+						<item><persRef ref="johnson-jeromus">Johnson— Jeromus</persRef></item>
+						<item><persRef ref="kittera-thomas">Kittera</persRef></item>
+						<item>Lawrence— Joseph</item>
+						<item>and 8 deputies</item>
+						<item><persRef ref="locke-john2">Locke— John</persRef></item>
+						<item><persRef ref="mckee-john">M’Kee— John</persRef></item>
+						<item><persRef ref="mclean-william">M’Lean— William</persRef></item>
+						<item><persRef ref="markley-philip">Markley— Philip S.</persRef></item>
+						<item><persRef ref="merwin-orange">Merwin— Orange</persRef></item>
+						<item><persRef ref="miller-daniel">Miller. Daniel H</persRef></item>
+						<item><persRef ref="phelps-elisha">Phelps— Elisha</persRef></item>
+						<item><persRef ref="reed-john">Reed. John</persRef></item>
+						<item><persRef ref="sprague-peleg">Sprague. Peleg</persRef></item>
+						<item><persRef ref="stevenson-andrew">Stevenson— Andrew</persRef></item>
+						<item><persRef ref="stewart-andrew">Stewart— Andrew.</persRef></item>
+						<item><persRef ref="storrs-henry">Storrs. Henry R.</persRef></item>
+						<item><persRef ref="tomlinson-gideon">Tomlinson. Gideon</persRef></item>
+						<item><persRef ref="ward-aaron">Ward. Aaron</persRef></item>
+						<item><persRef ref="williams-lewis">Williams— Lewis</persRef></item>
+						<item><persRef ref="woods-john">Woods— John</persRef></item>
+						<item><persRef ref="wurts-john">Wurtz— John</persRef></item>
+						<item>Forrest— Richard</item>
+						<item>Hill— George.</item>
+						<item>Ringgold— Tench.</item></list>
+						<p>The day was again devoted to the reception of visitors, of whom were the
+								<persRef ref="calhoun-john">Vice-President Calhoun</persRef>; twelve
+							Senators, and 25 members of the House of Representatives— Received them
+							in the Parlour; and whenever an interval occurred, I employed it in
+							reading the proceedings on <persRef ref="babcock-samuel">Major
+								Babcock’s</persRef> Court-Martial— The visitors came one, two or
+							three at a time—their names in the margin are ranged, not in the order
+							as they came, but the Senators and Representatives, each alphabetically—
+								<persRef ref="lawrence-joseph">M<hi rend="superscript">r</hi>
+								Lawrence</persRef> is a member from Pennsylvania, and with him came
+							eight members of the Chesapeake and Ohio Canal Convention, which
+							assembled this day to the number of near 200. This is an adjourned
+							Meeting of the Body which met here in November 1823. but their numbers
+							are much enlarged— <persRef ref="barney-john2">Barney</persRef> spoke to
+							me of the Petition of <persRef ref="u">Hare</persRef> the Mail-Robber;
+							to which he had signed a recommendation for his discharge— But he told
+							me that there was a great prejudice against it in Baltimore, and if he
+							should be released it was hoped it would be upon condition that he
+							should leave the State. <persRef ref="forrest-richard">M<hi
+									rend="superscript">r</hi> Forrest</persRef> came with the
+							Exequaturs to be signed for <persRef ref="u">Velez</persRef>,
+							Consul-General, and also for four Vice-Consuls of the Republic of
+							Colombia— <persRef ref="hill-george">George Hill</persRef> wrote me a
+							Note, that he had a complaint to make, against an Officer of the
+							Government, and being a member of the Φ.B.K. Society, he hoped I would
+							hear him— When he came, I found his complaint was against <persRef
+								ref="graham-george">M<hi rend="superscript">r</hi> George
+								Graham</persRef> the Commissioner of the General Land-Office— He has
+							been he says these six years one of the Clerks in that Office, and has
+							now been compelled to resign in consequence of ill treament from M<hi
+								rend="superscript">r</hi> Graham— I asked him to specify his
+							complaint. He said that some months since he had given an order or two
+							in anticipation of his Salary; payable at the close of the last and the
+							present Month— That after having given those orders he had found it
+							necessary, to take the benefit of the insolvent Act, whereby he had been
+							discharged from his debts, and his anticipated Orders, became invalid:
+							notwithstanding which, M<hi rend="superscript">r</hi> Graham insisted
+							upon deducting their amount from his Salary— I thought this a weak case
+							of complaint upon his own Statement; but he said M<hi rend="superscript"
+								>r</hi> Graham was very oppressive upon all his Clerks, and was much
+							hated by them all; as he had been before, when at the head of the War
+							Department. I told him that as to the deduction of his anticipated order
+							upon his Salary, it was a matter in which I could not interfere— But if
+							he had any specific ground of complaint against M<hi rend="superscript"
+								>r</hi> Graham, he must reduce it to writing; in which case I would
+							have regular enquiry made into it.— <persRef ref="ringgold-tench">M<hi
+									rend="superscript">r</hi> Ringgold</persRef> the Marshal came to
+							ask, if I should wish his attendance here at the Drawing Rooms, for the
+							preservation of Order, among the Coachmen and Carriages in the yard, as
+							has been usual. I desired that he would— He has lately lost <persRef
+								ref="ringgold-mary">his wife</persRef>, and said he did not
+							generally go into Society— But that he would very readily attend here,
+							considering it, in the line of his duty— He did accordingly attend this
+							Evening; when <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> held the first
+							Drawing-Room for the Season— A week earlier than usual, for the sake of
+							the members of the Canal Convention; many of whom were here. The
+							attendance was full, but not crowded—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-07">
+					<head>7 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Canals</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="136"/>
+						<p><date>7. V:30.</date> Round Capitol Square. Fog.</p>
+						<list><item><persRef ref="barton-david">Barton— David</persRef></item>
+						<item><persRef ref="berrien-john">Berrien. John M’Pherson</persRef></item>
+						<item>Findlay— William</item>
+						<item><persRef ref="macon-nathaniel">Macon— Nathaniel</persRef></item>
+						<item><persRef ref="reed-thomas">Reed</persRef></item>
+						<item><persRef ref="brent-william">Brent. William L</persRef></item>
+						<item><persRef ref="buckner-richard">Buckner— Richard A</persRef></item>
+						<item><persRef ref="claiborne-nathaniel">Claiborne— Nathaniel H.</persRef></item>
+						<item><persRef ref="crump-george">Crump</persRef></item>
+						<item><persRef ref="edwards-weldon">Edwards. Weldon N</persRef></item>
+						<item><persRef ref="johnson-joseph">Johnson— Joseph</persRef></item>
+						<item><persRef ref="lathrop-samuel">Lathrop— Samuel</persRef></item>
+						<item><persRef ref="moore-gabriel">Moore— Gabriel</persRef></item>
+						<item><persRef ref="meriwether-james">Merriwether— James</persRef></item>
+						<item><persRef ref="vance-joseph">Vance— Joseph</persRef></item>
+						<item><persRef ref="white-bartow">White— Bartow.</persRef></item>
+						<item>M’Aulay</item>
+						<item>Kent. Joseph</item>
+						<item>and 20. Canal Delegates</item>
+						<item><persRef ref="lee-john2">Lee— John</persRef></item>
+						<item><persRef ref="u">M’Pherson General</persRef></item>
+						<item><persRef ref="johnson-james3">Johnson— James</persRef></item>
+						<item><persRef ref="u">Culbreth</persRef></item>
+						<item><persRef ref="forrest-benjamin">Forrest. Benjamin</persRef></item>
+						<item>M’Kim— Isaac</item>
+						<item><persRef ref="u">Lorman</persRef></item>
+						<item>and 8 or 10 others.</item>
+						<item>Vandeventer— Christ<hi rend="superscript">r.</hi></item>
+						<item>Brent— Daniel</item>
+						<item>Jamieson John</item>
+						<item>Elgar— Joseph</item>
+						<item>Pearce— Dutee J.</item>
+						<item>Bailey— John.</item></list>
+						<p>Morning visits from five Senators and eleven members of the House of
+							Representatives— <persRef ref="mccauley-isaac">M<hi rend="superscript"
+									>r</hi> M’Aulay</persRef>, who came with <persRef
+								ref="findlay-william">Governor Findlay</persRef> is a Floor-Cloth
+							manufacturer in Philadelphia, and comes to solicit Congress for
+							additional duties, upon the importation of that Article from abroad—
+								<persRef ref="kent-joseph">Governor Kent</persRef> is the President
+							of the Canal Convention now sitting here, and came to introduce about
+							twenty of them here— <persRef ref="mckim-isaac">M<hi rend="superscript"
+									>r</hi> M’Kim</persRef> came with 8 or 10 more. There were three
+							or four other members of Congress, whose names I did not ascertain—
+								<persRef ref="vandeventer-christopher">Major Vandeventer</persRef> came
+							twice, to ask from <persRef ref="scott-winfield">General
+							Scott</persRef>, for a large bundle of papers relating to the disputed
+							Questions of rank between <persRef ref="gaines-edmund">General
+								Gaines</persRef>— I have had them these eighteen Months and more—
+							And not recollecting where they were filed I was obliged to put off
+							Major Vandeventer till tomorrow— <persRef ref="brent-daniel">M<hi
+									rend="superscript">r</hi> Brent</persRef> came to introduce
+								<persRef ref="jamieson-john">M<hi rend="superscript">r</hi>
+								Jamieson</persRef> who had Letters recommendatory of himself for an
+							appointment to Office, signed among others by <persRef
+								ref="carroll-charles">Charles Carroll</persRef> of Carrollton—
+								<persRef ref="elgar-joseph">M<hi rend="superscript">r</hi>
+								Elgar</persRef> the Commissioner of the Public Buildings brought me
+							a copy of a Resolution of the Senate of 29 January 1818. requesting that
+							the President would annually cause a Report to be made to Congress, of
+							the expenditures upon the Public Buildings and of the progress made
+							towards completing them, and M<hi rend="superscript">r</hi> Elgar left
+							with me two copies of such a Report. In the Evening I had visits
+							successively from <persRef ref="pearce-dutee">M<hi rend="superscript"
+									>r</hi> Pearce</persRef> and <persRef ref="bailey-john">M<hi
+									rend="superscript">r</hi> Bailey</persRef>— Pearce left home
+							only last Saturday and arrived here yesterday— M<hi rend="superscript"
+								>r</hi> Bailey spoke to me of the claim of <persRef
+								ref="hull-william">General Hull’s</persRef> heirs or legal
+							Representatives, for his Salary as Governor of the Michigan Territory
+							from the time of his arrest, until his Successor was appointed— <persRef
+								key="monroe-james">M<hi rend="superscript">r</hi> Monroe</persRef>,
+							on the very last day of his Presidential term allowed Hull’s Salary till
+							the day of his arrest— I know not on what principle, for he had
+							inflexibly refused for years before to make the allowance. I told M<hi
+								rend="superscript">r</hi> Bailey that I did not think myself
+							authorised to extend the allowance any further— He spoke to me also of
+							some projects he is revolving in his mind for universal education— He is
+							a well meaning man; but one of the most inveterate visionaries, I ever
+							knew— I wrote very little this Evening, and my Diary now runs again in
+							arrear day after day, till I shall lose irretrievably the Chain of
+							Events, and then comes another Chasm in the record of my life— The
+							Succession of visitors from my breakfasting to my dining hour, with
+							their variety of objects and purposes is inexpressibly distressing— And
+							now that members of Congress come and absorb my evening hours, it
+							induces a physical impossibility that I should keep up with the stream
+							of time in my record— An hours walk before daylight is my only exercise
+							for the day— Then to dress and breakfast I have scarce an hour— Then six
+							and twenty visitors or more, from ten of the Morning till five in the
+							afternoon, leave me not a moment of leisure for reflection, or for
+							writing— By the time evening approaches my strength and Spirits are both
+							exhausted— Such has been the course of this day. Such will be that of
+							how many more?</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-08">
+					<head>8 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>War of 1812</subject>
+						<subject>Slavery</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="137"/>
+						<p><date>8. VI.</date> Round Capitol Square. Cloudy.</p>
+						<list><item>Van Rensselaer. Stephen.</item>
+						<item><persRef ref="sill-thomas">Sill</persRef></item>
+						<item>Johnson. Richard M.</item>
+						<item><persRef ref="bayard-samuel">Bayard Samuel</persRef></item>
+						<item><persRef ref="alexander-mark">Alexander. Mark</persRef></item>
+						<item>Bellinger</item>
+						<item><persRef ref="hines-richard">Hines</persRef></item>
+						<item>Coyle</item>
+						<item><persRef ref="garrison-daniel">Garrison</persRef></item>
+						<item><persRef ref="haynes-charles">Haynes</persRef></item>
+						<item><persRef ref="allen-samuel">Allen— Samuel C</persRef></item>
+						<item><persRef ref="varnum-john">Varnum John</persRef></item>
+						<item><persRef ref="bolling-robert">Bolling— Robert</persRef></item>
+						<item><persRef ref="strong-james">Strong— James</persRef></item>
+						<item>Bossiere</item>
+						<item>O’Neal M<hi rend="superscript">rs</hi></item>
+						<item>Vandeventer— Chr<hi rend="superscript">r</hi></item>
+						<item>Cheves— Langdon</item>
+						<item><persRef ref="ross-henry">Ross Henry H.</persRef></item>
+						<item><persRef ref="dupont-e">Dupont. E. J</persRef></item>
+						<item><persRef ref="rives-william">Rives— William C.</persRef></item>
+						<item>Tallmadge— Col<hi rend="superscript">l</hi></item>
+						<item>Edwards— John &amp; Son</item>
+						<item>Watkins. Tobias.</item></list>
+						<p><persRef ref="brent-william">M<hi rend="superscript">r</hi>
+								Brent</persRef> of Louisiana, yesterday mentioned to me, that
+								<persRef ref="skipwith-f">M<hi rend="superscript">r</hi> Fulwar
+								Skipwith</persRef> of Louisiana, had applied to <persRef
+								ref="mclean-john2">M<hi rend="superscript">r</hi> M’Lean</persRef>
+							the Postmaster General, for the copy of a Letter, written by <persRef
+								ref="jackson-andrew">General Jackson</persRef> about two years
+							since, to M<hi rend="superscript">r</hi> M’Lean against Skipwith— The
+							Post-Office at New-Orleans was vacant. Skipwith was a candidate for the
+							appointment, and Jackson, being then a member of the Senate, wrote to
+							M’Lean, objecting against him, and charging Skipwith in substance with
+							Treachery at the time of the British Attack upon New Orleans. Skipwith
+							being then President of the Senate of the State— This Letter prevented
+							the appointment of Skipwith as Postmaster then— Last Winter the Office
+							was vacant again— Skipwith was again a Candidate, and M<hi
+								rend="superscript">r</hi> M’Lean who consulted me concerning the
+							appointment, sent me this Letter of General Jackson. I told M’Lean that
+							with such a Letter on the file, M<hi rend="superscript">r</hi> Skipwith
+							must be out of the question, for the appointment— Brent says that
+							Skipwith has been informed of the existence of this Letter— That he is
+							occupied in writing a Narrative of the Attack of the British upon
+							New-Orleans, and of all the Transactions connected with that Event— M<hi
+								rend="superscript">r</hi> Brent intimated that the Postmaster
+							General, thought it a matter of some delicacy to give the copy of such a
+							paper, and might perhaps consult me concerning it— I said if M<hi
+								rend="superscript">r</hi> M’Lean wished to consult me, I should be
+							glad to see him— As to his giving a copy of the Letter, I thought there
+							were general Rules at the Department, which would apply to this case as
+							well as to others. <persRef ref="vanrensselaer-stephen">General Van
+								Rensselaer</persRef> advised against the appointment of <persRef
+								ref="kent-james">Chancellor Kent</persRef>, as the District Judge in
+							New-York— <persRef ref="johnson-richard">Col<hi rend="superscript"
+									>l.</hi> R. M. Johnson</persRef> the Senator from Kentucky, has
+							just arrived— He declared that the Stories of his having been
+							electioneering against the Administration were all Slanders— The Col<hi
+								rend="superscript">l.</hi> is disposed to keep upon good terms with
+							all parties— <persRef ref="barringer-daniel">M<hi rend="superscript"
+									>r</hi> Bellinger</persRef> is a member of the House of
+							Representatives who comes from North-Carolina in the place of <persRef
+								ref="mangum-willie">W. P. Mangum</persRef>, resigned, for a judicial
+							appointment since the last Session. <persRef ref="coyle-unknown"
+								>Coyle</persRef> came to solicit a subscription, for removing
+								<persRef ref="post-reuben">M<hi rend="superscript">r</hi>
+								Post’s</persRef> Presbyterian Church, from the side of the Capitol
+							Hill, to a more convenient location in the City. <persRef ref="u"
+								>Bossiere</persRef> is a Captain of a Vessel who came with an
+							application for a release from a penalty— <persRef ref="u">M<hi
+									rend="superscript">rs</hi> O’Neal</persRef>, an Irishwoman for
+							work for her <persRef ref="u">husband</persRef>, and for charity—
+								<persRef ref="vandeventer-christopher">Major Vandeventer</persRef>, for
+							the papers relating to the question of rank between General’s <persRef
+								ref="gaines-edmund">Gaines</persRef> and <persRef
+								ref="scott-winfield">Scott</persRef>, which I found and gave him—
+								<persRef ref="cheves-langdon">M<hi rend="superscript">r</hi>
+								Cheves</persRef> Commissioner for Slave indemnities, comes to attend
+							a Meeting of the Commission, at which nothing will be done; as nothing
+							has been done for many Months— <persRef ref="tallmadge-benjamin">Col<hi
+									rend="superscript">l.</hi> Talmadge</persRef> one Senator, and
+							eleven Members of the House of Representatives came to pay morning
+							visits— <persRef ref="edwards-john">John Edwards</persRef> is the man
+							who obtained from <persRef key="monroe-james">M<hi rend="superscript"
+									>r</hi> Monroe</persRef> the pardon of a man convicted of
+							Piracy; but of whose guilt there was great doubt— He now came to implore
+							of me the pardon of a <persRef ref="hill-william">Slave</persRef>
+							convicted of having with others mutinied on board of a ship; murdered
+							the Master and Mate; and thrown them overboard— This man is sentenced to
+							be executed this day week at New-York, and Edwards solicits his pardon—
+							I heard what he had to say, and told him, I should consider it, and act
+							as I should think my duty required. He considered the crime in this case
+							as the mere natural impulse of the Slave to recover his freedom—
+								<persRef ref="watkins-tobias">D<hi rend="superscript">r.</hi>
+								Watkins</persRef> brought and shewed me two Letters, recommending
+							persons for the appointment of a Marshal in the District of Maryland, in
+							the place of <persRef ref="bentalou-paul">Col<hi rend="superscript"
+									>l.</hi> Bentalou</persRef> who is expected to die.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-09">
+					<head>9 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="138"/>
+						<p><date>9. V:30.</date> Round Capitol Square— Lame— Cloudy.</p>
+						<list>
+							<head rendition="#bracket-right">S.</head>
+							<item><persRef ref="bateman-ephraim">Bateman— Ephraim</persRef></item>
+						<item><persRef ref="benton-thomas">Benton— Thomas H</persRef></item>
+						<item><persRef ref="branch-john">Branch. John</persRef></item>
+						<item><persRef ref="clayton-thomas">Clayton Thomas</persRef></item>
+						<item><persRef ref="cobb-thomas">Cobb— Thomas H.</persRef></item>
+						<item><persRef ref="dickerson-mahlon">Dickerson— Mahlon</persRef></item>
+						<item><persRef ref="kane-elias">Kane. Elias K</persRef></item>
+						<item><persRef ref="rodney-daniel">Rodney Daniel</persRef></item>
+						<item><persRef ref="smith-william2">Smith— William</persRef></item>
+						<item><persRef ref="tazewell-littleton">Tazewell— L. W.</persRef></item>
+						<item><persRef ref="white-hugh">White— Hugh L</persRef></item></list>
+						<list><item><persRef ref="bartley-mordecai">Bartley— Mordecai</persRef></item>
+						<item><persRef ref="bryan-john">Bryan— John H</persRef></item>
+						<item><persRef ref="burges-tristam">Burges— Tristam.</persRef></item>
+						<item><persRef ref="cocke-john">Cocke. John</persRef></item>
+						<item><persRef ref="condict-lewis">Condict. Lewis</persRef></item>
+						<item><persRef ref="conner-henry">Conner. Henry W.</persRef></item>
+						<item><persRef ref="davis-john4">Davis— John</persRef></item>
+						<item><persRef ref="dorsey-clement">Dorsey. Clement</persRef></item>
+						<item><persRef ref="eastman-nehemiah">Eastman</persRef></item>
+						<item><persRef ref="findlay-james">Findlay— James.</persRef></item>
+						<item><persRef ref="govan-andrew">Govan— Andrew R</persRef></item>
+						<item><persRef ref="harvey-jonathan">Harvey— Jonathan</persRef></item>
+						<item><persRef ref="hasbrouck-abraham">Hasbrouck. A. B</persRef></item>
+						<item><persRef ref="haynes-charles">Haynes</persRef></item>
+						<item><persRef ref="healy-joseph">Healy</persRef></item>
+						<item><persRef ref="u">Henry</persRef></item>
+						<item><persRef ref="hines-richard">Hines</persRef></item>
+						<item><persRef ref="holmes-gabriel">Holmes. Gabriel</persRef></item>
+						<item><persRef ref="isacks-jacob">Isacks— J. C</persRef></item>
+						<item><persRef ref="johnson-francis">Johnson— Francis</persRef></item>
+						<item><persRef ref="johnson-jeromus">Johnson— Jeromus.</persRef></item>
+						<item><persRef ref="ingersoll-ralph">Ingersoll Ralph I</persRef></item>
+						<item><persRef ref="letcher-robert">Letcher. Robert P.</persRef></item>
+						<item><persRef ref="martindale-henry">Martindale H. C</persRef></item>
+						<item><persRef ref="meech-ezra">Meech. Ezra</persRef></item>
+						<item><persRef ref="mitchell-george">Mitchell. G. E</persRef></item>
+						<item><persRef ref="obrien-jeremiah">O’Brien— Jeremiah</persRef></item>
+						<item><persRef ref="pearce-dutee">Pearce. Dutee J</persRef></item>
+						<item><persRef ref="polk-james">Polk J. M</persRef></item>
+						<item><persRef ref="swan-samuel">Swan— Samuel</persRef></item>
+						<item><persRef ref="tucker-ebenezer">Tucker. Ebenezer</persRef></item>
+						<item><persRef ref="verplanck-gulian">Verplanck. G. C</persRef></item>
+						<item><persRef ref="whipple-thomas">Whipple T j<hi rend="superscript"
+								>r</hi></persRef></item>
+						<item><persRef ref="wickliffe-charles">Wickliffe Charles A</persRef></item>
+						<cb/>
+						<item>Brown— Gen<hi
+							rend="superscript">l</hi></item>
+						<item>Fürst. Moritz</item>
+						<item><persRef ref="u"
+							>Sneed</persRef> of N.C</item>
+						<item>Ford</item>
+						<item>Finley— Thomas</item>
+						<item>M’Culloch</item>
+						<item>Rush— Richard</item>
+						<item>Barbour. James</item>
+						<item>Clay— Henry</item>
+						<item> Southard— Sam<hi
+							rend="superscript">l.</hi> L</item></list>
+						<p>Eleven Senators and 33. Members of the House of Representatives, whose
+							names I retained called between Breakfast and dining hours— There were
+							five or six more, whom I did not know, or whose names escaped my
+							recollection— Their names are placed in the first column of the margin,
+							not in the order of their visits, as I usually practice in this diary,
+							but alphabetically.— The other visitors, who came mostly on business
+							stand in the second column, in the order in which they came excepting
+							the members of the Administration— <persRef ref="brown-jacob">General
+								Brown</persRef>, as usual was much occupied with New-York Politics
+							and <persRef ref="clinton-dewitt">De Witt Clinton</persRef>, and
+								<persRef ref="vanburen-martin">Van Buren</persRef>— He urges that
+							Clinton and his friends will support the Administration of the General
+							Government, and that Van Buren, and his Bucktails, will be inveterate in
+							their opposition— I told General Brown that I considered it a Lottery
+							ticket how either of the parties would treat the General Administration—
+							My conduct with reference to Governor Clinton had been frank, candid,
+							and I would say generous— I had drawn upon myself by it, the enmity of
+							his opponents in New-York, but without securing even neutrality, still
+							less fairness from him— General Brown fully admitted this but hoped and
+							believed M<hi rend="superscript">r</hi> Clinton would be wiser in
+							future. <persRef ref="furst-moritz">M<hi rend="superscript">r</hi>
+								Fürst</persRef> came again to solicit employment by the War and Navy
+							Departments as a Medalist; for which I referred him to the Departments
+							themselves— I again asked him for his bill for ten silver medals of that
+							which he struck to commemorate my inauguration as President which he
+							again promised me— <persRef ref="u">M<hi rend="superscript">r</hi>
+								Ford</persRef> came with a Letter, soliciting the appointment of
+							Marshal for the District of Maryland in the Event of <persRef
+								ref="bentalou-paul">Col<hi rend="superscript">l.</hi>
+								Bentalou’s</persRef> decease, for    <persRef
+								ref="pinckney-william2">Pinkney</persRef>, a Son of the late
+								<persRef ref="pinkney-william">William Pinkney</persRef> of
+							Baltimore, and now Collector of the Customs at Thompson’s Island.
+								<persRef ref="finlay-thomas">M<hi rend="superscript">r</hi> Thomas
+								Finley</persRef>, came upon the same pursuit for himself, with
+								<persRef ref="u">M<hi rend="superscript">r.</hi>
+							M’Culloch</persRef>. The members of the Administration came each upon
+							business of his own Department— <persRef key="rush-richard">M<hi
+									rend="superscript">r</hi> Rush</persRef> had his annual Report
+							on the Finances, prepared to send in to both Houses of Congress—but some
+							of the returns of exports and imports have been considerably varied even
+							during the present week— The imports which he had estimated at 85
+							Millions have been reduced to 83. and the exports estimated in his first
+							draught at 82 millions have fallen to 78. <persRef ref="barbour-james"
+								>Governor Barbour</persRef>, mentioned to me the necessity of my
+							coming to a decision upon the proceedings of the Court martial upon the
+							case of <persRef ref="phillips-john3">Lieutenant Phillips</persRef>— I
+							have not yet read through those on the case of <persRef
+								ref="babcock-samuel">Major Babcock</persRef>. <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef> told
+							me that the Minister from the Netherlands, <persRef
+								ref="huygens-bangeman">M<hi rend="superscript">r</hi>
+								Huygens</persRef>, was about sending his <persRef ref="huygens-r"
+								>Son</persRef> as a Messenger to Holland; probably to ask
+							Instructions, concerning the views of the Message, upon the
+							discriminating duties— He thinks Huygens will recommend a Treaty to
+							abolish all discriminating duties— <persRef ref="southard-samuel">M<hi
+									rend="superscript">r</hi> Southard</persRef> spoke of his friend
+								<persRef ref="taliaferro-john">John Taliaferro’s</persRef> being
+							opposed in his re-election to Congress by <persRef ref="lee-henry">H.
+								Lee</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-10">
+					<head>10 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="139"/>
+						<p><date>10. VI.</date></p>
+						<p>Heard at <persRef ref="little-robert">M<hi rend="superscript">r</hi>
+								Little’s</persRef> a young man from Cambridge by the name of
+								<persRef ref="u">Wells</persRef>— He was a Classmate of my son
+								<persRef ref="adams-john2">John’s</persRef>—but one of those who
+							took their degrees. His text was from John 4:23. “But the hour cometh,
+							and now is, when the true worshippers, shall worship the Father in
+							Spirit and in truth: for the Father seeketh such to worship him.” The
+							discourse not remarkable, in good or evil— In the afternoon I heard
+								<persRef ref="baker-daniel">M<hi rend="superscript">r</hi>
+								Baker</persRef>, from Luke 12.16–20. “And he spake a parable unto
+							them, saying, the ground of a certain rich man brought forth
+							plentifully.—and he thought within himself, saying, What shall I do,
+							because I have no room to bestow my fruits?— And he said, This will I
+							do: I will pull down my barns, and build greater; and there will I
+							bestow all my fruits and my goods.— And I will say to my soul, Soul,
+							thou has much goods laid up for many years; take thine ease, eat, drink,
+							and be merry.— But God said unto him, Thou fool, this night thy soul
+							shall be required of thee: then whose shall those things be, which thou
+							hast provided? So is he that layeth up treasure for himself, and is not
+							rich toward God.” The parable itself made up for any deficiency in the
+							Commentary— This day was without interruption. I prepared a Message to
+							the Senate to be sent to-morrow with three Indian Treaties. and a
+							Message to both houses, with additional papers from the War Department
+							relating to Indian Affairs.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-11">
+					<head>11 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. VI.</date> Round Capitol Square.— Sun rose 7:23.</p>
+						<list><item><persRef ref="alston-willis">Alston— Willis</persRef></item>
+						<item><persRef ref="ashley-henry">Ashley Henry</persRef></item>
+						<item><persRef ref="bailey-john">Bailey— John</persRef></item>
+						<item><persRef ref="brent-william">Brent— W. L</persRef></item>
+						<item>Crowninshield. B. W.</item>
+						<item><persRef ref="harris-robert">Harris. Robert</persRef>, and <persRef
+								ref="u">Son</persRef></item>
+						<item><persRef ref="hoffman-michael">Hoffman Michael</persRef></item>
+						<item><persRef ref="mitchel-thomas2">Mitchell— Thomas R.</persRef></item>
+						<item><persRef ref="sill-thomas">Sill Thomas H.</persRef></item>
+						<item>Verplanck. Gulian C.</item>
+						<item>Chambers E. F.</item>
+						<item><persRef ref="harrison-william">Harrison— W. H</persRef></item>
+						<item>Silsbee— Nathaniel.</item>
+						<item>Watkins— Tobias</item>
+						<item><persRef ref="u">Blackwell. M<hi rend="superscript">rs</hi></persRef></item>
+						<item>M’Kenney Thomas L.</item>
+						<item><persRef ref="brown-william">Brown William</persRef></item>
+						<item>Forman. Captain</item>
+						<item>Rush— Richard</item>
+						<item>Barbour— James</item>
+						<item><persRef ref="long-stephen">Long. Major</persRef></item>
+						<item>Vandeventer— Chr<hi rend="superscript">r.</hi></item>
+						<item><persRef ref="roberdeau-isaac">Roberdeau— Isaac</persRef></item>
+						<item>Waters— Col<hi rend="superscript">l</hi></item>
+						<item>M’Lellan</item>
+						<item>M’Culloch</item>
+						<item>Clay— Henry—</item>
+						<item>Lear. Benj<hi rend="superscript">n</hi> L.</item>
+						<item>Little Peter.</item></list>
+						<p><persRef ref="watkins-tobias">D<hi rend="superscript">r</hi>
+								Watkins</persRef> called immediately after Breakfast; soon followed
+							by <persRef ref="crowninshield-benjamin">M<hi rend="superscript">r</hi>
+								Crowninshield</persRef> and <persRef ref="silsbee-nathaniel">M<hi
+									rend="superscript">r</hi> Silsbee</persRef>— Subsequently
+								<persRef ref="chambers-ezekiel">M<hi rend="superscript">r</hi>
+								Chambers</persRef> the Senator from Maryland, then <persRef
+								ref="waters-unknown3">Col<hi rend="superscript">l.</hi>
+								Waters</persRef>, <persRef ref="mclellan-samuel2">M<hi
+									rend="superscript">r</hi> M’Lellan</persRef>, <persRef ref="u"
+									>M<hi rend="superscript">r</hi> M’Culloch</persRef>, and in the
+							Evening <persRef ref="little-peter">Col<hi rend="superscript">l.</hi>
+								Little</persRef>— All in consequence of the decease of <persRef
+								ref="bentalou-paul">Col<hi rend="superscript">l.</hi>
+								Bentalou</persRef>, the Marshal for the District of Maryland: Three
+							Members of the House of Representatives from that State are among the
+								Candidates—<persRef ref="barney-john2">Barney</persRef>, <persRef
+								ref="mitchell-george">Mitchell</persRef> and Little— Silsbee,
+							Crowninshield and Chambers came to recommend Barney— But said if his
+							being a member of Congress would form an objection to him he should be
+							glad to be informed of it; as he should in that case not wish to be a
+							Candidate— I told them that it would necessarily constitute some
+							difficulty—particularly as in this case it would require a selection of
+							one out of three. Col<hi rend="superscript">l.</hi> Waters is an old
+							Revolutionary Officer, and brought a Letter recommendatory from <persRef
+								ref="smith-samuel2">Gen<hi rend="superscript">l.</hi> S.
+								Smith</persRef>— The other members of Congress were only morning
+							visitors, excepting <persRef ref="verplanck-gulian">M<hi
+									rend="superscript">r</hi> Verplanck</persRef> who brought a
+							Letter from several respectable persons, in the City of New-York, some
+							of them Clergymen, addressed to <persRef ref="cambreleng-churchill"
+								>Cambreleng</persRef> Verplanck and <persRef ref="johnson-jeromus"
+								>Jeromus Johnson</persRef> the three City Members, requesting them
+							to solicit of me, a reprieve for a Month, of the coloured man, named
+								<persRef ref="hill-william">Hill</persRef>, sentenced to Death for
+							throwing overboard, the Captain and Mate of a vessel, in which they were
+							bound, from Baltimore to Charleston— This is the same case in which
+								<persRef ref="edwards-john">John Edwards</persRef>, applied to me
+							for a pardon— The only reason assigned in the Letter for asking the
+							reprieve was the allegation that <persRef ref="thompson-smith">judge
+								Thompson</persRef> had said the man had been convicted upon the
+							testimony of a single witness— I said to M<hi rend="superscript">r</hi>
+							Verplanck that it was very painful to me to refuse an application for a
+							reprieve for a man under sentence of Death. But this was only a mode of
+							preparing for a petition to pardon. I had made up my mind in this case;
+							not to grant a pardon— It was in all its particulars one of the most
+							atrocious murders ever perpetrated— I could grant a pardon upon no other
+							principle, than that of formally determining that I would in no case
+							whatever permit a capital execution during my Administration. <pb
+								type="ms" n="140"/>This I did not feel myself justified in doing—but
+							if I should grant a pardon or a reprieve in this case, my imagination
+							could not form an idea, of any other in which I could consistently
+							refuse it— But averse as I was to granting a reprieve, if he with M<hi
+								rend="superscript">r</hi> Cambreleng and M<hi rend="superscript"
+								>r</hi> Johnson his Colleagues would write me a Letter requesting
+							it, I would in deference to them do that, which I could not yield to the
+							petitioners of the Letter, who I had no doubt were respectable persons,
+							but whom I did not know— He left me, saying that he did not think they
+							would write me the Letter. The man is to be executed next Friday—
+								<persRef ref="mckenney-thomas">M<hi rend="superscript">r</hi>
+								M’Kenney</persRef> came about <persRef ref="furst-moritz"
+								>Furst</persRef> and his Medals— I told him that Furst had applied
+							to me for patronage from the Departments; and if there was work of his
+							profession to be done, I would be glad if the Departments would employ
+							him— But I added this was all I could say upon the subject— <persRef
+								ref="forman-jacob">Captain Jacob Forman</persRef>, who was Master of
+							the Ship Washington in which we came from England in 1817. came to see
+							me—here on a visit from New-York. <persRef key="rush-richard">M<hi
+									rend="superscript">r</hi> Rush</persRef>, Secretary of the
+							Treasury, <persRef ref="barbour-james">M<hi rend="superscript">r</hi>
+								Barbour</persRef> Secretary of War, and <persRef key="clay-henry"
+									>M<hi rend="superscript">r</hi> Clay</persRef> Secretary of
+							State were successively with me— M<hi rend="superscript">r</hi> Rush had
+							his annual Report on the Finances, prepared to send in to Congress— I
+							sent the two Messages I had prepared last Evening; one to both Houses,
+							with papers of Indian Affairs, and one to the Senate with three Indian
+							Treaties— M<hi rend="superscript">r</hi> Clay had sent me the Title
+							Deeds of the House of the United States at the Hague, which by Act of
+							Congress is to be sold—and a draught of a Power from me to <persRef
+								ref="hughes-christopher">Chr<hi rend="superscript">r.</hi>
+								Hughes</persRef> to make the Sale; to which I thought some
+							modification would be proper— I told Governor Barbour, that I saw no
+							sufficient reason for me to interfere in the case of the Court Martial
+							upon <persRef ref="phillips-john3">Lieutenant Phillips</persRef>—
+								<persRef ref="lear-benjamin">B. L. Lear</persRef> was here, and I
+							made the payment to him of part of the Note from <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> to <persRef
+								key="hyde-de-neuville-jean">Hyde de Neuville</persRef>—and I took
+							Lear’s endorsement to me, upon Smiths order upon the Executors of
+								<persRef ref="adams-john">my father’s</persRef> Will— Col<hi
+								rend="superscript">l.</hi> Little in the Evening detailed to me his
+							reasons for wishing to obtain the appointment of Marshall in the
+							District of Maryland.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-12">
+					<head>12 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. VI.</date> To the Capitol— Sun rose veiled.</p>
+						<list><item>Barney J. F.</item>
+						<item>Little. Peter</item>
+						<item>Anderson— Joseph</item>
+						<item><persRef ref="kidder-david">Kidder. David</persRef></item>
+						<item>O’Brien. Jeremiah</item>
+						<item><persRef ref="chambers-ezekiel">Chambers— E. F.</persRef></item>
+						<item>Ruggles— Benjamin</item>
+						<item>Shannon</item>
+						<item><persRef ref="barbour-james">Barbour— James</persRef></item>
+						<item>Roberdeau Col<hi rend="superscript">l</hi></item>
+						<item>M’Neal— Captain</item>
+						<item>Foster. A. H</item>
+						<item>Randolph. T. Jefferson</item>
+						<item>Scott. Gen<hi rend="superscript">l.</hi> Winfield</item>
+						<item>Brent. Daniel</item>
+						<item>Dorsey. Clement</item>
+						<item><persRef ref="williams-thomas">Williams. T. H</persRef></item>
+						<item><persRef ref="williams-lewis">Williams— Lewis</persRef></item>
+						<item>Watkins— Tobias.</item>
+						<item>Forman— Captain</item></list>
+						<p>The <persRef ref="barney-j">Barney</persRef> who came this morning is an
+							uncle to <persRef ref="barney-john2">the member of Congress</persRef> of
+							the same name, and like him solicits the appointment of Marshal for the
+							District of Maryland. He set forth his claims as a Revolutionary
+							Officer, and told me, that his nephew had authorised him to say to me,
+							that he would not wish to stand in his way— <persRef ref="little-peter"
+									>Col<hi rend="superscript">l.</hi> Little</persRef> came upon
+							the same search, for himself—and <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r</hi> Anderson</persRef> the Comptroller to
+							recommend young <persRef ref="pinckney-william2">Pinkney</persRef> the
+							Collector at Thompson’s Island— <persRef ref="obrien-jeremiah"
+								>O’Brien</persRef> spoke of the Surveyor at Eastport, a <persRef
+								ref="ayer-samuel">D<hi rend="superscript">r</hi> Ayer</persRef>,
+							whom he wished not to be reappointed— He said a Bill had passed the
+							House of Representatives at the last Session of Congress for abolishing
+							the Office which was a useless one; and he hoped the same bill would be
+							taken up and passed at this Session— But at all Events he wished Ayer
+							might not be re-appointed— <persRef ref="ruggles-benjamin">M<hi
+									rend="superscript">r</hi> Ruggles</persRef> came to introduce
+								<persRef ref="shannon-thomas">M<hi rend="superscript">r</hi>
+								Shannon</persRef> of Ohio, and <persRef ref="roberdeau-isaac">Col<hi
+									rend="superscript">l.</hi> Roberdeau</persRef> successively
+								<persRef ref="u">Captain M’Neal</persRef>, and <persRef
+								ref="foster-alexander">M<hi rend="superscript">r</hi>
+								Foster</persRef>— <persRef ref="randolph-thomas2">T. Jefferson
+								Randolph</persRef> is the grandson of the deceased <persRef
+								ref="jefferson-thomas">Ex-President</persRef>, and had brought me
+							last Spring a Letter of introduction from him— I asked him what had been
+							the success of the Lottery granted by the Legislature of Virginia last
+							Winter for the sale of his Grandfather’s Estate. He said it had totally
+							failed; but that the Contractors for the Lottery <persRef
+								ref="yates-henry">Yates</persRef> and <persRef
+								ref="mcintyre-archibald">M’Intire</persRef>, thought it might
+							succeed, if by an Act of Congress it could be connected, with a City
+							Corporation Lottery— I asked if there were <pb type="ms" n="141"/>any constitutional difficulties in the way of such an arrangement. He
+							said yes— That the Virginia delegation, had it now before them for
+							consideration— He knew not how they would decide upon it— I told him I
+							should be happy to give him any assistance in my power and consistent
+							with my duty— <persRef ref="scott-winfield">Gen<hi rend="superscript"
+									>l.</hi> Scott</persRef> came and called for a decision upon the
+							question of Rank, between <persRef ref="gaines-edmund">General
+								Gaines</persRef> and him; complaining that injustice had been done
+							him by the delay to decide the question— The answer to which was so
+							exceedingly plain, and easy that it was impossible any impartial and
+							intelligent mind should hesitate concerning it— I said that if my view
+							of it, corresponded exactly with his I should have given a decision at
+							last eighteen Months since— He gave me a narrative of what had passed
+							here upon this subject; to which he made various additions in
+							consequence of suggestions from me of recollections, from my examination
+							of the papers in the Summer of 1825. I reminded him that the materials
+							for a decision were so far from being in my mind so clear and
+							indisputable, as he thought them; that the Board of Officers assembled
+							in the last days of <persRef key="monroe-james">M<hi rend="superscript"
+									>r</hi> Monroe’s</persRef> Administration, for the express
+							purpose of settling the dispute, after deciding against him General
+							Scott, upon one of his claims to outrank Gaines, had expressly declined
+							to decide the question: the reason for which I had understood was, that
+							the members of the Court were so much divided in opinion upon it, that
+							the decision itself was believed not to be expedient. He said their
+							reason for not deciding it was a feeling of delicacy towards <persRef
+								ref="brown-jacob">General Brown</persRef>— He referred very
+							emphatically to the Letter written to him by <persRef ref="calhoun-john"
+									>M<hi rend="superscript">r</hi> Calhoun</persRef> in 1822.
+							informing him that President Monroe had determined, in the Event of
+								Gen<hi rend="superscript">l.</hi> Brown’s inability to resume the
+							command here at head-quarters, to call him Scott here to take it. I
+							observed to him that this was a <hi rend="italic">private</hi> Letter,
+							and that General Gaines had produced another and a subsequent Letter
+							from M<hi rend="superscript">r</hi> Calhoun to <hi rend="italic"
+								>him</hi>, declaring that the President had <hi rend="italic"
+								>not</hi> decided the question against him— I said however that I
+							would again examine the papers, and would do what I should consider my
+							duty to require in the case— <persRef ref="brent-daniel">M<hi
+									rend="superscript">r</hi> Brent</persRef> came for the title
+							Deeds of the House of the United States at the Hague; and I executed the
+							Power to <persRef ref="hughes-christopher">C. Hughes</persRef> to make
+							sale of it— <persRef ref="dorsey-clement">Dorsey</persRef> came to
+							recommend J. Barney for the appointment of Marshal in Maryland and
+								<persRef ref="watkins-tobias">Watkins</persRef> with Letters for and
+							against <persRef ref="johnson-edward">Edward Johnson</persRef>, with
+							contradictory accounts about the state of his health— Col<hi
+								rend="superscript">l.</hi> Roberdeau, M<hi rend="superscript">r</hi>
+							Alexander H. Foster, and <persRef ref="forman-jacob">Captain
+								Forman</persRef> dined with us, and the latter remained with me till
+							ten, explaining how he wished the appointment of Surveyor at
+							New-York.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-13">
+					<head>13 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. V:30.</date> Round Capitol Square. Sun rose 7:23.</p>
+						<list><item>Graham— George</item>
+						<item>Dix J. A</item>
+						<item>Holmes— John</item>
+						<item><persRef ref="plumer-george">Plumer— George</persRef></item>
+						<item>Markley— Philip S.</item>
+						<item><persRef ref="mitchell-john3">Mitchell— John</persRef></item>
+						<item><persRef ref="vanhorn-espy">Van Horne— Espy</persRef></item>
+						<item>20 others and more</item>
+						<item>Kittera</item>
+						<item>Lawrence— Joseph</item>
+						<item><persRef ref="bell-samuel">Bell. Samuel</persRef></item>
+						<item><persRef ref="adams-parmenio">Adams. Parmenio</persRef></item>
+						<item><persRef key="rush-richard">Rush— Richard</persRef></item>
+						<item><persRef ref="barbour-james">Barbour. James</persRef></item>
+						<item>Finley— Thomas</item>
+						<item><persRef ref="mclellan-samuel2">M’Clelland— Samuel</persRef></item>
+						<item><persRef ref="wing-austin">Wing. Austin E</persRef></item>
+						<item><persRef ref="u">Morsell</persRef></item>
+						<item><persRef ref="thornton-william">Thornton D<hi rend="superscript"
+								>r</hi></persRef></item>
+						<item>Williston— Professor</item>
+						<item><persRef ref="southard-samuel">Southard— Samuel L.</persRef></item></list>
+						<p><persRef ref="graham-george">M<hi rend="superscript">r</hi>
+								Graham</persRef> came and said he had heard, <persRef
+								ref="hill-george">G. Hill</persRef> had made an official complaint
+							to me against him; wherefore he brought me Hill’s Letter to him
+							resigning his Office as a Clerk in the Land-Office— Hill had come to me
+							yesterday and said he would prefer charges against Graham in writing.
+							His complaint is that after having given orders upon his Salary in
+							advance, he had taken the benefit of the Act of insolvency; and that
+							Graham notwithstanding this, withheld his Salary from him to pay it over
+							upon his orders given prior to the declaration of his insolvency— His
+							Letter to Graham is intemperate and disrespectful, and his expedient to
+							prevent the payment of his Salary upon his orders was to resign his
+							Clerkship and then apply to me for another— <persRef ref="dix-john"
+								>Dix</persRef> came to take leave and is going down to Fortress
+							Monroe. <persRef ref="holmes-john">M<hi rend="superscript">r</hi>
+								Holmes</persRef> the Senator from Maine came to speak of his own
+							prospects and views— He says that in the interval between the last and
+							present Session of Congress, a number of his friends in Maine who had
+							been favourable to <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef> at the late
+							Presidential Election, had a meeting at which three questions were
+							presented to them 1. Whether they should join in the opposition to the
+							present Administration 2. Whether they should maintain a neutrality; or
+							3. Whether they should give it a fair and efficient support—and that
+							after full discussion they concluded upon the last— I told him that I
+							had heard with some surprize, that his re-election would be opposed by
+							the</p>
+						<pb type="ms" n="142"/>
+						<list><item>Vandeventer. Christopher</item>
+						<item>Newton Thomas</item>
+						<item>Little. Peter</item></list>
+						<p><persRef ref="parris-albion">Governor of Maine</persRef>, now retiring
+							from Office—Parris. He said Parris had not treated him fairly about it—
+							That early in the Summer he Holmes had enquired of Parris what his views
+							were— That Parris then had encouraged him to expect his support, and
+							declared that he would not be a candidate though afterwards he had
+							spoken differently— He nevertheless thought his prospects good— He spoke
+							also of the Resolutions he had offered at the close of the last Sessions
+							of the Senate, for adding to their Rules: I told him that the difficulty
+							in that case was that the proposition for additional Rules, conceded
+							that the power of repressing disorder did not exist— I believed that it
+							did— That it was the duty of the presiding Officer; and that the
+							disorders of the last Session were attributable to his flinching from
+							his duty, and not to the want of Rules of the Senate— He said he had
+							only proposed a Committee to enquire; and he supposed such a Committee
+							could easily draw a line of distinction between what would be
+							disorderly, and what would not. <persRef ref="lawrence-joseph"
+								>Lawrence</persRef> and <persRef ref="kittera-thomas"
+								>Kittera</persRef> came to recommend <persRef ref="markley-philip"
+									>M<hi rend="superscript">r</hi> Markley</persRef> as Collector
+							for the Port of Philadelphia— <persRef ref="williston-ebenezer"
+								>Professor Williston</persRef> brought me a Letter from <persRef
+								ref="everett-edward">E. Everett</persRef>— He proposes to publish a
+							Collection of American Speeches and Orations, and asked me to furnish
+							him a copy of any one or two of mine that I should prefer to have
+							included in such a compilation— I told him I would furnish him with
+							several, among which he might select according to his own taste— I lent
+							him the three volumes of <persRef ref="lloyd-thomas">Lloyd’s</persRef>
+							Congressional Register, containing the debates in the House of
+							Representatives of the first Congress under the Constitution; a work of
+							which he said <persRef ref="madison-james">M<hi rend="superscript"
+									>r</hi> Madison</persRef> had written to him, but which he had
+							never seen— I told him he would find in it many speeches proper for his
+							collection. <persRef ref="vandeventer-christopher">Major
+								Vandeventer</persRef> brought me back the papers relating to the
+							question of rank between Generals <persRef ref="gaines-edmund"
+								>Gaines</persRef> and <persRef ref="scott-winfield">Scott</persRef>—
+								<persRef ref="newton-thomas">Newton</persRef> called for a morning
+							visit; he was detained at home by illness at the commencement of the
+							Session, and arrived only two or three days since— <persRef
+								ref="little-peter">Col<hi rend="superscript">l.</hi>
+								Little</persRef> spent an hour of the evening with me, and explained
+							to me his motives for wishing the appointment of Marshal for the
+							District of Maryland— But he said somewhat doubtingly that he would
+							withdraw his pretensions for the present, because he believed if he
+							should vacate his Seat in Congress, a person might be chosen in his
+							place, unfriendly to the Administration— He intimated a hope that before
+							the termination of the next Congress of which he is already elected a
+							member some executive appointment might be conferred upon him. His real
+							reason is that he does not wish to take the chances of another election
+							to Congress— Little is a respectable mechanic of excellent private
+							character who has been a member of five or six successive Congresses,
+							with an interval during the war, when he commanded a regiment of
+							Cavalry. He urged me, if I should not fix upon him, to nominate <persRef
+								ref="leakin-sheppard">General Leakin</persRef>, and dwelt much upon
+							the unfavourable effect it would have upon the popularity of the
+							Administration if a federalist should be appointed. He did not name
+								<persRef ref="finlay-thomas">Finley</persRef>, but it was against
+							him that his remarks were aimed. This is the only objection that can be
+							urged against Finley, and Little intimated that this <hi rend="italic"
+								>objection</hi> would be greater in Baltimore, than perhaps many
+							other parts of the Union— But it is powerful every where, and will be so
+							for many years to come— And it is upon the occasion of appointments to
+							Office, that all the wormwood and the gall of the old party hatred ooze
+							out— Not a vacancy to any Office occurs, but there is a distinguished
+							federalist, started and pushed home as a candidate to fill it— Always
+							well qualified, sometimes in an eminent degree, and yet so obnoxious to
+							the Republican party, that they cannot be appointed without exciting a
+							vehement clamour against him and against the Administration— It becomes
+							thus impossible to fill any appointment, without offending one half the
+							community—the federalists, if their associate is overlooked— The
+							republicans if he is preferred— To this disposition Justice must
+							sometimes make resistance, and policy must often yield.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-14">
+					<head>14 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Slavery</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="143"/>
+						<p><date>14. VI.</date> Round Capitol Square. 1. hour 15 minutes. Sun rose
+							7:23</p>
+						<list><item>Vandeventer Christopher</item>
+						<item>Barber— Noyes</item>
+						<item>Huntington of Norwich</item>
+						<item><persRef ref="little-peter">Little— Peter</persRef></item>
+						<item>Leakin— Shepherd C.</item>
+						<item><persRef ref="mckean-samuel">M’Kean— Samuel</persRef></item>
+						<item><persRef ref="rose-robert2">Rose— Robert S</persRef></item>
+						<item>Rush. Richard</item>
+						<item>Roberdeau— Isaac Col<hi rend="superscript">l.</hi></item>
+						<item>Abert. John J. Col<hi rend="superscript">l</hi></item>
+						<item>Kearney. James. Major</item>
+						<item>Reed— Thomas B.</item>
+						<item>Clay. Henry</item></list>
+						<p><persRef ref="vandeventer-christopher">Major Vandeventer</persRef> was here
+							again upon the subject of <persRef ref="scott-winfield">General
+								Scott’s</persRef> papers, and brought a declaration from Major
+							Nourse, and another from himself, certifying that in 1822. <persRef
+								ref="calhoun-john">M<hi rend="superscript">r</hi> Calhoun</persRef>
+							had told them the <persRef key="monroe-james">President</persRef> had
+							determined to call Gen<hi rend="superscript">l.</hi> Scott to the
+							command of the army; if <persRef ref="brown-jacob">Gen<hi
+									rend="superscript">l.</hi> Brown’s</persRef> disability had
+							continued. <persRef ref="barber-noyes">M<hi rend="superscript">r</hi>
+								Barber</persRef> introduced his friend <persRef ref="u"
+								>Huntington</persRef>, of Norwich, and <persRef ref="little-peter"
+									>Col<hi rend="superscript">l.</hi> Little</persRef> came with
+								<persRef ref="leakin-sheppard">General Leakin</persRef> whom he now
+							very earnestly recommends for the appointment of Marshal of Maryland—
+								Gen<hi rend="superscript">l.</hi> Leakin set forth also very
+							pointedly, his own pretensions— Visits from a small number of members of
+							Congress and from <persRef ref="kearney-james;abert-john" type="multi"
+								>two Engineer Officers</persRef> with <persRef ref="roberdeau-isaac"
+									>Col<hi rend="superscript">l.</hi> Roberdeau</persRef>— <persRef
+								ref="reed-thomas">M<hi rend="superscript">r</hi> Reed</persRef> the
+							Senator from Mississippi, spoke to me in a manner somewhat apologetic of
+							a speech which he made at a dinner given to him in his own State— He was
+							explaining his motives for supporting the Administration by his votes in
+							the Senate at the last Session. He intimated that he was obliged to say
+							that he preferred <persRef ref="jackson-andrew">Gen<hi
+									rend="superscript">l.</hi> Jackson</persRef> for the Presidency,
+							although that was not his real sentiment. He said he had great
+							difficulty to sustain himself in the State; and had thought his chance
+							of re-election desperate— He had now however a more favourable prospect—
+							I assured him that I had not the slightest resentment on account of that
+							speech— <persRef key="rush-richard">M<hi rend="superscript">r</hi>
+								Rush</persRef> had received a Letter from <persRef ref="steele-john"
+									>M<hi rend="superscript">r</hi> Steele</persRef> the Collector
+							at Philadelphia, tendering his resignation, to take effect from the last
+							of this Month— And now comes the usual struggle of competition for the
+							appointment as his successor. <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay</persRef> was urging with great
+							force the necessity of supplying the place of <persRef
+								ref="swift-joseph">Gen<hi rend="superscript">l.</hi> Swift</persRef>
+							as Surveyor of the Port of New-York, while he himself and <persRef
+								ref="sullivan-george">George Sullivan</persRef> are writing the most
+							imploring Letters for his reappointment— He has lately been indicted at
+							New-York, and twice tried for a conspiracy to cheat. The jury on the
+							first trial could not agree; eight for convicting, and four for
+							acquitting—upon the second trial, he first obtained to be tried
+							separately from three of his associates who were convicted, and then the
+							prosecutor suffered a verdict to go in his favour. There are numerous
+							competitors for his Office, and there are other occurrences of
+							questionable morality in his History. I suspend the determination upon
+							his case— I signed 1. an order for remission of a penalty for a Slave,
+							taken from Ocracoke, N.C. to Key West, without his name in the Manifest.
+							2. Order for remission of penalty on petition of <persRef
+								ref="bell-abraham">Abraham Bell</persRef> and C<hi
+								rend="superscript">o.</hi> for importation of two passengers
+							(infants) more than are allowed by Act of 2. March 1819. in Ship Robert
+							Fulton, <persRef ref="britton-thomas">Captain Britton</persRef>, from
+							Londonderry to New-York. 3. An Order to remit fines of <persRef
+								ref="huff-william">William Huff</persRef>, <persRef
+								ref="graeff-david">David Graeff</persRef>, <persRef
+								ref="green-george">George Green</persRef>, <persRef
+								ref="hunter-thomas">Thomas Hunter</persRef>, <persRef
+								ref="scott-james">James Scott</persRef>, <persRef ref="herbert-john"
+								>John Herbert</persRef>, <persRef ref="stewart-charles2">Charles
+								Stewart</persRef>, and <persRef ref="tucker-henry">Henry
+								Tucker</persRef>, for keeping gaming tables, on payment made, or
+							secured of the costs, and on their giving security for their good
+							behaviour—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-15">
+					<head>15 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. VI.</date> At 4:30. Cramp— Round Capitol Square 1— hour 20
+							minutes— Sun rose 7.24 Winter Solstice.</p>
+						<list><item>Barbour James</item>
+						<item>Noble James</item>
+						<item>Bailey. John</item>
+						<item>Johnson Francis</item>
+						<item>M’Hatton Robert</item>
+						<item>Tracy</item>
+						<item><persRef ref="long-john">Long</persRef></item>
+						<item>Chase— Dudley</item>
+						<item>Chase of New Hampshire</item>
+						<item>Foremen. Capt<hi rend="superscript">n.</hi> Jacob</item>
+						<item><persRef ref="southard-samuel">Southard Samuel L</persRef></item></list>
+						<p>I met <persRef ref="pearce-dutee">M<hi rend="superscript">r</hi> D. J.
+								Pearce</persRef> of Rhode Island on my Morning’s walk, and he walked
+							about half an hour with me— I gave <persRef ref="barbour-james">Governor
+								Barbour</persRef> the papers containing the proceedings in the case
+							of <persRef ref="phillips-john3">Lieutenant Isaac Phillips</persRef>—
+								<persRef ref="brown-jacob">General Brown</persRef> had already
+							remitted part of the Sentence, and I saw no sufficient reason for
+							interposing further in the case. <persRef ref="noble-james">M<hi
+									rend="superscript">r</hi> Noble</persRef> is one of the Senators
+							from Indiana and called for a morning visit—as did <persRef
+								ref="bailey-john">M<hi rend="superscript">r</hi> Bailey</persRef>,
+							and <persRef ref="johnson-francis">Col<hi rend="superscript">l.</hi> F.
+								Johnson</persRef> with <persRef ref="mchatton-robert">M<hi
+									rend="superscript">r</hi> M’Hatton</persRef>, who has been
+							elected in the place of <persRef ref="johnson-james3">James
+								Johnson</persRef> deceased since the close of the last Session of
+							Congress— <persRef ref="chase-dudley">M<hi rend="superscript">r</hi>
+								Chase</persRef> the Senator from Vermont came with <persRef ref="u"
+								>a relation of his</persRef> of the same name from New-Hampshire.
+								<persRef ref="tracy-elisha">M<hi rend="superscript">r</hi>
+								Tracy</persRef> is from Connecticut, and was here several times,
+							while the Commissioners upon</p>
+						<pb type="ms" n="144"/>
+						<list><item><persRef key="clay-henry">Clay. Henry</persRef></item>
+						<item><persRef key="rush-richard">Rush— Richard</persRef></item></list>
+						<list rendition="#bracket-right">
+							<item>Hammond</item>
+							<item>Jack— Captain</item></list>
+						<p>claims against Spain were in Session— The members of the Administration
+							had each objects relating to his own Department, for consultation with
+							me, and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Hammond</persRef> and his friend <persRef ref="u">Captain
+								Jack</persRef> were Virginians, who had dined, and came to see me,
+							for mere curiosity. <persRef ref="forman-jacob">Captain Forman</persRef>
+							paid me a long visit, and gave me further to understand his willingness
+							to accept the appointment of Surveyor at New-York— I signed this day 193
+							blank Mediterranean Passports— Had the first weekly company of Members
+							of Congress, for this Season, to dine, consisting of <persRef
+								ref="calhoun-john">J. C. Calhoun</persRef>, Vice President; Senators
+								<persRef ref="bell-samuel">Samuel Bell</persRef>, <persRef
+								ref="hayne-robert">Robert Y. Hayne</persRef>, <persRef
+								ref="ruggles-benjamin">Benjamin Ruggles</persRef>, <persRef
+								ref="silsbee-nathaniel">Nathaniel Silsbee</persRef>, and <persRef
+								ref="thomas-jesse">Jesse B. Thomas</persRef>, members of the House
+							of Representatives, <persRef ref="armstrong-william">William
+								Armstrong</persRef>, <persRef ref="barber-noyes">Noyes
+								Barber</persRef>, <persRef ref="clark-james">James Clark</persRef>,
+								<persRef ref="conway-henry">Henry W. Conway</persRef> (Delegate from
+							Arkansas Territory) <persRef ref="cook-daniel">Daniel P. Cook</persRef>,
+							(who said it was his birthday) <persRef ref="crowninshield-benjamin"
+								>Benjamin W. Crowninshield</persRef>, <persRef ref="drayton-william"
+								>William Drayton</persRef>, <persRef ref="gurley-henry">H. H.
+								Gurley</persRef>, <persRef ref="haile-william">William
+								Haile</persRef> (a new member from Mississippi, in the place of
+								<persRef ref="rankin-christopher">Rankin</persRef>, deceased)
+								<persRef ref="hugunin-daniel">Daniel Hugunin jun<hi
+									rend="superscript">r</hi></persRef>, <persRef ref="kerr-john"
+								>John Leeds Kerr</persRef>, <persRef ref="mallary-rollin">Rollin C.
+								Mallary</persRef>. <persRef ref="mercer-charles">Charles F.
+								Mercer</persRef>, <persRef ref="metcalfe-thomas">Thomas
+								Metcalfe</persRef>, <persRef ref="miner-charles">Charles
+								Miner</persRef>, <persRef ref="sands-joshua">Joshua Sands</persRef>,
+								<persRef ref="scott-john">John Scott</persRef>, <persRef
+								ref="test-john">John Test</persRef>, <persRef ref="thompson-wiley"
+								>Wiley Thompson</persRef>, <persRef ref="vanrensselaer-stephen"
+								>Stephen Van Rensselaer</persRef>, with his Son <persRef
+								ref="vanrensselaer-henry">Henry</persRef>, <persRef ref="wood-silas"
+								>Silas Wood</persRef>, and <persRef ref="wright-john">John C.
+								Wright</persRef>. <persRef ref="jefferson-thomas">M<hi
+									rend="superscript">r</hi> Jefferson’s</persRef> Grandson
+								<persRef ref="randolph-thomas2">Thomas Jefferson Randolph</persRef>
+							was also of the company, and <persRef ref="sanford-edward">Edward
+								Sanford</persRef>, son of the <persRef ref="sanford-nathan">Senator
+								from New-York</persRef>, who was invited, but was prevented by
+							illness from coming. <persRef ref="mclane-louis">Louis M’Lane</persRef>
+							of Delaware sent an excuse, being obliged by the state of his family to
+							go home. We had no Ladies at table, <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef>, being too unwell to leave her chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-16">
+					<head>16 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Slavery</subject>
+						<subject>Foreign Relations</subject>
+						<subject>Treaty of Ghent</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. IV:30.</date> Sun rose veiled— Round Capitol Square</p>
+						<list rendition="#bracket-left">
+							<item>Findlay— William</item>
+							<item>Todson George P.</item>
+							<item>Randall. Thomas</item></list>
+						<list><item>Cook Daniel P.</item>
+						<item>Enos. Pascal P.</item>
+						<item><persRef ref="bartlett-ichabod">Bartlett— Ichabod</persRef></item>
+						<item><persRef ref="miller-john">Miller— John</persRef></item>
+						<item><persRef ref="jennings-jonathan">Jennings Jonathan</persRef></item>
+						<item><persRef ref="saunders-romulus">Saunders Romulus M.</persRef></item>
+						<item><persRef ref="stevenson-james">Stephenson James S</persRef></item>
+						<item>Brown— Gen<hi rend="superscript">l.</hi> Jacob</item>
+						<item>Fosdick Nicoll</item>
+						<item>Gilbert. of New-York</item>
+						<item>King— John A</item>
+						<item>Webster. Daniel</item>
+						<item>Clay. Henry</item>
+						<item>Roberdeau Isaac.</item></list>
+						<p><persRef ref="findlay-william">M<hi rend="superscript">r</hi>
+								Findlay</persRef>, the Senator from Pennsylvania, came, this morning
+							with Doctor <persRef ref="todson-george">George P. Todson</persRef>, the
+							man who was an assistant Surgeon in the army of the United States; was
+							tried last Winter by a Court-martial and sentenced to be cashiered—
+							Before I acted upon the sentence, powerful interest was exerted in
+							behalf of Todson, in whose favour I received Letters from <persRef
+								ref="dubourg-louis">Bishop Dubourg</persRef> of Louisiana, and from
+								<persRef ref="gaines-edmund">General Gaines</persRef>— On examining
+							however the proceedings of the Court Martial, I found no ground upon
+							which I could either reverse the decision or remit the penalty— <persRef
+								ref="barbour-james">Governor Barbour</persRef> whom I consulted was
+							of the same opinion— I approved the sentence of the Court. Todson
+							afterwards came, and solicited to be restored to the service; charged
+							the members of the Court with gross partiality and determined hostility
+							against him, which I told him I could not take for granted upon his
+							simple allegation— But I said, if he could bring me proof either of
+							partiality or of hostility against him indulged by the Court, I would
+							nominate him to the Senate for re-appointment— He then applied to
+								<persRef ref="randall-thomas">Col<hi rend="superscript">l.</hi> T.
+								Randall</persRef>, as Counsel, who drew up a very ingenious and able
+							argument to prove partiality and hostility on the part of the Court,
+							from a review of their proceedings, but without adducing a single
+							additional fact, or producing a particle of testimony out of the record—
+							I read attentively Randall’s Argument; I reviewed again the proceedings
+							of the Court—there were some of their decisions which had an aspect of
+							harshness— Some part of the charges, which an indulgent disposition,
+							might have seen with eyes of mitigation, or of substance atonable by
+							punishment milder than dismission from the Service. Still there was
+							highly culpable matter proved and unexplained— I could still find no <pb
+								type="ms" n="145"/>justifiable cause for reversing the Sentence of
+							the Court, or for renominating Todson to the Senate; and I sent to the
+							Department of War a written decision to that effect— Shortly afterwards
+							I received intimations, first from <persRef ref="huntt-henry">D<hi
+									rend="superscript">r</hi> Huntt</persRef>, and then from Col<hi
+								rend="superscript">l.</hi> Randall, that Todson had come to the most
+							cool and inflexible determination to murder me— Randall informed me that
+							he had disclosed this purpose to him; had reasoned with him upon it—
+							That although Randall had treated the idea with horror and urged the
+							atrociousness of it, yet Todson had persisted in the avowal of the
+							intention— Had said it would be revenge, and that he would not fly from
+							the consequences of the act to himself— Randall was impressed with the
+							belief that the danger to me was imminent— That it was no idle threat,
+							and that Todson, in a state of utter desperation, was a man who would do
+							more than he would say. He advised me to intermit my morning walks—and
+							Huntt advised me not to receive Todson if he should come to the house—
+							This was the 30<hi rend="superscript">th</hi> of last month— He now came
+							and demanded that I should nominate him for reappointment to the
+							Senate—and said there had been several examples of Officers dismissed by
+							Sentence of Court Martials from the Service, and afterwards restored to
+							their rank and Commission by the President alone— M<hi
+								rend="superscript">r</hi> Findlay said that he had been reading the
+							proceedings of the Court Martial, and thought that excepting the charge
+							of his having challenged another Officer to fight a duel, there was
+							nothing which deserved so severe a punishment as dismission from the
+							service— Without answering Findlay, I said D<hi rend="superscript"
+								>r</hi> Todson, whatever you have to say to me, I wish you to say in
+							the presence of your Counsel, Col<hi rend="superscript">l.</hi> Randall,
+							and that you would come here with him. He immediately left the room. I
+							then said to M<hi rend="superscript">r</hi> Findlay, that I had
+							particular reasons for speaking as I had to Todson—reasons which he
+							himself would understand, but which I could not with propriety disclose
+							to <hi rend="italic">him</hi>. He then withdrew, and in the course of
+							less than an hour, Todson came back with Col<hi rend="superscript"
+								>l.</hi> Randall. He then renewed his demand that I would nominate
+							him to the Senate for re-appointment, or for an appointment to some
+							other Office— I said that if I could think it consistent with my duty to
+							nominate him to any Office, it would be to that from which he had been
+							removed, because that was an Office in the line of his profession—but I
+							had answered him on that subject more than once. There was no more
+							painful duty within the compass of my service, than that of confirming a
+							sentence of dismission; and it had been peculiarly painful to me in his
+							case— But after the maturest consideration I had deemed it to be my
+							duty, and I had seen no ground upon which I could retract that decision—
+							I had given it formally in writing to the Department of War— But I added
+							Captain Randall knew there were other reasons now which rendered it
+							utterly impossible that I should contribute to restore D<hi
+								rend="superscript">r</hi> Todson to the public Service, and I had
+							desired that he should be present, at my answer to any such claim by the
+								D<hi rend="superscript">r.</hi> because he knew those reasons. They
+							did not in any manner change my determination. I should not renominate
+								D<hi rend="superscript">r</hi> Todson, even if they did not exist,
+							but had my disposition been otherwise before they would now foreclose
+							all possibility of my ever doing any thing for him— Col<hi
+								rend="superscript">l.</hi> Randall said he should deeply regret the
+							effect, if the notice he had thought it his duty to give me, should
+							deprive D<hi rend="superscript">r</hi> Todson of the benefit of any
+							thing I might otherwise do for him— I said it had deprived him of
+							nothing— I could have done nothing for him, had this incident never
+							occurred. Col<hi rend="superscript">l.</hi> Randall said that he had
+							most earnestly expostulated with D<hi rend="superscript">r</hi> Todson,
+							against the execution of his design; and that on a conversation with
+							him, after the notice that he Randall had given me, he had understood
+							from D<hi rend="superscript">r</hi> Todson that he had abandoned the
+							intention, of which Randall had desired a common friend of ours to give
+							me notice— He had therefore considered the previous intimations of D<hi
+								rend="superscript">r</hi> Todson, as the effects of an extraordinary
+							momentary excitement, and that I might consider them as entirely given
+							up by him; and might favour him accordingly— I said I was perfectly
+							willing to consider the threats of D<hi rend="superscript">r</hi>
+							Todson, as the effect of a momentary alienation of mind, for <pb
+								type="ms" n="146"/>which he should not be held responsible— That I
+							had said nothing of it to any person, and it was my reason, for deducing
+							to converse with M<hi rend="superscript">r</hi> Findlay upon the subject
+							when he had called with D<hi rend="superscript">r</hi> Todson— I had
+							said nothing of it even to him; but I was not the less under a threat of
+							assassination, and what must be the universal opinion of the world, if
+							under such a threat, and when he who made it knew I was informed of it,
+							I should at his demand nominate him to a public office— He might take
+							the answer now once for all— I never would nominate him to any office
+							whatever— Todson himself neither denied nor disavowed threat, but
+							somewhat faintly said he had given up the idea, upon being informed that
+							I had expressed sentiments of compassion upon his case— I said there
+							could be no more painful duty to me to perform, than that of dismissing
+							an officer from the service— I had felt his case as a hard one and had
+							expressed myself accordingly, but I had no doubt of my duty and had
+							performed it— He then asked me for assistance to pay his debt contracted
+							here for board, and to enable him to return to New-Orleans— And his
+							manner and deportment concerning his threat of assassination was
+							evidently intended to make the impression upon me, that he would still
+							execute the purpose if I did not either nominate him to office, or
+							furnish him with money— Col<hi rend="superscript">l.</hi> Randall at
+							length told him that it was useless to press me further, and they
+							withdrew together— Randall had reminded me of the murder of <persRef
+								ref="perceval-spencer">M<hi rend="superscript">r</hi>
+								Percival</persRef> by <persRef ref="bellingham-john"
+								>Bellingham</persRef>— And those of <persRef ref="harley-robert"
+								>Harley</persRef> (attempted by <persRef ref="guiscard-antoine"
+								>Guiscard</persRef>[)], and of <persRef ref="villiers-george"
+								>Villiers</persRef> by <persRef ref="felton-john">Felton</persRef>
+							occurred to my own Reflections— <persRef ref="angus-samuel">Captain
+								Angus</persRef> the Summer before last, upon the failure of a
+							similar application to be restored to the service after dismission by
+							sentence of a Court martial had in like manner threatened the life of
+								<persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef>— Desperate men, are prepared for desperate Deeds.
+							My life is in the hands of a higher power than the will of man— While
+							this incident forcibly brings to my consciousness the frail tenure upon
+							which human life is held, may the Spirit of God sustain and preserve me
+							from any weakness resulting from it, unworthy of my station— There was a
+							succession of other visitors through the day— <persRef ref="cook-daniel"
+								>D. P. Cook</persRef> introduced a <persRef ref="enos-pascal">M<hi
+									rend="superscript">r</hi> Enos</persRef>, who is Receiver of
+							Public Moneys at Springfield in the State of Illinois. <persRef
+								ref="brown-jacob">General Brown</persRef> came with a <persRef
+								ref="u">M<hi rend="superscript">r</hi> Gilbert</persRef> of
+							New-York, and with <persRef ref="fosdick-nicoll">M<hi rend="superscript"
+									>r</hi> Fosdick</persRef> one of the members of the House of
+							Representatives from that State— Several other members of Congress
+							called, and among them <persRef ref="webster-daniel">M<hi
+									rend="superscript">r</hi> Webster</persRef>, with whom I
+							commenced a Conversation upon the subject of the important questions now
+							pending concerning our trade with the British Colonies in America. We
+							were interrupted and he requested to resume it hereafter— <persRef
+								ref="roberdeau-isaac">Col<hi rend="superscript">l.</hi>
+								Roberdeau</persRef> brought and left with me a copy of a paper which
+							he read at the last Meeting of the Columbia Institute— A historical
+							Review of the proceedings relating to the Survey of the Coast— <persRef
+								ref="king-john">John A. King</persRef> late Secretary to the
+							Legation to Great Britain arrived; bringing with him a Convention
+							concluded on the 13<hi rend="superscript">th.</hi> of last Month by
+								<persRef ref="gallatin-albert">M<hi rend="superscript">r</hi>
+								Gallatin</persRef>, with the British Plenipotentiaries <persRef
+								ref="huskisson-william">Huskisson</persRef> and <persRef
+								ref="addington-henry">Addington</persRef>, by which if it please
+							God, the long controversy respecting Slaves carried away from this
+							Country in violation of the first stipulation of the Treaty of Ghent,
+							will be closed, by a payment on the part of Great Britain of a sum a
+							little exceeding twelve hundred thousand dollars to be distributed by
+							the American Government among the claimants. I receive this intelligence
+							with the most fervent gratitude and joy. <persRef key="clay-henry">M<hi
+									rend="superscript">r.</hi> Clay</persRef> came to speak of the
+							arrangements to be made for sending the Treaty to the Senate, for which
+							to avoid delay, many original papers must be sent— J. A. King dined and
+							spent the Evening with me, and gave me information as far as he was
+							informed of the general state of affairs in Europe— M<hi
+								rend="superscript">r</hi> Gallatin is determined to return next
+							May.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-17">
+					<head>17 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="147"/>
+						<p><date>17. VI.</date> Cloudy.</p>
+						<p>Heard this Morning <persRef ref="little-robert">M<hi rend="superscript"
+									>r</hi> Little</persRef> from 1. Peter 3:8. “Finally be ye all
+							of one mind, having compassion one of another.” a discourse upon the
+							duties of general benevolence— In the afternoon a Stranger preached at
+								<persRef ref="baker-daniel">M<hi rend="superscript">r</hi>
+								Baker’s</persRef> from Revelations 19.6. “And I heard as it were the
+							voice of a great multitude, and as the voice of many waters, and as the
+							voice of mighty thunderings, saying Alleluia: for the Lord God
+							ominipotent reigneth.”— <persRef ref="bailey-john">M<hi
+									rend="superscript">r</hi> Bailey</persRef> of Massachusetts
+							spent part of the Evening with me in my chamber— I sent this morning the
+							Convention brought by <persRef ref="king-john">M<hi rend="superscript"
+									>r</hi> King</persRef>, to <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay</persRef> with a request that he
+							would have a copy of it made, to be sent to the Senate with the
+							Convention itself— And also that copies and original papers might be
+							collected so as to send them all if possible to the Senate
+							to-morrow—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-18">
+					<head>18 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Commerce</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. IV:30.</date> Round Capitol Square— 1 hour 20 minutes.
+							Cloudy.</p>
+						<list><item>Silsbee— Nathaniel</item>
+						<item><persRef ref="southard-samuel">Southard— Samuel L</persRef></item></list>
+						<list rendition="#bracket-right">
+							<item>M<hi rend="superscript">rs</hi> Huff and</item>
+							<item><persRef ref="u">M<hi rend="superscript">rs</hi> Thomson</persRef></item>
+						</list>
+						<list><item>Partridge— Captain</item>
+						<item>Brent— Daniel</item>
+						<item>Clay— Henry</item>
+						<item>Brown— Gen<hi rend="superscript">l.</hi> Jacob</item>
+						<item>White— Joseph M</item>
+						<item>Duval— Son of Gov<hi rend="superscript">r</hi></item>
+						<item>Burch Captain</item>
+						<item><persRef ref="ingersoll-edward">Ingersoll Edward</persRef></item>
+						<item>Sewall D<hi rend="superscript">r</hi></item>
+						<item>Ruggles— Professor</item>
+						<item>Watkins Tobias</item>
+						<item>Taylor John W.</item></list>
+						<p><persRef ref="silsbee-nathaniel">M<hi rend="superscript">r</hi>
+								Silsbee</persRef> called to have some conversation with me,
+							respecting the measures to be taken, by Congress at their present
+							Session, relative to the trade with the British Colonies in America— It
+							is from the first of the present Month, interdicted in our vessels by
+							the British Government— Some countervailing measure is to be taken on
+							our part; and there is an opinion prevailing among the members of
+							Congress friendly to the Administration that this will be the subject
+							upon which the opposition party will make their principal attack at this
+							Session— M<hi rend="superscript">r</hi> Silsbee had not read the
+							documents communicated to Congress with the Message but wished to know
+							what my views were of the measures to be taken— I told him my own
+							opinion was that there should be an Act of Congress totally interdicting
+							the trade, with all the Colonies both in the West Indies and in North
+							America— But that the same Act should provide for the reopening of the
+							trade, upon terms of reciprocity whenever the British Government shall
+							be disposed to assent to them; and if Congress think proper to accept
+							the participation of the trade even without entire reciprocity, I wished
+							them only to consider and determine how far they would be willing to
+							concede advantages to British shipping to the detriment of our own— I
+							would myself advise no concessions, but I would acquiesce in any that
+							Congress would sanction— <persRef ref="u">M<hi rend="superscript"
+									>rs</hi> Huff</persRef> is the mother of <persRef ref="u">a
+								boy</persRef> in prison whose discharge was ordered on payment of
+							costs— She now came weeping and wailing to obtain the remission of the
+							costs which she said she was unable to pay— I referred her to the
+							certificate of one of the judges, or of the district Attorney— <persRef
+								ref="partridge-alden">Captain Partridge</persRef> came to enquire
+							when I would receive him with a detachment of about eighty Cadets of his
+							Military School, whom during his winter vacation he has marched from
+							Middletown Connecticut to this place— I fixed one O’Clock to-morrow;
+							when he said he wished them to pay me the Military Salute— <persRef
+								ref="brent-daniel">M<hi rend="superscript">r</hi> Brent</persRef>
+							and <persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef> came concerning the Convention now to be sent to the
+							Senate— <persRef ref="king-rufus">M<hi rend="superscript">r</hi>
+								King’s</persRef> correspondence is bound up in a volume, and they
+							have no duplicates from him at the Department— Extracts from it relating
+							to this subject must be copied, which will take at least another day— So
+							that they cannot be sent before to-morrow— <persRef ref="brown-jacob"
+								>General Brown</persRef> called to talk as usual about <persRef
+								ref="clinton-dewitt">M<hi rend="superscript">r</hi>
+								Clinton</persRef>, but had nothing new this time— <persRef
+								ref="white-joseph">M<hi rend="superscript">r</hi> White</persRef>
+							the Delegate came to introduce <persRef ref="u">the Son</persRef> of
+								<persRef ref="duval-william">Governor Duval</persRef> of Florida,
+							and <persRef ref="burch-daniel">Captain Burch</persRef> of the army—
+								<persRef ref="sewall-thomas">D<hi rend="superscript">r</hi>
+								Sewall</persRef> and <persRef ref="ruggles-william">professor
+								Ruggles</persRef>, invited me to attend the Commencement of the
+							Columbian College on Wednesday Morning at ten, at <persRef
+								ref="laurie-james">D<hi rend="superscript">r</hi> Laurie’s</persRef>
+							Church, to which I agreed— <persRef ref="watkins-tobias">D<hi
+									rend="superscript">r</hi> Watkins</persRef> called with Letters
+							about the appointment of a Marshal for the District of Maryland, and
+								<persRef ref="taylor-john">M<hi rend="superscript">r</hi>
+								Taylor</persRef> the Speaker in the Evening, about the appointment
+							of a District Judge in New-York—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-19">
+					<head>19 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Bank of the United States</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="148"/>
+						<p><date>19. VI.</date> Round Capitol Square.— Sun rose 7.24.</p>
+						<list><item>Silsbee. Nathaniel</item>
+						<item>Crowninshield B. W.</item>
+						<item>Stewart— Andrew</item>
+						<item>Clendenin</item>
+						<item>Partridge Captain, and</item>
+						<item>about 80 of his Cadets</item>
+						<item><persRef ref="barbour-james">Barbour. James</persRef></item>
+						<item>Macomb. Alexander</item>
+						<item>Yturbide— Agustin</item>
+						<item><persRef ref="brent-daniel">Brent. Daniel</persRef></item>
+						<item>Chambers. E. F</item>
+						<item>Clay. Henry</item>
+						<item>Rush. Richard</item>
+						<item>Huff— M<hi rend="superscript">rs</hi> and</item>
+						<item><persRef ref="u">Thomson— M<hi rend="superscript">rs.</hi></persRef></item>
+						<item>Pearce. Dutee J.</item>
+						<item>Henderson F. and</item>
+						<item>His Son— Francis jun<hi rend="superscript">r.</hi></item>
+						<item>Badger— Luther</item></list>
+						<p><persRef ref="silsbee-nathaniel">Silsbee</persRef> and <persRef
+								ref="crowninshield-benjamin">Crowninshield</persRef> came to speak
+							concerning the appointment of <persRef ref="degrand-peter">P. P. F.
+								Degrand</persRef>, as a Director of the Bank of the United States on
+							the part of the Government, and they both remonstrated most earnestly
+							against it—although each of them had received Letters from <persRef
+								ref="dearborn-henry2">Gen<hi rend="superscript">l.</hi> Dearborn
+									jun<hi rend="superscript">r.</hi></persRef> the Collector at
+							Boston warmly recommending him— They both of them spoke of the bitter
+							and almost universal prejudice against Degrand, in Boston; with which I
+							have been long acquainted, and which I have regretted— They both thought
+							the prejudice unfounded, but not the less inveterate— There is in
+							Degrand an obtrusiveness of manners to which few can accommodate
+							themselves at all, and none without sacrifice of feeling— Crowninshield
+							expressed a doubt whether Degrand was a Stockholder in the Bank U.S. and
+							Silsbee said that among the strong objections to his appointment, would
+							be that of his being a Broker— I told them that he was a Stockholder in
+							the Bank— That he was very desirous of being appointed a Director, and
+							had obtained several very respectable recommendations— That I had myself
+							so good an opinion both of his integrity and of his intelligence, that I
+							should if I consulted my own feelings only, take pleasure in nominating
+							him— But I was aware of the strong prejudice against him to which they
+							had alluded, and should duly consider their advice before making the
+							nomination of Bank Directors— <persRef ref="stuart-andrew"
+								>Stewart</persRef> came to introduce a <persRef ref="u">M<hi
+									rend="superscript">r</hi> Clendenin</persRef> who is a friend of
+							his from Pennsylvania. <persRef ref="partridge-alden">Captain
+								Partridge</persRef> came with the Detachment of his Cadets, at one
+							O’Clock— He first drew them up in front of the House, where they paid me
+							a military Salute, after which I sent my Son <persRef ref="adams-john2"
+								>John</persRef> to him and invited them all into the House, where
+							they were all individually introduced to me, and shook hands with me.
+							Refreshments were handed to them, and the Captain intimated an
+							expectation that I should address them in a Speech, which I declined—
+								Mess<hi rend="superscript">rs.</hi><persRef ref="gales-joseph"
+								>Gales</persRef> and <persRef ref="seaton-william">Seaton</persRef>,
+							and <persRef ref="force-peter">Force</persRef>, the Editors of the
+							National Intelligencer and Journal, were here probably with the same
+							expectation; but on the part of Partridge it is a mere expedient of
+							quackery to drum up recruits for his School—which is already quite as
+							successful as it deserves— He has now nearly three hundred Scholars at
+							Middletown, many of whom are withdrawn from Colleges and Universities to
+							be drilled into Soldiers, marched about the Country laying the people
+							under contributions of hospitality, and getting puffed by newspapers
+							into fashion and popularity— It is well that the modes of education
+							should be varied— That a competent number of Surveyors, Engineers, and
+							military Officers should be formed among the youth of the Country: but I
+							felt no inclination to extol the system of military education; nor to
+							discountenance it by remarking how much more suited to usefulness and
+							respectability in after life is a College Education, than that of a
+							Military Academy can possibly be— I therefore barely thanked them for
+							their visit, as they were going away: told them I should be glad to see
+							them again occasionally while they should remain here, and that I wished
+							them all prosperity and success in their studies and pursuits— Their
+							visit was of about half an hour and at their departure they were again
+							up and gave me a marching Salute— They are very well drilled to the
+							manual exercise, and marching to time— The Secretary of War came with
+							recommendations for the appointment of an Indian Agent in the place of a
+								<persRef ref="ofallon-benjamin">Major O’Fallon</persRef> who has
+							resigned— <persRef ref="macomb-alexander">General Macomb</persRef> came
+							and introduced <persRef ref="iturbide-augustin2">Agustin
+								Yturbide</persRef>, a young <pb type="ms" n="149"/>Man yet under 20.
+							a Son of the unfortunate man, who suffered himself to be crowned
+								<persRef ref="iturbide-augustin">Emperor of Mexico</persRef>, and so
+							soon afterwards expiated his ambition with his life— <persRef
+								ref="iturbide-ana">His widow</persRef> and family of children are
+							now residing at Georgetown. <persRef ref="chambers-ezekiel">M<hi
+									rend="superscript">r</hi> Chambers</persRef> came to speak of
+							the appointment of a Marshal for the District of Maryland— <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef> and
+								<persRef key="rush-richard">M<hi rend="superscript">r</hi>
+								Rush</persRef> among other things of that of a Collector at
+							Philadelphia— I gave <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Huff</persRef> an order for the discharge of her <persRef ref="u"
+								>Son</persRef> from prison— In the Evening I had visits from
+								<persRef ref="pearce-dutee">M<hi rend="superscript">r</hi>
+								Pearce</persRef>, with <persRef ref="henderson-francis">M<hi
+									rend="superscript">r</hi> Henderson</persRef>, and <persRef
+								ref="henderson-francis2">his Son</persRef>, from Newport Rhode
+							Island, and <persRef ref="badger-luther">M<hi rend="superscript">r</hi>
+								Badger</persRef> a Member of the House of Representatives from the
+							State of New-York.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-20">
+					<head>20 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. VI—</date> Sun rose 7:24.</p>
+						<list><item>Rush— Richard.</item>
+						<item>Clay— Henry</item></list>
+						<p>Attended the Commencement at the Columbian College; the performances of
+							which my mind naturally contrasted with the exhibition yesterday of
+								<persRef ref="partridge-alden">Captain Partridge’s</persRef> Cadets—
+							That was a Show of Bodily Exercise, and this of the cultivation of the
+							mind— My predilections continue strong in favour of the College— The
+							performances, which were in <persRef ref="laurie-james">D<hi
+									rend="superscript">r</hi> Laurie’s</persRef> church began at ten
+							O’Clock and finished shortly before 3. in the afternoon— The first
+							degree was conferred upon thirteen youths ten of whom exhibited very
+							creditable specimens of composition and of Oratory—among them were
+								<persRef ref="cranch-edward">Edward P</persRef> and <persRef
+								ref="cranch-john">John Cranch</persRef> two Sons of <persRef
+								ref="cranch-william">the judge, my Cousin</persRef>— All the
+							performances were in English excepting the Salutatory Address which was
+							in Latin— John Cranch delivered a Poem upon Painting, for which he has a
+							strong natural propensity— The most distinguished of the Speakers was
+							named <persRef ref="u">James</persRef>, of Virginia— The Valedictory
+							Address of <persRef ref="staughton-william">D<hi rend="superscript"
+									>r</hi> Staughton</persRef> consisted chiefly of an exhortation
+							to early rising. The Heads of Departments, excepting <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef>, and several members of Congress were there; and
+							I somewhat unexpectedly met there <persRef ref="knapp-samuel">M<hi
+									rend="superscript">r</hi> Samuel L Knapp</persRef> of Boston.
+							The house was well filled, but not crowded— <persRef key="clay-henry"
+									>M<hi rend="superscript">r</hi> Clay</persRef> and <persRef
+								key="rush-richard">M<hi rend="superscript">r</hi> Rush</persRef>
+							afterwards called upon me, and M<hi rend="superscript">r</hi> Clay
+							informed me that in sending this morning to the Senate the papers
+							relative to the Slave indemnity Convention, the Convention itself and
+							the copy of it had both been accidentally omitted— Upon examining the
+							papers upon his table my Son <persRef ref="adams-john2">John</persRef>
+							found it was so— I had conversation with M<hi rend="superscript">r</hi>
+							Clay and M<hi rend="superscript">r</hi> Rush, concerning the appointment
+							of a Collector at Philadelphia; and also concerning the appointment of a
+							Surveyor at New-York, in the place of <persRef ref="swift-joseph">Gen<hi
+									rend="superscript">l.</hi> Joseph M. Swift</persRef>; against
+							the re-appointment of whom the objections, are exceedingly strong— After
+							getting clear as by fire from his trial for fraud, he has procured
+							certificates from a great number of Merchants of New-York, attesting his
+							assiduity and attention to his duties as Surveyor, while on the other
+							hand there are great complaints of his neglect of those duties— I asked
+								M<hi rend="superscript">r</hi> Rush to write and enquire of the
+							Collector, the true State of the facts. This Evening was the second
+							Drawing-room—much crowded— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> attended: though for
+							many days past confined to her chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-21">
+					<head>21 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Commerce</subject>
+						<subject>Bank of the United States</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. V.—</date> Round Capitol Square— Sun rose 7:24. day of the
+							Solstice.</p>
+						<list><item>Bell— Samuel</item>
+						<item>Rush— Richard</item>
+						<item>Thomas— Jesse B.</item>
+						<item>Herrick— Ebenezer</item>
+						<item>Todson— George P</item>
+						<item>Bailey— John</item>
+						<item>Wright John C</item>
+						<item>Dickinson. of Ohio.</item>
+						<item>Wells. of d<hi rend="superscript">o.</hi></item>
+						<item>Rush Richard</item>
+						<item>Clay. Henry</item>
+						<item>Ingersoll. Edward</item></list>
+						<p><persRef ref="bell-samuel">M<hi rend="superscript">r</hi> Bell</persRef>,
+							a Senator from New Hampshire called to inform me of the omission to send
+							yesterday the new Slave indemnity Convention, and the copy of it to the
+							Senate. The other papers were laid on the table. M<hi rend="superscript"
+								>r</hi> Bell spoke also of the question concerning the trade with
+							the British West India Colonies, which he said was to be the Post of
+							attack of the Opposition, at the present Session— I told him what were
+							my views: that I thought the trade should be interdicted entirely, but
+							that in prescribing the terms upon which we would reopen it, Congress
+							might concede to what extent they pleased— I was willing to yield
+							whatever the trade would bear— He spoke of the extreme bitterness of
+								<persRef ref="tazewell-littleton">M<hi rend="superscript">r</hi>
+								Tazewell</persRef> the Senator from Virginia, and his insinuations
+							that the Act of Congress of 7. January 1824 had been adopted by a
+							finesse on my part, and without being understood by the houses
+							themselves: particularly the import of the term elsewhere— I told M<hi
+								rend="superscript">r</hi> Bell that the Committees of both houses
+							had been very <pb type="ms" n="150"/>explicitly informed of the full
+							import of that term; that <persRef ref="canning-stratford">M<hi
+									rend="superscript">r</hi> S. Canning</persRef> had remonstrated
+							against it, and that it had been advisedly adhered to after a Cabinet
+							Meeting and full deliberation concerning it— <persRef key="rush-richard"
+									>M<hi rend="superscript">r</hi> Rush</persRef> read to me the
+							draft of a Letter to the <persRef ref="thompson-jonathan">Collector at
+								New-York</persRef>, making enquiries concerning the official conduct
+							of <persRef ref="swift-joseph">Gen<hi rend="superscript">l</hi>
+								Swift</persRef> the late Surveyor— <persRef ref="thomas-jesse">Jesse
+								B. Thomas</persRef> brought a Letter which he intended to read to
+							me, but was prevented by the interruption of other visitors. <persRef
+								ref="herrick-ebenezer">Herrick</persRef> repeated the request that
+								<persRef ref="obrien-jeremiah">O’Brien</persRef> made some days
+							since; that I would suspend the renomination of <persRef
+								ref="ayer-samuel">D<hi rend="superscript">r</hi> Ayer</persRef>, the
+							Surveyor at Eastport in the hope that the Office would be a abolished at
+							this Session. <persRef ref="todson-george">D<hi rend="superscript"
+									>r</hi> Todson</persRef> came, and asked me for money to pay for
+							his lodgings here, and for the expense of his return to New-Orleans— I
+							told him that whatever I might have done under other circumstances, he
+							had rendered it impossible for me to afford him any relief— He must
+							obtain it from others— I told him once for all, I would do nothing for
+							him; and I wished him not to come again to ask it of me. He asked me
+							again for <persRef ref="dubourg-louis">Bishop Dubourg’s</persRef> Letter
+							to me concerning him; and said it had been brought or delivered to me by
+								<persRef ref="livingston-edward">M<hi rend="superscript">r</hi>
+								Livingston</persRef>. My Son <persRef ref="adams-john2"
+								>John</persRef> then made another search for it, but could not find
+							it— I told Todson that if I could have found it, I would have given it
+							to him—but that he had no right to it, inasmuch as it was addressed not
+							to him but to me, and that he could not want it, as he had himself among
+							the papers relating to the Court-Martial, another letter from the same
+							Bishop Dubourg, of the same import which he admitted— He said that the
+							Circumstance to which I had alluded (his threat to assassinate me) was
+							absurd; and besides, that he had harboured no such idea since he was
+							informed I had kind feelings towards him— He represented himself as
+							entirely destitute; having nothing to pay his debts here, or to return
+							home— I told him I regretted his condition, but I could only repeat what
+							I had already said to him more than once before. He finally went away.
+								<persRef ref="bailey-john">M<hi rend="superscript">r.</hi>
+								Bailey</persRef> came and told me he had a Letter from <persRef
+								ref="dearborn-henry2">Gen<hi rend="superscript">l.</hi> H. A. S.
+								Dearborn</persRef>, soliciting him to recommend <persRef
+								ref="degrand-peter">Degrand</persRef> for a Director of the U.S.
+							Bank— But he was uncertain what he should do— I told him of Degrand’s
+							wish; of the recommendations that he had obtained, and of the
+							remonstrances against his appointment, to which is now added that of
+								<persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster</persRef>— <persRef ref="wright-john">M<hi
+									rend="superscript">r</hi> Wright</persRef> of Ohio came and
+							introduced <persRef ref="u">M<hi rend="superscript">r</hi>
+								Dickinson</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Wells</persRef> of that State. M<hi rend="superscript"
+								>r</hi> Rush called a second time having received a Letter from
+								<persRef ref="peters-richard2">R. Peters</persRef> concerning
+								<persRef ref="markley-philip">M<hi rend="superscript">r</hi>
+								Markley</persRef>, and some information from <persRef
+								ref="meade-richard">R. W— Meade</persRef> concerning certain
+							questionable transactions, at the Custom House at New-York— <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef> spoke
+							of the ensuing presidential Election, and intimated that some of his
+							friends Eastern and Western had expressed a wish that he should be
+							supported as the Candidate for the Vice-Presidency. He said he thought
+							the Selection ought to be made exclusively with reference to its
+							influence upon the issue of the Election of President— That for himself
+							he had no wish either to be a Candidate for the Vice-Presidency, or to
+							withhold himself from it, if it should be thought useful to the cause
+							that he should be run for that Office— I told him that I had hitherto
+							heard very little said upon the subject— That if the failure of his
+							health should render the duties of the Department of State too
+							oppressive for his continuance in it, I should be satisfied, if he
+							should be transferred to the Vice-Presidency; but otherwise, I should
+							think it more advantageous both for the public and personally for him
+							that he should continue in the far more arduous and important office of
+							Secretary of State; which in the event of his retiring from it, I should
+							find it extremely difficult to fill— I said it was not my intention to
+							compliment him, but I must say it would be no easy matter to supply his
+							place in that Department. He said he was entirely satisfied with it—
+							That without complimenting me, he would say that he had found every
+							facility in transacting business under me; and he should be equally well
+							pleased to continue in the Department of State, or to pass to the
+							Vice-Presidency, according as the general cause of the Administration
+							might be promoted by either event— He said he had sometime in the course
+							of <pb type="ms" n="151"/>the last Summer mentioned to <persRef
+								ref="barbour-james">Governor Barbour</persRef>, his own disposition
+							that the friends of the Administration might unite in supporting him
+							(Barbour) for the next Vice-Presidency—and that he should be satisfied
+							with that arrangement—but he believed it would be expedient to come to
+							some definitive understanding concerning it— There was a Ball this
+							Evening at the British Minister <persRef ref="vaughan-charles">M<hi
+									rend="superscript">r</hi> Vaughan’s</persRef>, which <persRef
+								ref="adams-charles2">my Sons</persRef> and <persRef
+								ref="hellen-mary">Mary Hellen</persRef> attended— <persRef
+								ref="ingersoll-edward">Edward Ingersoll</persRef> spent part of the
+							Evening with me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-22">
+					<head>22 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Slavery</subject>
+						<subject>War of 1812</subject>
+						<subject>Foreign Relations</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. V:45.</date> Round Capitol Square. Sun rose 7:24.</p>
+						<list><item>Lowrie— W.</item>
+						<item>Lee. Henry</item>
+						<item>Holcombe. George.</item>
+						<item>Wood— of New York</item>
+						<item>Ford of Santa Cruce</item>
+						<item>Ironside. G. E.</item>
+						<item>King— John A</item>
+						<item>Sanford— Nathan</item>
+						<item>Fürst— Moritz</item>
+						<item>Wallack Richard </item></list>
+						<p>The <persRef ref="lowrie-walter">Secretary of the Senate</persRef> came,
+							with a Confirmation of several appointments, and a Resolution calling
+							for information, respecting the removal of obstructions from the Rivers
+							Mississippi and Ohio. <persRef ref="lee-henry">Henry Lee</persRef> came
+							to ask again for the papers which he had lent me some months since,
+							consisting of Letters from <persRef ref="washington-george">General
+								Washington</persRef> to his <persRef ref="lee-henry2"
+								>father</persRef>— I told him I had yet read only a small part of
+							them, and wished much to read the rest— He said he was now going to
+							Alexandria, and if I would send them to him there as early as next
+							Tuesday, I might keep them till then— He wished me to return them with a
+							note and my signature in my own hand writing—and he renewed a request he
+							had made that I would furnish him with an autographic signature of
+								<persRef ref="adams-john">my fathers</persRef>— I told him I was not
+							sure I could readily find one, my father having scarcely written at all,
+							during the last years of his life; owing to the dimness of his sight—
+							Lee spoke of the new Slave-indemnity Convention, and said he had himself
+							lost several Slaves during the late War, taken by the British— He could
+							not prove they were carried away after the peace; but he thought he
+							ought to be indemnified for the loss of them— <persRef
+								ref="holcombe-george">D<hi rend="superscript">r.</hi>
+								Holcombe</persRef> came to introduce <persRef ref="u">M<hi
+									rend="superscript">r</hi> Wood</persRef> and <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Ford</persRef>— <persRef
+								ref="ironside-george">M<hi rend="superscript">r</hi>
+								Ironside</persRef> came with copies of Papers called for by a
+							Resolution of the House of Representatives, relating to the Treaties
+							concluded between the Southern American Republics at Panama. <persRef
+								ref="king-john">J. A. King</persRef> came to take leave, intending
+							to leave the City on his return to New-York— He spoke in terms of warm
+							acknowledgement of the kindness I had shewn him in his late
+							appointments, and declared his disposition to serve me, if at any time
+							it might be in his power— <persRef ref="sanford-nathan">M<hi
+									rend="superscript">r</hi> Sanford</persRef>, a Senator, from
+							New-York came and had a long conversation with me respecting the
+							appointment of a Surveyor at that Port. He spoke of the original
+							appointment of <persRef ref="swift-joseph">General Swift</persRef> to
+							that office, as having given great dissatisfaction; he not having been
+							at the time even a Resident in the State— He had also given occasion to
+							complaints of inattention to the duties of the Office, had resided
+							always at Brookline, and had engaged in numerous private pecuniary
+							speculations which had absorbed his time, and turned out not very
+							creditably to his character— His reappointment would not be generally
+							satisfactory; but there would be much competition for the place, which
+							would probably resolve itself into a question between three or four
+							persons— He thought it might be expedient to postpone the appointment
+							for some weeks, as among the candidates was a person named <persRef
+								ref="robinson-jonathan2">Robinson</persRef>; now a member of the
+							New-York Legislature at Albany, and the appointment now might affect the
+							movements there— He said that the People of the State of New-York
+							generally were satisfied with the administration of the general
+							Government, but that there was a mass of deep disaffection in the city—
+								<persRef ref="furst-moritz">M<hi rend="superscript">r</hi>
+								Fürst</persRef> came at last with his bill for the ten silver
+							medals, which I bespoke of him— They are intrinsically worth about one
+							dollar each, but he charged me, and I paid him without asking any
+							questions ten— That is one hundred dollars for the ten medals. <persRef
+								ref="wallack-richard">M<hi rend="superscript">r.</hi> Richard
+								Wallack</persRef> came and I paid him the amount of the judgment of
+								<persRef ref="stone-asaph">Asaph Stone</persRef> against <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> and <persRef
+								ref="forrest-richard">R. Forrest</persRef>; for which Smith had
+							drawn the order on my father’s Executors in his favour and which he had
+							endorsed payable to me— It has been passed to my credit at the United
+							States Branch Bank at Boston. <pb type="ms" n="152"/>We had our weekly
+							company to dine. <persRef ref="abert-john">J. J. Abert</persRef>,
+								<persRef ref="adams-parmenio">Parmenio Adams</persRef>, <persRef
+								ref="bryan-john">John H. Bryan</persRef><persRef
+								ref="cambreleng-churchill">Churchill C. Cambreleng</persRef>,
+								<persRef ref="claiborne-nathaniel">Nathaniel Claiborne</persRef>,
+								<persRef ref="condict-lewis">Lewis Condict</persRef>, <persRef
+								ref="edwards-henry">H. W. Edwards</persRef>, <persRef
+								ref="harrison-william">W. H. Harrison</persRef>, <persRef
+								ref="harvey-jonathan">Jonathan Harvey</persRef>, <persRef
+								ref="henry-john">John F. Henry</persRef>, <persRef ref="holmes-john"
+								>John Holmes</persRef>, <persRef ref="kearney-james">James
+								Kearney</persRef>, <persRef ref="little-peter">Peter
+								Little</persRef>, <persRef ref="long-stephen">Stephen H.
+								Long</persRef>, <persRef ref="macomb-alexander">Alexander
+								Macomb</persRef>, <persRef ref="markley-philip">Philip S.
+								Markley</persRef>, <persRef ref="meriwether-james">James
+								Merriwether</persRef>, <persRef ref="partridge-alden">Captain
+								Partridge</persRef>, <persRef ref="u">William
+								Smith</persRef><persRef ref="stevenson-james">James S.
+								Stevenson</persRef>, <persRef ref="strong-james">James
+								Strong</persRef>, <persRef ref="tomlinson-gideon">Gideon
+								Tomlinson</persRef>, <persRef ref="wales-george">George E.
+								Wales</persRef>, <persRef ref="williams-lewis">Lewis
+								Williams</persRef>, and <persRef ref="wing-austin">Austin E.
+								Wing</persRef>— There had been invited <persRef
+								ref="bartley-mordecai">Mordecai Bartley</persRef>, <persRef
+								ref="bateman-ephraim">Ephraim Bateman</persRef>, <persRef
+								ref="brent-william">William L Brent</persRef>, <persRef
+								ref="burges-tristam">Tristram Burges</persRef><persRef
+								ref="govan-andrew">Andrew R. Govan</persRef>, <persRef
+								ref="ingersoll-edward">Edward Ingersoll</persRef>, <persRef
+								ref="mccoy-william">William M’Coy</persRef>, <persRef
+								ref="mcneal-unknown2">Captain M’Neal</persRef>, <persRef
+								ref="polk-james">J. K Polk</persRef>, <persRef ref="rodney-daniel"
+								>Daniel Rodney</persRef>, <persRef ref="taylor-john">John W.
+								Taylor</persRef>, <persRef ref="webster-daniel">Daniel
+								Webster</persRef>, and <persRef ref="white-bartow">Bartow
+								White</persRef>, who did not come— In the Evening I could not write;
+							but read great part of the Letters from General Washington to Henry Lee
+							which I found deeply interesting— Lee was one of the most distinguished
+							partizan Officers of our Revolutionary War: though he rose in it no
+							higher than to the rank of a Colonel— But he was in great favour with
+							Washington— From 1791 to 1793—he was Governor of Virginia, and commanded
+							in chief the troops (militia) sent against the Pennsylvania insurgents
+							in 1794. Afterwards Lee was a member of the U.S. House of
+							Representatives, and in that character delivered by appointment of the
+							House the funeral Eulogy upon Washington— His subsequent life was
+							neither fortunate nor very creditable. He died obscurely within the last
+							ten years.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v37-1826-12-23">
+					<head>23 December 1826</head>
+					<bibl><author>JQA</author><date type="creation" when="1826-12-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23— VI—</date> Round Capitol Square. 1 hour 15 minutes. Sun rose
+							7:24.</p>
+						<list><item>Southard. Sam<hi rend="superscript">l.</hi> L</item>
+						<item>Gayler C. J</item>
+						<item>Burleigh— William</item>
+						<item>King— William R.</item>
+						<item>M’Kinley John</item>
+						<item>Lowrie— Walter</item>
+						<item>Sloane— John.</item>
+						<item>Carter. John</item>
+						<item>Clark Satterlee</item>
+						<item>Ironside— G. E</item>
+						<item>Barbour. James</item>
+						<item>Clay— Henry</item>
+							<item><persRef ref="cook-daniel">Cook— Daniel P.</persRef></item></list>
+						<p><persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> spoke of the nominations which I sent a few days
+							since to the Senate of a <persRef ref="betts-samuel">District
+								Judge</persRef>, for the Southern District of New-York, and a
+								<persRef ref="finlay-thomas">Marshal for the District of
+								Maryland</persRef>; both which were preceded by great excitement,
+							and have occasioned numerous disappointments— The <persRef
+								ref="rossell-william">District Judge in New-Jersey</persRef> has
+							done the same; and there is now great difficulty with regard to the
+							appointment of a Collector for the Port of Philadelphia— Southard told
+							me he had been informed that <persRef ref="houston-samuel">General
+								Houston</persRef>, a member of the House of Representatives from
+							Tennessee had in his possession a Letter from <persRef
+								ref="jackson-andrew">General Jackson</persRef> to Southard, abusive
+							upon him in Jackson’s highest style of scurrility—but Houston had been
+							advised by some of Jackson’s friends here not to deliver it— So he
+							retains it for the present to consult his principal— The cause of this
+							billet-deux, was some observations made by Southard last Summer at a
+							dinner at Fredericksburg, criticising Jackson’s Military movements at
+							New-Orleans, and commending <persRef key="monroe-james">M<hi
+									rend="superscript">r</hi> Monroe’s</persRef> exertions in
+							preparing and providing supplies for the defence of that place. These
+							remarks made in the social confidence of a convivial party, have been
+							tale-borne to the Hero, and have produced upon him the effect of a
+							scarlet Blanket upon a Tyger— He has written this Letter in furore:—and
+							entrusted it open to Gen<hi rend="superscript">l.</hi> Houston, to
+							deliver here— But upon consultation of the privy Council it has been
+							thought best to withhold the Letter at present, for further advisement—
+								<persRef ref="gayler-c">Gayler</persRef> is an Englishman, Son in
+							Law to <persRef ref="burt-peter">Peter Burt</persRef>, who has
+							recommended him earnestly to me for a place which I have not, to bestow
+							upon him— <persRef ref="burleigh-william">Burleigh</persRef> called for
+							a morning visit— He has been suffering with the rhumatism, but is
+							convalescent— <persRef ref="king-william2">W. R. King</persRef>, Senator
+							from Alabama, came and introduced his colleague <persRef
+								ref="mckinley-john">M’Kinley</persRef>, elected in the place of
+								<persRef ref="pickens-israel">Israel Pickens</persRef> who has
+							resigned— <persRef ref="lowrie-walter">M<hi rend="superscript">r</hi>
+								Lowrie</persRef> brought a confirmation by the Senate of several
+							nominations among which are the District Judge at New-York Betts, and
+							the Marshal of Maryland T. Finley; and also a Resolution Call— <persRef
+								ref="sloane-john">Sloane</persRef> came to speak of that in
+							exhaustible controversy the removal of the Land Office from Sandusky to
+							Tiffin— <persRef ref="carter-john">Carter</persRef> from South-Carolina,
+							is another convalescent visitor. <persRef ref="clarke-satterlee"
+								>Satterlee Clark</persRef> came to appeal from the decisions of the
+							Accounting Officers of the Treasury upon <pb type="ms" n="153"/>his
+							accounts— He insists that he has had three judgments in his favour, and
+							denies the right of the Government to an appeal for the decision of the
+							Supreme Court of the United States— He left with me copies of the
+							verdict of the Jury, and Judgment of the Court in his favour— <persRef
+								ref="ironside-george">M<hi rend="superscript">r</hi>
+								Ironside</persRef> brought me the papers prepared, to answer a Call
+							from the House of Representatives relating to the Panama mission— I gave
+							to <persRef ref="barbour-james">Governor Barbour</persRef> my decision
+							upon the proceedings of the Court-Martial, upon the trial of <persRef
+								ref="babcock-samuel">Major Babcock</persRef>— <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi> Clay</persRef>
+							mentioned to me the Conversations he had had with <persRef
+								ref="king-john">J. A. King</persRef>, with regard to the settlement
+							of his Accounts, which I had authorised to be made according to the
+							established Precedents— He also made some remarks upon the expediency
+							which some of the friends of the Administration—Eastern, Northern and
+							Western thought there would be in agreeing upon a Candidate, to be
+							supported at the next election for the Vice-Presidency— He intimated
+							that some of his friends were inclined to his being selected as the
+							person— Said he himself had no preference for, or against it— His only
+							wish was that the selection should be so made as to promote the cause of
+							the principal election— He said however that in the course of the last
+							Summer, he had observed to Governor Barbour, that he thought it might be
+							desirable that he Barbour should be supported for the Vice-Presidency— I
+							said it would be on personal considerations altogether agreeable to me
+							that either of them should be voted for by my friends, as
+							Vice-President— That in regard to him, I should wish him to possess the
+							Office of the two, the Vice-Presidency or the Department of State, which
+							would be most agreeable to himself— But that so long as his health would
+							sustain the labours of his present Office, I believed it would be much
+							preferable both for his own and for the public interest, that he should
+							remain in the Department— For his own because the manner in which he was
+							discharging the duties of the Office, was highly creditable to himself;
+							and at the same time satisfactory to the Nation—for that of the public,
+							because, without intending to compliment him, I could not hesitate to
+							say that if he should vacate the Department, I should find it extremely
+							difficult to supply his place to my own satisfaction or to that of the
+							Country— He said that without intending a compliment on his part, he
+							assured me that he was entirely satisfied with the situation that he
+							held, and with my treatment of him in it, and that he had never
+							transacted public business with any person, more invariably yielding
+							every facility that he could desire, than he had found in me— I finally
+							said that with regard to the Vice-Presidency I had no preference of my
+							own and should be satisfied with any choice upon which the friends of
+							the Administration could unite.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

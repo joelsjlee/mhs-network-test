@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1806-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="234"
+				mhs:precedingFile="JQADiaries-v27-1806-04-p224.xml"
+				mhs:followingFile="JQADiaries-v27-1806-06-p238.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1806-05-01" to="1806-05-31"/></bibl>
+
+				<!--D/JQA/27.1458-->
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-01">
+					<head>1 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">May 1806.</hi></dateline>
+						<p><date>1. </date>Employed part of the morning in writing to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— Called again on <persRef key="smith-william">Col<hi
+									rend="superscript">l:</hi> Smith</persRef> and pass’d a couple
+							of hours with him— At half past three in the afternoon I embarked on
+							board the Packet New-York, <persRef ref="u">Captain Williams</persRef>;
+							we immediately sailed with a very fresh, and not unfavourable breeze— It
+							was however too scant untill we came to the entrance of the Sound, at
+							Sanders’s point, which we reached as the Sun was setting— After this we
+							had a favourable wind for the remainder of the night; We came opposite
+							the Huntingdon Light House 50 Miles from New-York, about 11. at Night—
+							The passengers are few— Two Men; a married Lady, with three small
+							children, and a young Lady from New-York going on a visit to
+							Providence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-02">
+					<head>2 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Though we had a prosperous breeze all Night, and little
+							motion in the vessel, I could not sleep, and by four in the morning
+							found my bed so irksome that I rose, we had then pass’d Faulkner’s
+							Island, and continued with a very brisk and favourable breeze untill
+							noon, when we reached point Judith— Here the wind almost instantaneously
+							failed, and left us some time becalmed— Here also we found ourselves
+							alongside of the Aurora another Packet, belonging to Newport, and which
+							sailed after us yesterday— A breeze soon Sprung up, which was almost
+							directly down the river, but which enabled us to beat up— About 4 in the
+							afternoon we pass’d by Newport without stopping, and beat up the river
+							untill near Midnight when we came to Anchor 8 or 9 Miles below
+							Providence— In the Evening some of our Passengers, set the Cook to
+							fiddle for them and amused themselves with dancing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-03">
+					<head>3 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>We had so nearly a dead calm that although we got under
+							weigh by four this morning, it was close upon 10, when we landed at
+							Providence— Here we found a Stage waiting for us; in which we
+							immediately took Seats— Dined at Walpole, and arrived at Dedham between
+							three and four in the afternoon. I had hopes of meeting my brother here,
+							as the Court of Common Pleas have been in Session here this week. But he
+							had been gone about 5 minutes when I arrived— I left the Stage here, and
+							engaged <persRef ref="fuller-stephen">M<hi rend="superscript">r:</hi>
+								Fuller</persRef> to take me with a horse and Chair over to Quincy— I
+							arrived at <persRef key="adams-john">my father’s</persRef> house, about
+							5 in the afternoon; only 49 hours from New-York, which is the shortest
+							passage I ever made.— I found <persRef ref="adams-george;adams-john2"
+								>both my children</persRef> here, and in perfect health— There was a
+							company of Ladies with <persRef key="adams-abigail">my Mother</persRef>.
+							My father and <persRef key="adams-thomas">brother</persRef> were not yet
+							returned from Boston, but in the course of an hour or two came in.— My
+							youngest child took me at first, for <persRef ref="greenleaf-thomas"
+									>M<hi rend="superscript">r:</hi> T. Greenleaf</persRef>— But
+							George recognized me immediately.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-04">
+					<head>4 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="235" type="ms"/>
+						<p><date>4. </date>Heard a <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Willard</persRef>, the youngest Son, of the <persRef
+								ref="willard-joseph2">late President of Harvard College</persRef>—
+							This afternoon I wrote to <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>; pass’d the Evening
+							at <persRef ref="cranch-richard">M<hi rend="superscript">r:</hi>
+								Cranch’s</persRef>; and heard the proofs of <persRef
+								key="adams-george">George’s</persRef> proficiency, which are very
+							pleasing; but he has forgotten all his french— He reads very well for
+							his age.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-05">
+					<head>5 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Part of the morning employed in writing— Went up to my
+							own house, where I found almost every thing as we had left it— Return’d
+							to <persRef key="adams-john">my father’s</persRef> to dinner— In the
+							afternoon I attended the Town-meeting for the choice of a
+							Representative— <persRef key="adams-thomas">My brother</persRef>, owing
+							to some untoward circumstances which have occurr’d, declined a
+							re-election— The candidates were <persRef ref="greenleaf-thomas">M<hi
+									rend="superscript">r:</hi> Tho<hi rend="superscript">s:</hi>
+								Greenleaf</persRef>, <persRef ref="webb-jonathan">Jonathan
+								Webb</persRef>, and <persRef ref="beale-benjamin">Captain Benjamin
+								Beale</persRef>, the last of whom was chosen at the third trial— At
+							the two first M<hi rend="superscript">r:</hi> Greenleaf stood the
+							highest, Webb the next, and Beale the lowest— Webb’s voters finally
+							threw their weight into the scale of Beale and decided the choice— On
+							coming home we found <persRef ref="howard-john2">D<hi rend="superscript"
+									>r:</hi> Howard</persRef> of Boston, and <persRef
+								ref="howard-hepzibah">his Lady</persRef> at my father’s. They
+							however soon return’d to Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-06">
+					<head>6 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>I went with <persRef key="adams-john">my father</persRef>
+							to Cambridge, and attended the inauguration of <persRef
+								ref="webber-samuel">M<hi rend="superscript">r:</hi> Samuel
+								Webber</persRef> as President of the College. At 11. in the morning,
+							a procession was formed from the philosophy chamber to the
+							meeting-house— The New President was inducted by the <persRef
+								ref="robbins-edward">Lieutenant-Governor Robbins</persRef>, in a
+							latin Speech which he read indifferently, and by delivery of the
+							Charter, the Book of Records, the Seal, and the Keys. The President then
+							delivered a latin discourse; and an Oration in the same language was
+							pronounced by a young Bachelor of Arts named <persRef ref="u"
+								>Carey</persRef>.— Two Anthems were performed, which with an
+							introductory prayer by <persRef ref="lathrop-john2">D<hi
+									rend="superscript">r:</hi> Lathrop</persRef>, and a closing one
+							by <persRef ref="eliot-john3">D<hi rend="superscript">r:</hi>
+								Elliot</persRef> constituted the business of the day— The company
+							afterwards all dined in the Hall— In the afternoon we called at <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Greenleaf’s</persRef>, and
+							at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+							Lincoln’s</persRef>— I made some enquiries after accommodations for
+							lodging, during the ensuing Summer, but without obtaining satisfactory
+							information— We returned to Quincy, early in the afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-07">
+					<head>7 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>I employed the greatest part of the day in writing; and
+							commenced on a career towards which I look with concern and anxiety— In
+							the Evening I went up to <persRef ref="cranch-richard">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef>, to see my Son
+								<persRef key="adams-george">George</persRef>. I found him well, and
+							improving. It is a great cause of uneasiness to me to be compelled to
+							separate myself from all my family so long, but it cannot be
+							avoided.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-08">
+					<head>8 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Came in to Boston this morning with <persRef
+								key="adams-thomas">my brother</persRef>, and took lodgings at
+								<persRef ref="whitcomb-tilly">Whitcomb’s</persRef>; Concert Hall— We
+							met on the Road <persRef ref="storer-ebenezer;storer-hannah">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Storer</persRef>, with <persRef ref="hall-benjamin">M<hi
+									rend="superscript">r:</hi> B. Hall</persRef> of Medford— I
+							transacted some business relating to my private concerns— Dined at M<hi
+								rend="superscript">r:</hi> Storer’s, and agreed with M<hi
+								rend="superscript">r:</hi> Hall to settle all the demands against
+								<persRef key="adams-john">my father</persRef> on account of his
+							Shares in the Middlesex Canal. Called this afternoon at <persRef
+								ref="welsh-thomas">D<hi rend="superscript">r:</hi>
+							Welsh’s</persRef>; and spent part of the Evening at <persRef
+								ref="parsons-theophilus">M<hi rend="superscript">r:</hi>
+								Parsons’s</persRef>— Found him very unwell— He has this day been
+							nominated chief Justice of the Supreme Court of the State; instead of
+								<persRef ref="dana-francis">Judge Dana</persRef>, who has
+							resigned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-09">
+					<head>9 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>I had appointed to meet <persRef ref="hall-benjamin">M<hi
+									rend="superscript">r:</hi> B. Hall</persRef> this morning, but
+							on going out, met <persRef ref="hall-joseph">J. Hall</persRef>, <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Gore</persRef>, and several
+							other Gentlemen, which detained me untill after the hour of appointment—
+							It engaged my time the whole morning— Dined with <persRef
+								ref="amory-thomas">M<hi rend="superscript">r:</hi> T. C.
+								Amory</persRef>, with a company consisting chiefly of my old
+								friends—<persRef ref="sargent-daniel">D. Sargent</persRef>—<persRef
+								ref="perkins-thomas">T. H. Perkins</persRef>. J. Hall, and several
+							others. <persRef ref="coffin-isaac2">Sir Isaac Coffin</persRef>, an
+							Admiral in the British service, and a kinsman of M<hi rend="superscript"
+								>r:</hi> Amory’s was also there— He has just arrived from England,
+							and is going to Canada— After dinner Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="perkins-james2">James</persRef> &amp; <persRef
+								ref="perkins-samuel">S. G. Perkins</persRef>, Gore, <persRef
+								ref="otis-harrison">Otis</persRef>, <persRef ref="callender-john"
+								>Callender</persRef>, &amp; <persRef ref="payne-w">W.
+								Payne</persRef> came in, and we sat at table untill almost 10 at
+							Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-10">
+					<head>10 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef ref="hall-benjamin">M<hi rend="superscript"
+									>r:</hi> B. Hall</persRef> called upon me this morning, and I
+							made the arrangement with him respecting the Assessments on <persRef
+								key="adams-john">my father’s</persRef> Canal Shares— All the rest of
+							the morning I was engaged in settling various private and personal
+							affairs— Dined at <persRef ref="green-gardner">M<hi rend="superscript"
+									>r:</hi> G. Green’s</persRef>—<persRef ref="strong-caleb"
+								>Governor Strong</persRef>—<persRef ref="knox-henry2">Gen<hi
+									rend="superscript">l:</hi> Knox</persRef> &amp; <persRef
+								ref="knox-lucy">his Lady</persRef>—<persRef
+								ref="otis-harrison;otis-sally">M<hi rend="superscript">r:</hi> &amp;
+									M<hi rend="superscript">rs:</hi> H. G. Otis</persRef>—<persRef
+								ref="temple-elizabeth">Lady Temple</persRef>, <persRef
+								ref="winthrop-elizabeth">her daughter</persRef> and <persRef
+								ref="tappan-elizabeth">Granddaughter</persRef>, <persRef
+								ref="gore-john;gore-mary">M<hi rend="superscript">r:</hi> &amp; M<hi
+									rend="superscript">rs:</hi> J. Gore</persRef>, and some others
+							were there.— I spoke to Governor Strong, respecting the State Laws for
+							the Library <hi rend="italic">of</hi>
+							<pb n="236" type="ms"/>of Congress— Evening at home; writing to <persRef
+								key="adams-louisa-catherine">my wife</persRef>, from whom I received
+							a letter this Morning— I find I can apply very little time to writing
+							here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-11">
+					<head>11 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>Heard <persRef ref="buckminster-joseph">M<hi
+									rend="superscript">r:</hi> Buckminster</persRef> this morning,
+							upon Christian humility— He is about to embark for England; on a voyage
+							for his health— Between 1. and 2. <persRef ref="hall-joseph">M<hi
+									rend="superscript">r:</hi> Jos: Hall</persRef> called upon me—
+							We walked round the newly built part of the town, and upon the Common—
+							Stop’d at <persRef ref="phillips-john">M<hi rend="superscript">r:</hi>
+								J. Phillips’s</persRef>— We dined at <persRef ref="payne-w">M<hi
+									rend="superscript">r:</hi> W. Payne’s</persRef>— <persRef
+								ref="u;u">M<hi rend="superscript">r:</hi> &amp; M<hi
+									rend="superscript">rs:</hi> Gore</persRef>, <persRef
+								ref="coffin-isaac2">Sir Isaac Coffin</persRef>, and <persRef
+								ref="u;u">M<hi rend="superscript">r:</hi> &amp; M<hi
+									rend="superscript">rs:</hi> Richards</persRef> were there— After
+							dinner <persRef ref="perkins-james2">M<hi rend="superscript">r:</hi>
+								James Perkins</persRef> came in— He has just returned from England—
+							I spent the Evening at home; and could only read, without much
+							benefit.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-12">
+					<head>12 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>I went to Cambridge this morning with <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>,
+							for the purpose of procuring lodgings for the ensuing Summer; after
+							several ineffectual attempts I engaged two chambers in a house newly
+							built by <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Porter</persRef>, near the Inn, and engaged for board at his House,
+							untill I could obtain further accommodation— I had much difficulty to
+							secure this— We returned by the way of Charlestown— In the afternoon I
+							went to look over <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Davenport’s</persRef> House at Cambridge-Port— The same I visited
+							last October; but cannot yet reconcile myself to it— Spent the Evening
+							at <persRef ref="otis-samuel">M<hi rend="superscript">r:</hi> S. A.
+								Otis’s</persRef>— <persRef ref="u">His Son</persRef> was there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-13">
+					<head>13 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-13"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Federalist Party</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>Busily, and properly employed all the morning— Dined
+							with <persRef ref="sears-david">M<hi rend="superscript">r:</hi> D.
+								Sears</persRef>, and a small company of Gentlemen. Among the rest
+								<persRef ref="lowell-john">M<hi rend="superscript">r:</hi> J.
+								Lowell</persRef> who has just returned from a tour in Europe of two
+							or three years— He was very communicative.— In the afternoon, I met
+								<persRef ref="hall-joseph">M<hi rend="superscript">r:</hi> Jos:
+								Hall</persRef>— Walk’d with him in the Mall— He was much engaged
+							with the subject of the Election which is to come on to-morrow— In the
+							Evening I attended a Caucus of federalists at Faneuil-Hall, who met to
+							agree upon their list— <persRef ref="otis-harrison">M<hi
+									rend="superscript">r:</hi> H. G. Otis</persRef> made them a very
+							good speech— They agreed to chuse 27. Representatives, and adopted the
+							names presented to them— Then a motion was made for five more, which
+							after some opposition was adopted.— These names were also agreed upon,
+							though preparation had not properly been made for this measure— I came
+							home at about 10. They were then about to dissolve the Meeting— This was
+							the first time I was ever present at a public Caucus— I once attended a
+							private one, in 1793, or 1794.— It may be a necessary, but appears to me
+							a clumsy way of transacting such business.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-14">
+					<head>14 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>I went to Cambridge this morning to attend the sale at
+							Auction of <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Pearson’s</persRef> house and Land; but the sale was postponed,
+							untill this day week. I went over the house and Lands; and enquired of
+								M<hi rend="superscript">r:</hi> Pearson the price which he would
+							take for them; but he did not know— He was to consult his friend
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Phillips</persRef>—
+							I returned to Boston and dined with <persRef ref="gardner-john">M<hi
+									rend="superscript">r:</hi> Gardner</persRef>— In the Evening I
+							attended the Wednesday Club, of which I have heretofore been a member.
+							It was at <persRef ref="gray-e">M<hi rend="superscript">r</hi> E.
+								Gray’s</persRef>; and was fully attended— I wrote but little this
+							day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-15">
+					<head>15 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date><persRef key="adams-thomas">My brother</persRef> came in
+							to Boston early this morning and invited me to go with him to Quincy
+							which I accordingly did— <persRef ref="cushing-william">Judge
+								Cushing</persRef> and <persRef ref="cushing-hannah">his
+								Lady</persRef> dined with us at my father’s— In the afternoon I went
+							to my own house and visited my garden— Called also at <persRef
+								ref="cranch-richard">M<hi rend="superscript">r:</hi>
+								Cranch’s</persRef>, where I found <persRef key="adams-george"
+								>George</persRef>, well— Evening in Conversation with <persRef
+								key="adams-john">my father</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-16">
+					<head>16 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Engaged all the morning, and great part of the Evening
+							in writing.— This afternoon I went with <persRef ref="adams-abigail">my
+								Mother</persRef> to my own house and selected the part of the
+							furniture which is to go to Cambridge to furnish the Chambers I have
+							taken there. Took <persRef ref="adams-george;adams-john2">the
+								children</persRef> with us. Found part of my papers.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-17">
+					<head>17 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Finished this Morning the Introductory address. Looked
+							over what I had written last Autumn as sketches for some of my first
+							Lectures, and found them so uncouth and shapeless that I can hardly
+							prevail upon myself now to use it— I employed the day however chiefly
+							upon this business— In the afternoon I went to my own house; and
+							selected some books and papers to send to Cambridge— I think however of
+							making one more effort to procure furnished lodgings before I send the
+							furniture. I found some trees coming up from the stones and seeds I set
+							out last Summer, and Fall. Called at <persRef ref="cranch-richard">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef> on my return, but
+							he and <persRef ref="cranch-mary2">M<hi rend="superscript">rs:</hi>
+								Cranch</persRef> were both abroad— Evening in my writing chamber—
+								<persRef key="adams-thomas">My brother</persRef> dined with the club
+							at <persRef ref="u">M<hi rend="superscript">r:</hi> Millar’s</persRef>—
+							I transplanted yesterday and this day 35 peach-trees just from the stone
+							from my brother’s treble tree to my Nursery at the Summer-house end of
+							the Garden— Most of those which I transplanted last year from the
+							Nectarine and other trees are yet alive— But my prospects of raising
+							fruit-trees from the seed and Stone are weakened by my necessary removal
+							from this place.— (George. 3. f. 6 2/10 I.) (John 2. f. 9. I .)</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-18">
+					<head>18 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="237" type="ms"/>
+						<p><date>18. </date>Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r:</hi> Whitney</persRef> this afternoon—
+							Remainder of the day chiefly employed in writing to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— Evening at <persRef ref="cranch-richard">M<hi
+									rend="superscript">r:</hi> Cranch’s</persRef>— I took <persRef
+								key="adams-george">George</persRef> there with me— Was engaged in
+							looking over the papers, on the question made concerning the Estate
+							where M<hi rend="superscript">r:</hi> Cranch resides.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-19">
+					<head>19 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>I intended to have gone into Boston this morning, but
+							the Stage not going untill to-morrow, I had no convenient conveyance,
+							and postponed my departure untill to-morrow— I spent the day almost in
+							idleness; wrote nothing, and read very little— In the afternoon I went
+							to my own house; unpacked one of the boxes of books which were put up
+							the last Autumn, and took out some of the books which I wanted— I am
+							very uneasy at the unsettled situation in which I still remain; and at
+							the valuable time I am losing.— As I was returning home this evening I
+							stop’d at <persRef ref="cranch-richard">M<hi rend="superscript">r:</hi>
+								Cranch’s</persRef> door, and he gave me the papers respecting the
+							Estate upon which he lives; the title to which is now to be tried in the
+							Circuit Court of the United States.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-20">
+					<head>20 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>I came into Boston this morning in the Stage. Called at
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Rogers’s</persRef>,
+							where I met <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Pearson</persRef>— I found him unwilling to name a price for his
+							house and land at Cambridge, from an apprehension, that it might affect
+							the sale of it at the Auction to-morrow.— He appointed however 5 O’Clock
+							in the afternoon to give me an Answer— I dined with <persRef
+								ref="otis-samuel">M<hi rend="superscript">r:</hi> S. A.
+								Otis</persRef>— After dinner, I met M<hi rend="superscript">r:</hi>
+							Pearson in the Street, and released him from his promise to fix upon a
+							price previous to the sale at Auction— Evening at my lodgings: reading
+								<persRef ref="boileau-nicolas">Boileau’s</persRef> Translation of
+								<persRef ref="longinus-dionysus">Longinus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-21">
+					<head>21 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Rogers</persRef> called on me this morning to go with him to
+							Cambridge, and attend the sale of <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Pearson’s</persRef> house, which I
+							did— But there were no bidders, and it was struck off nominally at eight
+							thousand dollars— It seems M<hi rend="superscript">r:</hi> Pearson
+							expected it would have sold much higher— After the sale he told me he
+							was now determined to lease it— I gave up the chambers for which I had
+							spoken at <persRef ref="u">Porter’s</persRef>, from the inconvenience it
+							would be to furnish them, and I commenced a new search for others—
+							Returned to Boston to dinner, and pass’d the Evening with the Club at
+								<persRef ref="howard-john2">D<hi rend="superscript">r:</hi>
+								Howard’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-22">
+					<head>22 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Called this Morning on <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Foster</persRef>, and afterwards on
+								<persRef ref="shaw-william">M<hi rend="superscript">r:</hi>
+								Shaw</persRef> respecting certain Certificates belonging to the
+							Neponsit Bridge Corporation.— I found occasion to observe the loose
+							manner in which the business of Corporations is apt to be done, and the
+							necessity of continual superintendence over it— Remainder of the day,
+							reading, and attending to the object which is now my chief occupation—
+							Evening some what unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-23">
+					<head>23 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>Began writing sketches for lectures; employed all the
+							morning at this business. <persRef key="adams-abigail">My
+								Mother</persRef> was in town, and invited me to go to Quincy with
+							her— But I feel the propriety of adhering to my business— I promised to
+							go out to-morrow Evening. I spent the Evening at <persRef
+								ref="parsons-theophilus">M<hi rend="superscript">r:</hi>
+								Parsons’s</persRef>.— Application to me, to purchase my House in
+							Half-Court-Square.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-24">
+					<head>24 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date><persRef ref="welles-samuel3">M<hi rend="superscript"
+									>r:</hi> S. Welles</persRef> called upon me this morning— I
+							spent it in my chamber closely engaged in writing untill 1. I then saw
+								<persRef ref="lowell-john">M<hi rend="superscript">r:</hi>
+								Lowell</persRef> respecting a couple of houses which he has for
+							sale; and I had some conversation with him relative to the price he sets
+							upon them— After dinner, I called at <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh’s,</persRef> and went out to
+							Quincy in the Stage.— Received a letter from <persRef
+								key="adams-abigail">my wife</persRef>— The proposition for the
+							purchase of my house comes from a <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Fletcher</persRef>, a broker, in
+							behalf of a Company, of which <persRef ref="dexter-andrew">Andrew
+								Dexter</persRef> is a member— We have agreed upon the terms and I am
+							waiting only for the security which they have to offer— In this respect,
+							my first duty must be caution.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-25">
+					<head>25 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Heard a young Gentleman named <persRef ref="u"
+								>Hulbert</persRef>— Wrote to <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef>; and could
+							find very little time to write any thing else. In the Evening I went for
+							half an hour to <persRef ref="cranch-richard">M<hi rend="superscript"
+									>r:</hi> Cranch’s</persRef>— <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> Smith’s</persRef> two Sons <persRef
+								ref="smith-isaac3">Isaac</persRef> and <persRef ref="smith-thomas"
+								>Thomas</persRef> are here to spend the week ensuing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-26">
+					<head>26 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>I came into Boston, this morning in the Stage from
+							Quincy. <persRef ref="jackson-henry2">General Jackson</persRef> called
+							upon me, and urged me to allow him further time for the payment of
+								<persRef ref="swan-james">Swan’s</persRef> Note which he has
+							endorsed, and which is in suit at the Circuit Court, for the <pb n="238"
+								type="ms"/>Assignees of <persRef ref="bird-robert">Robert
+								Bird</persRef>— He offers me by way of security lots of land in this
+							town— <persRef ref="otis-harrison">M<hi rend="superscript">r:</hi>
+								Otis</persRef> afterwards called upon me for the same purpose— I
+							agreed to take the subject into Consideration— I wrote something this
+							day, but not so much as I should have done.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-27">
+					<head>27 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>I was engaged part of this morning in some business with
+								<persRef ref="cleland-william">M<hi rend="superscript">r:</hi>
+								Cleland</persRef> the broker, which I finally concluded— Attended
+							the meeting of the Academy; where there was little business done except
+							making choice of the Officers— Dined at <persRef ref="davis-john">Judge
+								Davis’s</persRef>—<persRef key="adams-john">My
+								father</persRef>—<persRef ref="tufts-cotton2">D<hi
+									rend="superscript">r:</hi> Tufts</persRef>—<persRef
+								ref="webber-samuel">President Webber</persRef>, <persRef
+								ref="waterhouse-benjamin">D<hi rend="superscript">r:</hi>
+								Waterhouse</persRef>, <persRef ref="hedge-levi">M<hi
+									rend="superscript">r:</hi> Hedge</persRef>—<persRef ref="u">M<hi
+									rend="superscript">r:</hi> Bigelow</persRef>, <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Lowell</persRef>, and <persRef
+								ref="dawes-thomas">Judge Dawes</persRef>, and <persRef
+								ref="dexter-aaron">D<hi rend="superscript">r:</hi> Dexter</persRef>
+							were there— My father returned this Evening to Quincy— I spent it at
+								<persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis’s</persRef>— Wrote scarcely a line this day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-28">
+					<head>28 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Democratic-Republican Party (1801–1824)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>I find that the only resource left me for accomplishing
+							the task of writing which is made indispensable to me, is to commence
+							with it in the morning, and resolve to do that, if every other of my
+							usual occupations must be omitted. I have accordingly begun upon that
+							plan this morning, and in consequence of it, wrote almost the whole of
+							the daily portion I have assigned for myself— This was the day of the
+							annual Election— The Legislature of the Commonwealth met; and the
+							political Revolution is accomplished in both branches— A majority of
+							whom are now of the democratic party— I went with <persRef
+								ref="lowell-john">M<hi rend="superscript">r:</hi> Lowell</persRef>
+							and looked over the two houses which he proposes to sell to-morrow— I
+							nearly concluded to take them at his price— In the afternoon I called on
+								<persRef ref="gardner-john">M<hi rend="superscript">r:</hi>
+								Gardner</persRef>, and we attended for a few minutes on both
+							branches of the General-Court— The Senate are so nearly divided between
+							the two parties that they have not been able this day to chuse a
+							President— <persRef ref="bacon-john2">M<hi rend="superscript">r:</hi>
+								Bacon</persRef> and <persRef ref="otis-harrison">M<hi
+									rend="superscript">r:</hi> Otis</persRef> are the Candidates—the
+							former of whom will eventually carry the election— I called this day at
+							the Office of the Register of Deeds, and examined <persRef
+								ref="jackson-henry2">M<hi rend="superscript">r:</hi>
+								Jackson’s</persRef> Titles to the Lands he offers me as security— I
+							also employed the Register to examine further.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-29">
+					<head>29 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>I concluded this morning to take <persRef
+								ref="lowell-john">M<hi rend="superscript">r:</hi> Lowell’s</persRef>
+							houses, at the terms which he proposed, and gave him notice of it. I
+							also saw <persRef ref="dexter-andrew">M<hi rend="superscript">r:</hi> A.
+								Dexter</persRef>, and gave him the papers I had drawn up respecting
+							the conveyance of my house to him— But Calling at the Office of the
+							Register of Deeds, I found upon examination some records there which
+							raised scruples in my mind as to the former of these transactions— I
+							also found some conveyances of <persRef ref="jackson-henry2">Gen<hi
+									rend="superscript">l:</hi> Jackson</persRef>, which made a
+							further explanation from him important— Saw <persRef ref="otis-harrison"
+									>M<hi rend="superscript">r:</hi> H. G. Otis</persRef> a short
+							time on the subject, but not long enough to come to any settlement— The
+							weather being very warm I spent the afternoon and Evening in my
+							chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-30">
+					<head>30 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Spent all the morning at home in writing— At one I went
+							out, and met <persRef ref="lowell-john">M<hi rend="superscript">r:</hi>
+								Lowell</persRef>, with whom I had some conversation respecting the
+							title, to his Estate, which I have agreed to purchase— I am to see him
+							further concerning it— Saw <persRef ref="waterhouse-benjamin">D<hi
+									rend="superscript">r:</hi> Waterhouse</persRef>, and partly
+							engaged to take a chamber at his House for the Summer— This afternoon I
+							attended at the Anniversary Address of the Charitable Fire Society,
+							which was delivered by <persRef ref="phillips-john">M<hi
+									rend="superscript">r:</hi> J. Phillips</persRef>— Afterwards
+							went and pass’d an hour with many of the members at <persRef
+								ref="welles-arnold">M<hi rend="superscript">r:</hi> A.
+								Welles’s</persRef>— He is the President of the Society. After a walk
+							in the Mall I spent the remainder of the Evening at my chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-31">
+					<head>31 May 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>I intended to have gone out to Quincy this afternoon in
+							the Stage, but miss’d of the opportunity by not properly bespeaking a
+							seat— Dined with <persRef ref="smith-william3">M<hi rend="superscript"
+									>r:</hi> William Smith</persRef>— Afternoon and Evening
+							principally at my own chamber—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-05-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Unsettled and irregular.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

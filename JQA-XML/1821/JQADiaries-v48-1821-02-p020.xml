@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v48-1821-02">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="20" 
+				mhs:precedingFile="JQADiaries-v48-1821-01-p020.xml"
+				mhs:followingFile="JQADiaries-v48-1821-03-p022.xml"
+				mhs:volume="48">
+				<bibl n="metadata"><date from="1821-02-05" to="1821-02-19"/></bibl>
+
+				
+				
+				<div type="entry" xml:id="jqadiaries-v48-1821-02-05">
+					<head>5 February 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-02-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>Feby. 5—</date> Gallatin.</p>
+					
+					</div>
+				</div>
+				
+				<div type="entry" xml:id="jqadiaries-v48-1821-02-16">
+					<head>16 February 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-02-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="21" type="ms"/>
+						<p><date>16— </date>Otis— G. A.</p>
+						<p>Delafield.</p>
+						<p>Hersants</p>
+						<p>De Neuville. [symbols]</p>
+						<p>Harris— S. G</p>
+						<p>Smith W. S.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v48-1821-02-17">
+					<head>17 February 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-02-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Russ</p>
+						<p>Cooke— D. P.</p>
+						<p>Stackelberg</p>
+						<p>De Neuville</p>
+						<p>Johnson F.</p>
+						<p>Earle</p>
+						<p>Van Hook</p>
+						<p>Van den Bergh</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v48-1821-02-19">
+					<head>19 February 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-02-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Forrest for Meade</p>
+						<p>Fuller</p>
+						<p>Harris— Col<hi rend="superscript">l.</hi></p>
+						<p>Dickinson</p>
+						<p>Eustis</p>
+						<p>Tomlinson</p>
+						<p>Torres.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

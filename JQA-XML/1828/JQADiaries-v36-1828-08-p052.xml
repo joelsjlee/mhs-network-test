@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v36-1828-08">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="052"  mhs:precedingFile="" mhs:followingFile="" mhs:volume="36">
+				<bibl n="metadata"><date from="1828-08-01" to="1828-08-07"/>
+					<!--DJQA 1828— 08 DJQA36  -->
+				</bibl>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-01">
+					<head>1 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="52"/>
+						<dateline>Friday 1. August 1828.</dateline>
+						<p><date>1. IV:30.</date> Friday. </p>
+						<list><item>Conner Benjamin</item>
+						<item>Hoops Adam</item>
+						<item>Rush Richard</item>
+						<item>Porter Peter B.</item>
+						<item>Brent Daniel</item>
+						<item>Lederer Baron</item>
+						<item>Macomb Alexander</item>
+						<item>Gratiot</item>
+						<item>Persico Luigi</item>
+						<item>Persico</item></list>
+						<p>Intending to leave the City next Monday for a visit of about two Months
+							to Quincy, I propose intermitting my morning rides on horseback until
+							that time— <persRef ref="conner-benjamin2">Captain Conner</persRef> came
+							to renew his solicitation for employment— His hopes had fixed upon the
+							work for removing the Bar at the mouth of Merrimack river; and he has
+							great confidence in certain mechanical inventions of his own. But
+							neither the <persRef ref="southard-samuel">Secretary of the
+								Navy</persRef> nor the Chief Engineer thinks that he can be employed
+							to advantage— They alledge his age and inefficiency as insuperable
+							objections— <persRef ref="hoops-adam">Major Hoops</persRef>— Ecce iterum
+							Crispinus—intent upon the great reform in the establishment of Military
+							Store-keepers, and the indispensable necessity of allowing each of them
+							a Clerk—but he is now here to receive his part of the provision made by
+							the Act of the last Session of Congress, for the relief of certain
+							Officers and Soldiers of the Revolutionary War— <persRef
+								key="rush-richard">M<hi rend="superscript">r</hi> Rush</persRef>
+							brought again the Accounts of <persRef ref="ingersoll-charles">C. J.
+								Ingersoll</persRef> and <persRef ref="randall-josiah">Josiah
+								Randall</persRef>, for services as Counsel in the suits at
+							Philadelphia, before the U.S. Circuit Court, relating to <persRef
+								ref="thomson-edward">Edward Thomson’s</persRef> failure and frauds.
+							He proposed a definitive allowance to each of them, to which I agreed—
+								<persRef ref="porter-peter">Gen<hi rend="superscript">l.</hi>
+								Porter</persRef> brought a Letter from <persRef ref="scott-winfield"
+								>General Scott</persRef> declaring again his refusal to obey an
+							order of <persRef ref="macomb-alexander">General Macomb</persRef>;
+							insisting upon <hi rend="italic">his </hi>being Macomb’s superior
+							Officer, and asking again for a trial by Court Martial. I desired Gen<hi
+								rend="superscript">l.</hi> Porter to notify the other members of the
+							Administration now here to attend a Cabinet Meeting at one to-morrow.
+								<persRef ref="brent-daniel">M<hi rend="superscript">r</hi>
+								Brent</persRef> brought drafts of answers to the Notes from <persRef
+								ref="krudener-paul">Baron Krudener</persRef> and <persRef
+								ref="lederer-lewis">Baron Lederer</persRef>— The latter came and had
+							a personal interview with me at which he gave me a copy of the
+							full-power which he has received from the Austrian Government to
+							negotiate a Treaty of Commerce with the United States. This has been
+							consequent upon a prior correspondence between him and the Secretary of
+							State— I told him that upon <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Clay’s</persRef> return to this City,
+							a full-power would be given him to negotiate with him for a Treaty, and
+							that it would afford me the highest gratification to establish the
+							commercial relations between the United States and the Austrian
+							dominions upon a mutually satisfactory foundation— General Macomb came
+							and introduced <persRef ref="gratiot-charles">Col<hi rend="superscript"
+									>l.</hi> Gratiot</persRef> who is now at the head of the
+							Engineer Department— <persRef ref="persico-luigi">M<hi
+									rend="superscript">r</hi> Persico</persRef> introduced to me
+								<persRef ref="persico-gennaro">his brother</persRef>, who is a
+							teacher of drawing and resides at Philadelphia. I had much conversation
+							with M<hi rend="superscript">r</hi> Rush, upon the Chesapeake and Ohio
+							Canal, which is in some danger from the collision of local interests
+							between the three Cities of the District, and the imperious claim of the
+							Corporation of Washington that it should pass through the City— They
+							have already agitated the question of transferring their whole
+							subscription—a Million of Dollars, but upon which no instalment has yet
+							been paid— A pro forma sale to an irresponsible broker, which would be
+							equivalent to withdrawing their subscription altogether— I conversed
+							also with General Macomb and Col<hi rend="superscript">l.</hi> Gratiot
+							concerning the distribution of the Engineer Officers, upon the Surveys
+							for internal improvement. I signed an order for the remission upon
+							payment of all charges of the penalty upon <persRef ref="orne-r">R. E.
+								Orne</persRef>, Master of the Barque Cavelier of Salem, for an
+							excess of 2. Passengers from Havre to New-York. <persRef
+								ref="graham-george">M<hi rend="superscript">r</hi> Graham</persRef>
+							sent me for signature 652. Land-grants.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-02">
+					<head>2 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-02"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="53"/>
+						<p><date>2. IV:30.</date> Shower and Tub Baths— Saturday—</p>
+						<list><item>Lovell Joseph</item>
+						<item>Thomas. William</item>
+						<item>Brent. Daniel</item>
+						<item>Pleasonton Stephen</item>
+						<item>Watkins. Tobias</item>
+						<item>M’Lean John</item>
+						<item>Bulfinch Charles</item>
+						<item>Fullerton </item>
+						<item>His Son</item>
+						<item>Young— D<hi rend="superscript">r.</hi></item>
+						<item>Ringgold.</item></list>
+						<list rendition="#bracket-left">
+							<item>Rush. Richard</item>
+						<item>Porter. Peter B</item>
+						<item><persRef ref="southard-samuel">Southard Samuel L</persRef></item>
+						<item><persRef ref="wirt-william">Wirt William</persRef></item>
+						</list>
+						<list><item>Wilson John</item>
+						<item>Wyer— Edward.</item>
+						<item>Hellen— Thomas J.</item></list>
+						<p><persRef ref="lovell-joseph">D<hi rend="superscript">r</hi>
+								Lovell</persRef> came to speak of the distressed condition of
+								<persRef ref="english-george">G. B. English</persRef>, and to urge
+							that I would give him some encouragement to hope that in the event of
+							continued good behaviour and temperance on his part some appointment
+							will hereafter be given him. I told him that I would give M<hi
+								rend="superscript">r</hi> English such assurance so far as might be
+							in my power; but it was impossible for me to do any thing for him at
+							this time— <persRef ref="thomas-william">William Thomas</persRef> is a
+							Son of the late judge <persRef ref="thomas-joshua">Joshua
+								Thomas</persRef> of Plymouth, and being a candidate for the
+							appointment of Collector at that Port, comes here to obtain it by dint
+							of personal solicitation. I had yesterday requested <persRef
+								key="rush-richard">M<hi rend="superscript">r</hi> Rush</persRef> to
+							issue a Commission to <persRef ref="warren-pelham">Pelham W.
+								Warren</persRef> in whose favour after full deliberation I had
+							decided— M<hi rend="superscript">r</hi> Thomas was here twice, and
+							finding on his first visit that the Commission had not been despatched
+							endeavoured by argument to change my determination— Importunities of
+							this kind are severe tests of Patience and Temper; and Thomas put mine
+							to the trial— The harshness of a direct refusal is always painful, and
+							sturdy Petitioners will persevere even after it is given. M<hi
+								rend="superscript">r</hi> Thomas was not to be repulsed by the
+							information that I had before he came—given directions that the
+							Commission should be made out to M<hi rend="superscript">r</hi> Warren—
+							I was ultimately obliged to tell him that I saw no sufficient cause for
+							revoking what I had done.— <persRef ref="brent-daniel">M<hi
+									rend="superscript">r</hi> Brent</persRef> took back the drafts
+							of his provisional answers to <persRef ref="krudener-paul">Barons
+								Krudener</persRef> and <persRef ref="lederer-lewis"
+								>Lederer</persRef>, which I approved with a suggestion of some
+							alterations— <persRef ref="pleasonton-stephen">M<hi rend="superscript"
+									>r</hi> Pleasonton</persRef> called respecting the appointment
+							of some Light-House keeper, and <persRef ref="watkins-tobias">D<hi
+									rend="superscript">r</hi> Watkins</persRef> with Letters from
+							Baltimore— The <persRef ref="mclean-john2">Postmaster General</persRef>
+							brought a remonstrance received, against the appointment of <persRef
+								ref="langhorne-maurice">Maurice Langhorne</persRef> as Postmaster at
+							Maysville Kentucky— I advised M<hi rend="superscript">r</hi> M’lean to
+							suspend for the present the reception of the Bond. <persRef
+								ref="bulfinch-charles">M<hi rend="superscript">r</hi>
+								Bulfinch</persRef> called to mention that he proposed making an
+							excursion for his health to the Western part of the State of New-York.
+								<persRef ref="u">M<hi rend="superscript">r</hi> Fullerton</persRef>,
+								<persRef ref="u">his Son</persRef> and <persRef ref="u">D<hi
+									rend="superscript">r</hi> Young</persRef> of Pennsylvania came
+							as visitors, <persRef ref="ringgold-tench">M<hi rend="superscript"
+									>r</hi> Ringgold</persRef> the Marshal to take leave previous to
+							my departure— There was a Cabinet Meeting to determine upon the course
+							to be pursued with regard to <persRef ref="scott-winfield">General
+								Scott’s</persRef> Letter— <persRef ref="porter-peter">General
+								Porter</persRef> read the drafts of two Letters to Scott—one short
+							repeating the command that he should obey the commands of <persRef
+								ref="macomb-alexander">General Macomb</persRef>, and the refusal to
+							try either Macomb or Scott himself by a Court-Martial; the other
+							assigning at some length the reasons upon which I consider Macomb as
+							entitled to the command, and decline submitting the question to the
+							decision of a Court Martial— These were both fully discussed— The Letter
+							containing the argument was satisfactory, but we all agreed that it
+							should be reserved to be used hereafter, perhaps in the form of a
+							Report— The short Letter was approved, with an amendment, leaving out an
+							intimation that in the event of Scott’s continued disobedience I should
+							dismiss him from the army— I thought this unnecessary particularly as it
+							appeared that Scott although professing to disobey Macomb’s Order had
+							really carried it into effect. This fact however was left somewhat
+							uncertain by the ambiguous tenour of his own Letter, and is to be <pb
+								type="ms" n="54"/>ascertained by enquiry of <persRef
+								ref="jones-roger">Col<hi rend="superscript">l.</hi>
+								Jones</persRef>— <persRef ref="wilson-john4">John Wilson</persRef>
+							came again upon the subject of his claim, and of his application for
+							office; upon neither of which I was prepared to decide— <persRef
+								ref="wyer-edward">Edward Wyer</persRef> came and took leave— He is
+							going to embark at New-York in the Sloop of War Fairfield, with
+							despatches for <persRef ref="crane-william">Commodore Crane</persRef>
+							and <persRef ref="offley-david">M<hi rend="superscript">r</hi>
+								Offley</persRef>, our Consul at Smyrna— <persRef ref="hellen-thomas"
+								>Thomas J. Hellen</persRef> dined with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-03">
+					<head>3 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-03"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. IV:30—</date> Tub and Shower Baths— Sunday—</p>
+						<list><item>English— George B.</item>
+						<item>Eakin— James</item></list>
+						<p>Heard this morning at S<hi rend="superscript">t.</hi> John’s Church
+								<persRef ref="hawley-william">M<hi rend="superscript">r</hi>
+								Hawley</persRef>, from Luke 10.42— “But one thing is needful.” This
+							was the best discourse that I ever heard from him— The one thing needful
+							is the salvation of the immortal Soul— And the arguments of its
+							immortality, and of its responsibility to future retribution are derived
+							from 1. Reason 2. Conscience— 3. Nature. 4. Revelation— A very good
+							division of the subject; and well sustained by a logically connected
+							chain of deductions— After the Morning Service <persRef
+								ref="english-george">M<hi rend="superscript">r</hi> George B.
+								English</persRef> called upon me, and repeated an application which
+							he had made by Letter for a vacant appointment. I told him that after
+							the painful necessity I had been under of revoking the commission with
+							which I had charged him it was impossible that I should confer upon him
+							any other Office until after an interval of at least several months it
+							shall be ascertained that the same cause no longer operates to exclude
+							him from the public service— He insisted that I had been misinformed and
+							deceived respecting his habits—that he was not intemperate— That having
+							been the other day very unwell, and having been weakened by loss of
+							blood, a very small quantity of Spirit had affected him; but it was an
+							accident which would not happen again; and he could prove by <persRef
+								ref="eakin-james">M<hi rend="superscript">r</hi> Eakin</persRef> who
+							had been for several months past a fellow lodger with him in the same
+							house, that his general habits were of sobriety— I then told him that if
+								M<hi rend="superscript">r</hi> Eakin would write me a line to that
+							effect, or call upon me and give me the assurance in person, I would
+							give all proper consideration to his testimony— Within half an hour M<hi
+								rend="superscript">r</hi> Eakin came, but instead of confirming
+							English’s assurances, spoke only of his own embarasment, at being called
+							upon by him to bear witness to his exemption from habits of
+							intemperance; being at the same time told by him that his subsistence
+							depended upon this testimony— He said it was extremely distressing to
+							him to feel that the bread of a person for whom he had kind feelings
+							should depend upon what he should say, and he scarcely knew what to say—
+							I told him that was enough. There was no necessity that he should bear
+							testimony against M<hi rend="superscript">r</hi> English, who probably
+							laboured under the self-delusion, common to many unfortunate persons in
+							the same condition of not knowing their own habits— In the Evening I
+							heard <persRef ref="lothrop-samuel">M<hi rend="superscript">r</hi>
+								Lathrop</persRef>, from Matthew 6.9. “Our father which art in
+							Heaven.” A sensible discourse upon the character of the Lord’s prayer,
+							with reference to the relation which it establishes between man and his
+							maker, corresponding to that between a father and his Children— M<hi
+								rend="superscript">r</hi> Lothrop is to preach here only one Sunday
+							more.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-04">
+					<head>4 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-04"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="55"/>
+						<p><date>4. IV:30.</date> Monday. Tub Bath.— Rossburg— Graeff’s</p>
+						<list><item>Smith— W. S.</item>
+						<item>Freeman Constant</item>
+						<item>Graham George</item>
+						<item>Porter Peter B.</item>
+						<item>Southard Samuel L</item>
+						<item>Jones Roger</item>
+						<item>Brent Daniel</item>
+						<item>Stabler</item>
+						<item>Lothrop</item>
+						<item>Lee. William</item>
+						<item>Watkins Tobias</item>
+						<item>Cranch. William</item>
+						<item>Porter Peter B.</item></list>
+						<p>The day till five in the afternoon was occupied with visitors to take
+							leave, and Heads of Departments on business. <persRef
+								key="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef> introduced <persRef ref="freeman-constant">M<hi
+									rend="superscript">r</hi> Constant Freeman</persRef>. <persRef
+								ref="graham-george">M<hi rend="superscript">r</hi> Graham</persRef>
+							Commissioner of the General Land Office called, respecting the
+							appointment of Assistant Counsel to the U.S. District Attornies in
+							Florida, on the litigated Land-claims— He has written to <persRef
+								ref="white-joseph">M<hi rend="superscript">r</hi> Joseph M.
+								White</persRef>; but knows not where the Letter will find him. I
+							spoke to M<hi rend="superscript">r</hi> Graham of the application of
+								<persRef ref="wilson-john4">John Wilson</persRef>, for an
+							appointment as surveyor to draw the line between the State of Louisiana
+							and the Territory of Arkansas— Graham said there were two objections to
+							Wilson— His intemperance, and his dishonesty— <persRef
+								ref="porter-peter">General Porter</persRef> was twice here. <persRef
+								ref="jones-roger">Col<hi rend="superscript">l.</hi>
+								Jones</persRef> the Adjutant General brought a private Letter to him
+							from <persRef ref="scott-winfield">General Scott’s</persRef> aid de
+							camp, from which it appears that Scott, carried the Order from <persRef
+								ref="macomb-alexander">General Macomb</persRef> into effect, though
+							professedly refusing disobedience to it— But as Scott’s own Letter to
+							the Secretary of War is ambiguous on this point, General Porter now
+							makes the enquiry of him and repeats the command to Scott to obey all
+							the Orders of General <hi rend="strikethrough">Scott</hi> Macomb as
+							Major General of the Army of the United States.— I had some conversation
+							with <persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef>, on the subject of the vessel to be despatched
+							upon a scientific and exploring expedition to the South Sea, and
+							expressed to him my earnest wish that her departure might be effected
+							before the Meeting of Congress— <persRef key="rush-richard">M<hi
+									rend="superscript">r</hi> Rush</persRef> was unwell confined to
+							his house and wrote me a note of apology for not coming to take my final
+							directions with regard to the business at the Treasury Department during
+							my absence. <persRef ref="brent-daniel">M<hi rend="superscript">r</hi>
+								Brent</persRef> came, and took them with respect to the Department
+							of State— I left with him some blank signatures to be used when
+							necessary for Proclamations, Remissions of Penalties, and Commissions of
+							Consuls— Taking of him a receipt for the number and kind of blanks left
+							with him, with directions to return me when I come back all the signed
+							Blanks remaining unused, and to keep and give me an account of all those
+							that shall have been disposed of. This has been my constant practice,
+							with respect to signed Blanks of this description— I do the same with
+							regard to Patents and Land-grants, and it should be extended to
+							Mediterranean Passports and Sea-Letters— But they are always signed in
+							blank by the President, and the responsibility of their use rests at the
+							Department of the Treasury— <persRef ref="u">Stabler</persRef> was a visitor— <persRef
+								ref="lothrop-samuel">Lothrop</persRef>, <persRef ref="lee-william"
+								>Lee</persRef> and <persRef ref="watkins-tobias">Watkins</persRef>
+							came to take leave upon my departure. <persRef ref="cranch-william"
+								>Judge Cranch</persRef> also gave me two Letters for his Sister
+								<persRef ref="greenleaf-lucy">Greenleaf</persRef> at Quincy.</p> 
+							<p>We dined at 3. and at five took our departure— Myself on the horse which I
+							purchased of <persRef ref="barbour-james">Governor Barbour</persRef>: my
+							Son <persRef ref="adams-john2">John</persRef>, <persRef
+								ref="frye-nathaniel">M<hi rend="superscript">r</hi> Nathaniel
+								Frye</persRef>, with <persRef ref="kirk-john">John Kirke</persRef>
+							in a low open Phaeton imported from New-York, and a pair of Horses from
+							Baltimore— <persRef key="adams-louisa-catherine">My wife</persRef>,
+								<persRef ref="hellen-mary">my Son’s wife</persRef> and <persRef
+								ref="adams-abigail2">Abigail S. Adams</persRef> accompanied us in
+							the Carriage as far as the tavern between the two Bridges at
+							Bladensburg. There we parted from them, and we proceeded to <persRef
+								ref="u">Graeff’s</persRef> tavern at Rossburg, where we arrived at
+							7. and are to pass the Night—9 Miles from the President’s House— We
+							found lodging here. <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Ladd</persRef> of Alexandria, and a lively boy <persRef ref="u">her
+								Son</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-05">
+					<head>5 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-05"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Elections, Presidential (1828)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="56"/>
+						<p><date>5. IV:30.</date> Tuesday— Ride from Rossburg to Baltimore.</p>
+						<p>There had been too much baggage packed behind our light Carriage; and we
+							left two of our Trunks to be sent on by one of the Stages to Baltimore—
+								<persRef ref="wyer-edward">Edward Wyer</persRef> passed through
+							Rossburg in a Hack from Washington in the Night— We left Rossburg at
+							five A.M. and arrived at <persRef ref="merrill-john">Merrill’s</persRef>
+							tavern at Waterloo 15 Miles. at 8. There breakfasted—rested our horses
+							till half past eleven—and then rode to Baltimore and at 15 minutes past
+							two, alighted at <persRef ref="barnum-david">Barnum’s</persRef> tavern—
+							The morning was cloudy with a succession of light drizzling Showers, by
+							which being on horseback I was not a little annoyed— And having been so
+							long disused to this exercise, the ride of 27 Miles this day, following
+							that of 9 last Evening was very fatiguing— I found myself also somewhat
+							sore from <unclear>excoration</unclear>— We dined immediately after our arrival at
+							Baltimore; and from four in the afternoon till near eleven at Night had
+							a continual stream of visitors, almost all Strangers, but who came to
+							shake hands with the President— In the Evening there was a Jackson party
+							popular meeting, in the Square adjoining to Barnum’s house, at which a
+							young man named <persRef ref="mcmahon-john">M’Mahon</persRef>, a member
+							of the State Legislature, harangued the multitude for about three hours
+							upon the unpardonable sins of the Administration, and the transcendant
+							virtues of <persRef ref="jackson-andrew">Andrew Jackson</persRef>— He
+							was still speaking when I retired to bed, and I heard his voice like the
+							beating of a mill-clapper, but nothing that he said. The meeting
+							dispersed about eleven at Night. There was a similar Meeting of the
+							friends of the Administration a few Nights since; and there are Ward
+							Meetings or Committee Meetings of both parties, every day of the week—
+							It is so in every part of the Union— A Stranger would think that the
+							People of the United States have no other occupation than
+							electioneering.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-06">
+					<head>6 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-06"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. IV:15.</date> Wednesday.— From Baltimore to Philadelphia—</p>
+						<p>After a very good Night’s rest I embarked at 5. this Morning in the
+							Steam-boat United States, <persRef ref="trippe-edward">Captain Edward
+								Trippe</persRef>, and at half past twelve at Noon arrived at
+							French-town. Among the Passengers were <persRef
+								ref="erwin-james;erwin-anne">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> Erwin</persRef>, the Son in Law and
+							Daughter of <persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef>, with a <persRef ref="erwin-julia">little
+								daughter</persRef> three or four years of age, <persRef ref="u;u"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+										>rs</hi> Woodyer</persRef>, and <persRef ref="bartow-john">M<hi rend="superscript">r</hi>
+							Barton</persRef>, an Episcopalian Clergyman of Baltimore, with many others unknown
+							to me. On landing at Frenchtown, we proceeded immediately to Newcastle
+							where we arrived at half past three— I rode my horse; and <persRef
+								ref="adams-john2">John</persRef> and <persRef ref="frye-nathaniel"
+									>M<hi rend="superscript">r</hi> Frye</persRef> with <persRef
+								ref="kirk-john">John Kirke</persRef> in the Carriage. We preceded
+							the Stages, and had the Carriage and horses shipped in the Steam-boat
+							Delaware <persRef ref="u">Captain Jenkins</persRef> when the Stages arrived with the other
+							Passengers— At seven in the Evening we arrived at Philadelphia— There
+							was a large concourse of People assembled on the wharf who gave three
+							cheers at my landing, and a multitude of whom followed me as I walked
+							from the wharf to <persRef ref="head-joseph2">Head’s</persRef>
+							Mansion-House in South third Street— They shouted continually as I went
+							along, and crowded round me so that I had barely room to pass along.
+							With their Shouts occasionally two or three voices among them cried
+							Huzza for <persRef ref="jackson-andrew">Jackson</persRef>— The throng
+							chiefly of boys came into the yard, and remained there, still shouting
+							after I entered the House; till in a few minutes I went out upon the
+							Porch, and said “Fellow Citizens, I thank you for this kind and friendly
+							reception, and wish you all good Night”—upon which they immediately
+							dispersed. I had then a succession of visitors till near eleven O’Clock;
+							among whom were <persRef ref="sergeant-john">J. Sergeant</persRef>,
+								<persRef ref="jones-william">W. Jones</persRef> the Collector,
+								<persRef ref="randall-josiah">Josiah Randall</persRef>, <persRef
+								ref="ingersoll-edward">Edward Ingersoll</persRef>— <persRef
+								ref="connell-john">J. Connell</persRef>— <persRef ref="vaughan-john"
+								>J. Vaughan</persRef>, <pb type="ms" n="57"/><persRef
+								ref="walsh-robert">R. Walsh</persRef>, and many others. Among them
+							was a <persRef ref="boardman-elijah2">Captain Boardman</persRef> of the
+							army who spoke of having been tried by a Court-Martial, and of whose
+							decision he appeared to be very apprehensive— I told him that their
+							proceedings had not yet been reported to me, and I could say therefore
+							nothing concerning them— When reported to me I should act upon them as
+							my own duties would require, and with a disposition to do full Justice
+							to him—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1828-08-07">
+					<head>7 August 1828</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1828-08-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. V:15.</date> Thursday— From Philadelphia to New-Brunswick.</p>
+						<p>We embarked at 8 this morning in the Steam-boat for Trenton where we
+							landed a little before Noon— The Stage passengers landed about seven
+							miles above, where the Stages were in waiting for them. The regular
+							Steam-boat should have left Philadelphia at 6. A.M. when the state of
+							the tide would not have admitted of the passage of the boat over the
+							shallows to reach Trenton— But an accident having happened yesterday to
+							the regular boat of the line; this Boat, leaving at 8 took the
+							passengers of the early line, and after landing them where the Stages
+							were in waiting for them</p>
+						<p>7. V:15.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

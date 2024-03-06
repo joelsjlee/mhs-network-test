@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v32-1821-08">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="077"
+				mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v32-1821-09-p082.xml" mhs:volume="32">
+				<bibl n="metadata"><date from="1821-08-21" to="1821-08-31"/></bibl>
+				<!-- D/JQA/32.94 -->
+
+				<!-- August 1821 -->
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-21">
+					<head>21 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-21"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Steam
+							Power</note></bibl>
+					<div type="docbody">
+						<pb n="77"/>
+						<dateline><hi rend="italic">August 1821.</hi></dateline>
+						<p><date>21. IV:30.</date> At six this morning I left the City of Washington
+							in the Stage for Baltimore. There was already one passenger in the
+							Carriage, and we took up several others at different places. We
+							breakfasted at <persRef ref="kochendorfer-unknown"
+								>Kochendorfers</persRef> at Bladensburg; but it was half past three
+							in the afternoon when we reached the Indian Queen Hotel at Baltimore,
+							now kept by <persRef ref="barnum-david">Barnum</persRef>. It was the
+							heat of the weather which made us so late before we arrived— I dined
+							there and immediately after embarked in the Steam-boat United States
+								<persRef ref="trippe-edward">Captain Trippe</persRef> for
+							Frenchtown, which place we reached soon after Midnight— I had no
+							acquaintance on board the vessel, and in the midst of a crowd of
+							fellow-passengers passed the day in solitude— From the moment that I set
+							my foot on board the vessel, the summer heat under which I have been
+							languishing nearly a month at Washington was gone. The weather clouded
+							up, and a strong breeze of wind arose as cool as was to be desired. I
+							betook myself in the evening to a birth.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-22">
+					<head>22 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-22"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Steam
+							Power</note></bibl>
+					<div type="docbody">
+						<p><date>22.—</date> On landing about one O’Clock this morning at
+							Frenchtown, the Passengers were packed in seven Stages, to Newcastle— I
+							was in Number two with four women, five small children, and one other
+							man— One of the women with two little girls were of the party from
+							Washington. We rode sixteen miles to Newcastle where we arrived just
+							after daylight, about half past four in the morning— We embarked
+							immediately in the Steam-Boat Baltimore, <persRef ref="jenkins-abasha"
+								>Captain Jenkins</persRef> and at eight in the morning landed at the
+							wharf in Philadelphia. I left my baggage in the boat and called first
+							upon <persRef ref="ewing-samuel">Samuel Ewing</persRef>— Then upon
+								<persRef ref="ingersoll-joseph">Joseph Ingersoll</persRef> with whom
+							I had some conversation concerning the action of <persRef
+								ref="harris-levett">Levett Harris</persRef> against <persRef
+								ref="lewis-william">W. D. Lewis</persRef>, and the depositions which
+							are to be taken of <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef> and <persRef
+								ref="calhoun-john">M<hi rend="superscript">r</hi> Calhoun</persRef>—
+							After passing an hour with Ingersoll I returned to Ewing’s, and found at
+							his house <persRef ref="peters-richard">R. Peters </persRef>who told me
+							he had lately returned from Boston and had seen my <persRef
+								ref="adams-john">father</persRef> and <persRef ref="adams-thomas"
+								>brother</persRef> at Quincy. Ewing went with me to <persRef
+								ref="sergeant-john">John Sergeant’s</persRef>. After a short visit
+							there, I called at the Mansion House Hotel, and at <persRef
+								ref="shinn-elizabeth">Miss Shinn’s</persRef>, and enquired if
+								<persRef ref="connell-john">M<hi rend="superscript">r</hi>
+								Connell</persRef> had been there to see me— He had been at Miss
+							Shinn’s, and I immediately afterwards met him in the Street. It was now
+							Noon and I embarked in the Steam-Boat Philadelphia, <persRef
+								ref="jenkins-abasha">Captain A. Jenkins</persRef> for Trenton.
+							Ewing accompanied me to the Boat, and Connell went with us in it as far
+							as Burlington— <persRef ref="sergeant-unknown">Miss Sergeant</persRef>
+							was also a passenger as far as Princeton— <persRef
+								ref="chauncey-charles">M<hi rend="superscript">r</hi>
+								Chauncey</persRef> the lawyer, and a <persRef ref="hall-unknown6"
+									>M<hi rend="superscript">r</hi> Hall</persRef>, a relation of
+							Ewing’s came likewise to Burlington— The Boat successively stopped
+							there, at Bristol, and at Bordentown. The river Delaware was so low that
+							the Boat was obliged to stop, at a place which they said was two Miles,
+							but which was nearer five short of Trenton— There the Stages took us up,
+							and we rode first to Trenton then 11 Miles to Princeton, where Miss
+							Sergeant left us, at her Sisters <persRef ref="miller-unknown5">M<hi
+									rend="superscript">rs</hi> Millers</persRef>, and then sixteen
+							Miles to New-Brunswick where we arrived between ten and eleven at Night—
+							We lodge at <persRef ref="keyworth-unknown">M<hi rend="superscript"
+									>rs</hi> Keyworth’s</persRef> close to the wharf whence the
+							Steam-boat departs. I retired immediately to bed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-23">
+					<head>23 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-23"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">American
+							Revolution</note><note type="subject">Bank of the United
+							States</note><note type="subject">Steam Power</note></bibl>
+					<div type="docbody">
+						<p><date>23. V:</date> We embarked in the Steam-Boat Bellona <persRef
+								ref="vanderbilt-cornelius">Captain<space/></persRef>for Powles-Hoek,
+							otherwise called the City of Jersey— For in consequence of a controversy
+							yet unsettled of Jurisdiction between the States of New-York and
+							New-Jersey the Steam-boats of each of those States are prohibited from
+							coming to the shores of the other. From Powles Hoek we crossed in the
+							Steam Ferry-Boat to New-York, and I went to the City Hotel— I
+							immediately called at the Counting House of <persRef
+								ref="aspinwall-john">J. M. Aspinwall</persRef> number 147.
+							Pearl-Street, and received an order on the United States Branch Bank at
+							Boston, for a dividend of 3 1/2 per Cent on the Estate of <persRef
+								ref="bird-robert">Robert Bird</persRef>, which was declared last
+							June, and of which M<hi rend="superscript">r</hi> Aspinwall had given me
+							notice by Letter— At <persRef ref="mccormick-unknown">M<hi
+									rend="superscript">r.</hi> D. M’Cormick’s</persRef> I found
+							young <persRef ref="brodie-alexander">Brodie</persRef><pb type="ms"
+								n="78"/>M’Cormick himself being absent on a tour to Canada— I went
+							to the Post-Office where I found a Letter from <persRef
+								key="adams-louisa-catherine">my wife</persRef> at Quincy— On
+							mentioning my name to ask if there were Letters for me, a person who was
+							there on a like errand, turned to me and said that he was not personally
+							acquainted with me, but had heard much of me, and was glad to see me. He
+							told me that he himself was <persRef ref="loomis-unknown">Col<hi
+									rend="superscript">l.</hi> Loomis </persRef>and that he had
+							served in our revolutionary war— I next met in the Street <persRef
+								ref="gracie-william">M<hi rend="superscript">r</hi> Gracie</persRef>
+							who went with me to <persRef ref="keene-unknown">M<hi rend="superscript"
+									>rs</hi> Keene’s</persRef> 52 Broadway, <persRef ref="jay-peter"
+									>M<hi rend="superscript">r</hi> Jay’s</persRef> house, where we
+							found <persRef ref="stewart-charles;stewart-delia" type="multi"
+								>Commodore and M<hi rend="superscript">rs</hi> Stewart</persRef>,
+								<persRef ref="tudor-delia">M<hi rend="superscript">rs</hi>
+								Tudor</persRef>, and <persRef ref="weaver-william">Lieutenant
+								Weaver</persRef> of the Navy. Stewart had received this morning a
+							Letter from the <persRef ref="thompson-smith">Secretary of the
+								Navy</persRef>, enclosing an order to <persRef ref="boyd-john">J. Q.
+								A. Boyd</persRef> to join the Franklin, under orders to proceed to
+							the South Sea— I asked Stewart if he could take him, and he promised
+							that he would— He gave me the order from the Navy Department to deliver
+							to him— M<hi rend="superscript">rs</hi> Stewart is going upon this
+							expedition with her husband— Stewart asked me, if we could not do
+							something for <persRef ref="tudor-william2">William Tudor</persRef>— I
+							said I had a proposal to him from the <persRef key="monroe-james"
+								>President</persRef>, but knew not whether it would suit him— On
+							returning to the City Hotel I found by advertisements in the newspapers
+							that the Steam-ship Robert Fulton, was to depart at five O’Clock this
+							afternoon upon a trip to Newport and Providence, and I immediately
+							determined to take passage in her, instead of waiting till to-morrow
+							morning for the Steam-boat— I accordingly went down to the wharf and
+							engaged my passage after going on board the ship and examining her
+							accommodations. At three O’Clock I dined at the public table at the City
+							Hotel— Called at <persRef ref="trumbull-john">Col<hi rend="superscript"
+									>l.</hi> Trumbull’s</persRef> and found him and <persRef
+								ref="trumbull-sarah">M<hi rend="superscript">rs</hi>
+								Trumbull</persRef> at dinner— He shewed me the picture which he is
+							now painting for Congress, The surrender of <persRef ref="burgoyne-john"
+								>General Burgoyne</persRef> at Saratoga— I met in the Streets
+								<persRef ref="chauncey-isaac">Commodore Chauncey</persRef> before,
+							and <persRef ref="wheaton-unknown">M<hi rend="superscript">r.</hi>
+								Wheaton</persRef> after dinner— At five I embarked in the Steam
+							ship, and half an hour afterwards she left the wharf— The only person
+							whom I knew on board was <persRef ref="vanlennep-jacob">M<hi
+									rend="superscript">r</hi> Van Lennep</persRef>, whom I had met
+							this morning at Commodore Stewart’s. The weather was as fine as
+							possible: fair and cool. <persRef ref="forman-unknown">Captain
+								Forman</persRef> was on board when I embarked, and before leaving
+							the ship introduced to me <persRef ref="dunham-david">M<hi
+									rend="superscript">r</hi> Dunham</persRef> the owner— We had a
+							pleasant run down the East-river, through Hell gate, and just at the
+							dusk of Evening passed by Lands’s point into the Sound— The Supper
+							tables were laid under an awning upon the deck, and we had a band of
+							music who from time to time entertained us with enlivening airs— I
+							nevertheless in the midst of this crowd passed the Evening in solitude
+							and about ten O’Clock retired to my birth in one of the State-Rooms.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-24">
+					<head>24 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-24"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Steam
+							Power</note></bibl>
+					<div type="docbody">
+						<p><date>24. V:</date> Soon after two O’Clock this Morning the ship was
+							abreast of New-Haven, but did not enter the river till after daylight:
+							we came up to the wharf between five and six O’Clock, and left it again
+							at half-past-eight. In the mean time multitudes of people had crowded
+							down to the wharf; great numbers of whom came on board— Among them were
+								<persRef ref="deforest-david;deforest-julia" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> De
+								Forrest</persRef>, and <persRef ref="bishop-abraham">Abraham
+								Bishop</persRef> the Collector— Numbers of people also went out upon
+							the river in sail boats and row-boats to view the ship under weigh—
+							About Noon we passed by the Steam-Boat from New-London bound to
+							New-Haven, with the Corps of Cadets on board, returning from their visit
+							to Boston, with whom a shout of cheers was exchanged as we passed— Our
+							wind had been last Evening, ahead, but it changed this morning, and
+							great part of this day we had the advantage of the sails, additional to
+							the power of Steam— We passed on the outside of Fisher’s Island, came to
+							point Judith about dusk and were along-side of the wharf at Newport
+							Rhode-Island, about nine in the Evening— There we moored for the night—
+							Many of the passengers went ashore for a stroll, and there was a
+							continual stream of the people of the town coming on board as visitors,
+							till after midnight— I had an hour before that time retired to my
+							birth—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-25">
+					<head>25 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-25"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Relations</note><note type="subject">Adams Family
+							Residences</note></bibl>
+					<div type="docbody">
+						<p><pb type="ms" n="79"/><date>25. V:</date> About half an hour after which
+							we departed from Newport, with the cheers of a multitude of people upon
+							the wharf; we proceeded up Providence river, and between ten and eleven,
+							landed upon India wharf at that place— I went immediately to <persRef
+								ref="chappotin-leon">Chapotin’s</persRef>, and having while on board
+							the ship jogged into a travelling acquaintance with some of my fellow
+							passengers took a stage with five of them for Boston. They were Mess<hi
+								rend="superscript">rs. </hi><persRef ref="vanlennep-jacob">Van
+								Lennep</persRef>, <persRef ref="porter-unknown">Porter</persRef>,
+								<persRef ref="hammond-unknown2">Hammond</persRef>, <persRef
+								ref="thorndike-charles">Charles Thorndike</persRef>, and one other
+							whose name I did not discover. While we were waiting for the Stage I met
+							at Chapotin’s, <persRef ref="knight-nehemiah">M<hi rend="superscript"
+									>r</hi> N. Knight</persRef> formerly Governor of the State, and
+							now one of its Senators in Congress, who did not at first recognize me;
+								<persRef ref="dexter-ebenezer">M<hi rend="superscript">r</hi>
+								Dexter</persRef> the Marshal, and <persRef ref="edwards-alfred"
+								>Alfred Edwards</persRef> of Connecticut, just arrived over land
+							from Albany— We dined at <persRef ref="fuller-stephen"
+								>Fuller’s</persRef> at Walpole; and on reaching <persRef
+								ref="gay-unknown">Gay’s</persRef> at Dedham, I there found <persRef
+								key="adams-louisa-catherine">my dear wife</persRef>, and <persRef
+								ref="adams-john2">my Son John</persRef>, who had come from Quincy to
+							meet me— I then left my fellow travellers of the Steam-ship, and with my
+							wife and son came to <persRef ref="adams-john">my fathers</persRef>
+							house, where we arrived just at the dusk of Evening— I found at my
+							fathers a very numerous family— <persRef ref="adams-thomas">My
+								brother</persRef> and <persRef ref="adams-ann">his wife</persRef>
+							with five children—<persRef ref="adams-abigail2">Abigail</persRef>,
+								<persRef ref="adams-elizabeth">Elizabeth Coombs</persRef>, <persRef
+								ref="adams-thomas2">Thomas Boylston</persRef>, <persRef
+								ref="adams-john3">John Quincy</persRef>, and <persRef
+								ref="adams-joseph">Joseph Harrod</persRef>, the sixth, <persRef
+								ref="adams-isaac">Isaac Hull</persRef>, being at Haverhill, with
+								<persRef ref="harrod-joseph;harrod-anna" type="multi">my brother’s
+								wifes Parents</persRef>— My own family; <persRef ref="adams-charles"
+								>my brother Charles’s</persRef> daughter the widow <persRef
+								ref="clark-susanna">Susan Boylston Clarke</persRef>, with her
+							daughter <persRef ref="clark-susan">Susan</persRef> between three and
+							four years old— <persRef ref="smith-louisa">Louisa C. Smith</persRef>,
+								<persRef ref="hellen-mary">Mary Hellen</persRef>, <persRef
+								ref="shaw-william">W. S. Shaw</persRef>, and <persRef
+								ref="boyd-john">J. Q. A. Boyd</persRef>, lately returned in the
+							Columbus 74 from the Mediterranean were all there, and we made up a
+							company of nineteen persons— My father’s health is not good. He suffers
+							much pain with the Sciatica, and has now a troublesome inflammation of
+							the eyes, which deprives him of the power of reading. My brother has not
+							entirely recovered from bruises received by oversetting ten days since
+							in a Chaise. My Son <persRef ref="adams-george">George</persRef> is in
+							very infirm health. The rest of the family are well. <persRef
+								ref="bainbridge-william">Commodore Bainbridge</persRef>, and
+								<persRef ref="brown-james">M<hi rend="superscript">r</hi>
+								Brown</persRef> the Senator from Louisiana had been here this
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-26">
+					<head>26 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-26"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Residences</note></bibl>
+					<div type="docbody">
+						<p><date>26. V:30.</date><persRef ref="boylston-ward">M<hi
+									rend="superscript">r</hi> Ward Nicholas Boylston</persRef> and
+								<persRef ref="boylston-alicia">his wife</persRef> were here and
+							passed the day. I attended at meeting, and heard morning and afternoon,
+								<persRef ref="francis-convers">M<hi rend="superscript">r</hi>
+								Francis</persRef> of Watertown— He dined with us at my father’s.
+								<persRef ref="degrand-peter">P. P. F. Degrand</persRef> came out
+							from Boston, and I strolled with him over the hills. <persRef
+								ref="beale-benjamin">Captain Beale</persRef> and <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r</hi> Quincy</persRef>
+							with <persRef ref="quincy-josiah">his Son</persRef> were here in the
+							Evening. <persRef ref="adams-thomas">My brother</persRef> continues
+							quite unwell— I had not seen M<hi rend="superscript">r</hi> Boylston
+							since I sailed for Russia in 1809. He is rather bowed than broken with
+							his years, and retains much of the vivacity of his Spirits. I attempted
+							this day to write but with little success.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-27">
+					<head>27 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-27"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Science
+							and Technology</note></bibl>
+					<div type="docbody">
+						<p><date>27. VI:</date> There was this morning an eclipse of the Sun of nine
+							or ten digits; and which lasted about three hours—but the sky was
+							beclouded almost the whole time, so that it could be but imperfectly
+							observed— I barely perceived it several times through a smoked fragment
+							of glass— <persRef ref="shaw-william">W. S. Shaw</persRef> and <persRef
+								ref="boyd-john">J. Q. A. Boyd</persRef> went to Boston, and my Son
+								<persRef ref="adams-george">George</persRef> to Cambridge to prepare
+							for Commencement. <persRef ref="marston-john">M<hi rend="superscript"
+									>r</hi> John Marston</persRef> called to see me, and <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r</hi> Quincy</persRef>
+							visited <persRef ref="adams-john">my father</persRef> with <persRef
+								ref="pomeroy-unknown">M<hi rend="superscript">r</hi>
+								Pomeroy</persRef> and <persRef ref="skinner-john">J. S.
+								Skinner</persRef> the Postmaster at Baltimore, and Editor of the
+							American farmer. After dinner I took a ride with my father to the farm
+							at Mount Wollaston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-28">
+					<head>28 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. V:30.</date> My Son <persRef ref="adams-john2">John</persRef>
+							went to Boston this morning with <persRef ref="hellen-mary">Mary
+								Hellen</persRef> and left her at <persRef ref="foster-james">M<hi
+									rend="superscript">r</hi> James H. Foster’s</persRef>—he
+							returned with <persRef ref="boyd-john">J. Q. A. Boyd</persRef> to Quincy
+							before dinner. <persRef ref="tudor-william2">William Tudor</persRef>
+							came out with <persRef ref="elwyn-unknown">M<hi rend="superscript"
+									>rs</hi> Langdon Elwyn</persRef>, and <persRef ref="gore-mary"
+									>M<hi rend="superscript">rs</hi> John Gore</persRef> to visit
+								<persRef ref="adams-john">my father</persRef> and <persRef
+								key="adams-louisa-catherine">my wife</persRef>. After dinner we came
+							into Boston, and took lodgings at <persRef ref="jenks-alice">M<hi
+									rend="superscript">rs.</hi> Jenks’s</persRef> in Beacon-Street.
+							There was no room at <persRef ref="burr-unknown">M<hi rend="superscript"
+									>rs</hi> Burr’s</persRef> nor at <persRef ref="jones-ephraim"
+									>M<hi rend="superscript">r</hi> Jones’s</persRef> where we had
+							heretofore lodged, nor at the Marlborough Hotel, and new and large
+							establishment, where we visited <persRef ref="patterson-william">M<hi
+									rend="superscript">r.</hi> W. Patterson</persRef>, of Baltimore
+							and <persRef ref="patterson-marianne">M<hi rend="superscript">rs</hi> R.
+								Patterson</persRef> his daughter in law. I had scarcely alighted at
+								M<hi rend="superscript">rs</hi> Jenks’s, when <persRef
+								ref="shaler-william">M<hi rend="superscript">r</hi> W.
+								Shaler</persRef>, the Consul-General to Barbary came in— He arrived
+							yesterday from the Mediterranean, upon a leave of absence for a year,
+							and is going in a few days to New-York. He told me that he had Reports
+							to make upon business relating to his Office, and particularly of an
+							application made to him from the <pb type="ms" n="80"/>Agent of the
+							Prussian Agent, to negotiate for peace with Algiers, soliciting the
+							interposition of his good offices for effecting that object. This
+							application was made to him in June last at Marseilles; Shaler declined
+							all formal official interference, but gave the Agent <persRef
+								ref="putter-henry">Henry Putter</persRef>, the best information in
+							his power to enable him to succeed, and a Letter of recommendation to
+							his nephew <persRef ref="shaler-william2">W. Shaler jun<hi
+									rend="superscript">r</hi></persRef>—whom he left at Algiers
+							charged with the Affairs of the Consulate during his absence. Shaler
+							also told me that he should call on me again in two or three days to
+							introduce to me, <persRef ref="folsom-unknown">M<hi rend="superscript"
+									>r</hi> Folsom</persRef>, who was his Charge d’Affaires during
+							the time of the plague, and who is a very deserving young man— I spent
+							the Evening at <persRef ref="hall-joseph">Jos. Hall’s</persRef>, where I
+							met <persRef ref="bartlett-george">D<hi rend="superscript">r</hi>
+								Bartlett</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-29">
+					<head>29 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. V:30.</date> Commencement day— I went to Cambridge with
+								<persRef ref="boylston-ward">M<hi rend="superscript">r</hi> W. N.
+								Boylston</persRef>, who called for me, by agreement made last
+							Sunday. He came at 8 O’Clock, and on reaching Cambridge we went
+							immediately to the College Library Rooms. At ten the procession to the
+							Meeting House was formed, and proceeded as usual. The exercises were
+							shorter than I ever witnessed on a like occasion; and the speaking was
+							in general very indifferent— My eldest son, <persRef ref="adams-george"
+								>George Washington Adams</persRef> was one of those who graduated,
+							and had a part in the second Conference— Of four who should have spoken
+							in that conference; he alone performed. The two English Orations were by
+								<persRef ref="barnwell-robert">Barnwall</persRef> and <persRef
+								ref="upham-unknown">Upham</persRef>, the latter of which was best
+							delivered— There was no poem— No performance in Hebrew or Greek—only one
+							in Latin, the salutatory, and no forensic disputation— There was no
+							exhibition of Theses, nor of Master’s Questions. No Valedictory Oration,
+							and the only performance for the Master’s degree was an English Oration,
+							said to be upon Genius, but so far as I could hear it, upon <hi
+								rend="italic">Love</hi>— Spoken in a note barely above a whisper, by
+							Reed— Though sitting close by the side of the Orator, I heard not more
+							than half he said— It appeared to me well written, but full of strange
+							and absurd fancies— He is said to have a Swedénborgian crack in his
+							brain. On the whole the performances, both with reference to classic
+							learning and to ornamental exhibition, were the most indifferent that I
+							ever witnessed on such an occasion. I dined in the Hall— Of my own
+							Classmates, there were present, only three—<persRef ref="amory-jonathan"
+								>Jonathan Amory</persRef>, <persRef ref="harris-thaddeus">T. M.
+								Harris</persRef> and <persRef ref="hunnewell-walter">W.
+								Hunnewell</persRef>— After dinner, the 78<hi rend="superscript">th.
+							</hi>Psalm was sung to the tune of Old Hundred.— My Son George had a
+							small party to dine, at <persRef ref="smith-benjamin">Smith’s</persRef>
+							Tavern, where I found <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef>, and <persRef
+								ref="adams-thomas">my brother’s</persRef> family— <persRef
+								ref="brooks-john">Governor Brooks</persRef> and his Council,
+								<persRef ref="kirkland-john">President Kirkland</persRef>, <persRef
+								ref="pickering-timothy">M<hi rend="superscript">r</hi> T.
+								Pickering</persRef> and some others called there by invitation from
+							me— Thence we went to the President’s where we found a numerous company—
+							About Sunset we returned to Boston. M<hi rend="superscript">r</hi>
+							Boylston sat me down, at <persRef ref="jenks-alice">M<hi
+									rend="superscript">rs</hi> Jenks’s</persRef>, with a promise to
+							call for me again to-morrow morning at 8— We attended in the Evening a
+							Ball at <persRef ref="otis-harrison">M<hi rend="superscript">r</hi> H.
+								G. Otis’s</persRef>— His son <persRef ref="otis-william"
+								>William</persRef> was also one of the graduates of this day. At
+							Otis’s, I met among the company old <persRef ref="devalnais-joseph"
+									>M<hi rend="superscript">r</hi> de Valnais</persRef> the French
+							Consul, and <persRef ref="devalnais-calista">his daughter</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-30">
+					<head>30 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. V:30.</date><persRef ref="boylston-ward">M<hi
+									rend="superscript">r</hi> Boylston</persRef> called for me at 8,
+							according to his engagement— <persRef ref="boylston-alicia">M<hi
+									rend="superscript">rs</hi> Boylston</persRef> was with him. We
+							went immediately to <persRef ref="kirkland-john">President
+								Kirkland’s</persRef> house at Cambridge— The speaking, for M<hi
+								rend="superscript">r</hi> Boylston’s prizes commenced at half past
+							nine. I attended as one of the judges, being made permanently one of
+							them, by the founder. The names of the competitors were given to us, by
+							President Kirkland, with a note of the piece selected by each of them
+							for declamation— There were twelve of the Junior, and seven of the
+							Senior Class, who had entered their names for speaking. No graduates of
+							the year. By the foundation, the competition is limited to those three
+							Classes. There was no settled mode among the judges of marking the
+							comparative merit of the performers; but I adopted that recommended by
+							President Kirkland of marking the name of each speaker immediately after
+							he finished, from 1 to 4. in figures, affixing the highest number to the
+							best, and graduating downwards according to merit. The judges set in the
+							front galleries in the Meeting house, with M<hi rend="superscript"
+								>r</hi> Boylston the founder in the centre— The junior Class
+							Candidates spoke first, and after them the Seniors. The performances
+							lasted about two hours after which the judges returned to President
+							Kirkland’s study. The <pb type="ms" n="81"/>votes for assigning the
+							prizes, were taken by ballot; but there was a want of regulation as to
+							the mode of taking them; and much diversity of opinion with regard to
+							the relative merit of the Speakers. The judges were President Kirkland,
+								<persRef ref="porter-eliphalet">D<hi rend="superscript">r</hi>
+								Porter</persRef> of Roxbury, <persRef ref="davis-john">Judge
+								Davis</persRef>, <persRef ref="parker-isaac">Chief Justice
+								Parker</persRef>, <persRef ref="lowell-john">M<hi rend="superscript"
+									>r</hi> John Lowell</persRef>, <persRef ref="pickering-john"
+									>M<hi rend="superscript">r</hi> John Pickering</persRef> and
+								<persRef ref="ware-henry2">M<hi rend="superscript">r</hi>
+								Ware</persRef>, son of the <persRef ref="ware-henry"
+								>Professor</persRef>—<persRef ref="phillips-john">John
+								Phillips</persRef>, and myself— I found from the balloting that the
+							persons most defective in their own elocution, differed most from the
+							majority in their opinions. There were two first prizes of 15 dollars
+							each, and three second prizes of 10 dollars. They were all at last
+							allotted as I should have given them, with the exception of one first
+							and one second prize, which I should have substituted for each other— My
+							son <persRef ref="adams-john2">John</persRef> was among the unsuccessful
+							candidates. He spoke with propriety, and without sufficient force and
+							animation— The pieces were all sufficiently committed to memory; but few
+							of them were well chosen— There was no poetry, and no dialogue.
+							Altogether the speaking was poor, for want of elementary instruction in
+							the art of declamation— We had but scanty time for the assignment of the
+							prizes and at twelve went again to the Meeting House, and heard the ΦBK
+							exercises—an Oration by <persRef ref="gray-john">John C. Gray</persRef>,
+							and a poem in the Spenserian Stanza, Byronized, by a <persRef
+								ref="bryant-unknown">M<hi rend="superscript">r</hi>
+							Bryant</persRef>— Gray’s Oration was well written and well delivered—
+							The Poem was poetical in the thoughts and prosaic in the language—
+							Poetry without numbers, and rhyme without harmony. We dined with a party
+							of more than twenty at President Kirkland’s— <persRef ref="farrar-john"
+								>Professor Farrar</persRef> lives with him in the house, and his
+							family, the President being a bachelor. After dinner, with M<hi
+								rend="superscript">r</hi> Boylston and <persRef
+								ref="cogswell-joseph">professor Cogswell</persRef> I visited the
+							University library and medical school. Saw the <persRef
+								ref="ebeling-christoph">Ebeling</persRef> library, a present from
+								<persRef ref="thorndike-israel">I. Thorndike</persRef>, a beautiful
+							manuscript copy of the aphorisms of <persRef ref="hippocrates"
+								>Hippocrates</persRef>, presented by M<hi rend="superscript">r</hi>
+							Boylston, and the anatomical preparations given by <persRef
+								ref="nicholls-j">M<hi rend="superscript">r</hi> J.
+								Nicholls</persRef>. I then returned to Boston with M<hi
+								rend="superscript">r.</hi> Boylston taking with us my Son John— I
+							promised M<hi rend="superscript">r</hi> Boylston to visit him at
+							Princeton the week after next, and to allot the whole week to the visit.
+							Evening spent at a Ball, at <persRef ref="gore-mary">M<hi
+									rend="superscript">rs.</hi> John Gore’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-31">
+					<head>31 August 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. VI:15.</date> Received a Letter from <persRef
+								ref="brent-daniel">D. Brent</persRef>, chief clerk in the Department
+							of State, with several enclosures. Morning at the Athenaeum— Received
+							visits from <persRef ref="jarvis-unknown">D<hi rend="superscript"
+									>r.</hi> Jarvis</persRef>, rector of the new Episcopalian Church
+							in this town, and from many other persons; which absorbed all the
+							morning— We dined at our lodgings, and after dinner <persRef
+								ref="shaw-william">W. S. Shaw</persRef> called with a Horse and
+							Chaise, and I went with him to Cambridge, over the new Mill dam avenue.
+							We went to the chamber of <persRef ref="adams-john2">my Sons</persRef>
+							in Massachusetts Hall, and found there my Son <persRef
+								ref="adams-charles2">Charles</persRef> who had passed his
+							examination for admission. <persRef key="adams-louisa-catherine">My
+								wife</persRef> also came out with <persRef ref="welsh-harriet"
+								>Harriet Welsh</persRef>. There was with Charles, a youth named
+								<persRef ref="elwyn-unknown2">Elwyn</persRef>, who had also passed
+							the Examination. I went with Shaw over to <persRef
+								ref="waterhouse-benjamin">D<hi rend="superscript">r</hi>
+								Waterhouse’s</persRef>— In conversation with him, some mention was
+							made of <persRef ref="gordon-william">D<hi rend="superscript">r.</hi> W.
+								Gordon</persRef>, author of a History of the American Revolution. I
+							thought he had been a Scotchman; but Waterhouse said he was a native of
+							England; and after returning from this Country to England, had written
+							him several Letters which he would shew me. On returning to the College,
+							I found that M<hi rend="superscript">rs</hi> Adams and Harriet Welsh
+							were gone. The boys went down to <persRef ref="kirkland-john">President
+								Kirkland’s</persRef> for information as to the issue of their
+							examination, but were directed to come again at nine O’Clock— I returned
+							with Shaw to Boston, and with M<hi rend="superscript">rs</hi> Adams
+							called in the Evening at <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r</hi> Welsh’s</persRef>. The D<hi
+								rend="superscript">r</hi> himself was at Rainsford’s Island, in the
+							harbour, being the health-Officer of the port. <persRef
+								ref="welsh-abigail">M<hi rend="superscript">rs</hi> Welsh</persRef>
+							was at her son <persRef ref="welsh-thomas2">Thomas’s</persRef>, who has
+								<persRef ref="welsh-unknown2">a child</persRef> dangerously ill—
+								<persRef ref="hinkley-anna">Miss Ann Hinkley</persRef> a friend of
+							Harriet Welsh’s was with her—and my son John was there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-08-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<!-- This is a summary entry without a date.-->
+						<p><date><hi rend="italic">Day.</hi></date> The first three weeks of the Month, the distribution of
+							my time was much as it had been for many Months before. Excepting that
+							from the opening of the Theatre I constantly frequented it, till I left
+							Washington— In five days I came from that City to Quincy, and since then
+							nothing regular in my occupations. Every day and hour of my life I feel
+							more heavily my incapacity of writing, and in the continual bustle of
+							the present, it nearly disqualifies me for all use of the pen—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

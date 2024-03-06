@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1799-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="261"  mhs:precedingFile="JQADiaries-v24-1799-06-p258.xml" mhs:followingFile="JQADiaries-v24-1799-08-p266.xml" mhs:volume="24">
+				<bibl n="metadata">
+					<date from="1799-07-01" to="1799-07-31"/>
+				</bibl>
+
+				<!-- D/JQA/24.1760 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-01">
+					<head>1 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline>
+							<hi rend="italic">July 1799.</hi>
+						</dateline>
+						<p><date>1. </date>Sent my annual account to the <persRef
+								ref="pickering-timothy">Secretary of State</persRef>— Busy with
+							letter writing— Evening at Bellevue. The company not large.— Played
+							whist with <persRef ref="lehndorff-amalie">Madame de Lehndorf</persRef>,
+								<persRef ref="u">Count Dönhoff</persRef>, und <persRef ref="u">M. de
+								Sydow</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-02">
+					<head>2 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-02"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> unwell all day with a sick-head ache—
+							Evening at <persRef ref="u">Madame de Saldern’s</persRef>— Company
+							small— Whist with <persRef ref="u">Madame de Heinitz</persRef>, <persRef ref="u">M<hi
+								rend="superscript">lle:</hi> de Hoorn</persRef>, and<space/>an officer of hussars.
+							Wrote several letters.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-03">
+					<head>3 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-03"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>3— </date>Weather very warm.— Wrote to <persRef ref="adams-abigail"
+								>my mother</persRef>— Not out before dinner— Walk in the Evening.
+							Spent an hour at the Casino, which is transferred to another house, not
+							so far from us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-04">
+					<head>4 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-04"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Independence Day— Weather very warm.— A day of leisure—
+								<persRef ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> very unwell.— Walk in the park before dinner, and a
+							short one under the trees in the evening— Reading some thing of <persRef
+								ref="rivarol-antoine">Rivarol’s</persRef> discours préliminaire to
+							his new Dictionary— It is doubtful however whether the Dictionary will
+							ever appear.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-05">
+					<head>5 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-05"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Weather continues very warm— A thunder shower, which left
+							it warm as before— <persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+								Brown</persRef> called in the afternoon to see <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> who continues unwell— Walk, and afterwards at the
+							Casino—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-06">
+					<head>6 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-06"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>Called at twelve upon <persRef ref="haugwitz-christian"
+								>Count Haugwitz</persRef> to enquire, whether the business of the
+							Treaty can be soon concluded: he assured me they would be ready, in a
+							very few days.— He shewed me his fine garden consisting of fifteen acres
+							of land; within the city, and which is in a very fine condition. He has
+							an hot house, and 22 cows whose pasture is likewise in the garden— As I
+							went in the Russian chargé des affairs, <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Sievers</persRef> was just leaving him.— Wrote scarcely
+							any thing this day— At the Casino in the evening, and stayed late,
+							engaged in conversation with several gentlemen.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-07">
+					<head>7 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Weather continues very warm.— Since finishing my
+							translation, I have no particular object upon which to fix exclusively
+							my attention— Finished <persRef ref="rivarol-antoine">Rivarol’s</persRef> discours préliminaire, and read his discours
+							sur l’universalité de la langue françoise. They are both very ingenious;
+							but I differ in many particulars from his opinions— Upon the subject of
+							religion especially, his principles appear to me, bad.— Walk in the
+							Evening; and at the Casino.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-08">
+					<head>8 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-08"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Weather excessively warm.— <persRef
+								ref="arbuthnot-robert">M<hi rend="superscript">r:</hi> Arbuthnot</persRef>
+							called this afternoon to see me— Evening at Bellevue— Walked in the
+							garden— Conversation with <persRef ref="tempelhoff-georg">General
+								Tempelhoff</persRef>; <persRef ref="augustusferdinand">Prince
+								Auguste</persRef>, and <persRef ref="u">M<hi rend="superscript">r:</hi> de
+								Sartoris</persRef>. Did not play.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-09">
+					<head>9 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-09"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Thermometer at 90. Lesson of German— Received from the
+							cabinet ministers a notification to meet them on Thursday the 11<hi
+								rend="superscript">th:</hi> at <persRef ref="vonfinckenstein-karl">Count
+								Finkenstein’s</persRef>, to exchange the full powers and sign the
+							Treaty.— At the Casino this evening— Thunder showers— The <persRef
+								ref="u">Austrian chargé des affairs</persRef> told me he heard I was
+							negociating a Treaty of commerce here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-10">
+					<head>10 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-10"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>10:</date> Copying some german papers to send to <persRef
+								ref="adams-thomas">my brother</persRef>. Called in the afternoon
+							upon <persRef ref="grenville-thomas">M<hi rend="superscript">r:</hi>
+								Grenville</persRef>, but could not see him— Walked in the park,
+							morning and evening.— At the Casino to read the french papers. home
+							early.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-11">
+					<head>11 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-11"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="262" type="ms"/>
+						<p><date>11. </date>I am this day thirty two years old.— Went at eleven
+							o’clock according to the notification which I received from the cabinet
+							Ministry, to <persRef ref="vonfinckenstein-karl">Count
+								Finkenstein’s</persRef> where I found the three Ministers assembled,
+							and <persRef ref="u">M<hi rend="superscript">r:</hi> Renfuer</persRef>, a
+							councillor in the department of foreign affairs.— The four copies of the
+							Treaty, two in English and two in French were ready, and we immediately
+							proceeded to exchange, full powers and then sign and seal <hi
+								rend="strikethrough">them</hi> the Treaty— I then took them all with
+							me home to examine them and ascertain their accuracy.— In the Evening I
+							carried back and left at Count Finkenstein’s the copies which are to
+							remain here— Went with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> to Charlottenburg, to
+								<persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+							Brown’s</persRef>; where we saw <persRef ref="vonbruhl-sophia">Countess
+								Brühl</persRef> and her daughters, <persRef ref="talbot-charles"
+								>Lord Talbot</persRef>, <persRef ref="arbuthnot-robert">M<hi
+									rend="superscript">r:</hi> Arbuthnot</persRef> &amp; <persRef ref="harris-james">M<hi rend="superscript"
+								>r:</hi> Harris</persRef>. Soon after we returned home M<hi rend="superscript"
+								>rs:</hi> Adams was taken extremely ill, and continued so the
+							greatest part of the night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-12">
+					<head>12 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-12"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date><persRef ref="adams-louisa-catherine">My wife</persRef>
+							is this day somewhat better; but very much fatigued by her illness and
+							loss of sleep last night. <persRef ref="brown-mary">M<hi rend="superscript"
+									>rs:</hi> Brown</persRef> called to see her— Walk under the lime
+							trees where I met and walked with <persRef ref="u">M<hi rend="superscript">r:</hi> Richard</persRef>. The
+							Weather warm and sultry— continue copying german for <persRef
+								ref="adams-thomas">my brother</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-13">
+					<head>13 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-13"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> better— Busy all day writing letters—
+							Packed up and sent away the two copies of the Treaty, for America, and
+							directed them to <persRef ref="pitcairn-joseph">M<hi rend="superscript">r:</hi>
+								Pitcairn’s</persRef> care at Hamburg. At the Casino before dinner
+							and in the Evening— Met <persRef ref="grenville-thomas">M<hi rend="superscript"
+									>r:</hi> Grenville</persRef>, <persRef ref="vankinckel-hendrik"
+								>Admiral Kinckel</persRef> and <persRef ref="garlike-benjamin">M<hi
+									rend="superscript">r:</hi> Garlike</persRef>— Saw <persRef
+								ref="engstrom-lars">M<hi rend="superscript">r:</hi> Engeström</persRef>,
+							&amp; <persRef ref="u">M<hi rend="superscript">r:</hi> Sartoris</persRef> at the
+							Casino, and afterwards <persRef ref="arbuthnot-robert">M<hi rend="superscript"
+									>r:</hi> Arbuthnot</persRef>, just as I was coming home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-14">
+					<head>14 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-14"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Begin to make preparations for our journey.— Writing
+							letters— In the evening at the Casino. Read Newspapers.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-15">
+					<head>15 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-15"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Court Life and Society (European)</subject>
+						<subject>American Revolution</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Very busily employed the whole day. Writing letters—
+							Evening at Bellevue.— <persRef ref="augustusferdinand">Prince
+								Ferdinand</persRef> asked me how the <persRef ref="george-iii">king
+								of England</persRef> looked when <persRef ref="adams-john">my
+								father</persRef> was first presented to him as American Minister. I
+							said he assured him of his friendship for the United States— “I should
+							not much trust in such assurances,” said he.— I said we could trust in
+							them as far as it was the king’s interest to observe them. “It was the
+							king’s caprice, said the Prince, and <persRef ref="north-frederick">Lord
+								North’s</persRef> which occasioned the American Revolution[”]— He
+							has said the same thing to me before— He hates most cordially the king
+							of England— I know not why— Played Casino, with the Prince; <persRef
+								ref="vonthulemeyer-friedrich">Baron de Thulemeyer</persRef> and
+								<persRef ref="lehndorff-ernst">Count Lehndorf</persRef>— <persRef
+								ref="radziwill-anton">Prince Radziwill</persRef> came in late; he
+							had been to the play.— The Prince kissed him—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-16">
+					<head>16 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-16"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Busy again writing letters, and preparing for our
+							journey. Sent a copy of the Treaty, to <persRef ref="pitcairn-joseph"
+									>M<hi rend="superscript">r:</hi> Pitcairn</persRef>. In the Evening was
+							about an hour at the Casino— Up late.— At <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Knoblauch’s</persRef>, and <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Schickler’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-17">
+					<head>17 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-17"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date><persRef ref="garlike-benjamin">M<hi rend="superscript">r:</hi>
+								Garlike</persRef> called upon me this forenoon, and enquired whether
+							I had lately signed a commercial Treaty here— I told him I had; and read
+							to him the articles that vary from the former Treaty.— At about 4 this
+							afternoon I set out with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>, <persRef
+								ref="whitcomb-elizabeth">Epps</persRef>, <persRef
+								ref="whitcomb-tilly">Whitcomb</persRef> and <persRef ref="andre"
+								>André</persRef>, from Berlin— We rode only three miles, to
+							Mittenwalde, where we arrived between 8 and 9 in the Evening, and lodged
+							at the Post-House. The soil of the country, through which we came, was
+							sandy, and poor; yet we saw a great deal of grain, chiefly Rye,
+							standing.— M<hi rend="superscript">rs:</hi> A. though somewhat unwell part of
+							the stage, bore the ride much better than I had expected.— The inns upon
+							these German roads are seldom good; they are not much travelled, and
+							when they are, the travellers generally go, night and day.— The Mistress
+							of the Post house seemed to study to appear still more disobliging than
+							she really was. She said it was impossible to give us more than one
+							room, or more than two beds. Mamselle she said, (meaning Epps) must
+							sleep in the same room with us, and lay upon straw— The <persRef
+								ref="vonbiron-dorothea">Duchess of Courland</persRef> had stopped at
+							the house, and made no difficulty to lay upon straw.— And she (the
+							post-mistress) could surely not take the beds of her own people in the
+							house, to accommodate us.— I desired her, by no means to give <pb
+								n="263" type="ms"/>herself any trouble, and told her we would suit
+							ourselves altogether with a single chamber and two beds— After which, of
+							her own accord she gave a second room, and another bed, with straw for
+							Epps.— The Postmaster enquired after the news, and talked politics,
+							which in these countries is uncommon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-18">
+					<head>18 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-18"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Somewhat before 7 this morning we left Mittenwalde, and
+							went a stage of 3 German miles to Baruth. We arrived just at noon. About
+							half way between the two, <persRef ref="adams-louisa-catherine"
+								>we</persRef> passed a bridge over a small ditch, with a column near
+							it, marking the boundary line between the Mark of Brandenburg, and the
+							electorate of Saxony.— At three we left Baruth, and after travelling one
+							stage of three miles more arrived at Lückau which is a small city. The
+							inn at Baruth was worse than the Post house at Mittenwalde; we could get
+							no vegetables; and the master of the house told us it was yet too early
+							either for pease or potatoes.— At Lückau we found no better fare, and
+							the beds were bad— We put up at a house in a large square, in the middle
+							of which was a church, where we soon heard the evening prayer sung by
+							some charity boys, accompanied by an organ— And afterwards a man blew an
+							horn, for about half an hour, uncommonly well.— The land has been this
+							day as indifferent as that which we traversed yesterday, and as much
+							covered with corn of various kinds.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-19">
+					<head>19 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-19"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>I had very little, or no sleep, and was continually
+							disturbed by the clock of the church in the square which struck every
+							quarter of an hour.— Between 5 and 6 <persRef
+								ref="adams-louisa-catherine">we</persRef> left Lückau, and went 2
+							miles to Sonnenwalde— Thence three miles to Elsterwerda, and thence two
+							miles to Grossen-Hayn.— About half way between Sonnenwalde and
+							Elsterwerda, we met <persRef ref="panin-nikita">Count Panin</persRef>,
+							returning from Carlsbad in great haste upon business to Berlin; he gave
+							us a formidable account of the last stage between Dresden and Teplitz.—
+							We arrived at Grossen-Hayn which is a small city, at about 8 in the
+							Evening, and stopped at a better Inn, than any that we have hitherto
+							found. As we advance into Saxony the soil grows better; though we have
+								<hi rend="strikethrough">hitherto</hi> found a great proportion of
+							sand through the principal part of this day too. The land is every where
+							as much cultivated as its nature will admit.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-20">
+					<head>20 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-20"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date>Slept very well, though in beds upon the floor, and
+							between sheets not altogether clean.— The beds at inns in Germany are
+							all extremely narrow, and very short; so that only one person can lye in
+							them, and he, not at full length. They use only an under sheet, and have
+							neither blankets nor coverlets— Their bed covering, is a light feather
+							bed, with a linen case, like a pillow-case drawn over it— Their pillows
+							have generally no case but a piece of linen, 18 inches or two feet
+							square sewed upon one side of the pillow, and therefore very seldom
+							washed.— We left Grossen Hayn at about 9 this morning, and after a ride
+							of four miles with a very good road we arrived at Dresden, just at 2.
+							o’clock, and stopped at the Hotel de Pologne.— The Country this day has
+							been very beautiful, and in high cultivation— There could not be a more
+							favourable time of the year to observe a land well tilled than the
+							present— Every spot of ground capable of producing any thing, all the
+							way from Berlin, is loaded with some harvest. Wheat, Rye, Oats, Barley,
+							Buckwheat, tobacco, cabbages, and potatoes, cover the ground in constant
+							reciprocal succession— There are likewise a few meadows, where are found
+							the people making the hay; a few pastures full of cattle, and some
+							spots, where there were flocks of sheep.— Perhaps a quarter part of the
+							way consisted of pine forests, producing absolutely nothing else— The
+							corn found in greatest quantity is rye.— In the afternoon I purchased a
+							description of Dresden in the french language, and walked a little round
+							the town, with <persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-21">
+					<head>21 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-21"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>Went with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> at 1. to <persRef
+								ref="errington-elizabeth">M<hi rend="superscript">rs:</hi>
+								Errington’s</persRef> lodgings— Left her and took a walk about the
+							town— The principal remarkable objects, are a very handsome bridge over
+							the Elbe, which separates the old from the new town of Dresden; the
+							Catholic Church, or electors chapel, communicating with the electoral
+							palace; the Zwinger a set of buildings <hi rend="strikethrough"
+								>with</hi> forming a square, which are in a bad taste of
+							Architecture; used to contain a museum, and for an Orangery, and several
+							churches.— It is a rule to cross the bridge always on the right <hi
+								rend="italic">hand</hi>
+							<pb n="264" type="ms"/>hand, of which I was reminded by a centinel— In a
+							square beyond the bridge is an equestrian statue of the elector <persRef
+								ref="augustus-ii">Augustus the second</persRef> in bronze, gilt— I
+							went into the church of the new City, where I found the religious
+							service performing.— We dined at <persRef ref="errington-george">M<hi
+									rend="superscript">r:</hi> Errington’s</persRef>— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Thomson</persRef>, a young Englishman was
+							there, and another by the name of <persRef ref="u">Wright</persRef> came
+							in, after dinner.— Walked with M<hi rend="superscript">rs:</hi> A. in the
+							Evening, before we came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-22">
+					<head>22 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-22"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Just after ten this morning, <persRef
+								ref="errington-george">M<hi rend="superscript">r:</hi> Errington</persRef>
+							called and went with me to the Gallery of pictures, where I spent a
+							couple of hours, in looking over them— It is one of the finest
+							collections in Europe; and requires to be more leisurely viewed— I went
+							afterwards with M<hi rend="superscript">r:</hi> Errington to the Ressource, an
+							establishment exactly similar to that of the Casino at Berlin; where I
+							read some newspapers— After dinner I went again with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> to the picture gallery. It is open from 9 A.M. to
+							noon and from 3. to 5. P.M.— There are numbers of artists there copying
+							various pieces; and among the rest <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Thomson</persRef> &amp; <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Wright</persRef> the two Englishmen whom we
+							met yesterday— At 5. we went to <persRef ref="errington-elizabeth">M<hi
+									rend="superscript">rs:</hi> Errington’s</persRef>, to tea, and staid
+							untill past 8. when we returned to our Hotel— I have no letters from
+							Berlin.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-23">
+					<head>23 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-23"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Received this morning a letter from <persRef
+								ref="welsh-thomas2">M<hi rend="superscript">r:</hi> Welsh</persRef>, with
+							enclosures from <persRef ref="murray-william2">M<hi rend="superscript">r:</hi>
+								Murray</persRef>, <persRef ref="pitcairn-joseph">M<hi rend="superscript"
+									>r:</hi> Pitcairne</persRef>, and the <persRef
+								ref="pickering-timothy">Secretary of State</persRef>— Delivered this
+							morning, at the Counting house of <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Gregory</persRef>, the banker, a letter of
+							recommendation which <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Schickler</persRef> gave me for him. Drew upon Amsterdam.— Wrote
+							several letters. <persRef ref="errington-elizabeth">M<hi rend="superscript"
+									>rs:</hi> Errington</persRef> dined with us— Called this
+							afternoon to see <persRef ref="vonzinzendorf-friedrich">Count
+								Zinzendorf</persRef>— Walked to the garden belonging to the elector
+							just beyond the gate— The garden is large and pretty— The palace in the
+							middle of it small but handsomely built— The sides are more elegant than
+							the front— Upon returning to our lodgings found <persRef ref="u">Madame
+								de Berg</persRef> and <persRef ref="deberg-louisa">her
+								daughter</persRef> with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>— <persRef
+								ref="errington-george;errington-elizabeth">M<hi rend="superscript">r:</hi>
+								&amp; M<hi rend="superscript">rs:</hi> Errington</persRef> took leave of
+							us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-24">
+					<head>24 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-24"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>At 4 this morning, <persRef ref="adams-louisa-catherine"
+								>we</persRef> left the Hotel de Pologne, which is an excellent inn.
+							The postmen are remarkably punctual here, and they require the same
+							punctuality on the part of travellers.— We past through the <persRef
+								ref="frederickaugustus-i">elector’s</persRef> Garden, and arrived in
+							two hours at Zehist, a stage of two German miles. The road is the best
+							we have had; the whole way from Berlin— From thence to Peterswalde,
+							which is only a stage of two miles, we were four hours and a half upon
+							the road, which was very hilly. Just before we reached Peterswalde, we
+							passed the boundaries between Saxony and Bohemia, and had our trunks
+							plumbed by the Austrian officer of the customs.— Soon after we met the
+								<persRef ref="u">Countess de Castell</persRef>, who was returning
+							from Töplitz to Berlin, by the way of Dresden, and who told us she had
+							this morning left the apartments engaged for us.— From Peterswalde to
+							Töplitz is a stage of three miles, which the descent of the Geyersberg,
+							a mountain very long, and very steep, renders extremely tedious, and too
+							dangerous, to remain in the carriage— Women are carried in armed chairs,
+							by two men, like Sedans— The rest of us walked. The descent I suppose to
+							be about three english miles long.— About two thirds of the way down,
+							are the ruins of an old castle— The view from the mountain is grand and
+							rugged, but you see no water. Töplitz is about three miles distant from
+							the bottom of the hill— We arrived, about a quarter of an hour before
+							seven in the evening, after a very fatiguing day.— We lodge at the sign
+							of the black horse, in a house belonging to a <persRef
+								ref="ambrosi-wenzel">Doctor Ambrose</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-25">
+					<head>25 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-25"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>As we were going out this forenoon to walk we met
+								<persRef ref="golovkin-gabriel">Count Golowkin</persRef>, who was
+							coming to see us.— He walked with us over <persRef ref="karljoseph"
+								>Prince Clary’s</persRef> garden which is spacious and handsome— At
+							2. we dined— After dinner, paid a visit to <persRef ref="u">Countess
+								Golowkin</persRef>, and afterwards to <persRef ref="u">Madame de
+								Marschall</persRef>, who lodges in the same house with us in the
+							chambers over us— At 5. we went to the tea-party which is given by
+							different persons every day, at the <pb n="265" type="ms"/>the hall in
+							the Prince’s house— It was this day given by a <persRef
+								ref="kolowrat-franz">Count</persRef> and <persRef
+								ref="dekollowrat-katerina">Countess de Kollowrat</persRef>, to whom
+							Count Golowkin and his lady, introduced us.— We were likewise here
+							presented to the <persRef ref="annafeodorovna">Grand Dutchess
+								Constantine of Russia</persRef>, and to <persRef
+								ref="franzfrederick">her father</persRef> and <persRef
+								ref="augustacarolinesophie">mother</persRef> the prince and princess
+							of Saxe-Coburg; and their <persRef ref="sophie;marieluise">unmarried
+								daughters</persRef>; likewise to <persRef ref="heinrich-xi">Prince
+								Reuss</persRef> the father of <persRef ref="heinrich-xiv">the late
+								Austrian Minister at Berlin</persRef>; and to several other
+							persons.— We found also some old acquaintances— <persRef ref="charles2">Prince
+								Charles of Nassau Weilburg</persRef>— <persRef ref="u">Madame de
+								Blumenthal</persRef> and her daughters, the <persRef ref="u"
+								>Chevalier de Villenotte</persRef>, <persRef ref="u">M<hi rend="superscript"
+									>lle:</hi> de Ruville</persRef> &amp;c.— We made a short stay,
+							and soon after tea was over, returned home— Saw <persRef
+								ref="ambrosi-wenzel">D<hi rend="superscript">r:</hi> Ambrozi</persRef>, and
+							consulted him respecting <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams’s</persRef> taking of the baths— She
+							is to begin the day after to-morrow— We took a walk again at the
+							beginning of the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-26">
+					<head>26 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-26"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+						<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Second anniversary of my marriage day.— We took a walk
+							before breakfast upon the hill which overlooks the town, and enjoyed a
+							variety of fine prospects.— Walked again after breakfast— At the
+							tea-party, which was this day given by <persRef ref="u">Madame de
+								Melnitz</persRef> a Saxon Lady— Went afterwards to the play, and saw
+							a Comedy of <persRef ref="schroder-friedrich">Schröder</persRef>
+							entitled “the Ensign”— The author appears to be an imitator of <persRef
+								ref="kotzebue-august">Kotzebue</persRef>.— The two billets;
+							translated from Florian, was likewise performed by children— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> did not go out, this afternoon; owing to the weather
+							which was cold and rainy— The <persRef ref="u">Chevalier de
+								Villenotte</persRef>, told me, he had seen me at <persRef ref="u"
+								>Artauds</persRef> at Petersburg in the year 1782. I had altogether
+							forgotten it— Poor Artaud, died it seems in 1784. of a fever, caught at
+							Peterhoff, at the annual festival there, upon S<hi rend="superscript">t:</hi>
+							John’s day, in June.— His woman then returned to Dunkirk, and afterwards
+							went back to Petersbourg, where she was taken by a Venitian minister;
+							who upon being removed to Constantinople, carried her with him; since
+							which Villenotte has heard nothing of her.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-27">
+					<head>27 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-27"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> bathed this morning for the first
+							time— Was much fatigued by it— Walked two or three times, in the
+							forenoon.— Received letters from Berlin, Hamburg, the Hague, and
+							America.— At the tea party this afternoon about half an hour. These
+							parties, are dull and tedious; and are made quite uncomfortable by the
+							presence of the <persRef ref="annafeodorovna">Grand Dutchess</persRef>,
+							and the other Princes.— Went again to the play; which was the Chess
+							machine: a translation from the English, attempting at humour, but with
+							little success.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-28">
+					<head>28 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-28"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>Walked again before breakfast; and after it went to
+							Church, to hear mass performed— The music was very good, but the church
+							so full that we could get no seats: numbers of people remained in the
+							church yard, during the service, the inside being so crowded that they
+							could not get in.— After dinner <persRef ref="adams-louisa-catherine"
+								>we</persRef> walked again in the garden— Were a few minutes at the
+							tea-party given this day by <persRef ref="golovkin-gabriel">Count
+								Golowkin</persRef>, and afterwards at the play; an Opera called the
+							mirror of Arcadia; tolerably well performed; though most of the singers
+							were indifferent.— The two principal characters were very good.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-29">
+					<head>29 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-29"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> bathed for the second time— We walked
+							as usual both before and after breakfast. After dinner <persRef
+								ref="golovkin-gabriel;u">Count and Countess Golowkin</persRef> paid
+							us a visit— We attended the tea-party, which was given by the <persRef
+								ref="annafeodorovna">Grand Dutchess</persRef>.— We walked again in
+							the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-30">
+					<head>30 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-30"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>Walked as usual early this morning with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, and afterwards, before dinner alone.— In the
+							afternoon <persRef ref="karljoseph">Prince Clary</persRef>, instead of
+							giving his tea-party at the hall, took the whole company to Dopperlburg,
+							a park belonging to him, about three english miles from town— The ride
+							was very agreeable, and the views of the mountains around varied, and
+							pleasing.— The tea and other refreshments were given in a small summer
+							house in the chinese style; from which we could look into the park, and
+							see the numerous deer as they ranged along. Most of the company likewise
+							took a walk in the park.— We returned, between 7 and 8 in the evening.
+							Part of the company went to the play— We came home.— The weather was
+							cold, and uncomfortable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-31">
+					<head>31 July 1799</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07-31"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb n="266" type="ms"/>
+						<p><date>31. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> bathed— Finished reading <persRef
+								ref="wieland-christoph">Wieland’s</persRef> Don Sylvio of Rosalva,
+							and began his Agathon— The tea party was given by the <persRef
+								ref="dewerthern-christiane">Countess de Werthern</persRef>— A
+							concert at the hall to which I did not stay. M<hi rend="superscript">rs:</hi>
+							Adams being not altogether well, did not go to the hall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1799-07-xx">
+					<head>Day</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1799-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise between 6 and 7. breakfast
+							immediately and walk an hour with <persRef ref="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef>. Return, dress, and
+							read or write untill about noon— Walk another hour— Dine at one— Read
+							after dinner untill 5. then go to the tea-party at the Hall. Stay there
+							about an hour.— Go to the play, or return home, and take another hour’s
+							walk— Sup at nine, and retire to bed at ten.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

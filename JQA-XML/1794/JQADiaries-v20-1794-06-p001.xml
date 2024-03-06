@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v20-1794-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="1"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v20-1794-07-p002.xml" mhs:volume="20">
+				<bibl n="metadata"><date from="1794-06-03" to="1794-06-30"/></bibl>
+
+				<!--DJQA 1794-06 DJQA20  -->
+				<!-- NB: need to code the metadata with the correct date when JQA does not provide -
+					check with Bill -->
+				<div type="entry" xml:id="jqadiaries-v20-1794-06-03">
+					<head>3 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="1"/>
+						<p>On the 3<hi rend="superscript">d:</hi> day of June 1794. When I returned to my
+							lodgings at the close of Evening; upon opening a Letter from <persRef
+								ref="adams-john">my father</persRef> which I had just before taken
+							from the post-office I found it contained information that <persRef
+								ref="randolph-edmund">Edmund Randolph</persRef>, Secretary of State
+							of the United States had on the morning of the day, when the Letter was
+							dated called on the writer and told him that the <persRef
+								ref="washington-george">President</persRef> of the United States had
+							determined to nominate me to go to the Hague as Resident Minister from
+							the United States.— This intelligence was to me very unexpected and
+							indeed surprizing. I had laid down as a principle that I never would
+							solicit for any public office whatever, and from this determination no
+							necessity has hitherto compelled me to swerve. From the principles of
+							the same nature which my father has always rigidly observed, I knew that
+							no influence nor even a request of any kind from him could have
+							occasioned this intention of the President. And yet I was very sensible,
+							that neither my years, my experience my reputation nor my talents could
+							entitle me to an office of so much respectability. It is however of no
+							service to indulge conjecture upon the subject—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1794-06-05">
+					<head>5 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p>On the 5<hi rend="superscript">th:</hi> day of June 1794. I received further
+							Letters from my father, informing me, that the nomination had been made;
+							and had received the advice and consent of the Senate without a
+							dissenting voice.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1794-06-10">
+					<head>10 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p>On the Sunday following the eighth of June my father arrived at Quincy
+							from Philadelphia, and on <pb n="2" type="ms"/>Tuesday the tenth of
+							June, I went from Boston to Quincy to see him. I found that my
+							nomination had been as unexpected to him as to myself, and that he had
+							never uttered a word upon which a wish on his part could be presumed,
+							that a public office should be conferred upon me. His opinion upon the
+							subject agrees with my own; but his satisfaction at the appointment is
+							much greater than mine.</p>
+						<p>I wish I could have been consulted before it was irrevocably made. I
+							rather wish it had not been made at-all. My friends on the other hand
+							appear to be very much pleased with it, and seem to consider it as a
+							subject of pure and simple congratulation. </p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1794-06-12">
+					<head>12 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p>On Thursday June 12<hi rend="superscript">th:</hi> 1794. I received a letter from
+							the Secretary of State giving me notice of my appointment, and
+							requesting me to go to Philadelphia.— from that time untill Monday the
+								30<hi rend="superscript">th:</hi> of June I was detained in Boston partly by
+							sickness and partly in arranging my affairs</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1794-06-30">
+					<head>30 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p>On Monday the 30<hi rend="superscript">th:</hi> day of June 1794. I left Boston
+							in the Stage at six in the morning, and arrived the same day in
+							Providence.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

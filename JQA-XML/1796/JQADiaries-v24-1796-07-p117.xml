@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1796-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="117"  mhs:precedingFile="JQADiaries-v24-1796-06-p111.xml" mhs:followingFile="JQADiaries-v24-1796-08-p127.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1796-07-01" to="1796-07-31"/></bibl>
+
+				<!-- D/JQA/24.583 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-01">
+					<head>1 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">July 1796.</hi></dateline>
+						<p><date>1. </date>My eye very much inflamed, but as yet my studious
+							resolution is inflexible.— Made out my account for the <persRef
+								ref="pickering-timothy">Secretary of State</persRef>, and sent it
+							off. Took my second lesson of Italian. The language I think is not
+							difficult to learn. Took a walk afterwards with <persRef ref="u"
+								>Bielfeld</persRef>. Rest of the day as usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-02">
+					<head>2 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>Received Letters from the <persRef ref="wolcott-oliver"
+								>Secretary of the Treasury</persRef> (duplicates) and one from
+								Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="condy-jeremiah">Condy</persRef> and C<hi rend="superscript"
+								>o:</hi> of Charlestown. Wrote part of a letter to the <persRef
+								ref="pickering-timothy">Secretary of State</persRef>. Met <persRef
+								ref="u">Bielfeld</persRef> walking in the wood. At the <pb n="118"
+								type="ms"/>play in the Evening. <hi rend="italic">Oberon king of the
+								Fairies</hi>. A German Opera compiled from a Poem of <persRef
+								ref="wieland-christoph">Wieland</persRef>. The second poem says
+							Bielfeld, in that language at least in reputation. <persRef
+								ref="klopstock-gottlieb">Klopstock’s</persRef> Messiah is the first.
+							The German Literature is highly interesting. If I can find time I must
+							learn the language. At present two upon my hands at once is sufficient.—
+							Met <persRef ref="u">Souque</persRef> there too. More of his literary
+							pretensions. Walk with Bielfeld in the Voorhout after the play.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-03">
+					<head>3 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>Third lesson of Italian. From the distribution of my time
+							I find myself now always in a hurry. I shall be under the necessity of
+							making some alteration.— Short walk before dinner. Long one in the
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-04">
+					<head>4 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Anniversary of Independence. <persRef ref="adams-thomas"
+								>My brother</persRef> in celebration of the day devoted it to
+							amusement.— I passed it as usual.— Called to see <persRef ref="u">Mll<hi
+									rend="superscript">e:</hi> Lorenzi</persRef> who was not at home—
+							Attended the debates in the National Assembly. Saw <persRef ref="u"
+								>Reuterswerd</persRef> there.— Drew up a Note to present to the
+								<persRef ref="hartog-paulus">President of the
+							Assembly</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-05">
+					<head>5 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Called this morning to see <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Van Leyden</persRef>, the Secretary of the
+							Committee of foreign Affairs, to enquire of him in what manner official
+							papers are to be addressed under the present Government. He said they
+							might be addressed to the <persRef ref="hartog-paulus">President of the
+								Assembly</persRef>, who as such is also President of the Committee,
+							and would lay the application before the one or the other according as
+							the subject should render it proper. Told him my object was to obtain
+							answers to two memorials, heretofore presented to the States General.
+							Upon that respecting the Wilmington Packet he said he had no
+							information. As to that concerning the appointment of Consuls, he
+							recollected that the memorial was taken ad Referendum by the States of
+							Holland. That he remembered an observation at the time was made by some
+							of the members that the Colonies could not be considered as a
+							constituent part of the Republic, and the article of the Treaty did not
+							therefore perhaps apply to them.— But he did not know whether this would
+							be the answer.— Mentioned his having seen me yesterday in the Gallery of
+							the Assembly.— Spoke of a report made some days ago by the <persRef
+								ref="lublink-jan">Representative Lüblin</persRef> upon the subject
+							of separating the affairs of the Church from those of the State. The
+							reporter is a man of literary reputation, and has translated <persRef
+								ref="young-edward">Young’s</persRef> night-thoughts into Dutch.— Van
+							Leyden, is a mild, pleasant; modest man.— Such men are much more
+							comfortable to treat with but very often not more easy, than harsher
+							characters.— Was to have taken a lesson of Italian at <persRef ref="u"
+								>Bielfeld’s</persRef> lodgings, but he has just changed, and I could
+							not find him out. As I was going out met <persRef ref="u">M: Du
+								Roure</persRef>, who was coming to see me. He called on me this
+							afternoon to enquire whether the Government of the United States had
+							taken any Official steps in behalf of <persRef ref="lafayette">M<hi
+									rend="superscript">r:</hi> De la Fayette</persRef>. told him that not
+							having had any communications from the Government on the subject I could
+							not say.— Walk in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-06">
+					<head>6 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>Went this morning, and presented a Note to the President
+							of the National Assembly. (<persRef ref="hartog-paulus"
+								>Hartogh</persRef>.) met in the antichamber an old acquaintance
+								<persRef ref="delyndenvanblitterswyck-dirk">M<hi rend="superscript">r:</hi>
+								Van Lynden</persRef>. Who is now Minister from this Republic to the
+							Court of Denmark. Accosted him, and mentioned my having formerly known
+							him. But he did not remember me. Enquired however after <persRef
+								ref="adams-john">my father</persRef>. They were diplomatic brethren
+							at London, from whence de Lynden was dismissed, after the Revolution of
+							1787. and has had a political resurrection since the last Revolution—
+							When I delivered my note to the President he told me that I should have
+							an answer as soon possible. Was received with great and formal civility.
+								<persRef ref="u">Bielfeld</persRef> called on me. Took a walk with
+							him, and afterwards at his lodgings took a lesson of Italian. Weather
+							rainy and cold the principal part of the day. Walk in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-07">
+					<head>7 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="119" type="ms"/>
+						<p><date>7. </date>Attended the debates in the National Assembly, a short
+							time. They soon adjourned. Heard an appel nominal, on a question which
+							excited the party spirit—on the first trial the votes were equal. On the
+							second the violent party had a majority of one vote.— Usual mixture of
+							reading &amp; writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-08">
+					<head>8 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Weather cold and rainy for many days past. Lesson of
+							Italian at <persRef ref="u">Bielfeld’s</persRef>
+							lodgings.— <persRef ref="bourne-sylvanus">M<hi rend="superscript">r</hi>
+								Bourne</persRef> writes <persRef ref="adams-thomas">my
+								brother</persRef> that he is informed <persRef ref="king-rufus">M<hi
+									rend="superscript">r:</hi> King</persRef> is appointed Minister to
+							Great-Britain, and <persRef ref="humphreys-david">Col<hi rend="superscript"
+									>l:</hi> Humphreys</persRef> to Spain, and that <persRef
+								ref="gore-christopher">M<hi rend="superscript">r:</hi> Gore</persRef> is
+							arrived in England.— Wrote a little. Finished this morning <persRef
+								ref="luzac-elie">Luzac’s</persRef> Richesse de la Hollande. If the
+							merit of any performance is proportioned to the tediousness of going
+							through it, I may be proud of having read this book through. The author
+							was among other things a bookseller, and his great object must have been
+							to make a great book of small materials. His information is a grain of
+							wheat in a bushel of chaff.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-09">
+					<head>9 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Began this morning the Traité General du Commerce by
+								<persRef ref="ricard-samuel">Ricard</persRef>. 2. Vol<hi rend="superscript"
+								>s:</hi> 4<hi rend="superscript">to:</hi> He begins with the Commerce of the
+							United Provinces, and is much more clear and satisfactory than <persRef
+								ref="luzac-elie">Luzac</persRef>.— Received a letter from <persRef
+								ref="adams-louisa-catherine">Louisa</persRef>. Set to answer it
+							immediately.— Visit from <persRef ref="fulton-samuel">M<hi rend="superscript"
+									>r:</hi> Thomas Fulton</persRef>, a North Carolinian, who came
+							from Philadelphia the 20<hi rend="superscript">th:</hi> of May. He arrived at
+							Hamburg, and goes on this Evening towards Paris.— Has dispatches and <hi
+								rend="italic">many</hi> private letters for <persRef
+								ref="monroe-james">M<hi rend="superscript">r:</hi> Monroe</persRef>. None
+							for me.— Confirms the news <persRef ref="bourne-sylvanus">M<hi
+									rend="superscript">r:</hi> Bourne</persRef> wrote <persRef
+								ref="adams-thomas">my brother</persRef>. Finished <persRef
+								ref="pitt-christopher">Pitt’s</persRef> Eneid this afternoon.
+								<persRef ref="johnson-samuel">D<hi rend="superscript">r:</hi>
+								Johnson’s</persRef> opinion of it in comparison with <persRef
+								ref="dryden-john">Dryden’s</persRef>, upon the whole is just. But it
+							is a Justice friendly to Dryden. He might have been rather more liberal
+							to Pitt without injustice.— At the German Play in the Evening. A new
+							Opera the Spiegelritter—or Knight of the Mirror. Duller than usual. I
+							did not even admire the music.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-10">
+					<head>10 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Packet of letters this morning under cover from <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson</persRef>
+							principally from America. 20<hi rend="superscript">th:</hi> of May: but very
+							little upon the public affairs. Lesson of Italian at <persRef ref="u"
+								>Bielfeld’s</persRef>. It bears very hard upon my time, and yet I
+							know not what part of my employment to give up.— <hi
+								rend="strikethrough">Finished</hi> Began upon <persRef
+								ref="rowe-nicholas">Rowe’s</persRef> translation of <persRef
+								ref="lucanus-marcus">Lucan’s</persRef> Pharsalia. I have heretofore
+							looked occasionally into the original, but never read it through. The
+							translation is altogether new to me.— Weather continues so cold and
+							rainy that I can scarce snatch a dry moment for walk. Employed part of
+							this Evening however to the purpose.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-11">
+					<head>11 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>French Revolution</subject>
+						<subject>Dueling</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>I enter this day upon my thirtieth year. The periodical
+							days of reflection are seldom satisfactory to me. The principal reproach
+							my conscience can make me for the last year, is too much time spent in
+							relaxation, perhaps lost. Let me strive to make a better improvement of
+							the next. My apology for the past must be the state of my health. Though
+							insufficient it is the best I have. The irresistible dissipation of
+							London is none. The weakness of the heart—is only a plea for mercy.—
+							Much more might have been done by me. Of positive wrongs I feel very
+							clear during the last year. None of its predecessors for a long time
+							have been so innocent. Yet none of them have been more exposed to
+							temptation.— Visit this morning from <persRef ref="u">Captain
+								Willard</persRef> and <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Lemonnier</persRef>. gave them Passports for Paris. Letter from
+								<persRef ref="sargent-daniel">D. Sargent</persRef>. June 7.— Letter
+							from <persRef ref="halbach-jean;halbach-gaspar">J. &amp; C.
+								Halbach</persRef>. more troubles of theirs. Called on <persRef
+								ref="noel-francois">M<hi rend="superscript">r:</hi> Noël</persRef>. He is
+							gone down to the Texel. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Mersen</persRef>. <pb n="120" type="ms"/>Finished reading the
+							Memoirs of <persRef ref="dumouriez-charles">Dumouriez</persRef> this
+							afternoon, and read some pages in those of <persRef
+								ref="garat-dominique">Garat</persRef>. The great characteristic
+							trait of Dumouriez is ambitious vanity. It is the common feature of
+							almost every eminent political character which the french Revolution has
+							produced. There appears about him great ability in the military line, a
+							great facility at repartee and address in conversation, but miserable
+							ignorance and folly upon the subject of Government. His style is rapid,
+							but not precise, his manner of relating, attractive in the highest
+							degree, but with a colouring to his own advantage, for which allowances
+							are to be made. He professes a great love for his Country and a strong
+							sense of humanity; but in both cases it is evidently the result of a
+							sentiment and not of a Principle. He loves his Country because the
+							People at times shew attachment to him. He detests proscriptions,
+							because he was proscribed, and indeed if you look through his book for a
+							moral principle as the guide of his actions, you will find abundant
+							proof that he had none. His first ambition is to be a monk, and six
+							months after he is willing to be any thing on earth but monk. He
+							attempts a suicide in the rage of a momentary obstacle in his love, and
+							repents just in time to save his life. He offers to serve the Genoese
+							against Corsica, and the Corsicans against Genoa. He forms a plan to
+							conquer Corsica by the breach of a Treaty, and quarrels with the
+							Minister who refuses to execute this plan. He declares his aversion upon
+							principle to duelling in relating an attempt to force a man to fight a
+							duel with him, which was prevented only by the base submission of his
+							antagonist. He relates every thing that happened to him at the Bastille,
+							and adds that on coming out of it he had a formal oath administered to
+							him never to reveal any thing that he had witnessed there; while to shew
+							that it is not <hi rend="italic">inconsistency</hi> with which he is
+							chargeable, he tells us that he considered the oath as a mere formality,
+							binding him to nothing. He affects a regard for <persRef ref="lafayette"
+								>La Fayette</persRef>, for <persRef ref="roland-marie"
+								>Rolland</persRef>, and for several others whom at the same time he
+							endeavours by every part of his narration concerning them to ruin in
+							reputation. In short there is scarce a page of his book but proves a
+							deficiency of principle, and an overruling vanity, in a mind very
+							vigorous and active.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-12">
+					<head>12 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>After the lesson of Italian, had but time to take one
+							turn in the Voorhout. Walk in the Evening. On my return home found
+							letters from <persRef ref="hall-joseph">Hall</persRef>, and from
+								<persRef ref="gore-christopher">M<hi rend="superscript">r:</hi>
+								Gore</persRef> with one likewise from America. and Newspapers and
+							reviews. Read only the letters however this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-13">
+					<head>13 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date><persRef ref="noel-francois">M<hi rend="superscript">r:</hi>
+								Noël</persRef> returned home last Evening. Called on him this
+							forenoon. <persRef ref="u">M<hi rend="superscript">r:</hi> Van Leyden</persRef>
+							was with him— Waited a short time. Conversation on the subject of a
+							Passport for the arms to be exported to America by the house of <persRef
+								ref="halbach-gaspar;halbach-jean">Halbach &amp; sons</persRef>. He
+							told me he would give one, but must have, the permission granted by the
+							States General and the account of the merchants or certified copies of
+							them to serve for his justification.— Walk this Evening in the Voorhout.
+							Weather very chilly and unpleasant, with rain.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-14">
+					<head>14 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>French Revolution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Sent <persRef ref="noel-francois">M<hi rend="superscript"
+									>r:</hi> Noël</persRef> his papers with a request for the
+							Passport, which he soon after accordingly sent me. Visit from <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Bonnechose</persRef> requesting a
+							certificate that he resides in America. He <pb n="121" type="ms"/>He
+							says he has been there 15 months and means to return there again, so
+							that there can be no question but that he resides there.— Told him I
+							could give him no such certificate; and felt almost indignant, that he
+							should ask one— Agreed to give him a certificate of what he declared,
+							adding that I believe it true. He thought that would not serve his turn
+							but I positively refused to give him any other, and he is therefore to
+							take that.</p>
+						<p>Not up this morning till after six. Find it difficult to settle the
+							precise moment of rising, with constant regularity.— Hurry myself too,
+							by undertaking too much.— Finished reading the Memoirs of <persRef
+								ref="garat-dominique"><hi rend="italic">Garat</hi></persRef>. A very
+							interesting thing, full of details concerning some of the individuals
+							and parties that have figured in the french Revolution.— This I think
+							completes my perusal of all the important publications by the actors of
+							those scenes, and Garat’s book is superior to all the others</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-15">
+					<head>15 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Rose before 5. to atone for yesterday’s deficiency.
+							Visit from <persRef ref="u">M<hi rend="superscript">r:</hi>
+							Bonnechose</persRef>, and gave him his certificate. Requested him
+							however not to make me any longer the vehicle of correspondence from
+							England, informing I should receive no more letters for <persRef
+								ref="mouchon-jean">M<hi rend="superscript">r:</hi> Mouchon</persRef>
+							American Merchant; he said those letters were not for him, but for one
+							of his friends whom he expected here shortly. I told him whoever they
+							were for I was not disposed to receive any more of them. Lesson of
+							Italian, and a short tour in the Voorhout. Long walk in the Evening.
+							Began reading <persRef ref="pratt-samuel">Pratt’s</persRef>
+							gleanings.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-16">
+					<head>16 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Not up again till a quarter after six. Begin to be
+							apprehensive for my perseverance in early rising. My whole arrangement
+							of business &amp;c affected by it for the day. Long Evening walk in the
+							Voorhout. <persRef ref="u">Reuterswerd</persRef> and <persRef ref="u"
+								>Bielfeld</persRef>. the latter much pleased with <persRef
+								ref="garat-dominique">Garat</persRef>. Another visit this forenoon
+							from <persRef ref="u">M<hi rend="superscript">r:</hi> Bonnechose</persRef>. It
+							seems he opens his friend <persRef ref="mouchon-jean"
+								>Mouchon’s</persRef> letters, and though he told me yesterday they
+							were not for him he did not hesitate to shew me one of them to day which
+							proved the contrary. I shall have as little to do with them as possible,
+							and with him too.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-17">
+					<head>17 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Up sometime before 5 again by way of atonement. Weather
+							at length has got to be tolerably moderate— Lesson of Italian and walk
+							in the Voorhout, with <persRef ref="u">Bielfeld</persRef>. <persRef
+								ref="adams-thomas">My brother</persRef> went with <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> M’Queen</persRef> to Delft. Long walk
+							in the Evening. Visit before dinner from <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Treat</persRef> who is going in a day or two
+							to England.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-18">
+					<head>18 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Up a second time before five; which completes my
+							expiation for the slight failure of Saturday. Visit this forenoon from
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Tuckerman</persRef>, who is
+							going to England. Has been waiting almost three weeks for a wind. My
+							writing hours too much appropriated to translations. I scarce write any
+							more than I did in England. Several letters remain unanswered— Walk
+							before dinner. Long one in the wood this Evening. Met <persRef ref="u"
+								>Bielfeld</persRef> in the Voorhout. Intended to have paid a visit.
+							Life become too sedentary.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-19">
+					<head>19 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Returned to my hour of rising, just before six. But with
+							readings and translations. Dutch and Italian the hours waste away.— Very
+							short letter to <persRef ref="monroe-james">M<hi rend="superscript">r:</hi>
+								Monroe</persRef>.— Lesson of Italian at <persRef ref="u"
+								>Bielfeld’s</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Levsen</persRef> called while we were at it.— Walk with them in the
+							wood.— Evening walk alone.</p>
+						<p><pb n="122" type="ms"/>Finished reading <persRef ref="rowe-nicholas"
+								>Rowe’s</persRef> translation of the Pharsalia. <persRef
+								ref="johnson-samuel">D<hi rend="superscript">r:</hi> Johnson</persRef> says
+							it is not esteemed so much as it is worth, and it will please more, the
+							better it is known. I have never read it before, and have been gratified
+							in the perusal. I have occasionally compared it with the original, and
+							find that the translator has added near an hundred lines at the end of
+							the tenth book to close the action. It is not an epic poem. Nor is it a
+							fair criticism to compare it with the Eneid. It has certainly much more
+							originality, and the characters are much more striking than those of
+								<persRef ref="virgil">Virgil</persRef>. The sentiment and language
+							are sometimes turgid and sometimes sublime. There is not much diversity
+							of incident; but after <persRef ref="homer">Homer</persRef> who can
+							undertake to invent? Virgil generally copies, but what <persRef
+								ref="lucanus-marcus">Lucan</persRef> gives is all his own. He has
+							more sentiment and philosophy, than is usual in Poems of such length.
+							Much more than Homer in the Odyssey. But his great delight seems to be
+							the description of things terrible. The cutting down of the sacred wood,
+							the troops in a vessel of <persRef ref="caesar-julius"
+								>Caesar’s</persRef> party, who by consent destroy one another to
+							avoid falling into the hands of the Enemy, the scene of Caesar embarking
+							in the night in a small barque, and the storm that he weathers in it;
+							the sorceress <persRef ref="erichtho">Erictho</persRef>, and her
+							incantations, the battle of Pharsalia, the Death of <persRef
+								ref="pompey">Pompey</persRef> and the march of <persRef
+								ref="catoyounger">Cato</persRef> through the Thessalian desarts with
+							the various venomous reptiles that infest his army, are all full of
+							horror, but many of them are disgusting. The author appears to have
+							wanted taste to select his incidents of description. The imagination
+							revolts from many of them, though all are striking. The Gods are treated
+							very cavalierly. In the very outset he charges them with taking the
+							wrong side in opposition to Cato. He afterwards says they never take
+							offence at any crimes but those of the unfortunate, and he more than
+							once apostrophises their injustice in suffering the crimes and success
+							of Caesar. The. heroes are painted larger than life. The daring ambition
+							of Caesar, the inflexible stoicism of Cato; and the declining greatness
+							of Pompey, are well contrasted. The Egyptian characters are not so well
+							drawn. <persRef ref="photinus">Photinus</persRef> is too bare-faced a
+							villain. His policy might have been attributed to him without a
+							departure from nature; but he should have been made more plausible.— On
+							the whole my opinion not only of the translator but of the author has
+							been raised by this perusal.— The address to <persRef ref="nero"
+								>Nero</persRef>, is more extravagant but not more fulsome, than that
+							of Virgil to <persRef ref="augustuscaesar">Augustus</persRef>, and must
+							have been more excusable at the time when it was doubtless written, that
+							is in the golden years of his reign. This is very evident from the
+							complection of the whole poem: for certainly Lucan would not have
+							ventured to publish the bold sentiments of Liberty that prevail in every
+							part of it during the tyrannical part of the monster’s government. It is
+							very probable however, that they cost the author his life. Though a mere
+							rivalship, for Poetical fame is only mentioned by the historians as the
+							cause from whence originated the conspiracy in which Lucan joined, and
+							for which he suffered.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-20">
+					<head>20 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="adams-thomas">My brother</persRef> went
+							this morning for Utrecht, where the fair still continues. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Du Roure</persRef> called on me in
+							the forenoon, at the request of <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Bonnechose</persRef>, to ask me whether I could not give him, a
+							stronger certificate as to his residence in America; told him I would
+							with <pb n="123" type="ms"/>pleasure if I could with propriety. It turns
+							out that Bonnechose really assumed the name of Mouchon, for his
+							particular purposes, and that when he told me the letters were not for
+							him, he said what was not true.— Began to read the translation of
+								<persRef ref="ovid">Ovid’s</persRef> Metamorphoses, as published by
+								<persRef ref="garth-samuel">Garth</persRef>. The first book is by
+								<persRef ref="dryden-john">Dryden</persRef>. He calls the Palace of
+							the Gods, the <hi rend="italic">Louvre</hi> of the sky. and tells of
+							Phaëton’s going to the <hi rend="italic">Levé</hi> of his father
+								<persRef ref="phoebus">Phoebus</persRef>; as <persRef
+								ref="rowe-nicholas">Rowe</persRef> in one of Cato’s speeches makes
+							him tell the soldiers they are fit only to pass as <hi rend="italic"
+								>heir-looms</hi> from <persRef ref="pompey">Pompey</persRef> to
+								<persRef ref="caesar-julius">Caesar</persRef>.— Such expressions
+							remind me of <persRef ref="antony-mark">Anthony’s</persRef> present to
+								<persRef ref="cleopatra">Cleopatra</persRef> of a tompion gold
+							watch, in <persRef ref="swift-jonathan">Swift</persRef>.— These
+							Metamorphoses cannot well be included in my original plan of reading <hi
+								rend="italic">Epic</hi> Poets; but the variation will not be
+							important and may serve to afford the relaxation of variety.— Began too
+							this morning to read <persRef ref="tasso-torquato">Tasso’s</persRef>
+							Jerusalem in the original, but I shall make very slow progress in that.—
+							My two walks as usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-21">
+					<head>21 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="whitcomb-tilly">Whitcomb</persRef>
+							extremely ill, and still more frightened in the night. Better this day.—
+							Rather unwell myself. Walk with <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Levsen</persRef>, whom I met just as I was going out. An hour this
+							Evening at <persRef ref="dumas-charles">M<hi rend="superscript">r:</hi>
+								Dumas’s</persRef>. The old gentleman disposes of the Cape of Good
+							Hope, as the huntsman did of the bear’s skin before he had got the
+							beast.— As I <hi rend="italic">must</hi> sacrifice some of my
+							occupations, I write and perform my Italian exercises now before
+							breakfast, leaving my <hi rend="italic">morning reading</hi> to the
+							chance of leisure before dinner.— I fear it will be little, while I
+							spend so much time upon two languages at once.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-22">
+					<head>22 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Lesson of Italian at <persRef ref="u"
+								>Bielfeld’s</persRef>. We read a few stanza’s of <persRef
+								ref="tasso-torquato">Tasso’s</persRef> Jerusalem, and are charmd
+							with the sweetness of the language. The invocation to the Muse is very
+							beautiful, and has been imitated by <persRef ref="milton-john"
+								>Milton</persRef> and by <persRef ref="voltaire-francois"
+								>Voltaire</persRef>.— Walk and literary conversation as usual in the
+							wood. Find myself easier for the change of reading to writing in the
+							morning before breakfast. But how rapidly time well employed flies
+							away.— The second and third books of <persRef ref="garth-samuel"
+								>Garth’s</persRef> Ovid are translated by <persRef
+								ref="addison-joseph">Addison</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-23">
+					<head>23 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Received at length from <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Moliere</persRef>, the money I had lent <persRef
+								ref="pillet-rene">M<hi rend="superscript">r:</hi> Pillet</persRef>. The
+							payment has hitherto been delayed by a mistake, or rather by a want of
+							accuracy in arrangement, which was not sufficiently attended to at
+							first. All is well however at present. Visit this afternoon from
+								<persRef ref="dumas-charles">M<hi rend="superscript">r:</hi>
+							Dumas</persRef>. He appears to be more accommodating than usual and was
+							so the last time I saw him likewise. Walk in the evening. Overtaken by
+								<persRef ref="u">Bielfeld</persRef>. Met <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Levsen</persRef>, who told us of an English
+							fleet to be seen at Scheveling.— We went there, and saw nothing. Indeed
+							it was too dark; if there was any thing really to be seen.— Walk very
+							pleasant.— The fourth book of the Metamorphoses translated by <persRef
+								ref="eusden-laurence">Eusden</persRef>, except the story of Salmacis
+							and Hermaphroditus which is by <persRef ref="addison-joseph"
+								>Addison</persRef>. Has nothing remarkable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-24">
+					<head>24 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Up at half past six. Owing perhaps to my Scheveling
+							walk.— Lesson of Italian at <persRef ref="u">Bielfeld’s</persRef> at
+							eleven, to accommodate him.— Walk alone—rainy. <persRef
+								ref="adams-thomas">My brother</persRef> returned this evening from
+							Utrecht.— 5<hi rend="superscript">th:</hi> book of the Metamorphoses, translated
+							by <persRef ref="maynwaring-arthur">Arthur Maynwaring</persRef>. Very
+							indifferent. What sort of an heroic verse is</p>
+						<lg>
+							<l>“Near Styx, Proserpina there I espy’d.”?</l>
+						</lg>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-25">
+					<head>25 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="124" type="ms"/>
+						<p><date>25. </date>Visit this morning from <persRef ref="rutgers-henry"
+									>M<hi rend="superscript">r:</hi> Rutgers</persRef> of New-York, who
+							brought me a letter from my brother <persRef ref="adams-charles"
+								>Charles</persRef>, and a <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Roers</persRef>. They went on immediately to Rotterdam, and are
+							going to England. Gave me a New-York paper of June 15. Rutgers says
+							there was some misunderstanding about the delivery of the Western
+							Posts.— I have for some days past changed my morning reading to writing.
+							I perform of course more writing but the reading suffers from it— Looked
+							at the life of <persRef ref="agricola">Agricola</persRef>.— <persRef
+								ref="u">Reudorp’s</persRef> Memoirs. <persRef ref="tasso-torquato"
+								>Tasso’s</persRef> Jerusalem.— And letters—and poetic reading, and
+							miscellaneous reading.— My occupations are surely <hi rend="italic"
+								>numerous</hi> enough.— 6<hi rend="superscript">th:</hi> Book of the
+							Metamorphoses translated by <persRef ref="croxall-samuel"
+								>Croxall</persRef>. Much more harmonious than that of yesterday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-26">
+					<head>26 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Letter this morning to <persRef ref="gore-christopher"
+									>M<hi rend="superscript">r:</hi> Gore</persRef> &amp;c. Lesson of
+							Italian at my lodgings. Began upon translating <hi rend="italic"
+								>into</hi> that Language. Poor work of course.— Person brought me
+							letter from <persRef ref="cathalan-stephen">M<hi rend="superscript">r:</hi>
+								Cathalan</persRef> the V Consul of the U. States at Marseilles,
+							recommending to me a couple of Algerines. My two walks. Met <persRef
+								ref="u">M<hi rend="superscript">r.</hi> Levsen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-27">
+					<head>27 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Macqueen</persRef> (for so he spells his name to shew that he is not
+							a Scotsman). was here. Went with him to look at the <persRef
+								ref="waldred-john">Count de Walderen’s</persRef> furniture; to be
+							sold next week. Does not suit me. My walks solitary. Do not meet
+								<persRef ref="u">Bielfeld</persRef> so often as formerly.— Finished
+								<persRef ref="pratt-samuel">Pratt’s</persRef> Gleanings, and his
+							Poem of <hi rend="italic">Humanity</hi>. The book is so large (3 Octavo
+							Volumes) and contains so little that it put me out of humour several
+							times. The perpetual repetition of the figure contained in his title is
+							disgusting, and he should call himself a <hi rend="italic">romantic
+							</hi>rather than a <hi rend="italic">residentiary</hi> traveller. He
+							should have remembered that the barn of a gleaner should be proportioned
+							to his character and employment. He appears ambitious to be thought an
+							imitator of Yorick, and some of his sensibilities are not uninteresting.
+							He must be content however in this walk with a station much below that
+							of his master.— His accounts from Holland, whenever they relate to the
+							Government of the Country are very inaccurate. He is right only in the
+							most superficial details, which to be sure every traveller in this
+							Country sees, but which very few travellers think it worth while to
+							record. He frequently calls these Provinces the United States and talks
+							of the <persRef ref="wiliam-v">Prince of Orange’s</persRef> subjects.
+							What can be the constitutional <hi rend="strikethrough">language</hi>
+							knowledge of a man who knows no better than to use these expressions <hi
+								rend="italic">here</hi>? it must be very small, and accordingly M<hi
+								rend="superscript">r:</hi> Pratt discovers his ignorance in every page that
+							he writes on this point.— His liberality is indeed laudable, not only as
+							it is extraordinary for an Englishman, but as I think it in a great
+							degree <hi rend="strikethrough">Dutch</hi> just. He carries it perhaps
+							too far.— The Dutch are far from being the unfeeling People, which the
+							arrogance and levity of travellers among them have represented; but
+							neither are they the people of refined sensibility which M<hi rend="superscript"
+								>r:</hi> Pratt seems disposed to allow them.— In spite of all he
+							says I cannot reconcile myself to their language. It is founded neither
+							on sentiment nor on science. It differs indeed very little from the
+							English, but that difference is wholly to its disadvantage. The English
+							have been for several centuries continually softening the teutonic
+							gutturals and aspirates; they have been continually introducing french
+							and Italian, as well as Roman and Greek derivatives. <pb n="125"
+								type="ms"/>The Excessive harshness of the Teutonic original language
+							has been in some measure corrected by these practices. In the dutch <hi
+								rend="italic">classical </hi>language it subsists in all its
+							horrors. Pratt observes that in the mouth of a pretty woman the Dutch
+							often assumes a tone far from unpleasant. But he does not observe, what
+							is in fact the case, that the pretty Dutch women, even in speaking their
+							own language, use a <hi rend="italic">vast number</hi> of words <hi
+								rend="italic">merely french</hi>, which the custom of female
+							conversation has sanctioned among them, and has extended through all
+							ranks of the sex, but which are seldom or ever used by the men, and are
+							not to be found in any of the dictionaries or books of the language.
+							Almost all the terms which naturally recur most frequently in common
+							female discourse, are of this description, and enjoy this species of <hi
+								rend="italic">denization</hi> from the french into the Dutch
+							language. This Author’s politics are like his other qualities
+							superficial and momentary; and some of his opinions were refuted by
+							Events before his book was published. Why burden the world with them?— I
+							suppose after the trouble of writing, he could not afford to sacrifice
+							them. A book must be made—and when the quantity was provided there was
+							no haggling for the quality. The poem of Humanity, is in smooth verse,
+							but contains only common place ideas.— Pratt is not an <hi rend="italic"
+								>original thinker</hi>; but how few of these does the world
+							produce.— It has a much greater defect. It is in two books; contains
+							near two thousand verses and has no plan. It is altogether desultory
+							slips alternately from one topic to another, and resumes the same again
+							after having once taken it up.— It is likewise feeble, and deficient in
+							the poetical fire the first and most essential characteristic of poetry.
+							Those who can be satisfied with the well-tuned bells of rhyme, and the
+							hot bed flowers of expression may read it with pleasure.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-28">
+					<head>28 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>One of my eyes again very much inflamed. My Patience and
+							my perseverance in the application upon which I have resolved, has no
+							severer trial than this.— A physical incapacity makes resolution itself
+							despair. And this is the third time that the affliction has renewed its
+							visit, since I began upon the execution of my present plan. It has not
+							yet affected it.— At the Dutch Play this Evening, where were performed
+								<hi rend="italic">Zoë</hi>, a translation from <persRef
+								ref="mercier-louis">Mercier</persRef>, a tragicomedy. &amp; Eliza
+							van Wallenthorst an original Dutch Farce, dull as the lakes that slumber
+							in the storm. The Zoë is interesting, and, pathetic but unnatural. The
+							moral is revolutionary, attacking the prejudices of aristocracy and the
+							church. It holds up to horror the prejudice of attachment to rank, and
+							the practice of shutting up women in a cloister. For this purpose all
+							the licence of poetry and all the licentiousness of politics are used
+							and abused, to produce a father such as the world never saw, for
+							cruelty, a son and daughter equally distinguished for submission, and a
+							catastrophe in which the father fires one pistol at his daughter’s
+							lover, then deliberates for some time whether he shall fire another at
+							him, or repent his former conduct and give his daughter away with a good
+							grace, concludes upon the latter.— The performance was good <persRef
+								ref="u">Bingley</persRef> as the father and <persRef
+								ref="wattier-johanna">Mademoiselle Wattier</persRef> as Zoë, were
+							really interesting. But <persRef ref="pratt-samuel">M<hi rend="superscript"
+									>r:</hi> Pratt</persRef> in his gleanings is more than liberal
+							to this Lady, when he places her upon a level with <persRef
+								ref="siddons-sarah">M<hi rend="superscript">rs:</hi> Siddons</persRef>, and
+							he must have been as superficial a judge of the powers possess’d by M<hi
+								rend="superscript">rs:</hi> Siddons, as he appears to be of most other
+							things to make the comparison.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-29">
+					<head>29 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="126" type="ms"/>
+						<p><date>29. </date>Visit this morning from a <persRef
+								ref="vanheveren-myndert">M<hi rend="superscript">r:</hi> Myndert van
+								Heveren</persRef> a native of New-York as he says all his ancestors
+							to the great-grandfather have been, though he has such a dutchified
+							name, that they sometimes take him for a counter-revolutionary. He came
+							from England about a week ago. And wanted <hi rend="strikethrough">to
+								return</hi> a passport to return. Went to introduce him into the
+							Gallery of the Assembly, with a companion he had with him— <persRef
+								ref="kempenaar-ludovicus">M<hi rend="superscript">r:</hi>
+								Kempenaer</persRef> is President. Debate not important.— Lesson of
+							Italian. Walk afterwards with <persRef ref="u"
+								>Bielfeld</persRef> in the wood. Visit again in the afternoon from
+								<persRef ref="pillet-rene">M<hi rend="superscript">r:</hi> Pillet</persRef>.
+							Evening to see <persRef ref="dumas-marie">Madam Dumas</persRef>. Gave
+								<persRef ref="dumas-charles">her husband</persRef> the Spanish and
+							English Treaties urging to him strongly that there is nothing against
+							the interest of France in the latter. He promised to make use of the
+							argument.— Excused myself from a party at <persRef ref="u"
+								>Mademoiselle Laurenzy’s</persRef>, from the state of my eyes which
+							is bad— <persRef ref="adams-thomas">My brother</persRef> went.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-30">
+					<head>30 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Visit again this forenoon from <persRef ref="pillet-rene">M<hi rend="superscript">r:</hi>
+							Pillet</persRef>. Who is going on to Paris.— Finished reading the Traité General
+							de Commerce, a work from which I have derived some information. The
+							second volume consists indeed principally of tables to be consulted
+							occasionally, and over which I pass’d therefore in a cursory manner. The
+							first contains an ample account of the Commerce of this Country to which
+							of course my principal attention was paid.— Began reading the Lettres
+							familieres et autres du <persRef ref="bielefeld-jakob">Baron de
+								Bielfeld</persRef>; the father of <persRef ref="u">my
+								friend</persRef> and fellow-student of Italian. find it amusing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-31">
+					<head>31 July 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07-31"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Curious letter this morning from <persRef
+								ref="edwards-enoch">D<hi rend="superscript">r:</hi> Edwards</persRef>, and
+							one from <persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef>— Visit this forenoon from <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Skinner</persRef>, with another Gentleman
+							from Boston. from <persRef ref="schermerhorn-ryer">M<hi rend="superscript"
+									>r:</hi> Schermerhorn</persRef>. In the afternoon from <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Heshuysen</persRef> for a Passport.
+							Lesson of Italian, and walk with <persRef ref="u">Bielfeld</persRef> in
+							the wood.— These various avocations took almost the whole day from me.—
+							I can never have a positive disposal of my time from half past eight in
+							the morning. The preceding hours are on this account extremely
+							valuable.— Weather very warm and feverish; it dissipates the animal
+							spirits so as to take away the power of application.— <persRef
+								ref="leclerc-george">Buffon</persRef> was of opinion that <hi
+								rend="italic">Genius</hi> might be resolved into <hi rend="italic"
+								>Patience</hi>.— If this idea be just I have very little genius in
+							warm weather; especially in the sultry warmth of the dutch atmosphere.
+							Began this morning upon <persRef ref="kerroux-louis">Kerroux</persRef>.
+							Abregé de L’Histoire de la Hollande; but read only a very few pages in
+							it.— Walk in the Voorhout in the Evening. Met Bielfeld, with a German <hi rend="italic">Author</hi>;
+							and <persRef ref="u">M<hi rend="superscript">r:</hi> Levsen</persRef>. Walk’d
+							sometime with the latter. I had enquired of him whether any application
+							had been made by the friends of <persRef ref="lafayette">M. La
+								Fayette</persRef> to the Danish Court, to request its interference
+							to obtain his liberation. He then told me he believed not. This Evening
+							he told me he had written to the <persRef ref="bernstorff-christian"
+								>Comte de Bernstorff</persRef> on the subject, and could now answer
+							me for certain they had not. He could further add that La Fayette was
+							now detained by the <persRef ref="francis-i">Empero</persRef>r as a
+							prisoner of the <persRef ref="frederick-william-ii">king of
+								Prussia</persRef>, and was kept under a promise made to him. That
+							the Emigrants were at the bottom and his liberty could probably be
+							obtained only by application from the king of Prussia, who would make it
+							whenever the <hi rend="italic">french</hi> Government may desire it. But
+							that no other application would probably be successful. This short
+							conversation of Levsen suggests many reflections to me and will deserve
+							further meditation.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-07-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="127" type="ms"/>
+						<p><date><hi rend="italic">Day. July 1796</hi>.</date> Rise at half past
+							five, and set myself to reading or writing at six. continue till half
+							past nine, when I go to breakfast. from thence till eleven read
+							newspapers, and English Monthly or critical Reviews, and dress. from
+							eleven till one, translate from the Dutch or Italian, or attend to
+							visitors upon business or of complaisance. from one till half past two
+							taking my Italian lesson at <persRef ref="u">Bielfeld’s</persRef>
+							lodgings and my own alternately by weeks.— The days when we do not take
+							a lesson, these hours are passed like the two immediately preceding.
+							From half past two, one hour’s walk. from half past three to five, at
+							dinner, and a little conversation after it. from five till dark, reading
+							for amusement, a book of heroic English verse, and some miscellaneous
+							prose. Another hour’s walk in the Evening. Supper at ten; bed at eleven.
+							This course throughout the month has been regular with scarce a single
+							exception. The greatest variation has been from the reading to writing
+							in the morning before breakfast; and perhaps the present excess is that
+							of writing too much, and reading not enough of the books of knowledge
+							and importance.</p>
+						<p>The reading of the month has carried me through <persRef ref="luzac-elie"
+								>Luzac’s</persRef> Richesse de la Hollande, and the Traité General
+							de Commerce; the latter as mentioned on the day when I finished it. The
+							life of <persRef ref="dumouriez-charles">Dumouriéz</persRef>. <persRef
+								ref="garat-dominique">Garat’s</persRef> Memoires, and <persRef
+								ref="pratt-samuel">Pratt’s</persRef> gleanings. Of all these books I
+							have made mention and some slight observation at the time of finishing;
+							and also of <persRef ref="pitt-christopher">Pitt’s</persRef> translation of the Eneid, <persRef
+								ref="rowe-nicholas">Rowe’s</persRef> Lucan, which I have gone
+							through, and <persRef ref="garth-samuel">Garth’s</persRef> compilation
+							of the Metamorphoses which I have not yet finished. To improve in the
+							Dutch language I have usually translated a page every day and after
+							going thus through the Constitution of the National Assembly which is
+							now in session, I took the Introduction to <persRef ref="u"
+								>Reudorp’s</persRef> Memoirs. I shall give the preference to all
+							interesting state papers, because I send the translations to the
+								<persRef ref="pickering-timothy">Secretary of State</persRef>, and
+							thus answer two good purposes at once.— My progress in Italian is slow,
+							and I can only translate two or three Stanza’s of <persRef
+								ref="tasso-torquato">Tasso</persRef> at a time. the language itself
+							is enchanting, but with no opportunity to speak or hear it spoken my
+							advances are very small, and with my other occupations I may perhaps
+							grow tired of that.— To keep alive my latin, I have begun to translate a
+							page of <persRef ref="tacitus">Tacitus</persRef> every day, and am going
+							through the life of <persRef ref="agricola">Agricola</persRef>, which in
+							the year 1784. at this place I translated into french. I find this
+							author still new, and a special application to his writings will I hope
+							be useful to me on several accounts. His language, his wisdom, his
+							style, his method, all afford subject for meditation and improvement.
+							This is not the part of my time the worst employed.— My other writing is
+							principally confined to writing and answering letters, or to this
+							journal. The time for original composition has not yet come; I know not
+							whether it ever will. I shall probably never have a time so favorable
+							for it as the present.— But I have no <hi rend="italic">subject</hi>,
+							and am far from being yet satisfied with my style.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

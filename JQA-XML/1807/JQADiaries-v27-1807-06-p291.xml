@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1807-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="291"
+				mhs:precedingFile="JQADiaries-v27-1807-05-p287.xml"
+				mhs:followingFile="JQADiaries-v27-1807-07-p296.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1807-06-01" to="1807-06-30"/></bibl>
+
+				<!--D/JQA/27.1896-->
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-01">
+					<head>1 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">June 1807.</hi></dateline>
+						<p><date>1. </date>Artillery-Election day. I took my son <persRef
+								key="adams-george">George</persRef> with me to see the Procession,
+							and to hear part of the Sermon, which was delivered by <persRef
+								ref="baldwin-thomas">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef>— And again towards Evening I went with him on the
+							Common, where the crowd was great. But the usual ceremonies were
+							performed in Faneuil-Hall, the weather preventing the exhibition in open
+							air. Though invited, I did not dine at the Hall— My principal object in
+							declining was to save time; for which I am now very much press’d—
+								<persRef key="adams-thomas">My brother</persRef> dined with us—
+								<persRef ref="smith-john">John Smith</persRef> went with him this
+							afternoon to Quincy— <persRef key="smith-abigail">My Sister</persRef>
+							and <persRef key="adams-louisa-catherine">wife</persRef> are both unwell
+							with severe cold’s— M<hi rend="superscript">rs:</hi> A’s cough has
+							returned with violence, and is again very troublesome in the night— I
+							wrote however more than usual this day, upon my lecture.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-02">
+					<head>2 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>I attended a short time this morning in the Circuit Court
+							of the Unites States, which commenced its Session here, yesterday— It is
+							held by <persRef ref="davis-john">Judge Davis</persRef> alone—<persRef
+								ref="cushing-william">Judge Cushing</persRef> being from ill health
+							unable to attend— <persRef ref="smith-john">John Smith</persRef>, and
+								<persRef key="adams-thomas">my brother</persRef> came into town
+							early this morning— <persRef key="adams-george">George</persRef>
+							returned to School at <persRef ref="webb-rufus">M<hi rend="superscript"
+									>r:</hi> Webb’s</persRef> the vacation having closed— I did not
+							this day neglect my writing— Walk’d this Evening in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-03">
+					<head>3 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="292" type="ms"/>
+						<p><date>3. </date>After spending the day principally writing in my chamber,
+							I walk’d in the Mall this Evening— It was the day of the weekly club,
+							but not knowing where it met I did not attend— I was going to the
+							Circuit Court, but was detained in the Common to see the exercises of
+							the company stationed at Fort-Independence.— I finished the first sketch
+							of my lecture 21.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-04">
+					<head>4 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date><persRef key="adams-thomas">My brother</persRef> was
+							again in town this morning; and returned this afternoon to Quincy.— I
+							was a few minutes at the Circuit Court— <persRef ref="jackson-henry2"
+									>Gen<hi rend="superscript">l:</hi> Jackson</persRef> called upon
+							me this day, with two notes of <persRef ref="thorndike-israel">Israel
+								Thorndike</persRef>, endorsed by <persRef ref="sears-david">David
+								Sears</persRef>, and <persRef ref="prescott-william">William
+								Prescott</persRef>, with which he purposes to pay the Judgment of
+								<persRef ref="bird-robert">R. Bird’s</persRef> Assignees against
+							him— The notes are payable 1. August— But his payment to me, was to be
+							the 6<hi rend="superscript">th:</hi> of this month— It being within 60
+							days his object was to get them discounted at the Banks— But he had
+							applied yesterday at the Boston Bank, which had discounted nothing, and
+							wished me to get them discounted at the United States Bank— I took them
+							there accordingly; but they require that the person presenting a note
+							should himself endorse it. And although the paper is perfectly good, and
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Cabot</persRef>
+							assured me that my name on the back of the Notes, would be a mere
+							formality, I did not chuse to take upon myself that responsibility— I
+							returned the Notes again to General Jackson, who will try them again
+							to-morrow at the Boston Bank— And if they are not to be had, I shall be
+							obliged to postpone the expectation of receiving the money, untill the
+								1<hi rend="superscript">st:</hi> of August.— I began upon my 22<hi
+								rend="superscript">d:</hi> lecture.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-05">
+					<head>5 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef ref="sears-david">M<hi rend="superscript"
+									>r:</hi> Sears</persRef> offered to present one of his notes for
+							discount at the U.S. Bank, and the Boston Bank did this day discount the
+							other; So that I have still a prospect of getting this transaction
+							settled— This Evening there was a large party at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Bartlett’s</persRef>, which with
+								<persRef ref="smith-john">John Smith</persRef> and <persRef
+								ref="frye-carolina">Caroline Johnson</persRef> I attended— Neither
+								<persRef key="smith-abigail">M<hi rend="superscript">rs:</hi>
+								Smith</persRef> nor <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> were there.— The
+							company was numerous, but the party dull as usual— <persRef ref="u;u"
+									>M<hi rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Bartlett</persRef>, are going next week to
+							Amsterdam.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-06">
+					<head>6 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>I was at the Insurance-Office, but did not see <persRef
+								ref="jackson-henry2">General Jackson</persRef>, and of course did
+							not settle the demand against him, as it ought this day to have been—
+							Without absolute deficiency of Industry, I have not this day, done so
+							much at my professional duty as I ought—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-07">
+					<head>7 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>The Summer came this day in some of its most vehement
+							fervours— I heard <persRef ref="emerson-william">M<hi rend="superscript"
+									>r:</hi> Emerson</persRef> both parts of the day— <persRef
+								key="smith-abigail">M<hi rend="superscript">rs:</hi> Smith</persRef>
+							and <persRef ref="smith-john;dewindt-caroline">her children</persRef>
+							went with us, and dined at <persRef ref="smith-william3">M<hi
+									rend="superscript">r</hi> W. Smith’s</persRef>.— It was the
+							communion day— I read <persRef ref="tillotson-john"
+								>Tillotson’s</persRef> Sermons 105. 106. and 107. and wrote the
+							regular proportion of my lecture— Walk’d this Evening in the Mall, where
+							there was a more numerous assemblage of people than I have seen there,
+							since the year 1790.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-08">
+					<head>8 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>I was great part of the morning engaged with <persRef
+								ref="jackson-henry2">Gen<hi rend="superscript">l:</hi>
+								Jackson</persRef> in making the arrangements for the payment of his
+							note which is to be completed to-morrow— <persRef
+								ref="waterhouse-benjamin">D<hi rend="superscript">r:</hi>
+								Waterhouse</persRef> dined with us.— Walking early this Evening in
+							the Mall I met <persRef ref="soderstrom-richard">M<hi rend="superscript"
+									>r:</hi> Söderström</persRef> who is here for a few days upon a
+							visit— On returning home I found <persRef ref="dexter-catherine3">Miss
+								Dexter</persRef> here; and also <persRef ref="hall-joseph">M<hi
+									rend="superscript">r:</hi> Jos: Hall</persRef>— I executed with
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> a Quit-Claim deed of the Lands which
+								M<hi rend="superscript">r:</hi> Jackson had conveyed to me, as
+							security for the Judgment due to the Assignees of <persRef
+								ref="bird-robert">R. Bird</persRef>; and M<hi rend="superscript"
+								>r:</hi> Hall took the acknowledgment.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-09">
+					<head>9 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date><persRef key="smith-abigail">My Sister Smith</persRef>
+							went to spend a week with <persRef ref="otis-mary">M<hi
+									rend="superscript">rs:</hi> S. A. Otis</persRef>— I delivered to
+								<persRef ref="jackson-henry2">Gen<hi rend="superscript">l:</hi>
+								Jackson</persRef> at <persRef ref="hall-joseph">M<hi
+									rend="superscript">r:</hi> Hall’s</persRef> Office the Deed
+							reconveying his lands— He gave me a check of the Boston Bank, and
+								<persRef ref="sears-david">M<hi rend="superscript">r:</hi>
+								Sears</persRef> a check on the U.S. Bank which together completed
+							the payment due to <persRef ref="bird-robert">R. Bird’s</persRef>
+							Assignees— I acknowledged satisfaction of the Judgment upon the record,
+							and returned the original Note, which with the leave of the Court I had
+							taken out— This afternoon I attended the anniversary celebration of the
+							Humane Society, and heard <persRef ref="emerson-william">M<hi
+									rend="superscript">r:</hi> Emerson</persRef> at his own Church
+							deliver a Discourse upon the subjects connected with that Institution— I
+							lost much of my usual task of writing; but commenced the first draft of
+							my 23<hi rend="superscript">d.</hi> Lecture having yesterday finished
+							the 22d:— Walked some time this Evening in the Mall, where I met
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Marston</persRef>—
+							The weather last Night and all this day has been nearly at the highest
+							summer heat.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-10">
+					<head>10 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="293" type="ms"/>
+						<p><date>10. </date>I wrote to the Assignees of <persRef ref="bird-robert"
+								>R. Bird</persRef>, and sent them the certificate of the Cashier of
+							the U.S. Bank for the balance of the money due them, which I yesterday
+							received of <persRef ref="jackson-henry2">Gen<hi rend="superscript"
+									>l:</hi> Jackson</persRef>, together with my account.— Dined
+							with <persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis</persRef> and walk’d this Evening in the Mall— The weather
+							continued very warm untill late this Evening when it began to
+							moderate.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-11">
+					<head>11 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>I received late this morning a letter, from <persRef
+								ref="bulfinch-charles">M<hi rend="superscript">r:</hi> C.
+								Bulfinch</persRef>, the chairman of the Select-men, requesting me to
+							act with six other Gentlemen, as a Commissioner on the part of the town,
+							to treat with the Boston Mill-Corporation respecting the filling up the
+							Mill-Pond—and notice that the Commissioners were to meet at 4. O’Clock
+							this afternoon at the Select-men’s chamber in Faneuil-Hall.— I was
+							obliged in propriety to go to Cambridge this afternoon— I went
+							immediately, and informed <persRef ref="davis-john">Judge
+								Davis</persRef> and <persRef ref="joy-john">M<hi rend="superscript"
+									>r:</hi> John Joy</persRef>, who are two of the Commissioners
+							that I could not attend this Evening. Judge Davis was also obliged to go
+							to Cambridge, and we concluded to meet to-morrow afternoon. I dined
+							early and immediately after dinner, walked to Cambridge, and attended
+							the installation of <persRef ref="farrar-john">M<hi rend="superscript"
+									>r:</hi> John Farrar</persRef>, as Hollis Professor of
+							Mathematics and experimental Philosophy.— The performances were as
+							customary— But the new Professor’s discourse was in Latin— The <persRef
+								ref="sullivan-james2">Governor</persRef> and <persRef
+								ref="lincoln-levi">Lieut<hi rend="superscript">t:</hi>
+								Governor</persRef> with many members of the Council and Senate were
+							there; but scarcely any other Company— After the Ceremonies were over, I
+							called for a few minutes at <persRef ref="waterhouse-benjamin">D<hi
+									rend="superscript">r:</hi> Waterhouse’s</persRef>, and then
+							walk’d home. I found <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> was at <persRef
+								ref="otis-mary">M<hi rend="superscript">rs:</hi> S. A.
+								Otis’s</persRef>; where I went and pass’d the remainder of the
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-12">
+					<head>12 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Boylston Professor of Rhetoric and Oratory (1805-1809)</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>I walk’d to Cambridge this Morning—<persRef
+								ref="smith-john">J. Smith</persRef> went with me— Called at <persRef
+								ref="waterhouse-benjamin">D<hi rend="superscript">r:</hi>
+								Waterhouse’s</persRef>; and at 10 O’Clock delivered my 17<hi
+								rend="superscript">th:</hi> lecture— It was the dryest and dullest
+							that I have ever given; and I look forward with much anxiety to those
+							which are to succeed— I afterwards attended D<hi rend="superscript"
+								>r:</hi> Waterhouse’s lecture, which was upon the primary matter—
+							Dined at his house, after calling on <persRef ref="webber-samuel"
+								>President Webber</persRef>, who was gone into Boston— At 2. O’Clock
+							attended the Declamation, which was indifferent— I returned to Boston in
+							the Stage, and met the Town’s Commissioners <persRef ref="davis-john"
+								>Judge Davis</persRef>—<persRef ref="parsons-william2">W.
+								Parsons</persRef>, <persRef ref="joy-john">John Joy</persRef>,
+								<persRef ref="barnard-tristram">Tristram Bernard</persRef>, <persRef
+								ref="brown-william8">William Brown</persRef>, and <persRef
+								ref="webster-redford">Redford Webster</persRef>, at the Selectmen’s
+							chamber— After some explanations from <persRef ref="bulfinch-charles"
+									>M<hi rend="superscript">r:</hi> Bulfinch</persRef>, and some
+							examination of the Papers, Judge Davis was appointed Chairman and M<hi
+								rend="superscript">r:</hi> Webster Secretary, a vote was pass’d to
+							notify the Secretary of the Mill Corporation of our powers, and that we
+							were ready to treat with them, and should meet again, next Monday, at 4.
+							in the afternoon— We then adjourned— Coming home I met <persRef ref="u"
+									>D<hi rend="superscript">r:</hi> Morse</persRef>, and afterwards
+							President Webber, who informed me of the issue of a debate in the board
+							of Overseers to <hi rend="italic">modify</hi> a vote of the Corporation
+							respecting the readmission of Students dismissed from the College in
+							consequence of the late disturbances there.— The proposed modification
+							was rejected— A motion also in the Senate for a <hi rend="italic"
+								>Legislative</hi> enquiry into the State, and affairs of the
+							College, was this day negatived by a single vote— The <persRef
+								ref="sullivan-james2">Governor</persRef> had an epileptic fit this
+							day, at the board of Overseers in the midst of the debate— They
+							immediately adjourned; and he attended again in the afternoon. On
+							returning home I found <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> very unwell, with a
+							sick head ache—and she continued ill untill late at Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-13">
+					<head>13 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>In walking to Cambridge yesterday, and the day before, I
+							blistered the sole of one of my feet so much, that I was confined to the
+							house this day, untill the Evening, when I walk’d about an hour in the
+							Mall. I employed my time to some purpose by commencing the fair copy of
+							my 18<hi rend="superscript">th:</hi> lecture; for I have now run through
+							the Stock, I had prepared last Winter, at Washington— These lectures are
+							indeed precisely the labour of <persRef ref="sisyphus"
+								>Sisyphus</persRef>; a fortnight of close application scarcely
+							prepares me for the performance of half-an-hour.— I received a letter
+							from <persRef key="boyd-george">M<hi rend="superscript">r:</hi>
+								Boyd</persRef>, respecting his intention to remove to the western
+							Territory— Weather so cold, we were obliged to keep a fire— <persRef
+								key="smith-abigail">My Sister</persRef> was here, part of the
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-14">
+					<head>14 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Heard at <persRef ref="emerson-william">M<hi
+									rend="superscript">r:</hi> Emerson’s</persRef> this whole day,
+								<persRef ref="norton-andrews">M<hi rend="superscript">r:</hi>
+								Norton</persRef>, the young man whom I heard about two months since
+							at Quincy— He does not appear to have improved his pronunciation— I read
+								<persRef ref="tillotson-john">Tillotson’s</persRef> Sermons 108,
+							109, and 110.— All, with the two preceding them, upon the subject of
+							regeneration— I also wrote something upon my lecture— <persRef
+								key="frye-carolina">Caroline</persRef> pass’d the Evening at
+								<persRef ref="otis-mary">M<hi rend="superscript">rs:</hi> S. A.
+								Otis’s</persRef>; where I called to return with her home— <persRef
+								ref="smith-john">J. Smith</persRef> went out to Quincy this
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-15">
+					<head>15 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="294" type="ms"/>
+						<p><date>15. </date>Devoted all the morning, and the afternoon untill 4.
+							O’Clock to the composition of my lectures— At 4. I went to Faneuil-Hall,
+							and met the other Commissioners of the Town, respecting the Mill-Pond—
+								<persRef ref="otis-harrison">M<hi rend="superscript">r:</hi>
+								Otis</persRef> and <persRef ref="peck-john2">M<hi rend="superscript"
+									>r:</hi> Peck</persRef> at one time, and <persRef
+								ref="sumner-william">M<hi rend="superscript">r:</hi> W. H.
+								Sumner</persRef> with <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Welsh</persRef> at another appeared, and made certain
+							propositions on the Part of the Mill Corporation— The Commissioners sat
+							debating upon them and discussing a variety of proposals untill near 9
+							O’Clock. We finally agreed upon sundry propositions on our part to be
+							made to them at their meeting, which is to be next week, and we
+							adjourned to the 29<hi rend="superscript">th:</hi> at 4. P.M— We came
+							very near adjourning without agreeing upon any thing; for the want of
+							specific propositions— This is the great source of delay upon
+							deliberations, where there is no special stimulus to act. When I came
+							home I found <persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								S. A. Otis</persRef> with his family, <persRef
+								ref="dexter-catherine3">Miss Dexter</persRef> and <persRef ref="u"
+								>Miss Boardman</persRef> at my house at tea— And they spent the
+							Evening with <persRef key="adams-louisa-catherine">us</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-16">
+					<head>16 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date><persRef ref="smith-john">John Smith</persRef> returned
+							from Quincy, and brought our youngest boy <persRef key="adams-john2"
+								>John</persRef>, with him— He has been there upwards of three weeks.
+								<persRef ref="sawyer-w">M<hi rend="superscript">r:</hi> W.
+								Sawyer</persRef> called upon me, to request letters of Introduction
+							to <persRef ref="pinkney-william">M<hi rend="superscript">r:</hi>
+								Pinckney</persRef> in London, and to <persRef ref="armstrong-john"
+									>M<hi rend="superscript">r:</hi> Armstrong</persRef> in Paris;
+							which I promised him— Spent the whole day in the closest application to
+							my lecture— Evening with <persRef key="frye-carolina">Caroline
+								Johnson</persRef>, and John Smith at <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Sumner’s</persRef>; where there was
+							assembled a numerous company of ladies and gentlemen. It was late before
+							we came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-17">
+					<head>17 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-17"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Two servants left us, which throws again a weight of
+							domestic occupation upon me— I called at the Boston Bank, to make some
+							arrangement respecting my note to <persRef ref="davis-isaac">I. P.
+								Davis</persRef>, which will be due next week, and for which I must
+							make some provision— <persRef key="smith-abigail">My Sister
+								Smith</persRef> and <persRef ref="dewindt-caroline">her
+								daughter</persRef> returned from <persRef ref="otis-mary">M<hi
+									rend="superscript">rs:</hi> Otis’s</persRef>.— I finished the
+							fair copy of my 18<hi rend="superscript">th:</hi> and began my 19<hi
+								rend="superscript">th:</hi> lecture— I now labour with much more
+							assiduity than success.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-18">
+					<head>18 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Went to the Fire and Marine Insurance Office, to
+							transfer five of my shares to <persRef ref="chapman-joseph">M<hi
+									rend="superscript">r:</hi> Chapman</persRef> the Cashier of the
+							Boston Bank, as security for a note which I meant to offer for discount
+							there next Monday; but finding they are about reimbursing to their
+							Stockholders the third part of their Capital to which they are
+							authorized by the Legislature, there will be no occasion for me to make
+							the transfer— I wrote by <persRef ref="beale-benjamin">Capt<hi
+									rend="superscript">n:</hi> Beale</persRef>, immediately to
+								<persRef key="adams-john">my father</persRef>— I was unable to write
+							so much upon my lecture as I wished—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-19">
+					<head>19 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-19"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Boylston Professor of Rhetoric and Oratory (1805-1809)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>Walked to Cambridge, and at 10. O’Clock, read my 19<hi
+								rend="superscript">th:</hi> Lecture— It was the dullest I have yet
+							delivered, and my only resource was to read it over as fast as possible—
+							Though as long as any of those which have taken me from 40 minutes to
+							three quarters of an hour, I went through it in 32 minutes— Attended
+							immediately afterwards <persRef ref="waterhouse-benjamin">D<hi
+									rend="superscript">r:</hi> Waterhouse’s</persRef> Lecture; which
+							was on the process of generation in plants and the egg— Spent an hour in
+							the library, dined at the D<hi rend="superscript">rs:</hi> and attended
+							at 2. the declamation, which was indifferent— Immediately afterwards I
+							walk’d home— Wrote very little at my lecture; but employed the remnant
+							of the afternoon reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-20">
+					<head>20 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>I was again employed from home so great a part of the
+							day, that my professional labours were much interrupted— <persRef
+								key="adams-thomas">My brother</persRef> and <persRef ref="adams-ann"
+								>his wife</persRef> came into town, and dined with <persRef
+								key="adams-louisa-catherine">us</persRef>— They returned at Night to
+							Quincy. <persRef key="smith-abigail">My Sister</persRef> and <persRef
+								ref="smith-john;dewindt-caroline">her children</persRef> also went
+							out this afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-21">
+					<head>21 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Heard <persRef ref="pierce-john">M<hi rend="superscript"
+									>r:</hi> Pearce</persRef> of Brookline the whole day— Took
+								<persRef ref="adams-george;adams-john2">the Children</persRef> with
+							me, and <persRef key="frye-carolina">Caroline Johnson</persRef> went in
+							the afternoon. The remainder of the day I employed upon my lecture, and
+							in reading <persRef ref="tillotson-john">Tillotson’s</persRef> Sermons
+							111. and 112. No part of my time was lost— In the Evening, I walked with
+							the children in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-22">
+					<head>22 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>I called this forenoon at the Fire and Marine Insurance
+							Office, and received the Certificates of the new Shares, and the
+							repayment of the portion of Capital authorized by the Legislature.— I
+							then paid at the Boston Bank my small note to <persRef ref="davis-isaac"
+								>I. P. Davis</persRef>, being fortunately not obliged to renew any
+							part of it.— At 6 in the afternoon I attended a meeting of the
+							Commissioners on the Town’s business, where we reviewed some of our
+							proceedings at the last meeting; and adjourned to Monday next—4. P.M.—
+								<persRef ref="davis-john">Judge Davis</persRef> and <persRef
+								ref="barnard-tristram">Captain Bernard</persRef>, were absent— I
+							afterwards called upon <hi rend="strikethrough">Captain Bernard</hi>
+							<persRef ref="sargent-winthrop">M<hi rend="superscript">r:</hi> W.
+								Sargent</persRef> at <persRef ref="murray-john6">M<hi
+									rend="superscript">r:</hi> Murray’s</persRef>, and obtained from
+							him such information as I could respecting <persRef key="boyd-george"
+									>M<hi rend="superscript">r:</hi> Boyd’s</persRef> enquiries.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-23">
+					<head>23 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="295" type="ms"/>
+						<p><date>23. </date>I intended to have written this day to <persRef
+								key="boyd-george">M<hi rend="superscript">r:</hi> Boyd</persRef>,
+							was I was so steadily employed the whole day upon my fair copy of my
+								20<hi rend="superscript">th:</hi> lecture, which I this day began—
+							For this Lecture I can make scarcely any use at all of my first draught—
+							This makes my present labour the more toilsome— I also lost some time in
+							translating <persRef ref="martialis-marcus">Martial’s</persRef> Epigram,
+							about the digressions of lawyers.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-24">
+					<head>24 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Employed this day as yesterday, excepting that I
+							endeavoured to find out the club, this Evening— I enquired of <persRef
+								ref="davis-john">Judge Davis</persRef> who informed me it would be
+							at <persRef ref="warren-john3">D<hi rend="superscript">r:</hi>
+								Warren’s</persRef>— I called there in the Evening, but he was gone
+							out of town, and I was referred to <persRef ref="cobb-samuel">M<hi
+									rend="superscript">r:</hi> Cobb’s</persRef>— I also went there,
+							and he too was out of town— Upon which I gave up the pursuit, and
+							returned home.— My lecture studies are now at once painful and
+							unsatisfactory.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-25">
+					<head>25 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Steady rain through the whole day, which confined me
+							wholly to the house— I was engaged very assiduously, in reading and
+							writing for my lecture— And still found not time for writing to <persRef
+								key="boyd-george">M<hi rend="superscript">r:</hi> Boyd</persRef>.—
+							Fires— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Foster’s</persRef> visit.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-26">
+					<head>26 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Boylston Professor of Rhetoric and Oratory (1805-1809)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>I wrote this morning to <persRef key="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd</persRef>— <persRef
+								ref="smith-john">John Smith</persRef> came in from Quincy— Went to
+							Cambridge to attend my lecture; and returned to Quincy at Night. I
+							walk’d to and from Cambridge— Delivered my 19<hi rend="superscript"
+								>th:</hi> Lecture— I was apprehensive for its success; but it was
+							less tedious than that of the last week— Immediately after I attended
+								<persRef ref="waterhouse-benjamin">D<hi rend="superscript">r:</hi>
+								Waterhouse’s</persRef> Lecture; which was upon the System of Botany
+							by <persRef ref="linnaeus-carolus">Linnaeus</persRef>; with a
+							biographical sketch of his character. After passing an hour in the
+							Library, I dined at the Doctor’s, and at 2. O’Clock attended the
+							Declamation— The Sophomore class this day commence their performances in
+							public— I found the warmth of the weather on my return home very
+							oppressive, though we yesterday had fires.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-27">
+					<head>27 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>I called this morning to return <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Foster’s</persRef> visit, but did not
+							find him. <persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy</persRef> had invited me to dine with him in the Country,
+							with the agricultural Society, but I am so confined by my official
+							duties that I could not bestow the time, and excused myself. I remained
+							at home however to no great purpose. Read more than I wrote.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-28">
+					<head>28 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Heard <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Willard</persRef>, the younger, in the forenoon, and <persRef
+								ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef> in the afternoon. In the Evening I took a ride
+							with <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> and <persRef
+								ref="adams-george;adams-john2">the children</persRef> to
+							Jamaica-Plains.— Read <persRef ref="tillotson-john"
+								>Tillotson’s</persRef> Sermon 113. but failed of time for the next.
+							I barely finished my 20<hi rend="superscript">th:</hi> Lecture, leaving
+							the subject to be continued in the next.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-29">
+					<head>29 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>At 12. There was a meeting of the Trustees of the
+								<persRef ref="hopkins-edward">Hopkins</persRef> donation, which I
+							attended— The annual meeting in May, had failed, by the Death of the
+							Treasurer, <persRef ref="storer-ebenezer">M<hi rend="superscript"
+									>r:</hi> Storer</persRef>, who was accustomed to call them. The
+							purpose of this meeting was to choose a new member, and a Treasurer in
+							his stead— <persRef ref="jackson-jonathan2">M<hi rend="superscript"
+									>r:</hi> Jon<hi rend="superscript">n:</hi> Jackson</persRef> was
+							elected for both— I dined at <persRef ref="dawes-thomas">Judge
+								Dawes’s</persRef>—in company with several of the members— At 4. in
+							the afternoon, attended a meeting of the town-Commissioners on the
+							Mill-pond.— We were engaged untill 7. in receiving a proposal as formal,
+							upon which we had acted before; and confirming our former votes.— After
+							returning home I went in pursuit of <persRef key="adams-george"
+								>George</persRef>, and bathed with him at the alms-house wharf—
+								<persRef key="adams-john2">John</persRef> was again quite unwell—
+							Having been so great a part of the day absent from home, I wrote but
+							little— Began however, upon the last copy of my Lecture 21.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-30">
+					<head>30 June 1807</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>The principal part of this day I was employed upon my
+							Lecture, and repaired the deficiency of yesterday’s writing. I was
+							however at the Offices, about noon, and first heard of an occurrence of
+							a very gloomy complexion— A new outrage from a British armed ship, and
+							the disgrace of one of our own frigates— Walk in the Evening with
+							George— And called upon <persRef ref="gray-edward2">M<hi
+									rend="superscript">r:</hi> E. Gray</persRef>, and <persRef
+								ref="howard-john2">D<hi rend="superscript">r:</hi> Howard</persRef>,
+							to inform them the Club would meet to-morrow at my house.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1807-06-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1807-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> During the month which is now
+							expiring, I have been able to employ more of my time to useful purpose
+							than I could in those which preceded it— <persRef
+								ref="adams-louisa-catherine;adams-john2">My family</persRef> has
+							enjoyed tolerable health; and my Nights have been little interrupted— I
+							rise however, not with much regularity, between 5 and 8— Read 4.
+							Chapters of the Bible— Hear <persRef key="adams-george">George</persRef>
+							read as many pages of <persRef ref="dufief-nicolas">Dufief’s</persRef>
+							Grammar— Breakfast— Work at my Lectures untill 12 or 1. Walk to
+							State-Street, and after half an hour spent there, return home to dinner—
+							Afternoon employed again in writing untill dark— Walk an hour in the
+							Mall— Sup— Bed, between 10 and 11— On Friday’s I spend the day at
+							Cambridge, and can do little else.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

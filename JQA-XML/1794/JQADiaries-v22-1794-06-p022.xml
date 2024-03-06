@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v22-1794-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="22"  mhs:precedingFile="JQADiaries-v22-1794-05-p020.xml" mhs:followingFile="JQADiaries-v22-1794-07-p026.xml" mhs:volume="22">
+				<bibl n="metadata"><date from="1794-06-01" to="1794-06-30"/></bibl>
+
+				<!-- DJQA 1794-06 DJQA22 -->
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-01">
+					<head>1 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">June.</hi></dateline>
+						<p><date><hi rend="italic">1.</hi></date> Weather continues heavy and dull.
+							Meeting both parts of the day. Walk with <persRef ref="sargent-john">J.
+								T. Sargent</persRef>, and afterwards with his brother. Home early to
+							my usual reflections.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-02">
+					<head>2 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">2.</hi></date> Artillery election. My time as
+							heretofore. Reading Hume &amp;c Strolled to the Common and through it in
+							the afternoon. soberly home and early.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-03">
+					<head>3 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">3.</hi></date> Meeting of the proprietors to the
+							Theatre this Evening. Debates somewhat warm. Walk afterwards with
+							Frazier &amp; Gardner. Letters from the post-office which surprized me
+							very much.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-04">
+					<head>4 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">4.</hi></date> Day spent as usual, but with very
+							unusual reflections. Club this Evening at <persRef ref="clarke-john"
+									>M<hi rend="superscript">r:</hi> Clarke’s</persRef>. <persRef
+								ref="welsh-thomas">M<hi rend="superscript">r:</hi> Welsh</persRef> there.
+							Retired early</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-05">
+					<head>5 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">5.</hi></date>
+							<persRef ref="adams-abigail">My mother</persRef> came to town— I am
+							disqualified both for business and amusement by the late Event. Evening
+							at <persRef ref="smith-william3">M<hi rend="superscript">r:</hi>
+								Smith’s</persRef>. Letters from Philadelphia informing me of an
+							appointment to go as Resident Minister of U.S. to the Hague. <persRef
+								ref="amory-jonathan">J. Amory’s</persRef>. on his <unclear>mas<hi rend="superscript"
+								>t:</hi></unclear></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-06">
+					<head>6 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">6.</hi></date> Weather still lowering. At
+								<persRef ref="hall-joseph">Hall’s</persRef> office P.M. Much
+							affected by the sentiments of my friends on the present occasion; but
+							unwell. Evening at the play. Bell’s Stratagem, &amp; “no song no
+							supper.” tumult about <persRef ref="u">M<hi rend="superscript"
+									>rs:</hi> Abbot</persRef>. <persRef ref="warren-john3">D<hi
+									rend="superscript">r:</hi> Warren</persRef> on the stage.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-07">
+					<head>7 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">7.</hi></date> Dined at <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi> Smith’s</persRef>.
+							Wedding visit at <persRef ref="gardner-james">Gardner’s</persRef> on his
+							Sister’s marriage. Walk afterwards in the Mall. Home early. Fancy myself
+							better; but how much mistaken.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-08">
+					<head>8 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">8.</hi></date> Chapel in the morning. <persRef
+								ref="freeman-james">M<hi rend="superscript">r:</hi> Freeman</persRef>,
+							preached very well. Dined at <persRef ref="gardner-james">J.
+								Gardner’s</persRef>. Stayed there too long. Walk afterwards. When I
+							got home heard of <persRef ref="adams-john">my father’s</persRef>
+							arrival at Quincy, and that <persRef ref="adams-abigail">my
+								mother</persRef> was gone out there. Imprudent.—</p>
+						<pb n="23" type="ms"/>
+						<pb n="24" type="ms"/>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-09">
+					<head>9 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="25" type="ms"/><date><hi rend="italic">9.</hi></date> Should have
+							gone to Quincy; but was prevented by the Rain. <persRef
+								ref="barrett-samuel">Justice Barrett’s</persRef> Committee of Gen<hi
+								rend="superscript">l:</hi> Court.— Committee of proprietors to the Theatre.
+							Evening at my Office and early home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-10">
+					<head>10 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">10.</hi></date> Rain still but went out to Quincy
+							with <persRef ref="smith-louisa">Louisa</persRef>. Unwell to a
+							considerable degree. Conversation with <persRef ref="adams-john">my
+								father</persRef>. He is more gratified than myself at my
+							appointment.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-11">
+					<head>11 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">11.</hi></date> Cleared away at length this day—
+							Spent it principally in the Office. Evening at <persRef
+								ref="cranch-richard">M<hi rend="superscript">r:</hi> Cranch’s</persRef>.
+							quite unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-12">
+					<head>12 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">12.</hi></date> Returned to town this morning
+							with <persRef ref="cranch-mary2">M<hi rend="superscript">rs:</hi>
+								Cranch</persRef>. Did not dine with <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Elliot</persRef>, though obligingly invited. Day spent
+							rather in dulness. afternoon very warm.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-13">
+					<head>13 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">13.</hi></date> Ride with <persRef
+								ref="gardner-james">J. Gardner</persRef> to Cambridge. Did not dine
+							with <persRef ref="craigie-andrew">M<hi rend="superscript">r:</hi>
+								Craigie</persRef>.— Saw <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Clark</persRef>. Return’d to town, and went to the play with
+								<persRef ref="cranch-mary2">M<hi rend="superscript">rs:</hi>
+								Cranch</persRef>. Which is the Man? and Animal Magnetism. <persRef
+								ref="jones-edward3">Jones’s</persRef> songs humorous.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-14">
+					<head>14 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">14.</hi></date> Did not go to Dorchester to dine
+							with the Club. Commenced a new process; the last resort of hope. Its
+							effect somewhat rough.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-15">
+					<head>15 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">15.</hi></date> Meeting through the day. <persRef
+								ref="lathrop-john2">D<hi rend="superscript">r:</hi> Lathrop</persRef> and
+								<persRef ref="clarke-john">M<hi rend="superscript">r.</hi> Clarke.</persRef>
+							pursuing my system; but reduced almost to the extremity of despair.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-16">
+					<head>16 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">16.</hi></date> Three prisoners tried for Piracy.
+							found guilty.— Extremely unwell. Walk this afternoon in the Mall. met
+								<persRef ref="frazier-nathan">Frazier</persRef> and <persRef
+								ref="sargent-john">J. T. Sargent</persRef> and walked with them.
+							Home early &amp; a little relieved at night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-17">
+					<head>17 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">17.</hi></date> Better this morning. Day however
+							extremely tedious. Warm. Companies parading on the anniversary. Twice
+							home this afternoon but in vain. ill in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-18">
+					<head>18 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">18.</hi></date> Very bad night. Bled this
+							morning. Relieved in some measure. Day tedious. Spirits at the lowest
+							ebb— Club at <persRef ref="dexter-aaron">D<hi rend="superscript">r:</hi>
+								Dexter’s</persRef>. several Gentlemen there from Philadelphia, as
+							Representatives. obliged to come home early.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-19">
+					<head>19 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">19.</hi></date> Health a little improved. Day
+							easier than it has been for sometime past. able to read a little. past
+							it however in some degree of apprehension and uneasiness.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-20">
+					<head>20 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">20.</hi></date> Of this day as of yesterday; I
+							can read and do little else; paid some attention however to my packing
+							up &amp;c. obliged to postpone for sometime my departure for
+							Philadelphia.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-21">
+					<head>21 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">21.</hi></date>
+							<persRef ref="welsh-thomas;welsh-abigail">D<hi rend="superscript">r:</hi> and
+									M<hi rend="superscript">rs:</hi> W:</persRef> went to Quincy— Read
+							considerable. Day not quite so tedious as they have been. Early home at
+							Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-22">
+					<head>22 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">22.</hi></date> Meeting through the day. <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi> Smith</persRef> and his
+							family in the Eve<hi rend="superscript">g:</hi> my time spent pretty much as
+							usual.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-23">
+					<head>23 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="26" type="ms"/><date><hi rend="italic">23.</hi></date> Able to
+							write and read a little. Day at my Office. Walk with <persRef
+								ref="phillips-john">Philips.</persRef> Evening in part at <persRef
+								ref="u">M<hi rend="superscript">rs.</hi> Gray’s</persRef>. considerable
+							company there. home early. Weather warm.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-24">
+					<head>24 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">24.</hi></date> As yesterday. made some
+							preparations for my departure. Walk in the Eve with <persRef
+								ref="frazier-nathan">Frazier</persRef>, <persRef ref="sargent-john"
+								>J. T. Sargent</persRef> &amp; <persRef ref="callender-john"
+								>Callender</persRef>. at Frazier’s where we pass’d an agreeable
+							hour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-25">
+					<head>25 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">25.</hi></date> Continuing preparations. Did not
+							dine with <persRef ref="blake-joseph2">Jo. Blake</persRef>. Walk alone
+							in the Mall. club at <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Elliot’s</persRef>: not numerous assemblage.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-26">
+					<head>26 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">26.</hi></date> Went with <persRef
+								ref="gardner-james">J. Gardner</persRef>, to see <persRef
+								ref="savage-edward">Savage’s</persRef> exhibition. His prints
+							principally valuable. between two &amp; three hours thus employ’d. Walk
+							towards Evening with <persRef ref="frazier-nathan">Frazier</persRef>.—
+							Rain at Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-27">
+					<head>27 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">27.</hi></date> Very busy in the morning. Went
+							out to Quincy to spend the day, and this night. Conversation with
+							<persRef ref="adams-john">my Father.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-28">
+					<head>28 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">28.</hi></date> Returned to Boston this morning.
+							Very busy all day. in making preparations for my departure;
+							unwell—however. Cannot prepare myself sufficiently. With <persRef
+								ref="gardner-james">J. Gardner</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-29">
+					<head>29 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">29.</hi></date> Attended meeting the whole day.
+							and continued to make preparations for my departure— The idea of leaving
+							all my friends very painful</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v22-1794-06-30">
+					<head>30 June 1794</head>
+					<bibl><author>JQA</author><date type="creation" when="1794-06-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">30.</hi></date> Started in the stage, alone for
+							Providence. Breakfasted at Dedham, and took in a companion or two. Dined
+							at Attleborough where I met <persRef ref="dana-francis">judge
+								Dana</persRef> and his family. from thence had <persRef ref="u">M<hi
+									rend="superscript">r.</hi> Arnold</persRef> &amp; his Daughter to
+							Providence. lodged at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Grammont’</persRef>s. a very good place.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

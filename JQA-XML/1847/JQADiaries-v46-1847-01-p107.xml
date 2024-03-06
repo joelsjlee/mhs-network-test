@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v46-1847-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="month" mhs:startingPage="107" 
+                mhs:precedingFile=""
+                mhs:followingFile=""
+                mhs:volume="46">
+                <bibl n="metadata"><date from="1847-01-18" to="1847-01-18"/></bibl>
+                
+                <div type="entry" xml:id="jqadiaries-v46-1847-01-18">
+                    <head>18 January 1847</head>
+                    <bibl><author>JQA</author><date type="creation" when="1847-01-18"/><editor
+                        role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                <pb n="107" type="ms"/>
+                <p>On Monday, the 18<hi rend="superscript">th</hi> of January 1847,
+                    at 4 o’clock P.M. at the house of my son, Charles Francis Adams, in Mount Vernon
+                    Street, Boston, I caused to be assembled, three persons, namely, Deacon James H.
+                        Foster, Edward Brooks and Allen. C. Spooner, all of Boston, and in their
+                    presence, I executed a paper drawn up under my direction, by my Son, during the
+                    last month, as my last Will and Testament—annulling that which I made in October
+                    1832, and which I have mislaid so that it cannot now be found— Of the Will, now
+                    made, I have deposited a Copy, in the hands of my Son Charles, Francis, Adams,
+                    who is constituted my sole Executor, and retain the original in my own hands, to
+                    be kept, with my Bundle of Deeds—</p>
+                    </div>
+            </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+

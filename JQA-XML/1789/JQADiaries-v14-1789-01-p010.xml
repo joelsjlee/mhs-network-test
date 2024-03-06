@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v14-1789-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="10"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v14-1789-02-p013.xml" mhs:volume="14">
+				<bibl n="metadata"><date from="1789-01-01" to="1789-01-31"/></bibl>
+
+				<!-- DJQA 1789-01 DJQA14 January 1789 -->
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-01">
+					<head>1 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb n="10"/>
+						<p><date>1. </date>Dined with <persRef ref="parsons-theophilus">M<hi
+									rend="superscript">r:</hi> Parsons</persRef>. Eve at <persRef
+								ref="wigglesworth-edward3">Col<hi rend="superscript">l:</hi>
+								Wigglesworth’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-02">
+					<head>2 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Saw <persRef ref="parsons-theophilus">M<hi rend="superscript"
+									>r:</hi> Parsons</persRef>. Went to Haverhill afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-03">
+					<head>3 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>Dined at <persRef ref="white-john2">M<hi rend="superscript"
+									>r:</hi> White</persRef>’s. <persRef ref="bartlett-margaret"
+									>M<hi rend="superscript">rs. </hi>Bartlett</persRef>.<persRef
+								ref="hazen-anna"> Miss Hazen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-04">
+					<head>4 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Heard <persRef ref="shaw-john2">M<hi rend="superscript">r:</hi>
+								Shaw</persRef>. Visits in the eve—with <persRef ref="thaxter-john2"
+									>M<hi rend="superscript">r.</hi> Thaxter</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-05">
+					<head>5 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Went to Cambridge. <persRef ref="white-leonard">L.
+								White</persRef> to Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-06">
+					<head>6 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Dined at <persRef ref="dana-francis">Judge
+							Dana</persRef>’s. came home to Braintree</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-07">
+					<head>7 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Dined at <persRef ref="cranch-richard">M<hi rend="superscript"
+									>r:</hi> Cranch</persRef>’s.<persRef ref="adams-john"> M<hi
+									rend="superscript">r:</hi> A</persRef>. went to Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-08">
+					<head>8 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date><persRef ref="adams-thomas">Tom</persRef> came Home from
+							Cambridge. Vacation.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-09">
+					<head>9 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9 </date><persRef ref="adams-charles">Charles</persRef> came from
+							Boston with <persRef ref="russell-daniel">Russell</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-10">
+					<head>10 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef ref="russell-daniel">Russell</persRef> left us.
+								<persRef ref="tufts-cotton2">D<hi rend="superscript">r:</hi>
+							Tufts</persRef>. <persRef ref="cushing-n">N. Cushing Esq<hi rend="superscript"
+									>r:</hi></persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-11">
+					<head>11 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="weld-ezra">M<hi rend="superscript">r:</hi>
+								Weld</persRef> preach’d and dined with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-12">
+					<head>12 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date><persRef ref="adams-john">M<hi rend="superscript">r:</hi>
+								A.</persRef> Roxbury. <persRef ref="adams-charles">Charles</persRef>
+							Boston. came home late.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-13">
+					<head>13 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date><persRef ref="gibbon-edward">Gibbon’s</persRef>. 4<hi
+								rend="superscript">th: </hi>vol: &amp; many other things. <persRef
+								ref="milton-c">C. Milton</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-14">
+					<head>14 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date><persRef ref="adams-charles">Charles</persRef> came
+							home. Skaiting.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-15">
+					<head>15 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>Dull weather. Snow. Rain &amp;c. Reading, &amp;c.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-16">
+					<head>16 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Woodward</persRef> dined with us. clear: not cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-17">
+					<head>17 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Snow. <persRef ref="adams-thomas">Tom</persRef> went to
+							Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-18">
+					<head>18 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date><persRef ref="wibird-anthony">Parson Wibird</persRef>,
+							all day. Dull work.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-19">
+					<head>19 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>Snow. Close at Study, with diverse objects.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-20">
+					<head>20 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Finished, <persRef ref="barrington-daines"
+								>Barrington’s</persRef> Obs: on the Statutes.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-21">
+					<head>21 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>All the snow Gone. <persRef ref="gibbon-edward"
+								>Gibbon</persRef> 5<hi rend="superscript">th: </hi>volume.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-22">
+					<head>22 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Rode to Dorchester. Time flies too rapidly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-23">
+					<head>23 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23 </date>Went to <persRef ref="cranch-richard">M<hi rend="superscript"
+									>r:</hi> Cranch</persRef>’s in the forenoon. <persRef
+								ref="apthorp-charlotte">C. Apthorp</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-24">
+					<head>24 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date><persRef ref="cranch-william">W. Cranch</persRef> and
+								<persRef ref="freeman-nathaniel">Freeman</persRef> came up from
+							Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-25">
+					<head>25 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date><persRef ref="cranch-richard">M<hi rend="superscript">r:</hi>
+								Cranch</persRef>’s. Folks came from New-York.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-26">
+					<head>26 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date><persRef ref="freeman-nathaniel">Freeman</persRef> &amp;
+								<persRef ref="cranch-richard">Cranch</persRef> past the afternoon
+							here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-27">
+					<head>27 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Snow storm. They went to Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-28">
+					<head>28 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date><persRef ref="adams-john">M<hi rend="superscript">r:</hi>
+								A</persRef> &amp; <persRef ref="smith-william">Col: Smith</persRef>
+							went to Town. Rode my horse</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-29">
+					<head>29 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>Went to <persRef ref="cranch-richard">M<hi rend="superscript">r
+								</hi>Cranch</persRef>’s. in the afternoon—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-30">
+					<head>30 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-30"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>Shooting, at Partridge’s and Quails with <persRef
+								ref="smith-william">Col: Smith</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v14-1789-01-31">
+					<head>31 January 1789</head>
+					<bibl><author>JQA</author><date type="creation" when="1789-01-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>An idle week. finished as begun—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

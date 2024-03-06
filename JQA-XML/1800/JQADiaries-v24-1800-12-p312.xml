@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1800-12">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="312"  mhs:precedingFile="JQADiaries-v24-1800-11-p310.xml" mhs:followingFile="JQADiaries-v24-1801-01-p315.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1800-12-01" to="1800-12-31"/></bibl>
+
+				<!-- D/JQA/24.2304 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-01">
+					<head>1 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">December 1800.</hi></dateline>
+						<p><date>1. </date>Walking this morning under the trees, met <persRef
+							ref="kinnaird-charles">M<hi rend="superscript">r:</hi> Kinnaird</persRef>, who join’d me,
+							and went into the park. Call’d with him at <persRef ref="metra-louis"
+								>Metra’s</persRef> the bookseller’s— Evening at <persRef
+								ref="wilhelminaofhesse">Princess Henry’s</persRef>— Play’d chess
+							with <persRef ref="garlike-benjamin">M<hi rend="superscript">r:</hi>
+								Garlike</persRef>. Afterwards at <persRef ref="brown-charles">D<hi
+									rend="superscript">r:</hi> Brown’s</persRef>, where <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							spent the evening— The youngest <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Headlam</persRef> there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-02">
+					<head>2 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— very ill all night, and all this day with
+							an head-ache— I spent the evening at <persRef ref="augustusferdinand"
+								>Prince Ferdinand’s</persRef>. Play’d Whist with <persRef ref="u"
+								>Madame de Bredow</persRef>, <persRef ref="vongrappendorf-louise"
+								>Madame de Grappendorf</persRef>, and <persRef ref="u">Countess
+								Redern</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-03">
+					<head>3 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A.</persRef> very ill, all night again, and continued
+							unwell the whole day— <persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+								Brown</persRef> and <persRef
+								ref="brown-isabella;brown-fanny;brown-margaret">her
+								daughters</persRef> spent the evening with us— The <persRef
+								ref="brown-charles">Doctor</persRef> came for a couple of hours—
+							Play’d chess with him. Met <persRef ref="proby-john">Lord
+								Carysfort</persRef> this forenoon— He walk’d with me into the
+							park.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-04">
+					<head>4 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A.</persRef> continues unwell— But went however to the
+							ball at the <persRef ref="alvensleben-philipp">Minister
+								Alvensleben’s</persRef>— We stay’d there not more than half an hour—
+							Pass’d the remainder of the evening at <persRef ref="brown-charles">D<hi
+									rend="superscript">r:</hi> Brown’s</persRef>— Play’d a game of chess
+							with him.— Saw for the first time <persRef ref="sotheby-william"
+								>Sotheby’s</persRef> translation of Oberon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-05">
+					<head>5 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>We were engaged to spend this evening at <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Schickler’s</persRef>, but <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+							was so ill that we were obliged to send an excuse— We stay’d at home.—
+							It is impossible it should end well—however hope may delude.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-06">
+					<head>6 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="maclure-william">M<hi rend="superscript">r:</hi>
+								Maclure</persRef> called to take leave; he is going to France—
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A</persRef>— was bled this morning; but it will do no good. <persRef
+								ref="brown-charles">D<hi rend="superscript">r:</hi> Brown</persRef> called
+							in the forenoon and again in the evening— Finished reading the <persRef
+								ref="mancini-louis">Duke of Nivernois’s</persRef> Richardet— Upon
+							the whole I think not very highly of it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-07">
+					<head>7 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A.</persRef> continued unwell the greater part of the
+							day. But was better in the evening. I received at length from <persRef
+								ref="arbuthnot-robert">M<hi rend="superscript">r:</hi> Arbuthnot</persRef>
+							<persRef ref="sotheby-william">Sotheby’s</persRef> Oberon, and his
+							Georgics— Read part of the first this evening, and compared it with
+								<persRef ref="dryden-john">Dryden’s</persRef> translation— M<hi
+								rend="superscript">r:</hi> Sotheby’s preface is not remarkable for
+							diffidence; but his performance is such as justifies the consciousness
+							of powers which he shows. The two <persRef ref="u;u">M<hi rend="superscript"
+									>r:</hi> Headlam’s</persRef> called and took leave.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-08">
+					<head>8 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Continued reading the two translations of the Georgics.
+							Spent the evening at <persRef ref="proby-john">Lord
+								Carysfort’s</persRef>; the company there, considerably numerous.
+							Play’d chess with <persRef ref="garlike-benjamin">M<hi rend="superscript"
+									>r:</hi> Garlike</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-09">
+					<head>9 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date><persRef ref="neale-pauline">Countess Pauline
+								Neale</persRef> paid a visit to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+								<persRef ref="brown-mary">M<hi rend="superscript">rs:</hi> Brown</persRef>
+							and <persRef ref="brown-isabella;brown-fanny;brown-margaret">her
+								daughters</persRef>, and <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Proby</persRef> spent the evening with us. Cold weather— Ground for
+							the first time this season covered with snow.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-10">
+					<head>10 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="313" type="ms"/>
+						<p><date>10. </date>Finished reading the two
+							translations of the first Georgic.— Still working upon my own of Oberon.
+							Spent the Evening at <persRef ref="brown-charles">D<hi rend="superscript"
+									>r:</hi> Brown’s</persRef>.— <persRef ref="stgeorge-melesina"
+									>M<hi rend="superscript">rs:</hi> St. George</persRef> there— Play’d
+							chess with the Doctor. <persRef ref="fagel-robert">M<hi rend="superscript"
+									>r:</hi> Fagel</persRef> called this morning upon me— He lodges
+							in the house.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-11">
+					<head>11 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>Usual walk in the park— Evening at <persRef
+								ref="alvensleben-philipp">Count Alvensleben’s</persRef> ball— Play’d
+							chess with <persRef ref="garlike-benjamin">M<hi rend="superscript">r:</hi>
+								Garlike</persRef>. Reading the second book of the Georgics with the
+							two translations.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-12">
+					<head>12 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date><persRef ref="brown-charles">Doctor Brown</persRef>
+							call’d before dinner— Went for half an hour to <persRef
+								ref="vonheinitz-friedrich">Baron Heinitz’s</persRef>— Spent the
+							remainder of the evening at <persRef ref="augustusferdinand">Prince
+								Ferdinand’s</persRef>— Play’d whist with <persRef
+								ref="vongrappendorf-louise">Madam de Grappendorf</persRef>, <persRef
+								ref="tempelhoff-georg">General Tempelhoff</persRef>, and <persRef
+								ref="u">M<hi rend="superscript">r:</hi> de Sydow</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-13">
+					<head>13 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>First part of the evening at the ball of the <persRef
+								ref="vonschrotter-friedrich">Baron de Schroetter</persRef>— The
+							company, between four and five hundred persons— Remainder of the Eve at
+								<persRef ref="cohen-ephraim">M<hi rend="superscript">r:</hi>
+								Cohen’s</persRef>, where <persRef key="adams-louisa-catherine"
+								>we</persRef> supp’d— Play’d whist with him, <persRef
+								ref="brown-charles">D<hi rend="superscript">r:</hi> Brown</persRef> and
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Richard</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-14">
+					<head>14 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date><persRef ref="brown-charles">Dr. Brown’s</persRef>
+							<persRef
+								ref="brown-mary;brown-william5;brown-isabella;brown-fanny;brown-margaret"
+								>family</persRef>, <persRef ref="hunter-elizabeth">M<hi rend="superscript"
+									>rs:</hi> Hunter</persRef> and <persRef ref="u">Miss
+								Jones</persRef>, <persRef ref="garlike-benjamin">M<hi rend="superscript"
+									>r:</hi> Garlike</persRef>, <persRef ref="kinnaird-charles">M<hi rend="superscript"
+										>r:</hi> Kinnaird</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Ridley</persRef> pass’d the evening with <persRef
+								key="adams-louisa-catherine">us</persRef>.— Play’d chess with
+							Garlike.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-15">
+					<head>15 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Evening at <persRef ref="stgeorge-melesina">M<hi
+									rend="superscript">rs:</hi> S<hi rend="superscript">t:</hi> George’s</persRef>
+							where she had a little ball— I danced with her, and afterwards play’d
+							chess with <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown</persRef> and <persRef ref="garlike-benjamin">M<hi rend="superscript"
+									>r:</hi> Garlike</persRef>— Conversation with <persRef
+								ref="vongentz-friedrich">M<hi rend="superscript">r:</hi> Gentz</persRef>.— I
+							came home very hoarse— Find myself continually getting bad colds—
+								<persRef key="adams-louisa-catherine">We</persRef> came home
+							late.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-16">
+					<head>16 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Confined myself the whole day to the house, on account
+							of my cold. Wrote a little— Could not read aloud to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+							Read therefore the first volume of <persRef ref="godwin-william"
+								>Godwin’s</persRef> S<hi rend="superscript">t:</hi> Leon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-17">
+					<head>17 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Again confined all day to the house with my cold— But
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> was seized with one of her sudden and violent
+							illnesses, just after dinner.— Exactly such as she had yesterday was a
+							twelve-month.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-18">
+					<head>18 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— somewhat better, though still very weak
+							after her illness— I walk’d out in the forenoon. In the evening, went
+							for about an hour to <persRef ref="alvensleben-philipp">M<hi rend="superscript"
+									>r:</hi> Alvensleben’s</persRef> ball.— On returning home, had a
+							letter from <persRef key="adams-thomas">my brother</persRef>. Weather
+							very cold</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-19">
+					<head>19 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— again very ill this forenoon; but rather
+							better towards night. <persRef ref="brown-margaret">Margaret
+								Brown</persRef> called, and pass’d half an hour with her.— Read but
+							little this day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-20">
+					<head>20 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— rather better— The weather which has been
+							very cold is growing mild again— The <persRef
+								ref="brown-isabella;brown-fanny;brown-margaret">three Miss
+								Brown’s</persRef> took tea, and pass’d the Evening with us.— Read
+							about half the fourth Georgic.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-21">
+					<head>21 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>The <persRef ref="frederick-william-iii">king</persRef>
+							and <persRef ref="louiseauguste">queen</persRef> came to town for the
+							winter— I pass’d the Evening at <persRef ref="augustusferdinand">Prince
+								Ferdinand’s</persRef>— Play’d whist, with <persRef
+								ref="neale-ferdinand">Count Neale</persRef>, <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Konatowsky</persRef>, and <persRef ref="u"
+								>Helbig</persRef>— Call’d afterwards at <persRef ref="brown-charles"
+									>D<hi rend="superscript">r:</hi> Brown’s</persRef>, to take up <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+							who had pass’d the evening there.— Finish’d reading the Georgics, with
+								<persRef ref="dryden-john">Dryden’s</persRef> &amp; <persRef
+								ref="sotheby-william">Sotheby’s</persRef> translations. The last is
+							much superior throughout, to the other.— I had never before read the
+							original with so much attention.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-22">
+					<head>22 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date><persRef ref="proby-john">Lord Carysfort</persRef> and
+								<persRef ref="garlike-benjamin">M<hi rend="superscript">r:</hi>
+								Garlike</persRef> called to pay us a visit this afternoon— Read in
+							the evening the first book of <persRef ref="dryden-john"
+								>Dryden’s</persRef> Æneid— It is much better done than his Georgics;
+							but the subject was much less difficult— I am likewise busied in writing
+							letters to <persRef key="adams-thomas">my brother</persRef>, and in
+							correcting my translation of Oberon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-23">
+					<head>23 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Paid with <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A.</persRef> the customary visit of ceremony
+							to <persRef ref="vonvoss-sophie">Countess Voss</persRef>— M<hi
+								rend="superscript">rs:</hi> A. then went and pass’d the Evening with
+								<persRef ref="stgeorge-melesina">M<hi rend="superscript">rs:</hi> S<hi
+									rend="superscript">t:</hi> George</persRef>— I called for an hour at
+								<persRef ref="ofarrillyherrera-gonzalo">Gen<hi rend="superscript">l:</hi>
+								O’Farrill’s</persRef>, and afterwards, went to <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Schickler’s</persRef>— Play’d whist with the
+								<persRef ref="u;u">two young Krudener’s</persRef> and another
+							Russian officer— Did not stay to supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-24">
+					<head>24 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Vignon</persRef>, the first Secretary of the french legation called
+							upon me this forenoon.— Took but a short walk— Read to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+							the second book of <persRef ref="dryden-john">Dryden’s</persRef> Æneid,
+							and to myself part of the dedication to the <persRef
+								ref="sheffield-john">Marquis of Normanby</persRef>— Dryden’s prose
+							style is much celebrated, but he writes in a manner too desultory to
+							suit my taste.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-25">
+					<head>25 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="314" type="ms"/>
+						<p><date>25. </date>Christmas day. Dined and spent
+							the evening at <persRef ref="proby-john">Lord Carysfort’s</persRef>,
+							with all the English company now here. We danced untill eleven o’clock—
+							In the evening the company became more numerous. We came away exactly at
+							midnight.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-26">
+					<head>26 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Dined at <persRef ref="ofarrillyherrera-gonzalo">General
+								O’Farrill’s</persRef>, with a small party of Gentlemen only. Spent
+							the Evening at home and read to <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> A</persRef>— a book of the Æneid.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-27">
+					<head>27 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Continue writing to <persRef key="adams-thomas">my
+								brother</persRef>, but very slowly— Spent the evening at home again,
+							and read a book of the Æneid. Weather moderate but very indifferent.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-28">
+					<head>28 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>The first Court after the return of the <persRef
+								ref="frederick-william-iii">king</persRef> and <persRef
+								ref="louiseauguste">queen</persRef> to town, was held this Evening.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A.</persRef> went with me.— The heat and the crowd were both
+							excessive— Many Russian presentations much caressed, and many english
+							ones much slighted.— We came home at nine.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-29">
+					<head>29 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— very unwell all day— We dined at <persRef
+								ref="brown-mary">M<hi rend="superscript">rs:</hi> Brown’s</persRef>, with
+							English company— The <persRef ref="brown-charles">Doctor</persRef> was
+							obliged to go to Potsdam and did not dine at home.— We likewise spent
+							the Evening there— Had music and singing— Play’d chess with <persRef
+								ref="proby-john">Lord Carysfort</persRef>, and <persRef ref="kinnaird-charles">M<hi
+									rend="superscript">r:</hi> Kinnaird</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-30">
+					<head>30 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— somewhat better— We pass’d the evening
+							again at <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef>— <persRef ref="u">Miss Bischofwerder</persRef> was
+							there— Finished the second volume of S<hi rend="superscript">t:</hi> Leon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-12-31">
+					<head>31 December 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-12-31"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>At the close of the year and of the century, the
+								<persRef ref="engstrom-lars">Swedish Minister</persRef>, gave a
+							splendid ball, and his intention was that the transition to the new
+							century should be marked with merriment and joy.— <persRef
+								key="adams-louisa-catherine">My wife</persRef> (praised be God!)
+							after some hesitation whether she would go or not, thought it would be
+							best for her to pass the evening at <persRef ref="proby-elizabeth">Lady
+								Carysfort’s</persRef> and <persRef ref="brown-mary">M<hi rend="superscript"
+									>rs:</hi> Brown’s</persRef>— I went to make her excuse— I play’d
+							cards. The ball began after eight o’clock— Soon after nine, young
+								<persRef ref="u">Dorville</persRef>, a lieutenant in the infantry,
+							after leading down a dance, just as he got to the bottom fell instantly
+							dead, without a gasp or a groan— It was at first supposed he had only
+							fainted; a surgeon and physician were called in, and every expedient
+							possible was used to bring him to life, in vain— I came away before it
+							was fully ascertained that he was dead, in order to prevent the story’s
+							coming too abruptly to my wife— Found her at M<hi rend="superscript">rs:</hi>
+							Brown’s— Soon after I left M<hi rend="superscript">r:</hi> Engeström’s house,
+							and when the fact that the youth was certainly dead had become
+							unquestionable, the scene that ensued was dreadful— Faintings, hysteric
+							fits, convulsions, and raving madness, mark’d the shock of this
+							calamitous accident, upon the minds of many ladies who were present. The
+							party was broken up, and <persRef ref="vonengstrom-rozalia">M<hi
+									rend="superscript">rs:</hi> Engeström</persRef>, in the wildest
+							delirium, carried away to <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								O’Farril’s</persRef>, where she pass’d the night.— The opinion of
+							the professional men called in was, that his death was owing to the
+							excessive tightness of his clothes, and perhaps to his having drank
+							several glasses of cold limonade, while heated with dancing.</p>
+						<p>The sentiments of devotion which naturally recur to me at the close of
+							every year, must of course be yet stronger than usual, at a period which
+							can not happen to me again— They were rendered still more solemn by this
+							awful admonition of the vanity and frailty of earthly enjoyments. I
+							pass’d the period of transition between the two centuries in communion
+							with my own soul, and in prostration to the being who directs the
+							universe; with thanksgiving for his numerous blessings, in the past
+							time, and with prayer for a mind to bear whatever the future
+							dispensations of his Providence may be, in such a manner as may be most
+							conformable to his will.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

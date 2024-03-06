@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v45-1845-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="0" 
+				mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v45-1845-02-p032.xml"
+				mhs:volume="45">
+				<bibl n="metadata">
+					<date from="1845-01-01" to="1845-01-31"/>
+				</bibl>
+
+				<!-- D/JQA/45 January 1845 Joan Fink -->
+
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-01">
+					<head>1 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Whig Party</subject>
+						<subject>Gag Rule</subject>
+						<subject>Anti-Slavery Movements</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="i"/>
+						<dateline>DIARY.<lb/>From 1. January 1845<lb/>to<lb/>10 August 1846.<lb/>Vol. 19.
+							</dateline>
+					
+						<pb n="1" type="ms"/>
+						<dateline>Washington. Wednesday 1. January 1845.</dateline>
+						<p><date>1. IV:45. </date>Wednesday</p>
+						<list>
+							<item>Abbott Amos</item>
+							<item>Baker Osmyn</item>
+							<item>Grinnell Joseph</item>
+							<item>Hudson Charles</item>
+							<item>Rockwell Julius</item>
+							<item>Winthrop Robert C</item>
+							<item>Elliott Jesse D</item>
+							<item>and many visitors</item>
+						</list>
+						<p>The whig members of the Massachusetts delegation in the house of
+							Representatives had agreed to meet at my house this morning at 10
+							O’Clock, before the crowd of visitors should be coming to consult
+							together upon what we shall do in the critical state of public affairs,
+							and whether any joint action on our part may be advisable— <persRef
+								ref="abbott-amos;baker-osmyn;grinnell-joseph;hudson-charles;rockwell-julius;winthrop-robert"
+								>Six of them</persRef>, came, all of the right complexion, except
+								<persRef ref="king-daniel">Daniel P. King</persRef>, and we had some
+							desultory conversation, without coming to any satisfactory result. We
+							were soon interrupted by the entrance of other visitors, a stream of
+							whom came and went for the space of 3. hours. The weather betokened May
+							rather than January, and all the world was abroad— Great numbers of
+							members of both houses of Congress were here, and among them several of
+							the bitterest political opponents that I have in the world— The personal
+							hatred of the Southern Slaveholders against me is evidently much
+							envenomed by the extinction of the petition gag rule, and my position as
+							the head of the anti-Slavery movement in this Country, disavowed by the
+							whole body of abolitionists, and bound hand and foot, and chained to a
+							rock as I am by the Slavemonger brood linked together with the mongrel
+							democracy of the North and West— When the throng had passed away, about
+							3. O’Clock I walked out and paid a visit to <persRef
+								ref="madison-dolley">M<hi rend="superscript">rs</hi>
+								Madison</persRef>— I found there <persRef ref="dickinson-ann">M<hi
+									rend="superscript">rs</hi> Dickinson</persRef> of Troy, and two
+							or three others— In the evening I had a visit from <persRef
+								ref="elliott-jesse">Commodore Jesse D. Elliott</persRef>, who gave
+							me a bronze medal which he has had struck in honour of <persRef
+								ref="cooper-james">J. Fenimore Cooper</persRef>, for his vindication
+							of the Commodore’s character in his naval history of the United States.
+							He related to me the circumstances which induced him to have this medal
+							struck, and the distribution which he proposed to make of it. He related
+							to me also his pilgrimage to the holy land, and mentioned to me many of
+							the curiosities which he collected there, and of which he has made a
+							donation to the Girard college. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-02">
+					<head>2 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-02"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Dueling</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="2" type="ms"/>
+						<dateline>Washington Thursday 2 January 1845.</dateline>
+						<p><date>2. V:30. </date>Thursday.</p>
+						<list>
+							<item>Elliott Jesse D.</item>
+						</list>
+						<p>I received this morning a Letter from <persRef ref="elliott-jesse"
+								>Commodore Elliott</persRef>, with one of his medals, and a
+							direction “For <persRef key="clay-henry">Henry Clay</persRef>, from His
+							old friend J. D. Elliott” which he requests me to forward to M<hi
+								rend="superscript">r</hi> Clay— He also requests me to furnish him
+							with a list of all the historical Societies to which I had suggested to
+							him the idea of his sending a medal each, and that I would forward the
+							medals to them; and one to the representative of <persRef
+								key="adams-thomas">my brother</persRef> as an heir-loom— I saw him
+							afterwards at the house without the bar, and promised to perform his
+							requests— He was to leave the city this afternoon to return to
+							Philadelphia where he is stationed in command of the Navy-Yard— My
+							opinions and feelings have been ever since the duel between <persRef
+								ref="barron-james">Baron</persRef> and <persRef
+								ref="decatur-stephen">Decatur</persRef> very unfavourable to
+							Commodore Elliott, but I have not tried him as a judge or juror, and I
+							could not justify to myself a repulse of the courtesy and personal
+							respect which he now manifests to me; in the midst especially of that
+							league of villainy and power combined against me and plotting the
+							destruction of my life and my good name.— In the house <persRef
+								ref="tibbatts-john">Tibbatts</persRef> of Kentucky asked leave to
+							introduce a Bill to authorise the People of Texas to form a State
+							Constitution of Government and for their admission into the Union, as
+							one of the original States—and a joint Resolution pledging the
+							protection of the United States against all foreign interposition in the
+							interval. But the house refused to suspend the rules to let them in— The
+							Rhode-Island question then came up—and first <persRef
+								ref="burke-edmund4">Burke’s</persRef> motion to print 10,000 copies
+							of the majority and minority Reports of the Committee on the Rhode
+							Island Memorial, instead of 5000 copies of the majority report alone
+							which he had first moved. <persRef ref="burt-armistead">Burt</persRef>
+							of South Carolina moved to lay the Resolution on the table. Lost by yeas
+							and nays 78 to 100. Burke moved the previous question on his resolution
+							but he could not obtain a majority to second him— He then modified his
+							resolution back to the original number of 5000, and moved again and
+							carried the previous question— The vote for printing 5000 copies was
+							carried 102 to 80. and then the <persRef ref="jones-john9"
+								>Speaker</persRef> announced the Resolutions with which the majority
+							report concluded were the subject under consideration of the house— The
+							Resolutions are seven in number, rabid with mock democracy— <persRef
+								ref="elmer-lucius">L. Q. C. Elmer</persRef> commenced a speech
+							against them but was arrested at the expiration of the morning hour— The
+							rest of the day was snarling upon the land Bill— First Assembly. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-03">
+					<head>3 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-03"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="3" type="ms"/>
+						<dateline>Washington Friday 3. January 1845.</dateline>
+						<p><date>3. V:30. </date>Friday.</p>
+						<p>The debate on the Land robbery Bill yesterday had become so vapid, that
+							while <persRef ref="smith-thomas11">Thomas Smith</persRef> of Indiana
+							was hammering out his hour upon it, I went into the Senate, and heard a
+							debate on another Land-pilfering Bill, quite as dull as that I had
+							escaped from in the house. I met there <persRef ref="calderon-angel"
+									>M<hi rend="superscript">r</hi> Calderon de la Barca</persRef>,
+							the Spanish Minister, who asked me, when I proposed to publish my
+							translation of <persRef ref="wieland-christoph">Wieland’s</persRef>
+							Oberon I told him I did not intend it should ever be published— I had
+							made it as a school exercise in learning German, and though far more
+							literal, it could bear no poetical comparison without <persRef
+								ref="sotheby-william">Sotheby’s</persRef> translation, which had
+							cured me of all temptation to publish mine. He said his reason for
+							asking me the question was that he had made a Spanish translation of the
+							Oberon, much as I had made mine, in my daily walks about the streets,
+							and out of the gates of Berlin— He did not like Sotheby’s translation
+							for two reasons— First because he had changed the form of the Stanza,
+							from the light airy Ottava rima, for the heavy, cumbersome ten lines
+							closing with an Alexandrine, thereby changing entirely the character of
+							the Poem; and secondly, because he had omitted the sprightly tale of
+							January and May— How M<hi rend="superscript">r</hi> Calderon came to
+							know any thing about my translation of Oberon, I know not, and did not
+							enquire. I suppose it was from <persRef ref="everett-alexander"
+								>Alexander H Everett</persRef>. At the house this day immediately
+							after the reading of the Journal <persRef ref="ingersoll-charles"
+								>Charles J. Ingersoll</persRef> moved a suspension of the rules to
+							go into Committee of the whole on the state of the Union to take up the
+							joint Resolution, reported by the Committee of Foreign Affairs, for the
+							annexation of Texas to the United States, according to the Treaty of 12.
+							April last rejected by the Senate— This was carried by yeas and nays 107
+							to 63— <persRef ref="hopkins-george">George W. Hopkins</persRef> was
+							chairman of the Committee, and the joint resolution was taken up—
+								<persRef ref="weller-john">Weller</persRef> then moved his project
+							of annexation as an amendment to the Resolution reported by the
+							Committee, and <persRef ref="douglas-stephen">Douglass</persRef> moved
+							his project as an amendment to the amendment— <hi rend="italic">The
+								first</hi> question was thus upon Douglass’s project—but C. J.
+							Ingersoll made his hour Speech on the bare question of annexation— He
+							scarcely glanced at the questions of right and of Constitutional power,
+							but very positively affirmed that the annexation of Texas would not
+							produce a rupture either with Mexico or with England. <persRef
+								ref="belser-james">Belser</persRef> of Alabama followed with an hour
+							speech. Committee rose— Adjourned—</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-04">
+					<head>4 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-04"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Foreign Relations</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>Press</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="4" type="ms"/>
+						<dateline>Washington Saturday 4. January 1845.</dateline>
+						<p><date>4. V:15. </date>Saturday</p>
+						<list>
+							<item><persRef ref="owen-robert">Owen Robert</persRef></item>
+							<item>Elliott Jesse D.</item>
+							<item>Parker Daniel</item>
+							<item>Upton Charles H.</item>
+							<item><persRef ref="davis-james3">Davis James N</persRef></item>
+							<item><persRef ref="delano-william">Delano William J</persRef></item>
+							<item><persRef ref="jefferson-f">Jefferson F.</persRef></item>
+						</list>
+						<p>I despatched this morning <persRef ref="elliott-jesse">Commodore
+								Elliotts</persRef> medal to <persRef key="clay-henry">M<hi
+									rend="superscript">r</hi> Henry Clay</persRef>, with a Letter by
+							the Mail—and I received from Commodore Elliott another note, requesting
+							my opinion and advice, whether he might without impropriety present a
+							copy of his medal to each of the foreign ministers residing here. I
+							called on him at <persRef ref="fuller-azariah">Fuller’s</persRef> hotel,
+							and said to him that I did not see any objection to his presenting a
+							bronze medal to each of the foreign ministers— Though there might be
+							some objection to his receiving presents from them in return. He then
+							told me of presents that he had made to the <persRef ref="saidbinsultan"
+								>sultan of Muscat</persRef>, and the <persRef ref="ibrahimpasha"
+								>Son</persRef> of the <persRef ref="muhammadali">Bey of
+								Egypt</persRef>, and their return presents which he had transmitted
+							to the Department of State— They told me at Fuller’s that <persRef
+								ref="cushing-caleb">M<hi rend="superscript">r</hi> Caleb
+								Cushing</persRef> had arrived there this morning; returned from his
+							successful mission to China—in which he has succeeded to negotiate an
+							advantageous treaty— At the house, I found them taking the yeas and
+							nays, on a motion made by <persRef ref="mcclernand-john"
+								>M’Clernand</persRef> of Illinois to lay on the table a memorial
+							from certain quakers of the city of New-York, presented by <persRef
+								ref="phoenix-jonas">M<hi rend="superscript">r</hi>
+							Phoenix</persRef>— The vote to lay on the table was carried by the
+							casting vote of the <persRef ref="jones-john9">Speaker</persRef> 87 to
+							87.— <persRef ref="chapman-reuben">Chapman</persRef> had previously made
+							a long personal explanation about a complaint he had made against an
+							Article in the National Intelligencer last August charging the State of
+							Alabama with repudiating her debts— <persRef ref="bayly-thomas3"
+								>Baily</persRef> moved to go into Committee of the whole on the
+							state of the Union to take up the Resolutions for the annexation of
+							Texas—which was done.— <persRef ref="douglas-stephen">Douglass</persRef>
+							wanted to speak upon his own amendment, but not having his papers with
+							him, was not ready; he moved the Committee to rise but they refused—
+								<persRef ref="rhett-robert">Rhett</persRef> advised him to withdraw
+							his preamble and let the debate proceed on his first Resolution, which
+							was the simple proposition that Texas should be annexed to the United
+							States; Douglass assented—<persRef ref="ingersoll-joseph">Joseph R.
+								Ingersoll</persRef>, made an hour speech against annexation, and
+								<persRef ref="payne-william3">W. W. Payne</persRef> a furious one in
+							favour of it— <persRef ref="winthrop-robert">Winthrop</persRef> then
+							took the floor—the Committee rose and the house adjourned.— <persRef
+								ref="upton-charles">C. H. Upton</persRef> invited me to a lecture by
+							him this Evening against the annexation of Texas but I missed it.
+								<persRef ref="parker-daniel">General Parker</persRef> was here this
+							Evening. I supped with the Typographical Society. Home at 11. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-05">
+					<head>5 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-05"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="5" type="ms"/>
+						<dateline>Washington Sunday 5. January 1845.</dateline>
+						<p><date>5. VI.10. </date>Sunday.</p>
+						<p>Public worship in the Hall of the House of Representatives. The
+							prayer—the singing, and the reading of a chapter of the Bible, were
+							performed by <persRef ref="tustin-septimus">M<hi rend="superscript"
+									>r</hi> Tustin</persRef> the Chaplain of the Senate— The Sermon
+							was preached by <persRef ref="olin-stephen">D<hi rend="superscript"
+									>r</hi> Stephen Olin</persRef> the President of the Wesleyan
+							University at Middletown, Connecticut— His text was John 14.1. “Let not
+							your heart be troubled; ye believe in God, believe also in me.”— D<hi
+								rend="superscript">r.</hi> Olin is a man upwards of 6. feet tall;
+							framed for a ploughman or a wood cutter— With an anxious, deeply
+							thoughtful, not unpleasing countenance, sprawling limbs, and great
+							aukwardness of gesticulation. But he preaches with out notes—with
+							uninterrupted fluency, plain but very appropriate language, close
+							argument, well chosen, and at times elegant elocution— After some verbal
+							criticism upon the two moods in the application of the verb believe, the
+							doctrine that he derived from the text was that Jesus Christ assuming as
+							a fact that the disciples to whom he spoke believed in God, warned them
+							that this belief was of itself not sufficient to satisfy the wants of
+							their nature— That belief in God was taught by the visible creation— But
+							the belief in God, is a barren and profitless creed unless subsidiary to
+							it is the belief of a responsible hereafter to the existence of man; and
+							to this the belief in Christ is indispensable— This appears to me, a
+							very ingenious exposition of the text, and the developements of the
+							argument were all consistent with it, judiciously selected and happily
+							combined— The house was crowded, and the auditory chained in attention
+							for an hour and a quarter.— After the service I returned the visit
+							received on Friday, from <persRef ref="benton-thomas">M<hi
+									rend="superscript">r</hi> Thomas Hart Benton</persRef>, Senator
+							from Missouri—the first in a period of 25 years of a common residence of
+							him and me in this city.— <persRef ref="benton-elizabeth">His
+								wife</persRef>, <persRef ref="benton-john">son</persRef> and
+								<persRef ref="fremont-jessie;jones-elizabeth;jacob-sarah">three
+								daughters</persRef> were there, and <persRef ref="fremont-john"
+								>Lieutenant Fremont</persRef>, his son in Law— After dinner at S<hi
+								rend="superscript">t.</hi> John’s Church, <persRef ref="pyne-smith"
+									>M<hi rend="superscript">r</hi> Pyne</persRef> read the Evening
+							service for the second Sunday after Christmas and preached from Hebrews
+							13.5. “Let your conversation be without covetousness; and be content
+							with such things as ye have: for he hath said, I will never leave thee,
+							nor forsake thee.” An exhortation to contentment. <persRef
+								ref="mason-john4">M<hi rend="superscript">r</hi> John Mason jun<hi
+									rend="superscript">r.</hi></persRef> told me that the grand jury
+							had indicted <persRef ref="sangster-thomas">T. Sangster</persRef>, and
+							said he hoped I would not interpose to screen him from punishment.
+								<persRef ref="cutts-richard2">Richard D. Cutts</persRef> was here
+							this evening. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-06">
+					<head>6 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-06"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+						<subject>Democratic Party (after 1824)</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="6" type="ms"/>
+						<dateline>Washington Monday 6. January 1845</dateline>
+						<p><date>6. V:15. </date>Monday.</p>
+						<p>My conversation with <persRef ref="parker-daniel">General
+								Parker</persRef> on Saturday evening was interrupted by an
+							engagement to attend the Lecture of <persRef ref="upton-charles">M<hi
+									rend="superscript">r</hi> Upton</persRef> against the annexation
+							of Texas which was announced for 7 in the evening— It was half past 7
+							when I went to concert hall, but not a soul was there— I had another
+							engagement at half past 8. and walked home to meet it— I had received a
+							written invitation from <persRef ref="jefferson-f">F.
+								Jefferson</persRef>, <persRef ref="davis-james3">James N.
+								Davis</persRef>, and <persRef ref="delano-william">William J.
+								Delano</persRef>, a Committee of invitation of the Columbia
+							Typographical association to a supper, on the temperance principle in
+							celebration of their 30<hi rend="superscript">th.</hi> anniversary— I
+							had accepted this invitation; and at half past 8. M<hi
+								rend="superscript">r</hi> Davis and M<hi rend="superscript">r</hi>
+							Delano came in a carriage and accompanied me to Congress hall— The
+							supper was plentiful but not luxurious— The beverage cold water, coffee
+							and lemonade— The company, about 70., journey men printers— F. Jefferson
+							President— The invited guests, besides myself were <persRef
+								ref="seaton-william">W. W. Seaton</persRef>, Mayor of the City,
+								<persRef ref="severance-luther">Luther Severance</persRef>, Member
+							of Congress from Maine, and Editor of a Newspaper there, and <persRef
+								ref="u">M<hi rend="superscript">r</hi> Gallagher</persRef> a member
+							of the Senate of Virginia. The exclusion of all spirituous liquors, M<hi
+								rend="superscript">r</hi> Jefferson said was an experiment, and it
+							succeeded admirably well— There was much hilarity, but no disorder nor
+							indecency— The regular toasts were given in continual succession— The
+							volunteers complimentary to the invited guests, and drew a speech and a
+							sentiment from each of them— I left them and came home shortly before
+							midnight— At the house this day, after short preliminaries the rules
+							were suspended to go into Committee of the whole on the state of the
+							Union, <persRef ref="hopkins-george">Hopkins</persRef> in the chair upon
+							the Resolutions for the annexation of Texas to the United States.
+								<persRef ref="winthrop-robert">Robert C. Winthrop</persRef> who had
+							taken the floor on Saturday, made an hour speech against the
+							Resolutions, and was followed by one of an equal length by <persRef
+								ref="douglas-stephen">Douglas</persRef> in their favour— <persRef
+								ref="clingman-thomas">Clingman</persRef> of North Carolina, employed
+							his hour not in the discussion of the Texas question but in exposing the
+							frauds practiced by the democratic party in the recent presidential
+							election— when his hour expired—<persRef ref="yancey-william"
+								>Yancey</persRef> a new member from Alabama moved the Committee to
+							rise, which they did— <persRef ref="mckay-james">M’Kay</persRef>,
+							chairman of the Committee of Ways and Means reported four of the general
+							appropriation Bills—Indian—Pension Military Academy; and Post Office—
+							Referred— Snow and Rain. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-07">
+					<head>7 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="7" type="ms"/>
+						<dateline>Washington Tuesday 7. January 1845—</dateline>
+						<p><date>7. VI. </date>Tuesday.</p>
+						<list>
+							<item>Owen Robert</item>
+							<item><persRef ref="cutts-richard2">Cutts Richard D.</persRef></item>
+							<item><persRef ref="cutts-mary">Mary E. E. Cutts</persRef></item>
+							<item><persRef ref="u">Wilcocks</persRef>.</item>
+							<item><persRef ref="u">Cochran</persRef></item>
+							<item>Cheever of Wrentham</item>
+							<item>Cheever</item>
+						</list>
+						<p><persRef ref="owen-robert">M<hi rend="superscript">r</hi> Robert
+								Owen</persRef> called on me again this morning, and requested me to
+							ask the use of the hall of the house of Representatives, for him to
+							deliver four lectures in four successive weeks commencing on Wednesday
+							the 15<hi rend="superscript">th.</hi> of this month, upon his system of
+							social reform. He had heretofore expressed the desire to deliver his
+							Lectures in the Senate chamber of which I reminded him—but he said
+								<persRef ref="mangum-willie">M<hi rend="superscript">r</hi>
+								Mangum</persRef> the President of the Senate had informed him that
+							he had not the power to grant the use of that hall, and that the members
+							of the Senate were all averse to granting the use of it for any purpose.
+							I told M<hi rend="superscript">r</hi> Owen I would make the motion— A
+							young man by the name of <persRef ref="u">Cheever</persRef>, a resident
+							of this city, came, with <persRef ref="u">his father</persRef> a citizen
+							of Wrentham, Massachusetts and of course one of my constituents— The
+							father, a man within 2 years of my own age—is here on a visit of a few
+							days to his son told me that he was a constant attendant on the town
+							meeting elections, and at the late election had voted for me— And he
+							rejoiced that there had been so large a majority for me in the
+							District.— At the house, before I reached it the <persRef
+								ref="jones-john9">Speaker</persRef> had made an explanation
+							referring to a statement by <persRef ref="clingman-thomas"
+								>Clingman</persRef> yesterday that the abolition reporter <persRef
+								ref="leavitt-joshua">Joshua Leavitt</persRef> had been refused a
+							seat at the last Session, and now occupied one of the best in the house,
+							said that he had assigned no seat to M<hi rend="superscript">r</hi>
+							Leavitt but had merely directed that until the arrangements should be
+							made for about 30. reporters, which took time, no one should be ejected
+							from any seat that he should take— I found <persRef ref="hale-john">John
+								P. Hale</persRef> offering 8. Resolutions of the Legislature of
+							New-Hampshire in favour of the annexation of Texas—the last of which
+							declared their opinion that the annexation of Texas would increase,
+							instead of diminishing the number of the free States— The Resolutions
+							were read and referred to the Committee of the whole House on the State
+							of the Union; where Hale said he should move an amendment to the
+							annexation Resolution to test the opinion expressed in the 8<hi
+								rend="superscript">th.</hi> Resolution. The house went into
+							Committee of the whole on the state of the Union <persRef
+								ref="hopkins-george">Hopkins</persRef> in the chair and <persRef
+								ref="yancey-william">Yancey</persRef> of Alabama, and <persRef
+								ref="bayly-thomas3">Bailey</persRef> of Virginia used up two hours
+							for annexation, and <persRef ref="stetson-lemuel">Stetson</persRef> of
+							New-York, one for and against it— The Committee rose at the motion of
+								<persRef ref="smith-caleb">Caleb B. Smith</persRef>. I moved for the
+							use of the use of the Hall for Robert Owen to deliver 4 lectures, but
+							before I could get the question the house adjourned. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-08">
+					<head>8 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-08"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Whig Party</subject>
+						<subject>Adams Family Finances</subject>
+						<subject>War of 1812</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="8" type="ms"/>
+						<dateline>Washington Wednesday 8 January 1845.</dateline>
+						<p><date>8. IV:45. </date>Wednesday.</p>
+						<list>
+							<item>Owen Robert</item>
+							<item>Dewey Samuel W.</item>
+							<item>Taylor G. W.</item>
+							<item><persRef ref="hastings-john2">Hastings John</persRef>.</item>
+						</list>
+						<p>When I made the motion yesterday in the house that the use of the Hall
+							should be granted to <persRef ref="owen-robert">Robert Owen</persRef>
+							for the delivery of four weekly lectures, upon his projects of
+							reformation in human Society, there was evidently a majority of the
+							house favourable to the motion. But two large classes of the members
+							were startled— The whigs generally who generally entertain strong
+							prejudices against the man, and his projects— And the Southern
+							Slave-mongers—in a state of perpetual panic, and who suspected that I
+							made this motion only to get a precedent settled, and to ask the use of
+							the hall hereafter for some abolition or anti-slavery meeting— <persRef
+								ref="arrington-archibald">Arrington</persRef> of North-Carolina
+							moved to lay the resolution on the table— This was by a considerable
+							majority refused— <persRef ref="black-edward">Black</persRef> of
+							Georgia, and <persRef ref="reding-john">Reading</persRef> of
+							New-Hampshire successively moved to adjourn— Black failed, but Reding
+							succeeded and the question was not taken. This morning M<hi
+								rend="superscript">r</hi> Owen came, and said he heard from <persRef
+								ref="owen-robert2">his son</persRef>, and some of his friends that
+							the objection was to the expence of lighting up the Hall, and that he
+							would compress his discourses so as to ask the use of the Hall, for only
+							two evenings, on the 29<hi rend="superscript">th.</hi> of this month and
+							the 5<hi rend="superscript">th.</hi> of February— I called and balanced
+							my Bank book at the Bank of the Metropolis— Then at <persRef
+								ref="gouverneur-samuel">Samuel L. Gouverneur’s</persRef> but the
+							Servant told me he was gone to his farm in Virginia.— At the house
+								<persRef ref="tustin-septimus">M<hi rend="superscript">r</hi>
+								Tustin</persRef> formed his prayer for the day; being the
+							anniversary of the battle of New-Orleans.— I called up the question upon
+							my motion to grant the use of the hall to Robert Owen, and modified it
+							so as to ask it only for two nights— <persRef ref="hammett-william"
+								>Hammett</persRef> the Irishman of Mississippi, opposed it on the
+							pretence that he would never vote for granting the use of the hall for
+							any purpose other than its appropriate use.— Arrington moved again to
+							lay the resolution on the table and it was carried by yeas and nays 91
+							to 63— 24. whigs among the ayes.— <persRef ref="dromgoole-george"
+								>Dromgoole</persRef> introduced by leave another Bill for the
+							annexation of Texas, which was twice read and referred to the Committee
+							of the whole on the state of the Union— <persRef ref="burke-edmund4"
+								>Burke</persRef> offered inflammatory Resolutions of the Legislature
+							of New-Hampshire, concerning the <persRef ref="dorr-thomas"
+								>Dorr</persRef> controversy—but they were not received— <persRef
+								ref="smith-caleb">Caleb B. Smith</persRef> and Robert Dale Owen of
+							Indiana made adverse speeches on the Texas annexation question— Evening
+							visitors <persRef ref="dewey-samuel">Dewey</persRef> and <persRef
+								ref="taylor-george6">Taylor</persRef>. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-09">
+					<head>9 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-09"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Science and Technology</subject>
+						<subject>Slave Trade</subject>
+						<subject>Adams-Onis Treaty</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="9" type="ms"/>
+						<dateline>Washington Thursday 9. January 1845</dateline>
+						<p><date>9. VI. </date>Thursday—</p>
+						<list>
+							<item>Leavitt Joshua</item>
+							<item>Owen Robert</item>
+							<item>Gouverneur, Samuel L</item>
+							<item><persRef ref="u">Shaw</persRef></item>
+							<item><persRef ref="u">Phillips</persRef></item>
+							<item><persRef ref="sykes-george">Sykes</persRef></item>
+							<item><persRef ref="mayo-robert">Mayo</persRef></item>
+							<item>Gouverneur Samuel j<hi rend="superscript">r</hi></item>
+						</list>
+						<p><persRef ref="dewey-samuel">M<hi rend="superscript">r</hi>
+								Dewey</persRef> and <persRef ref="taylor-george6">M<hi
+									rend="superscript">r</hi> Taylor</persRef> were here last
+							Evening— M<hi rend="superscript">r</hi> Dewey is a Letter writer or
+							Reporter for some distant newspaper, and wanted to have the resolution
+							for granting the use of the hall to <persRef ref="owen-robert">Robert
+								Owen</persRef>, taken up again and reconsidered— He thought the
+							house upon reconsideration would grant it— M<hi rend="superscript"
+								>r.</hi> Taylor claims to be the inventor of the submarine battery
+							which goes by the name of <persRef ref="colt-samuel">Colt</persRef> and
+							spoke of the experiment which he made 3 years ago of going down into the
+							river at the Navy-Yard, and blowing up an old hulk which I witnessed— He
+							now proposes other similar but more wonderful experiments, but proposes
+							to cure colds, coughs and consumption of the lungs, by these submarine
+							exhibitions— He says the apparatus for protecting the person underwater
+							generates such a superfluity of oxygen, as has an extraordinary efficacy
+							in clearing off obstructions upon the lungs sufficient to cure an
+							obstinate consumption— <persRef ref="leavitt-joshua">M<hi
+									rend="superscript">r</hi> Leavitt</persRef> called this morning,
+							and left with me a folio pamphlet Class D 1843 of papers communicated to
+							the British Parliament relating to the Slave-trade. M<hi
+								rend="superscript">r</hi> Robert Owen came also, and thanked me, for
+							offering the resolution to grant the use of the Hall of the House of
+							Representatives for the delivery of his Lectures— He professed to be
+							satisfied with the result, and said he would find from some other mode
+							of communicating his views to the public— My only doubt is whether I did
+							not stretch my complaisance to him too far in asking for him the use of
+							the hall. <persRef ref="gouverneur-samuel">M<hi rend="superscript"
+									>r</hi> Gouverneur</persRef> was also here—returned from
+							Virginia— He put into my hands a number of Letters to <persRef
+								key="monroe-james">M<hi rend="superscript">r</hi> Monroe</persRef>,
+							received by him, during the negotiation of the Florida Treaty— I asked
+							him to let me see the Letters from <persRef ref="jackson-andrew">Gen<hi
+									rend="superscript">l.</hi> Jackson</persRef> to M<hi
+								rend="superscript">r</hi> Monroe from which he had given me extracts
+							— He said he would send them to me by <persRef ref="gouverneur-samuel2"
+								>his Son</persRef>, and he did so—he came with them while we were at
+							dinner— He told me that <persRef ref="lewis-william3">Major
+								Lewis</persRef> had asked him to give <hi rend="italic">him</hi>
+							these Letters but he declined— He advised me to see <persRef
+								ref="jesup-thomas">General Jesup</persRef>.— I found <persRef
+								ref="hopkins-george">Hopkins</persRef> in the Chair of the Committee
+							of the whole on the state of the Union, and <persRef ref="hamlin-edward"
+								>Hamlin</persRef> of Ohio speaking against the annexation of Texas—
+								<persRef ref="weller-john">Weller</persRef> followed on the other
+							side and <persRef ref="cary-shepard">Shepard Cary</persRef> of Maine—
+								<persRef ref="sample-samuel">Sample</persRef> took the floor for
+							to-morrow. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-10">
+					<head>10 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-10"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Supreme Court</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="10" type="ms"/>
+						<dateline>Washington Friday 10 January 1845</dateline>
+						<p><date>10. VI. </date>Friday.</p>
+						<list>
+							<item>Cushing Caleb.</item>
+						</list>
+						<p><persRef ref="sykes-george">M<hi rend="superscript">r</hi>
+								Sykes</persRef>, a member of the house of Representatives from
+							New-Jersey with two persons from Philadelphia, by the names of <persRef
+								ref="u">Shaw</persRef> and <persRef ref="u">Phillips</persRef> were
+							among my visitors yesterday; and <persRef ref="cushing-caleb">M<hi
+									rend="superscript">r</hi> Cushing</persRef> the Minister
+							recently returned from China was here yesterday or the day before— And
+								<persRef ref="mayo-robert">D<hi rend="superscript">r</hi>
+								Mayo</persRef> came and with much mystery of manner asked for a word
+							of private conversation with me, which was only to suggest to me the
+							idea of offering a Resolution to refer this question to the decision of
+							the Supreme Court of the United States.— But there is no doubt that
+							constituted as it is, with a majority of slaveholding judges on the
+							bench, they would decide that Congress in the power of admitting new
+							States into the Union, have the power incidental to it of acquiring by
+							purchase the territory of which new States may be formed— And that the
+							power of declaring War carries with it the power of acquiring territory
+							by conquest.— The real constitutional incompetency of congress is that
+							of conferring the civil and political rights of citizens of the United
+							States upon the people of the acquired territory, and of holding them to
+							the duties of allegiances, without their own consent.— This objection is
+							insurmountable; but the Supreme Court would consider it settled by the
+							precedents of Louisiana and Florida. At the house this day <persRef
+								ref="hale-john">John P. Hale</persRef> made two attempts to
+							introduce his amendment to all the proposed Bills or Resolutions for the
+							annexation of Texas— It is that the territory should be divided into two
+							equal parts, and that in the part South and West of the line there shall
+							be neither Slavery nor involuntary Servitude— His first attempt was
+							pronounced by the <persRef ref="jones-john9">Speaker</persRef> to be not
+							in order— At the second he moved a suspension of the rules, and called
+							for the yeas and nays— The vote was 92 to 82. a majority of ten for the
+							leave to offer the amendment; but not two thirds and therefore it was
+							not received— Upwards of an hour was consumed in voting on a resolution
+							for changing the daily hour of meeting from noon to 11. A.M. <persRef
+								ref="seymour-david">David L Seymour</persRef> had moved a substitute
+							amendment to hold evening Sessions at 7. O’Clock The previous question
+							was lost by count and carried by tellers. Seymour’s amendment was
+							rejected without count— And the Resolution was lost by yeas and nays 72
+							to 79.— Committee of the whole on the state of the Union. <persRef
+								ref="hopkins-george">G. W. Hopkins</persRef> in the chair, <persRef
+								ref="sample-samuel">Samuel C. Sample</persRef> of Indiana, and
+								<persRef ref="dean-ezra">Ezra Dean</persRef> of Ohio made hour
+							speeches against and for the annexation of Texas— <persRef
+								ref="kennedy-john">John P. Kennedy</persRef> then moved the
+							Committee to rise— Carried. A Message from the <persRef ref="tyler-john"
+								>President</persRef>.— The instructions to <persRef
+								ref="erving-george">G. W. Erving</persRef>— Laid on the table, and
+							ordered to be printed. <persRef ref="pratt-zadock">Zadok Pratt</persRef>
+							chairman of the Committee on the public buildings reported a bill of
+							appropriation for the President’s house. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-11">
+					<head>11 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-11"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>War of 1812</subject>
+						<subject>Hartford Convention (1814-1815)</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="11" type="ms"/>
+						<dateline>Washington Saturday 11 January 1845.</dateline>
+						<p><date>11. VI. </date>Saturday.</p>
+						<list>
+							<item>Jesup Thomas S. </item>
+						</list>
+						<p>Morning visit from <persRef ref="jesup-thomas">Brevet, major-general, and
+								Quarter-master General Jesup</persRef>, and I had a conversation of
+							nearly three hours with him. He was on the 30<hi rend="superscript"
+								>th.</hi> of January 1809. appointed a second lieutenant of infantry
+							in the army of the United States, and has continued in the service ever
+							since— At an early period he became a higly confidential officer and
+							during the War with Great Britain was sent in secret and confidential
+							mission to watch the movements of the Hartford Convention, and to keep
+								<persRef ref="madison-james">President Madison</persRef>, and
+								<persRef key="monroe-james">M<hi rend="superscript">r</hi>
+								Monroe</persRef>, then Secretary of War constantly advised of them.
+							From that time till the close of M<hi rend="superscript">r</hi> Monroe’s
+							administration; he was in the intimate confidence of M<hi
+								rend="superscript">r</hi> Monroe, and was often consulted by him
+							with regard to the measures of his administration— He was so
+							particularly upon the secret mission of <persRef ref="graham-george"
+								>George Graham</persRef> to Galveston in 1818.— Jesup gave to
+								<persRef ref="ingersoll-charles">C. J. Ingersoll</persRef> the
+							information upon which he procured at the Department of State, the copy
+							of my instructions to George Graham on his departure upon that mission.—
+							Jackson has always been friendly to Jesup, and supported him against the
+							intrigues and persecutions of Jesup’s enemies during Jackson’s
+							administration and that of his successor <persRef ref="vanburen-martin"
+								>Van Buren</persRef>.— He confidently believes that <persRef
+								ref="erving-george">George W. Erving</persRef>, did pretend that he
+							had brought the Spanish Government to agree to a Treaty making the Rio
+							del Norte the boundary— He said he had made the late <persRef
+								ref="baldwin-henry">judge Baldwin</persRef> believe it; and also
+								<persRef ref="benton-thomas">Col<hi rend="superscript">l.</hi>
+								Benton</persRef>—and he was under a strong impression that Erving
+							had attempted to shake M<hi rend="superscript">r</hi> Monroe’s
+							confidence in me.— This conference detained me till near one O’Clock
+							before I reached the house. The hour had been occupied in receiving
+							numerous reports and Resolutions of Committees, and two or three bills
+							of no importance had been passed— The last was a Resolution reported
+							from a Committee by <persRef ref="hamlin-hannibal">Hannibal
+								Hamlin</persRef>, for an allowance of pay to <persRef
+								ref="goggin-william">Goggin</persRef> while he contested the
+							election of <persRef ref="gilmer-thomas">Gilmer</persRef>— But without
+							taking the question the house went into Committee of the whole on the
+							state of the Union, <persRef ref="hopkins-george">G. W.
+								Hopkins</persRef> in the chair; and <persRef ref="kennedy-john">John
+								P. Kennedy</persRef> made an hour speech against all the annexation
+							Bills and Resolutions and <hi rend="strikethrough">John B. Dawson</hi>
+							<persRef ref="morse-isaac">Morse</persRef> of S<hi rend="superscript"
+								>t.</hi> Martinsville another for immediate annexation in any one of
+							the proposed forms— <persRef ref="tibbatts-john">Tibbatts</persRef> of
+							Kentucky took the floor, the Committee rose not without a struggle, and
+							the house adjourned— In the evening with <persRef ref="hellen-mary">M<hi
+									rend="superscript">rs</hi> John Adams</persRef>, <persRef
+								ref="hellen-walter2">Walter Hellen</persRef> and <persRef
+								ref="adams-mary4">Mary-Louisa</persRef>, I attended a concert of
+							sacred music at the Church. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-12">
+					<head>12 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-12"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="12" type="ms"/>
+						<dateline>Washington Sunday 12 January 1845.</dateline>
+						<p><date>12. V.15. </date>Sunday.</p>
+						<list>
+							<item>Cutts Richard D.</item>
+							<item>Mary E. E. Cutts</item>
+						</list>
+						<p>In the hall of the house of representatives the services of the morning
+							were performed by <persRef ref="u">M<hi rend="superscript">r</hi>
+								Fisher</persRef>, a Clergyman from Kentucky <persRef
+								ref="tinsley-isaac">M<hi rend="superscript">r</hi> Tinsley</persRef>
+							the chaplain of the house at the last Session of Congress, and <persRef
+								ref="daily-william">M<hi rend="superscript">r</hi> Daily</persRef>
+							the present chaplain. M<hi rend="superscript">r</hi> Fisher began by
+							reading the first Psalm, and a beautiful trinitarian hymns from the hymn
+							book which he requested the auditory to sing. But he not being able to
+							set the tune himself, whatever melody they made in their hearts, there
+							was little harmony in their voices. M<hi rend="superscript">r</hi>
+							Tinsley made the prayer before the Sermon, and M<hi rend="superscript"
+								>r</hi> Fisher preached from John 19.5—the last words of the verse—
+							“Behold the man!” [“]Ecce homo”— The argument of the discourse was the
+							divinity and humanity of Jesus Christ— The God— Man—
+							Fervent—fluent—vehement, the contrast between the omnipotence of God,
+							and the impotence and agonies of the man, formed the field of
+							commonplace eloquence for Roman Catholic, Presbyterian and Methodist
+							pulpit oratory.— All the passages of <persRef ref="paul"
+								>Paul’s</persRef> epistles which speak of Jesus Christ as him—by
+							whom God made the worlds, all the passages in the Prophets and Psalms,
+							applied by S<hi rend="superscript">t.</hi> Paul to Jesus Christ were
+							cited, to prove that Jesus Christ was God; and then all the incidents of
+							the trial before <persRef ref="pontiuspilate">Pilate</persRef> and of
+							the crucifixion— Each of these theories taken by itself is to me a
+							tremendous trial of faith—combined together and pressed upon my
+							conscience at once my reason revolts at the thought— I cannot believe
+							it, and the more intensely and peremptorily it is urged the more my
+							conscience stiffens against it— The house was well filled and the
+							auditory very attentive listeners— After the service was over, the
+							preacher with M<hi rend="superscript">r</hi> Daly and M<hi
+								rend="superscript">r</hi> Tinsley came and shook hands with me. M<hi
+								rend="superscript">r.</hi> Tinsley told me that he had been to
+							Philadelphia, and had a tumour taken out of his forehead which had
+							confined him ten days; and that by coming out too soon he had contracted
+							a severe catarrhal cold— After dinner at S<hi rend="superscript">t.</hi>
+							John’s church, <persRef ref="pyne-smith">M<hi rend="superscript">r</hi>
+								Pyne</persRef> read the Evening service for the first Sunday after
+							the Epiphany, and preached from Romans 5.1. “Therefore being justified
+							by faith, we have peace with God, through our Lord Jesus Christ.” The
+							justifying which makes peace with God through Jesus Christ, is a clear
+							intelligible theme, and was admirably handled by M<hi rend="superscript"
+								>r</hi> Pyne. <persRef ref="cutts-richard2;cutts-mary">Richard and
+								Mary E E Cutts</persRef> were here this evening </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-13">
+					<head>13 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-13"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Press</subject>
+						<subject>Texas Annexation (1845)</subject>
+						<subject>Slavery</subject>
+						<subject>Democratic Party (after 1824)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="13" type="ms"/>
+						<dateline>Washington Monday 13 January 1845.</dateline>
+						<p><date>13. V:45. </date>Monday—</p>
+						<list>
+							<item>M<hi rend="superscript">rs</hi> Wright</item>
+						</list>
+						<p><persRef ref="wright-hannah">M<hi rend="superscript">rs</hi>
+								Wright</persRef> is the wife of a <persRef ref="u">poor
+								man</persRef> in prison for debt, and making efforts to obtain his
+							release—in distress also for her own subsistence. She applied for relief
+							once before during the last session of Congress. The numbers of persons
+							soliciting alms in various modes, multiplies in portentous magnitude— At
+							the house <persRef ref="kennedy-john">John P. Kennedy</persRef> made an
+							explanation to correct an error in the Globe’s report of his Speech on
+							Saturday. The report indicating a charge against <persRef
+								ref="belser-james">Belser</persRef> of Alabama from which the speech
+							had expressly exonerated him. <persRef ref="peyton-joseph"
+								>Peyton</persRef> of Tennessee offered a Resolution of instruction
+							to the Committee of public expenditures, to ascertain and report the
+							amount of the cost by printing and otherwise of the interference by the
+							house in the Rhode-Island controversy. Objection made Peyton moved a
+							suspension of the rules—lost by yeas and nays 78 to 80 <persRef
+								ref="hammett-william">Hammett</persRef> from the Committee of
+							foreign affairs introduced a bill to authorise the sale of two Arabian
+							horses, a present from the <persRef ref="saidbinsultan">Sultan of
+								Muscat</persRef> and the Bill was passed— Committee of the whole on
+							the state of the Union, <persRef ref="hopkins-george">G. W.
+								Hopkins</persRef> in the chair— <persRef ref="johnson-cave">Cave
+								Johnson</persRef> had previously offered a Resolution to close the
+							debate in Committee on the annexation of Texas next Thursday afternoon
+							at 2. O’Clock. He moved the previous question—but <persRef
+								ref="sample-samuel">Sample</persRef> moved to lay the Resolution on
+							the table upon which <persRef ref="schenck-robert">Schenk</persRef>
+							called the yeas and nays which were 127 to 54.— They are not yet ready
+							to close the debate—but <persRef ref="foster-ephraim">Foster</persRef> a
+							Senator from Tennessee in the Senate and <persRef ref="brown-milton"
+								>Milton Brown</persRef> in the house offered this day the most
+							insidious proposal yet made— A Missouri compromise, giving to Slavery
+							all the territory South of 36.30 and preparing to recede to Mexico all
+							the territory North of that line.<space/><persRef ref="tibbatts-john"
+								>Tibbatts</persRef> of Kentucky made an hour speech for the
+							annexation, upon the constitutional question; the whole compass of which
+							was intrepid assertion of the prior right of France to Texas over that
+							of Spain, and misapplication of numerous extracts from <persRef
+								ref="story-joseph">judge Story’s</persRef> commentaries on the
+							Constitution. He was followed by<space/><persRef ref="brinkerhoff-jacob"
+								>Brinkerhoff</persRef> an Ohio Democrat, against all the annexation
+							projects, and exposing with great spirit the sectional and
+							slavemongering aspects of the whole subject. <persRef
+								ref="chappell-absalom">Absalom H. Chappell</persRef> of Georgia
+							replied to Brinkerhoff, maintaining that the annexation of Texas is a
+							great National question.— Each of these was an hour speech— <persRef
+								ref="holmes-isaac">Holmes</persRef> then took the floor—the
+							Committee rose, and the house adjourned</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-14">
+					<head>14 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-14"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Press</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="14" type="ms"/>
+						<dateline>Washington Tuesday. 14 January 1845.</dateline>
+						<p><date>14. V.30 </date>Tuesday</p>
+						<list>
+							<item><persRef ref="duer-william">Duer William</persRef></item>
+							<item><persRef ref="connell-john">Connell John</persRef>
+							</item>
+						</list>
+						<p><persRef ref="hellen-mary">M<hi rend="superscript">rs</hi> John
+								Adams</persRef> and <persRef ref="hellen-walter2">Walter
+								Hellen</persRef> went last Evening to a large weekly party at the
+							house of <persRef ref="wilkins-william">M<hi rend="superscript">r</hi>
+								William Wilkins</persRef> the Secretary of War— It was an immense
+							crowd, and the heat of the rooms was excessive— Walter Hellen who had
+							already a severe cold upon him danced almost the whole evening, and rose
+							this morning with an extinguished voice and a sore throat, which alarmed
+							me, and for which against his will, I sent for <persRef
+								ref="thomas-john7">D<hi rend="superscript">r</hi> Thomas</persRef>
+							to see and prescribe for him. The Globe of last evening contains the
+							Letter from <persRef ref="erving-george">George W. Erving</persRef> to a
+							friend, dated 12. November 1844 to a friend—Paris—being his answer to my
+							charge against him in my address of 7. October 1844 to the young men of
+							Boston— He had it printed on a folio sheet of paper at Paris of which he
+							sent three copies, one to <persRef ref="winthrop-robert">Robert C.
+								Winthrop</persRef>, and one for each of the newspapers the Globe and
+							the Madisonian— Winthrop had mentioned this to me, last Friday, and
+							yesterday morning he lent me the copy of the printed sheet that Erving
+							had sent him for himself.— At the house, <persRef ref="pratt-zadock"
+								>Zadok Pratt</persRef> of New-York offered a Resolution of extensive
+							enquiry of the <persRef ref="calhoun-john">Secretary of State</persRef>
+							of the amount of the debt and of the granted and ungranted lands within
+							the undisputed limits of Texas which was adopted— <persRef
+								ref="kennedy-john">John P. Kennedy</persRef> offered a Resolution of
+							Instruction to the Committee on the judiciary for some new provision
+							necessary for closing the proceedings under the late Bankrupt Law—
+							Objection was made, and Kennedy moved a suspension of the rules—the
+							objection was then withdrawn, and his resolution was adopted— <persRef
+								ref="atkinson-archibald">Atkinson</persRef> of Virginia made an
+							enquiry when the members of the house were to get the copies of the
+								<persRef ref="tyler-john">President’s</persRef> Message and
+							Documents. 10000 copies of which were ordered to be printed at the
+							commencement of the Session.— He received no answer, for <persRef
+								ref="hammett-william">Hammett</persRef> moved a suspension of the
+							rules to go into Committee of the whole on the state of the Union; which
+							was done. <persRef ref="hopkins-george">Hopkins</persRef> of Virginia
+							took the Chair. <persRef ref="holmes-isaac">Isaac C. Holmes</persRef> of
+							Charleston South-Carolina made the most powerful and most eloquent
+							speech in favour of annexation, that has yet been made. William J. Brown
+							of Indiana made a base one of equal length on the same side—and <persRef
+								ref="davis-garrett">Garrett Davis</persRef> of Kentucky a warm and
+							conclusive one on Constitutional grounds against it— <persRef
+								ref="bowlin-james">Bowlin</persRef> of Missouri took the floor
+							to-morrow— At 7. O’Clock this Evening <persRef ref="woodbury-levi">M<hi
+									rend="superscript">r</hi> Levi Woodbury</persRef> delivered a
+							discourse of 2 hours before the Institute</p>
+						<p/>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-15">
+					<head>15 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-15"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Smithsonian Institution</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="15" type="ms"/>
+						<dateline>Washington Wednesday 15 January 1845</dateline>
+						<p><date>15. IV.30. </date>Wednesday.</p>
+						<list>
+							<item>Lane Joshua</item>
+							<item><persRef ref="u">Edwards</persRef></item>
+							<item>Carter</item>
+						</list>
+						<p><persRef ref="woodbury-levi">M<hi rend="superscript">r</hi>
+								Woodbury’s</persRef> discourse last Evening was of about two hours
+							duration, delivered with great rapidity; replete with various and minute
+							details of modern and especially American improvements in the Arts and
+							Sciences, physical, moral, political and intellectual, tinged throughout
+							with the wormwood of democracy—like ocean brine boiled down to freshen
+							it, with a mawkish tang of the salt remaining in the taste— It was a
+							defence of our national character against the reproach of neglecting the
+							progress of Science— He drew from the nature of our democratic
+							Government the inference that scientific improvement must be the result
+							of individual exertion and private enterprize, and enumerated a great
+							multitude of American inventions from <persRef ref="fulton-robert"
+								>Fulton’s</persRef> Steamers, and <persRef ref="whitney-eli"
+								>Whitney’s</persRef> Cotton-gin, to the Western Railroad—the
+							Fairmount waterworks at Philadelphia, and the Croton aqueduct at
+							New-York— Then he touched lightly upon the promotion of Science which
+							the Government has actually patronized, the Survey of the Coast, the
+							Astronomical observatory and the exploring exhibition— He made out on
+							the whole a very good case, and closed with a liberal exhortation to
+							Congress to foster Science within the Constitutional limitations, and to
+							interweave together the capabilities of the National-Institute and the
+							Smithsonian fund. Immediately after he closed, <persRef
+								ref="seaton-william">W. W. Seaton</persRef> took the chair of the
+							meeting; a vote of thanks was passed for the discourse, with the request
+							of a copy for publication and the meeting was dissolved— This morning a
+							poor old deaf clergyman by the name of <persRef ref="lane-joshua2"
+								>Joshua Lane</persRef> came again to solicit charity, and another
+							named <persRef ref="u">Carter</persRef> came for a contribution to build
+							a Presbyterian church at Gettysburg Pennsylvania— He brought me a Letter
+							of recommendation, but I thought that Gettysburg should pay for building
+							its own churches. At the house, <persRef ref="burke-edmund4">Edmund
+								Burke</persRef>, by a suspension of the rules carried by yeas and
+							nays 106 to 32. introduced a new Bill for the annexation of Texas, twice
+							read and referred to the committee— <persRef ref="bowlin-james"
+								>Bowlin</persRef> of Missouri— <persRef ref="hardin-john"
+								>Hardin</persRef> of Illinois and <persRef ref="severance-luther"
+								>Severance</persRef> of Maine, made hour speeches in Committee for
+							and against the annexation of Texas— <persRef ref="hammett-william"
+								>Hammett</persRef> got the floor and the Committee rose— I moved a
+							call upon the <persRef ref="tyler-john">President</persRef> for
+							information— Objection was made I moved a suspension of the rules but
+							agreed to take the question tomorrow. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-16">
+					<head>16 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-16"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Press</subject>
+						<subject>Dueling</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="16" type="ms"/>
+						<dateline>Washington Thursday 16 January 1845.</dateline>
+						<p><date>16. V. </date>Thursday.</p>
+						<list>
+							<item>Gouverneur Sam<hi rend="superscript">l</hi> L</item>
+							<item>M<hi rend="superscript">rs</hi> Dwyer</item>
+							<item>Tinsley Rev<hi rend="superscript">d.</hi></item>
+						</list>
+						<p><persRef ref="gouverneur-samuel">M<hi rend="superscript">r</hi>
+								Gouverneur</persRef> called on me this morning, and shewed me a
+							Letter from <persRef ref="jackson-andrew">General Jackson</persRef> to
+							him dated at the hermitage the 4<hi rend="superscript">th.</hi> of this
+							month demanding copies of his Letters to <persRef key="monroe-james"
+								>President Monroe</persRef>, alluded to in the publication signed G.
+							in the National Intelligencer of 24. December last—and also of the
+							Letters from M<hi rend="superscript">r.</hi> Monroe to him, to which his
+							were answers— He alledges as his reason for the demand that many of his
+							own papers were destroyed when, a few years since his house at the
+							hermitage was burnt— And this Letter is addressed to the care of
+								<persRef ref="butler-benjamin">Benjamin F. Butler</persRef> at
+							New-York, who forwarded it to <persRef ref="lewis-william3">Major
+								Lewis</persRef>, from whom Gouverneur received it yesterday— He had
+							already on the 2<hi rend="superscript">d.</hi> of January, offered
+							copies for General Jackson of his Letters if he desired them. I returned
+							the Letters to him and he said he should immediately furnish copies of
+							them to Major Lewis, who told him in candour yesterday that copies of
+							them would also be furnished to the editors of the Globe.— Gouverneur
+							proposes ultimately to deposit them in the hands of some trusty person,
+							a friend of Jackson— He promised me a copy of this last Letter— While he
+							was here <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Dwyer</persRef>, widow as she said of an <persRef ref="dwyer-john"
+								>Officer</persRef> in the army brought a duo decimo volume, an Essay
+							on elocution of which she said he was the author and for which she asked
+							a dollar—but on the title page of the book he was styled not an officer
+							of the army but professor of elocution— At the house <persRef
+								ref="taylor-william11">William Taylor</persRef> of Lexington
+							Virginia Chairman of the Committee of Accounts, gave notice to the house
+							that the Committee were ready to make a report upon an interesting
+							subject, but owing to circumstances of a favourable character which had
+							occurred this morning they had agreed to postpone their report till
+							to-morrow.— <persRef ref="king-preston">Preston King</persRef> of
+							Ogdensburg, New-York, offered a Resolution for the appointment of a
+							Committee of five to enquire and report to the house whether a duel had
+							been fought by two of its members—and if so to report a resolution of
+							expulsion of all parties concerned therein— <persRef
+								ref="yancey-william">Yancey</persRef> and <persRef
+								ref="clingman-thomas">Clingman</persRef> had last Monday cracked a
+							shot at each other and then shook hands and come home— A motion to lay
+							the Resolution on the table followed and was lost 79 to 93. Then a mock
+							debate of two hours. <persRef ref="rayner-kenneth">Rayner</persRef> and
+								<persRef ref="causin-john">Causin</persRef> for the bullies and
+								<persRef ref="hamlin-hannibal">Hannibal Hamlin</persRef> for the
+							Yankees— Causin moved again and carried to lay the whole matter on the
+							table.— <persRef ref="tinsley-isaac">M<hi rend="superscript">r</hi>
+								Tinsley</persRef>, chaplain to the house at the last Session took
+							tea with us and gave me some pious advice </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-17">
+					<head>17 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-17"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb n="17" type="ms"/>
+						<dateline>Washington Friday 17. January 1845.</dateline>
+						<p><date>17. IV:30. </date>Friday.</p>
+						<p>This day was signalized by a memorable devlopement of democratic
+							defalcation.— <persRef ref="taylor-william11">Taylor</persRef> chairman
+							of the Committee of Accounts, asked leave to make a report, which was
+							granted without opposition— The report was a statement not remarkably
+							lucid, that of the sum of <unclear>237000</unclear> dollars received by <persRef
+								ref="mcnulty-caleb">Caleb J. M’Nulty</persRef> Clerk of the House on
+							account of its contingent fund there is a defalcation of about 45000
+							dollars; for which he gives no account, and that he has drawn from the
+							treasury large sums, and placed them in the hands of sundry persons in
+							the city of New-York and in the State of Ohio.— He has not only failed
+							to account for these deficiencies to the Committee, but has repeatedly
+							disregarded their calls upon him for his attendance before them. The
+							report concluded with three Resolutions. 1. That Caleb J. M’Nulty be
+							dismissed from the Office of Clerk of the house. 2 That the <persRef
+								ref="bibb-george">Secretary of the Treasury</persRef> be directed to
+							institute forthwith the necessary legal proceedings to ascertain and
+							secure the balance of public money due from him as Clerk of the house 3.
+							That the <persRef ref="tyler-john">President of the United
+								States</persRef> be requested to cause criminal prosecution to be
+							commenced against Caleb J. M’Nulty late Clerk of the House of
+							Representatives, for an embezzlement of the public money, and all
+							persons advising or know or willingly participating in such
+							embezzlement, according to the provisions of the act of Congress
+							approved 13. August 1841.— <persRef ref="weller-john">Weller</persRef>
+							of Ohio presented a Letter from a commercial house in New-York,
+							acknowledging a credit to M’Nulty on their books of 30000 dollars— And
+							Weller pledged his personal conviction that whatever may have been
+							M’Nulty’s conduct, the public will not lose a dollar by him. <persRef
+								ref="johnson-cave">Cave Johnson</persRef> moved an order to the
+								<persRef ref="lane-newton">Sergeant at arms</persRef> to <hi
+								rend="italic">arrest</hi> M’Nulty and bring him before the house. I
+							moved to strike out arrest and insert <hi rend="italic">summon</hi>
+							which was debated, but the arrest was sustained— Committee of the whole
+							on the state of the Union, <persRef ref="hopkins-george"
+								>Hopkins</persRef> in the chair— <persRef ref="hammett-william"
+								>Hammett</persRef> spoke about ten minutes, when the Sergeant at
+							arms returned with M’Nulty who took his place at the Clerk’s table as
+							usual— The Committee of the whole, rose the Resolutions of the Committee
+							of Accounts were read to M’Nulty— He gave some explanations, and
+							promised that not a dollar should be lost— The subject was postponed
+							till to-morrow 2. P.M. he in the mean-time, suspended from his functions
+							as clerk to be performed by the assistant clerk, <persRef
+								ref="french-benjamin">French</persRef>. <persRef ref="hellen-mary"
+									>M<hi rend="superscript">rs</hi> John Adams</persRef>, <persRef
+								ref="hellen-walter2">Walter Hellen</persRef> and <persRef
+								ref="adams-mary4">Mary Louisa</persRef> went to the play. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-18">
+					<head>18 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-18"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<pb n="18" type="ms"/>
+						<dateline>Washington Saturday 18 January 1845</dateline>
+						<p><date>18. IV:40. </date>Saturday—</p>
+						<list>
+							<item><persRef ref="cutts-richard2">Cutts Richard D.</persRef></item>
+							<item><persRef ref="cutts-mary">Mary E. E. Cutts</persRef></item>
+						</list>
+						<p>Roused from bed earlier than my usual hour I found the difficulty of
+							writing so great that I was compelled to postpone the journal of
+							yesterday and was able only to write a short answer to a Letter from my
+							granddaughter <persRef ref="adams-louisa3">Louisa Catherine
+								Adams</persRef> at <persRef ref="sedgwick-elizabeth">M<hi
+									rend="superscript">rs</hi> Sedgwicks</persRef> school at
+							Lenox—Massachusetts— I found after much search several of the volumes
+							which I need, in preparation to address the house on the Texas question.
+							At the house <persRef ref="vance-joseph">Joseph Vance</persRef> Chairman
+							of the Committee of claims, succeeded in a motion to go into Committee
+							of the whole, <persRef ref="white-john6">John White</persRef> of
+							Kentucky in the chair; to take up the Calendar of private bills from 12
+							O’Clock to 2. Several private bills were disposed of and among the rest
+							that for the relief of <persRef ref="allyn-francis"
+							>Captain</persRef><space/>and the owners of the ship Cadmus for the passage
+							of <persRef ref="lafayette">General La Fayette</persRef> and his family
+							from Havre to New-York in 1824.— It was after considerable debate laid
+							on the table— A shabby proceeding on the part of the Government— At 2
+							O’Clock the Committee rose, and the report of the Committee of accounts
+							in the case of <persRef ref="mcnulty-caleb">Jacob B. M’Nulty</persRef>
+							the Clerk of the house was resumed— He did not make his appearance— He
+							had promised yesterday that on the return of his accounting Clerk
+								<persRef ref="kershaw-john">Kershaw</persRef>, he would settle his
+							accounts with the Committee in the space of half an hour— His Clerk
+							Kershaw arrived last night, and was before the Committee this morning.
+							He had a large mass of papers which the Committee had not time to
+							examine, and produced a certificate that M’Nulty had a credit for 29000
+							dollars at the Bank of America in New-York— When the committee asked an
+							order for the money, he said the Clerk must do that himself.— After two
+							or three enquiries without satisfactory answer, <persRef
+								ref="johnson-cave">Cave Johnson</persRef> moved the question, on the
+							first Resolution reported by the Committee of Accounts dismissing
+							M’Nulty as clerk of the house 196 members answered ay—not one voice in
+							the negative voice— The second resolution passed without counting, and
+							the third after debate 170 to 4. <persRef ref="weller-john"
+								>Weller</persRef> made an apology for having credited what M’Nulty
+							had told him yesterday, but said he still believed there would be no
+							loss of money to the public. <persRef ref="hopkins-george">George W.
+								Hopkins</persRef> moved to suspend the rule of the house requiring
+							that the election should be held viva voce, and moved that <persRef
+								ref="french-benjamin">Benjamin B. French</persRef> be appointed
+							Clerk of the house, which passed by an unanimous vote— The <persRef
+								ref="jones-john9">Speaker</persRef> swore him in and the house
+							adjourned. Evening with <persRef ref="hellen-mary">Mary</persRef> and
+								<persRef ref="hellen-walter2">Walter Hellen</persRef> at <persRef
+								ref="dickinson-julia">M<hi rend="superscript">rs</hi> Ogle
+								Tayloe’s</persRef>.— <persRef ref="madison-dolley">M<hi
+									rend="superscript">rs</hi> Madison</persRef> there. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-19">
+					<head>19 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-19"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="19" type="ms"/>
+						<dateline>Washington Sunday 19 January 1845.</dateline>
+						<p><date>19. VI. </date>Sunday— </p>
+						<list>
+							<item>Frye Thomas B. J.</item>
+							<item>Adams John Quincy. 2</item>
+							<item>Colton</item>
+						</list>
+						<p>At the hall of the house of Representatives this morning, the prayer was
+							pronounced by <persRef ref="tustin-septimus">M<hi rend="superscript"
+									>r</hi> Tuston</persRef>, the Chaplain of the Senate and a
+							Sermon of an hour and a quarter was preached by <persRef
+								ref="colton-walter">M<hi rend="superscript">r</hi> Colton</persRef>
+							a chaplain in the Navy, who visited me not many days since— His text was
+							from 1. Kings 18.43. a small part of the verse— “Go up now, look toward
+							the Sea.” Upon this eccentric, if not whimsical text, an earnest,
+							searching, and deeply affecting discourse was delivered on the peculiar
+							character, condition, and claims of the <hi rend="italic">Sailor</hi>—
+							He enumerated the qualities of benevolence, of profuse generosity, of
+							improvidence, of superstition, of sympathy with distress, of lavish
+							bounty, of unconsciousness of danger, of resentment for unjust
+							imputation, and ready submission to punishment for real misconduct—of
+							docility to kind treatment and disinterested advice; and of resignation
+							in disease and death— The fair side of the Sailor was fully exhibited—
+							Its blemishes veiled or tenderly touched. Then followed a description of
+							the <hi rend="italic">condition</hi> of the Sailor—full of hardship
+							teeming with danger; exposed to the treachery of the elements, of
+							temptation, of his own passions, of the landsman and the landswoman, he
+							always needs a guardian— Lastly his claims, upon the justice, the
+							sympathy, and the guardianship of his Country. M<hi rend="superscript"
+								>r</hi> Colton closed with an impressive and pathetic appeal to the
+							legislative portion of his auditory, reminding them gently of their duty
+							to cherish, and protect, and purify this precious class of servants to
+							the community of their fellow men. He called to their remembrance the
+							unspeakable importance of the Sailor’s services to the necessities, to
+							the comforts and enjoyments of every other profession of civilized life—
+							And he specially urged the duty of confirming, and universalizing the
+							Sailors temperance by withdrawing from them all supplies of spirituous
+							liquors— The house was crowded, and the attention to the Discourse
+							exemplary.— <persRef ref="frye-thomas">D<hi rend="superscript">r</hi> T.
+								B. J. Frye</persRef> dined with us, and while we were at dinner came
+							in <persRef ref="adams-john3">passed Midshipman John Quincy
+								Adams</persRef>, from Norfolk, just returned from a cruize on the
+							coast of Africa— After dinner at S<hi rend="superscript">t.</hi> John’s
+							Church a <persRef ref="u">M<hi rend="superscript">r</hi> Hall</persRef>
+							read prayers for Septuagesima Sunday, and preached from Romans 15.4.
+							“For whatsoever things were written aforetime were written for our
+							learning that we through patience and comfort of the scriptures might
+							have hope.[”] </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-20">
+					<head>20 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-20"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="20" type="ms"/>
+						<dateline>Washington Monday 20 January 1845.</dateline>
+						<p><date>20. IV:45. </date>Monday</p>
+						<list>
+							<item>Owen Robert.</item>
+							<item>Adams John Q. 2<hi rend="superscript">d</hi></item>
+						</list>
+						<p><persRef ref="owen-robert">M<hi rend="superscript">r</hi> Owen</persRef>
+							called this morning and brought me a ticket for two select Lectures by
+								<persRef ref="hollick-frederick">D<hi rend="superscript">r</hi>
+								Hollick</persRef> for gentlemen only, on the physiology and
+							philosophy of that grandest phenomenon in nature the origin of life, and
+							its physical and moral consequences—delivered in New-York city 65 times
+							in one year, to numerous audiences— The lectures are to be delivered on
+							Wednesday and Thursday Evenings— M<hi rend="superscript">r</hi> Owen
+							said little about his own Lectures, and I doubt whether he will deliver
+							them at-all.— At the House the journal was read by the newly elected
+							Clerk of the house <persRef ref="french-benjamin">Benjamin Brown
+								French</persRef> of New-Hampshire.— A sop to the Yankey democracy of
+							that State as that of <persRef ref="mcnulty-caleb">M’Nulty</persRef> had
+							been to the democracy of Ohio— French is however a much better, a
+							good-natured and I believe an honest man— <persRef ref="mckay-james"
+								>M’Kay</persRef>, chairman of the Committee of Ways and Means,
+							reported the annual fortification appropriation bill— <persRef
+								ref="slidell-john">Slidell</persRef> moved a call on the <persRef
+								ref="bibb-george">Secretary of the Treasury</persRef> for a return
+							of vessels, tonnage, and merchandize entered and cleared in the last
+							year at the principal Seaports, with his opinion whether at the Ports of
+							New-York and New-Orleans there is a sufficient number of inspectors,
+							guagers, weighers, measurers and markers— <persRef ref="cobb-howell"
+								>Howell Cobb</persRef> of Georgia by suspension of the rules 143 to
+							34 moved and carried a resolution that the hour of meeting of the house
+							should henceforth be 11. O’Clock A.M. <persRef ref="kennedy-john">John
+								P. Kennedy</persRef> moved as an amendment and substitute that it
+							should not be in order to move to adjourn before 4. O’Clock P.M. Lost—
+								<persRef ref="schenck-robert">Schenk</persRef> moved that all the
+							rules for the order and arrangement of business should be abolished, and
+							business hereafter conducted according to the principles and usages of
+							parliamentary practice— Lost— The only rule now is the will of the
+							majority present— Committee of the whole on the State of the Union—
+								<persRef ref="hopkins-george">Hopkins</persRef> in the chair; and
+								<persRef ref="douglas-stephen">Douglas’s</persRef> resolution for
+							the annexation of Texas— <persRef ref="hammett-william"
+								>Hammett</persRef> the Irish priest from Mississippi finished his
+							hour, for the annexation— <persRef ref="hudson-charles">Charles
+								Hudson</persRef> of Massachusetts, and <persRef ref="marsh-george"
+								>George P. Marsh</persRef> of Vermont made two hour speeches in
+							succession against it.— <persRef ref="rhett-robert">Robert Barnwell
+								Rhett</persRef> then took the floor, and the Committee rose—
+								<persRef ref="yulee-david">David Levy</persRef> the Delegate from
+							Florida, moved a Resolution that the first three Legislative days of
+							February be assigned for consideration of the business of the 3
+							territories— Adjourned without taking the Question.— <persRef
+								ref="adams-john3">John Quincy Adams 2<hi rend="superscript"
+								>d.</hi></persRef> came this day to our house. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-21">
+					<head>21 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-21"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Finances</subject>
+						<subject>Texas Annexation (1845)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="21" type="ms"/>
+						<dateline>Washington Tuesday 21 January 1845</dateline>
+						<p><date>21. II— VI. </date>Tuesday</p>
+						<list>
+							<item>Duer William</item>
+						</list>
+						<p>The meeting of the house henceforth at 11. O’Clock every morning,
+							abridges by one hour my time already too short at my house— After
+							calling at the Bank of Washington, and receiving a quarterly dividend
+							due the 1<hi rend="superscript">st.</hi> of this month, I reached the
+							house just as the <persRef ref="daily-william">chaplain</persRef> was
+							pronouncing the daily prayer of two minutes. <persRef
+								ref="dromgoole-george">Dromgoole</persRef> presented sundry
+							amendments to his bill for the admission of Texas as a State into the
+							union— Some objection was made to the reception of them; but they were
+							received—referred to the Committee of the whole on the state of the
+							Union and ordered to be printed— <persRef ref="boyd-linn">Linn
+								Boyd</persRef> of Kentucky moved a Resolution that all debate should
+							cease in Committee of the whole on the state of the Union, on Saturday
+							next at 2. O’Clock P.M. on the joint Resolution N. 46. for the
+							annexation of Texas to the United States and that it should then be
+							reported to the house with such amendments as should have been agreed
+							to, and he moved the previous question. <persRef ref="darragh-cornelius"
+								>Darragh</persRef> gave notice that he would ask leave to introduce
+							a Bill for the adjustment and settlement of claims of citizens of the
+							United States upon the Republic of Mexico— <persRef ref="houston-george"
+								>Houston</persRef> of Alabama, moved from the Committee of public
+							lands to report a Bill.— Objection was made, and Houston moved to
+							suspend the rules. But the <persRef ref="jones-john9">Speaker</persRef>
+							told him the question must first be taken on the motion of <persRef
+								ref="yulee-david">Levy</persRef> the delegate from Florida, that the
+							first three Legislative days of February be assigned for the business of
+							the three territories. <persRef ref="johnson-cave">Cave
+								Johnson</persRef> told him that he had better reduce the days to
+							two, and put them off one week longer.— he bowed obsequious assent, and
+							the 10<hi rend="superscript">th.</hi> and 11<hi rend="superscript"
+								>th.</hi> of February were assigned for the business of the
+							territories.— Houston then pushed again to get in his bill from the
+							Committee of the public lands. <persRef ref="vance-joseph"
+								>Vance</persRef> advised him to modify his motion to suspend the
+							rules for an hour to receive reports from Committees and Resolutions—but
+							his motion was rejected Committee of the whole on the state of the
+							Union, <persRef ref="hopkins-george">Hopkins</persRef> in the Chair, on
+							the joint Resolution for the annexation of Texas to the United States—
+								<persRef ref="rhett-robert">Rhett</persRef> of South-Carolina,
+								<persRef ref="caldwell-george">Caldwell</persRef> of Kentucky
+								<persRef ref="giddings-joshua">Giddings</persRef> of Ohio and
+								<persRef ref="johnson-andrew">Andrew Johnson</persRef> of
+							Tennessee—three to one made hour speeches for and against annexation—
+								<persRef ref="rathbun-george">Rathbun</persRef> took the floor and
+							the Committee rose without a Quorum.— Boyd offered an amendment, which
+								<persRef ref="douglas-stephen">Douglas</persRef> accepted as a
+							modification of his Texas Resolution— <persRef ref="duer-william">M<hi
+									rend="superscript">r</hi> Duer</persRef> was here this evening. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-22">
+					<head>22 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-22"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+						<subject>Slavery</subject>
+						<subject>Oregon Territory</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="22" type="ms"/>
+						<dateline>Washington Wednesday 22. January 1845.</dateline>
+						<p><date>22. VI. </date>Wednesday—</p>
+						<list>
+							<item>Johnson Lewis</item>
+						</list>
+						<p><persRef ref="johnson-lewis">M<hi rend="superscript">r</hi> Lewis
+								Johnson</persRef> came this morning and requested me by advice of
+								<persRef ref="maffitt-john">M<hi rend="superscript">r.</hi>
+								Maffitt</persRef> to call again upon <persRef ref="mcculloch-james"
+									>M<hi rend="superscript">r</hi> M’Culloch</persRef> the
+							Comptroller to urge upon him the allowance of the remnant of claim of
+							the Representatives of <persRef ref="otis-william3">William
+								Otis</persRef> which I promised to do— But must postpone until next
+							week— Till this Texas question is decided I can think of nothing else. I
+							am crushed between the upper and the nether millstone of the question to
+							speak or not to speak in this debate— If possible, Speak I must— Yet; I
+							make no progress in my preparations— At the house, <persRef
+								ref="wentworth-john2">Wentworth</persRef> of Illinois had moved a
+							call on the <persRef ref="wilkins-william">Secretary of War</persRef>
+							for copies of the proceedings of a court of inquiry in March 1841. into
+							charges by the <persRef ref="lawson-thomas">Surgeon general</persRef>
+							against surgeon <persRef ref="maxwell-philip">P. Maxwell</persRef> at
+							Fort Gibson— He called it up this morning—and at the motion of <persRef
+								ref="strong-selah">Strong</persRef> it was laid on the table.
+								<persRef ref="douglas-stephen">Douglass</persRef> of Illinois
+							introduced a Bill of which he had given notice yesterday, for
+							establishing military posts in the territories of Nebraska and Oregon—
+							Twice read and referred to the Committee of Military Affairs. <persRef
+								ref="robinson-orville">Orville Robinson</persRef> a New-York
+								<persRef ref="vanburen-martin">Van-Burenite</persRef> asked leave to
+							introduce a Bill for the annexation of Texas to the United States— I
+							called for the reading of the Bill, and upon its being read, quite a
+							commotion rose among the Southern members. <persRef ref="payne-william3"
+								>Payne</persRef> of Alabama objected to its reception— It proposes
+							to admit so much of Texas now as will constitute one Slave holding State
+							now, and no Slavery in all the rest of the territory n<unclear>or</unclear> slavery but
+							by the consent of Congress hereafter. Payne was frantic about it.
+								<persRef ref="stewart-andrew">Andrew Stuart</persRef> on the other
+							side moved to reject the Bill at the first reading to make an issue with
+							the Slavers The house refused to reject the bill by yeas and nays 68 to
+							119.— The bill was referred with all the rest to the Committee of the
+							whole on the state of the Union— <persRef ref="tilden-daniel"
+								>Tilden</persRef> of Ohio presented Resolutions of the Legislature
+							of that State against the annexation of Texas, and for the occupation of
+							Oregon— Referred to the Committee of the whole on the state of the
+							Union, and ordered to be printed— Committee on the Union, <persRef
+								ref="hopkins-george">Hopkins</persRef> in the Chair— <persRef
+								ref="rathbun-george">Rathbun</persRef> made a warm hour speech
+							against annexation; and <persRef ref="cobb-howell">Cobb</persRef> of
+							Georgia one in its favour.— <persRef ref="haralson-hugh"
+								>Haralson</persRef> took the floor. The Committee rose wanting a
+							Quorum—and after a struggle of half an hour for a call of the house a
+							third motion to adjourn, was carried by yeas and nays 46. to 44. In the
+							Evening I went with <persRef ref="hellen-walter2">Walter
+								Hellen</persRef> and heard a Lecture from <persRef
+								ref="hollick-frederick">D<hi rend="superscript">r</hi>
+								Hollick</persRef>. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-23">
+					<head>23 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-23"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Texas Annexation (1845)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="23" type="ms"/>
+						<dateline>Washington Thursday. 23. January 1845.</dateline>
+						<p><date>23. VI. </date>Thursday</p>
+						<list>
+							<item>Kavasales</item>
+						</list>
+						<p>The <persRef ref="hawley-william">Rev<hi rend="superscript">d.</hi>
+								William Hawley</persRef>, Rector of S<hi rend="superscript">t</hi>
+							John’s church in this city, died between 2 and 3. O’Clock this afternoon
+							of a pleurisy— He was a native of the State of New-York, was during the
+							last War with Great Britain, after which he took orders in the episcopal
+							church, and has been about 30 years Rector of S<hi rend="superscript"
+								>t.</hi> John’s Church— He has maintained a highly respectable
+							character, has raised a numerous and irreproachable <persRef
+								ref="hawley-wilhelmina">family</persRef> and dies universally
+							lamented— Within the last year the <persRef ref="pyne-smith">Rev<hi
+									rend="superscript">d.</hi> Smyth Pyne</persRef> has been
+							associated with him as a colleague. This morning I had a visit from
+								<persRef ref="kavasales-photius">M<hi rend="superscript">r</hi>
+								Kavasales</persRef>, who during the short period of <persRef
+								ref="harrison-william">President Harrison’s</persRef> power obtained
+							an appointment as a chaplain in the Navy— His nomination to the Senate
+							was however made by <persRef ref="tyler-john">M<hi rend="superscript"
+									>r</hi> Tyler</persRef>— He has just returned in the frigate
+							Columbia, from a 3 years cruise in the Mediterranean— He like <persRef
+								ref="colton-walter">M<hi rend="superscript">r</hi> Colton</persRef>
+							is extremely desirous of some action of Congress to suppress the vice of
+							intemperance on board of our public ships— He spoke of an interview
+							which he had last Summer with <persRef ref="otto">king Otho</persRef> of
+							Greece at Athens.— He says he is in good health but looks much
+							emaciated— At the house, I omitted the name of <persRef
+								ref="pollock-james">Pollock</persRef> as one of the hour speakers
+							yesterday against the annexation of Texas. This day <persRef
+								ref="slidell-john">Slidell</persRef> offered a call upon the
+							President for information, what Officers of the United States, have been
+							guilty of embezzlement of public monies since the 19<hi
+								rend="superscript">th.</hi> of August 1841. whether any of them have
+							prosecuted for the offence, and if not, why they have not—adopted
+							Committee of the whole on the state of the Union, <persRef
+								ref="hopkins-george">Hopkins</persRef> in the chair, upon the Texas
+							question— <persRef ref="haralson-hugh">Haralson</persRef> of Georgia
+							made a hot speech in favour of annexation— <persRef ref="collamer-jacob"
+								>Collamer</persRef> of Vermont a cool good-humoured and shrewd one
+							against it— <persRef ref="hamlin-hannibal">Hamlin</persRef> of Maine, a
+							trimming speech for and against it <persRef ref="seymour-david">David L.
+								Seymour</persRef> had preceded him with another of much the same
+							stamp and <persRef ref="ficklin-orlando">Ficklin</persRef> closed the
+							day with the most stupid one that I have yet heard since this debate
+							began. <persRef ref="dromgoole-george">Dromgoole</persRef> took the
+							floor and a motion for the Committee to rise was made and rejected by 40
+							to 46. but they were obliged to rise, and report the fact—an Attempt was
+							made for a call of the house and failed, adjourned.— Evening Ball at
+								<persRef ref="pakenham-richard">M<hi rend="superscript">r</hi>
+								Pakenham’s</persRef>— I went with <persRef ref="hellen-walter2"
+								>Walter Hellen</persRef> Splendid party, and joyous spirits. Talk
+							with <persRef ref="eaton-john">J. H Eaton</persRef>— Home at ten 1/2. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-24">
+					<head>24 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-24"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+						<subject>Foreign Relations</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="24" type="ms"/>
+						<dateline>Washington Friday 24. January 1845.</dateline>
+						<p><date>24. VI. </date>Friday.</p>
+						<p>I had hesitated down to the present day, whether to address the Committee
+							of the whole house on the state of the Union upon the various projects
+							for the annexation of Texas to this Union which have been so long under
+							consideration, or to sit and witness in silence the perpetration of the
+							wrong, which I too clearly saw was unavoidable— I had collected numerous
+							documents for reference to them, and took with me sundry volumes this
+							morning to the house. About half an hour was consumed on miscellaneous
+							subjects— <persRef ref="hardin-john">Hardin</persRef> from the Committee
+							on Post Offices and Post-roads, reported an amendatory bill, for one
+							which had been recommitted to them for reducing the rate of postage—
+								<persRef ref="bayly-thomas3">Bayly</persRef> from the Committee of
+							foreign Affairs reported a Bill for the relief of <persRef
+								ref="everett-alexander">Alexander H. Everett</persRef>, which was
+							referred to a Committee of the whole house. A message from the <persRef
+								ref="tyler-john">President</persRef> which had lain two days on the
+							table was now presented, and proved to be a communication of the Treaty
+							with China, negotiated by <persRef ref="cushing-caleb">M<hi
+									rend="superscript">r</hi> Cushing</persRef>, now ratified with
+							the unanimous advice and consent of the Senate— The message recommends
+							an appropriation for a regular diplomatic mission to China— At my motion
+							it was read; referred to the Committee of foreign affairs and ordered to
+							be printed— Sundry other communications from the executive departments
+							were presented and disposed of—laid on the table or referred Sixteen
+							bills from the Senate were read twice and appropriately referred—
+								<persRef ref="jameson-john2">Jameson</persRef> of Missouri presented
+							Resolutions of the Legislature of that State in favour of the annexation
+							of Texas to the United States— Committee of the whole on the State of
+							the Union. <persRef ref="hopkins-george">Hopkins</persRef> in the chair,
+							upon the Resolutions for the annexation of Texas. <persRef
+								ref="dromgoole-george">Dromgoole</persRef> began with an hour speech
+							in support of his own project. He was followed by <persRef
+								ref="barnard-daniel">Barnard</persRef> in a conclusive, but
+							unavailing argument against the constitutional power of Congress to
+							consummate this transaction. I then obtained the floor, and at the
+							expiration of my hour had barely reached the threshold of my speech—
+								<persRef ref="daniel-john">Daniel</persRef> of North-Carolina,
+								<persRef ref="stone-alfred">Stone</persRef> of Ohio, <persRef
+								ref="morse-freeman">Morse</persRef> of Maine occupied each his hour;
+								<persRef ref="ellis-chesselden">Ellis</persRef> read a rhapsody of
+							an hour for the annexation— <persRef ref="norris-moses">Norris</persRef>
+							railed an hour against his colleague <persRef ref="hale-john"
+								>Hale</persRef>— <persRef ref="stephens-alexander"
+								>Stephens</persRef> of Georgia took the floor, but yielded it to
+								<persRef ref="darragh-cornelius">Darragh</persRef>, who brought the
+							time to half past 8 in the evening, when for lack of a quorum the
+							Committee rose, and the house adjourned. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-25">
+					<head>25 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-25"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Slavery</subject>
+						<subject>Texas Annexation (1845)</subject>
+						<subject>Louisiana Purchase</subject>
+						<subject>Whig Party</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="25" type="ms"/>
+						<dateline>Washington Saturday 25 January 1845</dateline>
+						<p><date>25. V:20. </date>Saturday</p>
+						<list>
+							<item>Wolf Elbert</item>
+						</list>
+						<p>“Why should I grieve, when grieving I must bear.” <persRef
+								ref="wolf-elbert">M<hi rend="superscript">r</hi> Elbert
+								Wolf</persRef> belongs to Baltimore, and he came to solicit
+							Lecturers for the erection of a school, or schoolhouse in that city
+							which I was of course under the necessity of declining— He asked me if
+							there were other persons accustomed to lecturing whom I could recommend.
+							I named <persRef ref="woodbury-levi">M<hi rend="superscript">r</hi>
+								Woodbury</persRef>, <persRef ref="everett-alexander">Alexander H.
+								Everett</persRef>, <persRef ref="ingersoll-joseph">Joseph R.
+								Ingersoll</persRef> and <persRef ref="barnard-daniel">Daniel D.
+								Barnard</persRef>— At the house, as soon as the journal was read, I
+							asked the permission of the house to make an explanation of an
+							expression which I had used yesterday, and which had been by some
+							persons misunderstood— No objection was made— I had said that if Slavery
+							were totally abolished, forever in Texas and the voluntary consent of
+							Mexico could be obtained I would vote for the annexation of Texas
+							to-morrow— This expression had been snap’d up by the slave-mongers, that
+							it admitted the Constitutional power of <hi rend="italic">Congress</hi>
+							to annex Texas—the whole drift of my speech had been exactly the
+							reverse— I had not been three minutes speaking, and was referring to my
+							argument of yesterday, founded on my whole course on the Louisiana
+							purchase in 1803. in the Senate, when <persRef ref="saunders-romulus"
+								>Saunders</persRef> of North-Carolina, interrupted me; said I had
+							made my explanation, and objected to my proceeding further.— The
+								<persRef ref="jones-john9">Speaker</persRef> would have put me down—
+							I did not give him time, but concluded, and Saunders moved to go into
+							Committee of the whole on the state of the Union, and <persRef
+								ref="hopkins-george">Hopkins</persRef> took the chair. <persRef
+								ref="stephens-alexander">Stephens</persRef> of the Georgia made a
+							sophistical speech for and against the annexation, and <persRef
+								ref="woodward-joseph3">Woodward</persRef> of South-Carolina, who got
+							the floor unfairly, made a stupid speech for annexation— I say stupid
+							for so he insolently called a speech made by a member from Vermont—
+								<persRef ref="douglas-stephen">Douglass</persRef> of Illinois was in
+							the chair— <persRef ref="rathbun-george">Rathbun</persRef> rose and
+							asked if that epithet of Woodward’s was in order. Douglass said it was
+							not strictly in order, but that so much latitude of reflection had been
+							allowed throughout the whole of this debate, that he had forborne to
+							notice it in this particular case.— <persRef ref="rayner-kenneth"
+								>Rayner</persRef> complained that by the management of the chairman
+							none of the Southern whigs had been allowed to explain their reasons for
+							opposition to the annexation, which Hopkins resented— <persRef
+								ref="causin-john">Causin</persRef> closed the debate, and at 2 came
+							the hour of doom— All the propositions were successively rejected, till
+							that offered simultaneously by <persRef ref="brown-milton">Milton
+								Brown</persRef> in the House and <persRef ref="foster-ephraim"
+								>Foster</persRef> in the Senate, which was carried in Committee 107
+							to 102. and by yeas and nays in the house 120 to 98.<space/>Let the will of
+							God be done. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-26">
+					<head>26 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-26"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="26" type="ms"/>
+						<dateline>Washington. Sunday 26 January 1845.</dateline>
+						<p><date>26. V:15 </date>Sunday.</p>
+						<p>Funeral of Rev<hi rend="superscript">d.</hi> William Hawley. </p>
+						<p>In the Hall of the house of Representatives, this morning the chaplain of
+							the house, <persRef ref="daily-william">M<hi rend="superscript">r</hi>
+								Daily</persRef> preached from Isaiah 33.20. “Look upon Zion, the
+							city of our solemnities: thine eyes shall see Jerusalem a quiet
+							habitation, a tabernacle that shall not be taken down; not one of the
+							stakes thereof shall ever be removed, neither shall any of the cords
+							thereof be broken. 21. But there, the glorious Lord will be unto us, a
+							place of broad rivers and streams; wherein shall go no galley with oars,
+							neither shall gallant ship pass thereby.”— This language, M<hi
+								rend="superscript">r</hi> Daily said was figurative— Zion was the
+							Christian Religion, and Jerusalem was the Church of Christ— The quiet
+							habitation, was the Peace on earth and good will to men, proclaimed by
+							the Angels at the birth of Christ; and in God’s own due time this peace
+							will become universal throughout the habitable globe, and Jerusalem a
+							quiet habitation— The tabernacle not to be taken down is typical of the
+							stability of the Christian Religion.— The gates of hell shall not
+							prevail against it. the exposition of the 21<hi rend="superscript"
+								>st.</hi> verse partook of its obscurity— The translation is
+							obviously defective— That the glorious Lord should <hi rend="italic"
+								>be</hi> a place of broad rivers and streams, gives indistinct
+							ideas, which the comment of the preacher did not elucidate—but he
+							dramatized the exclamation of old <persRef ref="simeon"
+							>Simeon</persRef>, and the sword of the Lord and of <persRef
+								ref="gideon">Gideon</persRef>, and swung round in his hand the
+							quarto Bible and told a story of a young man who on a voyage down the
+							Ohio to New-Orleans, stop’d into a shop to purchase the history of the 4
+							kings meaning a pack of cards—instead of which the shopkeeper persuaded
+							him to take a bible. 15 years afterwards the same man passing upwards
+							through the same city of Cincinnati with a beautiful wife, three lovely
+							children and an affluent fortune, told the shopkeeper that they were all
+							fruits of his Bible substitute for the history of the 4 kings— The house
+							was crowded, and a choir from one of the methodist churches, sung two
+							hymns one of them “How beauteous are their feet.” At 3. after dinner, by
+							invitation from the vestry of S<hi rend="superscript">t.</hi> John’s
+							church, I went to the late residence of <persRef ref="hawley-william"
+									>M<hi rend="superscript">r</hi> Hawley</persRef> and walked in
+							procession thence to S<hi rend="superscript">t.</hi> John’s Church where
+							the funeral service were performed, and a sermon preached by the
+								<persRef ref="tyng-stephen">Rev<hi rend="superscript">d.</hi>
+								Stephen H Tyng</persRef> of Philadelphia, from Hebrews 9.27.— [“]It
+							is appointed unto men once to die, but after this the judgment.” The
+							church was so excessively crowded that it was with great difficulty that
+							I got in and reached a seat. <persRef ref="pakenham-richard">M<hi
+									rend="superscript">r</hi> Pakenham</persRef> with whom I walked
+							in procession did not enter the church The body was interred in the
+							church-yard. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-27">
+					<head>27 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-27"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Oregon Territory</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="27" type="ms"/>
+						<dateline>Washington, Monday 27. January 1845.</dateline>
+						<p><date>27. VI:30. </date>Monday.</p>
+						<list>
+							<item>Dix John Adams.</item>
+							<item><persRef ref="u">Bradbury</persRef></item>
+							<item>Cutts Richard D</item>
+							<item>Mary E. E. Cutts</item>
+							<item>Burnap Rev<hi rend="superscript">d.</hi></item>
+						</list>
+						<p>Morning visit from the <persRef ref="burnap-george">Rev<hi
+									rend="superscript">d.</hi> M<hi rend="superscript">r</hi>
+								Burnap</persRef>, minister of the Unitarian church at Baltimore; he
+							said he had been two or three weeks here preaching at the unitarian
+							church by exchange with <persRef ref="hale-edward">M<hi
+									rend="superscript">r</hi> Hale</persRef> who is for a time
+							officiating at that establishment here— When I got to my seat in the
+							house they were taking the yeas and nays on a motion of <persRef
+								ref="brown-aaron">Aaron V. Brown</persRef>, Chairman of the
+							Committee on the Territories, to suspend the rules to go into Committee
+							of the whole on the state of the Union— The vote to go into Committee
+							was 113 to 40— <persRef ref="weller-john">Weller</persRef> of Ohio was
+							placed in the Chair— <persRef ref="cary-shepard">Cary</persRef> of Maine
+							asked if the Bill to graduate the price of the public lands was not the
+							first to be taken up. Chairman answered yes. A. V. Brown, moved to lay
+							that aside and to take up the bill for establishing the territory of
+							Oregon. And here commenced an ominous struggle— <persRef
+								ref="douglas-stephen">Douglas</persRef> of Illinois moved to take up
+							a bill introduced by him, to purchase 1500 copies of a history of Oregon
+							Calefornia &amp;c for the use of the house, and in the use of them to
+							distribute one copy to each member of the two houses of Congress—
+								<persRef ref="johnson-cave">Cave Johnson’s</persRef> economics took
+							fire—he moved to take up the Oregon Bill and it was done— <persRef
+								ref="ingersoll-charles">Charles J. Ingersoll</persRef> moved to lay
+							it aside and take up the <persRef ref="greenhow-robert"
+								>Greenhow</persRef> book bill and it was done. <persRef
+								ref="duncan-alexander">Duncan</persRef> railed and raved, insisting
+							that the question had not been understood, and must be put again— The
+							chairman stuck to his text— Cave Johnson moved again to lay the
+							book-bill aside and take up the Oregon bill, but lost the vote, and
+							started a sneaking debate of two hours about the honesty or the shame of
+							purchasing books at the public expense for the private use of the
+							members themselves—half a dozen dirty amendments were moved and all
+							rejected, till the bill was laid aside to be reported and the Oregon
+							bill again taken up. The first section was read, and <persRef
+								ref="hammett-william">Hammett</persRef> moved the Committee to rise
+							and report and pass the book bill— Committee rose and reported the bill.
+							Douglass moved the previous question on engrossment. Cave Johnson moved
+							to lay the bill on the table and called yeas and nays 84 to 94. Yeas and
+							nays on the passage of the bill— Yeas and nays on the passage of the
+							bill 107 to 79. A. V. Brown then moved to go into Committee of the whole
+							on the state of the Union again which was carried— The first section of
+							the Oregon Bill was read and Brown moved to strike out 9. from the
+							Northern boundary in the bill, to read 54.40 instead of 54.49. whereupon
+							I began a debate which continued till 4. O’Clock when the Committee rose
+							and the house soon after adjourned— Evening visits from <persRef
+								ref="dix-john">M<hi rend="superscript">r</hi> John A Dix</persRef>
+							heretofore Aid de Camp to <persRef ref="brown-jacob">General
+								Brown</persRef>— Now a Senator from the State of New-York— Also from
+								<persRef ref="cutts-richard2;cutts-mary">Richard D. and Mary E. E.
+								Cutts</persRef>—</p>
+						<p/>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-28">
+					<head>28 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-28"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Oregon Territory</subject>
+						<subject>Smithsonian Institution</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="28" type="ms"/>
+						<dateline>Washington Tuesday 28 January 1845</dateline>
+						<p><date>28. VI. </date>Tuesday.</p>
+						<list>
+							<item>Todsen D<hi rend="superscript">r</hi> George</item>
+							<item>Owen Robert</item>
+							<item>Woods Enoch</item>
+						</list>
+						<p>Morning call from <persRef ref="todson-george">D<hi rend="superscript"
+									>r</hi> Todsen</persRef>, who told me he was now employed in
+							making some translation for the Department of State, because they could
+							find no other person here who could do the work—for they were extremely
+							hostile to him for his political opinions.— The doctor would have been
+							more communicative, but <persRef ref="owen-robert">Robert Owen</persRef>
+							came in and he withdrew. M<hi rend="superscript">r</hi> Owen gave me to
+							read an address which he said he had determined to make directly to both
+							houses of Congress, requesting the use, first of the Senate chamber, and
+							then of the Representative Hall, to deliver three Lectures upon his
+							system for the improvement of human Society— He intimated a wish, that I
+							should present his Memorial to the house which I consented to do, but he
+							read to me a separate paragraph, on a small slip of paper which he
+							wished to introduce into his address, and which affirmed that I had a
+							favourable opinion of the usefulness of his system.— I told him that I
+							could not permit the introduction of my name, and that if I should it
+							would of itself be fatal to his application.— He acquiesced.— At the
+							house, the day was spent in calling for Reports of Committees, and the
+							States for Resolutions, which would give no rise to debate— I asked
+								<persRef ref="king-preston">Preston King</persRef> if he intended to
+							move a Call on the <persRef ref="tyler-john">President</persRef> for the
+							correspondence in the negotiation for Oregon.— He said no—because it
+							would be taken as a symptom of hostility to the administration— But if I
+							would move the call, he would vote for it. The house had been some time
+							in Session when I took my seat— A bill from the Senate to establish the
+							Smithsonian Institution, had been received read and referred to the
+							Committee of the whole on the State of the Union. After all the
+							Committees had been called, the States beginning with Maine were called
+							for Resolutions.— <persRef ref="burke-edmund4">Burke</persRef> moved an
+							order to the clerk to suspend the compilation of a tenth volume of U.S.
+							Laws ordered at the last Session of Congress, till a joint Resolution
+							for a new Edition of U.S. Laws, pending before the Senate shall be
+							disposed of by Congress. Carried— Burke moved also an investigation by
+							the committee on the expenditures of the Navy department, of a swindling
+							contract with <persRef ref="zabriskie-james">James C.
+								Zabriskie</persRef> of New Jersey; and he presented a paper
+							containing evidence of the filthiness of this contract. He moved the
+							previous question, and the resolution was adopted— I moved a call upon
+							the President for copies of the negotiation for the Oregon— <persRef
+								ref="ingersoll-charles">C. J. Ingersoll</persRef> attempted to evade
+							the call but it was carried by yeas and nays 166. to 4— <persRef
+								ref="woods-enoch">Enoch Woods</persRef> here, a beggar. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-29">
+					<head>29 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-29"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Oregon Territory</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="29" type="ms"/>
+						<dateline>Washington Wednesday 29. January 1845</dateline>
+						<p><date>29. V:45 </date>Wednesday</p>
+						<list>
+							<item><persRef ref="duer-william">Duer William A</persRef></item>
+							<item><persRef ref="u">Bacon</persRef></item>
+							<item><persRef ref="brengle-francis">Brengle Francis</persRef></item>
+							<item><persRef ref="stiles-william">Stiles William H</persRef></item>
+							<item><persRef ref="smith-caleb">Smith Caleb B.</persRef></item>
+							<item><persRef ref="maclay-william2">Maclay</persRef></item>
+						</list>
+						<p>Select Committee Errors of the Census. At 10 this morning Meeting of the
+							select Committee on the memorial of <persRef ref="jarvis-edward">Edward
+								Jarvis</persRef> and <persRef ref="thornton-john">J. Wingate
+								Thornton</persRef> for the American statistical Association
+							concerning the errors of the 6<hi rend="superscript">th.</hi> census— It
+							was but a quarter before 11. when a Quorum was formed— <persRef
+								ref="rhett-robert">R. Barnwell Rhett</persRef>, <persRef
+								ref="rayner-kenneth">Kenneth Rayner</persRef>
+							<persRef ref="foster-henry2">Henry D. Foster</persRef>, and <persRef
+								ref="cary-shepard">Shepherd Cary</persRef>, four members of the
+							Committee being absent— I read a few pages of the memorial, but the
+							warder of the Committee rooms soon gave us notice that the house was in
+							Session, and we adjourned to next Wednesday 10. O’Clock— I found the
+							house engaged in the consideration of resolutions the call of the States
+							for which had not been completed yesterday. Among those adopted
+							yesterday was one offered by <persRef ref="hopkins-george"
+								>Hopkins</persRef> that copies of all the printed bills and of the
+							Calendar of the house should be regularly laid on the Reporters desks.
+								<persRef ref="houston-george">Houston</persRef> now moved a
+							reconsideration of this Resolution—on this question the vote by rising
+							was 67 to 41. no Quorum. The yeas and nays were called— I asked if all
+							the printed documents of the house were to be laid, on the desks of all
+							the reporters, 30 in number— The <persRef ref="jones-john9"
+								>Speaker</persRef> did not know. I asked if the Speaker did not
+							understand the meaning of the Resolution— He said I was as able to
+							understand the order as he was.— The vote to reconsider was 119. to 32.
+							and then the resolution was laid over for debate— <persRef
+								ref="chapman-reuben">Reuben Chapman</persRef> offered a Resolution
+							yesterday and moved the previous question, that the members of the house
+							consider that the public offices of the Union ought to be distributed
+							among the States, according to their federal population— I enquired if
+							he had considered the bearings of his resolution upon the constitutional
+							executive power of appointment to Office. He said that it was nothing
+							but the opinion of the members of the house— His motion for the previous
+							question failed— I said I wished to debate the Resolution and it was
+							laid over.— <persRef ref="belser-james">Belser</persRef> moved to
+							suspend the rules to go into Committee of the whole on the state of the
+							Union to take up the Oregon Bill.— I urged a postponement of some days
+							for <persRef ref="greenhow-robert">Greenhow’s</persRef> book, and for
+							the answer to the call upon the <persRef ref="tyler-john"
+								>President</persRef> for the state of the negotiation But the house
+							went into Committee— <persRef ref="duncan-alexander">Duncan</persRef>,
+							Belser and <persRef ref="bowlin-james">Bowlin</persRef> made hour
+							speeches for the immediate passage of the Oregon Bill—the Committee then
+							rose the House went again into Committee of the whole on the state of
+							the Union passed three appropriation bills and adjourned. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-30">
+					<head>30 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-30"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Oregon Territory</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="30" type="ms"/>
+						<dateline>Washington. Thursday 30. January 1845.</dateline>
+						<p><date>30. V:30— </date>Thursday.</p>
+						<list>
+							<item>Connell John.</item>
+							<item>Owen Robert</item>
+						</list>
+						<p><persRef ref="owen-robert">M<hi rend="superscript">r</hi> Owen</persRef>
+							called on me this morning and said he had received a number of copies of
+							his newly published book from New-York, and would send me one which he
+							did— Its title is the [“]Book of the new Moral World, containing the
+							rational system of Society, founded on demonstrable facts developing the
+							Constitution and Laws of human nature and of Society”— This is an octavo
+							volume of 264 pages in very small type, and contains the system which he
+							has been forty years preaching, without running himself entirely down
+							and without being discouraged by failure— At the house <persRef
+								ref="henley-thomas">Henley</persRef> of Indiana moved that 25000
+							copies of the report of the Committee on Patents, without the list, and
+							3000 copies of the whole report be printed—objection made, he moved to
+							suspend the rules—carried— <persRef ref="weller-john">Weller</persRef>
+							moved to reduce the number to 15,000 lost—and the resolution was
+							adopted— <persRef ref="hardin-john">Hardin</persRef> moved to go into
+							Committee of the whole on the state of the Union to take up his
+							Post-Office-bill— The house went into Committee, but when Hardin moved
+							to take up his bill the Chairman, (Weller) said that the Oregon
+							territory Bill was the first subject before the Committee upon which
+								<persRef ref="thompson-jacob">Thompson</persRef> of Mississippi had
+							the floor; which he declined to yield, and so he wore out his hour in a
+							fourth declamation for the establishment of the territory of Oregon.— He
+							was followed for another hour by <persRef ref="mcclernand-john"
+								>M’Clernand</persRef> of Illinois; and he, by <persRef
+								ref="owen-robert2">Robert Dale Owen</persRef>, who first infused a
+							small spice of variety into the debate by declaring his readiness to
+							vote for the bill, but intimating that immediately upon the heel of it
+							he will call up his joint resolution offered and urged by him at the
+							last Session, that the 12 months notice stipulated by the Convention of
+							1827. of joint occupancy, of its annulment should be given to
+							Great-Britain— Owen made also some objection to the section of the bill
+							promising grants of lands to settlers.— <persRef ref="ingersoll-joseph"
+								>Joseph R. Ingersoll</persRef> opposed the bill— While he was
+							speaking <persRef ref="tyler-john3">John Tyler jun<hi rend="superscript"
+									>r</hi></persRef> brought in a Message from the <persRef
+								ref="tyler-john">President</persRef>, which in the expectation that
+							it related to this subject, but which proved to be a mere communication
+							from the <persRef ref="ford-thomas">Governor of Illinois</persRef> upon
+							Reports of the decisions of the U.S— Supreme Court— <persRef
+								ref="hamlin-hannibal">Hamlin</persRef> of Maine then made a fiery
+							speech for Oregon and against England— <persRef ref="elmer-lucius"
+								>Elmer</persRef>, <persRef ref="hunt-washington">Washington
+								Hunt</persRef> offered a few remarks. <persRef ref="winthrop-robert"
+								>Winthrop</persRef> moved to strike out the first section of the
+							Bill— <persRef ref="brown-aaron">A. V. Brown</persRef>, offered two
+							amendments—the Committee rose and the house adjourned— In the Evening,
+								<persRef ref="hellen-mary">M<hi rend="superscript">rs</hi> John
+								Adams</persRef> and <persRef ref="hellen-walter2">Walter
+								Hellen</persRef> went to the Assembly— <persRef ref="connell-john"
+									>M<hi rend="superscript">r</hi> Connell</persRef> partook with
+							us of an Oyster-supper— My nephew <persRef ref="adams-john3">J. Q. Adams
+								2.</persRef> went yesterday for Quincy. </p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v45-1845-01-31">
+					<head>31 January 1845</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1845-01-31"/>
+						<editor role="transcription">Neal Millikan</editor>
+					<subject>Science and Technology</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="31" type="ms"/>
+						<dateline>Washington Friday 31 January 1845—</dateline>
+						<p><date>31. V:45. </date>Friday.</p>
+						<list>
+							<item>Persico Luigi</item>
+						</list>
+						<p><persRef ref="persico-luigi">M<hi rend="superscript">r</hi>
+								Persico</persRef> came this morning to solicit my influence in his
+							favour, for employment to execute a colossal equestrian Statue of
+								<persRef ref="washington-george">Washington</persRef> in Bronze, to
+							be located South of the Southern wing of the Capitol, for which he has
+							applied by Memorial to the Senate The library committee on the part of
+							the Senate have reported favourably upon his memorial, and he wishes me
+							to speak a good word for him to <persRef ref="marsh-george">M<hi
+									rend="superscript">r</hi> George P. Marsh</persRef>, or <persRef
+								ref="burke-edmund4">M<hi rend="superscript">r</hi> Edmund
+								Burke</persRef>, or <persRef ref="lyon-lucius">M<hi
+									rend="superscript">r</hi> Lucius Lyon</persRef>, who are the
+							members of the Library Committee on the part of the house. I promised to
+							speak to M<hi rend="superscript">r</hi> Marsh— I found the house in
+							session— <persRef ref="tibbatts-john">Tibbatts</persRef> from the
+							Committee on the Militia had reported a joint-Resolution for an
+							appropriation of 50000 dollars for <persRef ref="colt-samuel">Samuel
+								Colt’s</persRef> water-proof cartridges— A gimcrack new invention
+							referred to the Committee of the whole on the state of the Union.
+								<persRef ref="saunders-romulus">Romulus M. Saunders</persRef> from
+							the Committee on the judiciary had reported a bill professedly for
+							altering and amending the naturalization laws, but in substance utterly
+							impotent and delusive— An insulting mockery to the native American
+							petitioners for a noviciate of 21 years as the condition of
+							naturalization— <persRef ref="weller-john">Weller</persRef> moved a
+							Resolution to take the Oregon territory bill out of Committee at two
+							O’Clock P.M. to morrow, and called for the previous question—the
+							Resolution was carried by yeas and nays 94 to 65. after which the house
+							went into Committee of the whole on the state of the Union Weller in the
+							chair, and <persRef ref="brown-aaron">Aaron V. Brown</persRef>, chairman
+							of the Committee on the territories, presented three wretchedly drawn up
+							amendments, to remove as he said objections which had been made
+							yesterday.— <persRef ref="hunt-washington">Washington Hunt</persRef>
+							made a short feeble and pointless speech against the Bill— <persRef
+								ref="morris-edward">Edward Joy Morris</persRef> followed in the same
+							course, willing to give notice to the British Government that the joint
+							occupation convention is abrogated and annulled, but not to pass any
+							further act of Legislation upon the subject at present— <persRef
+								ref="douglas-stephen">Douglass</persRef> of Illinois raved an hour
+							about democracy, and anglophobia, and universal empire— <persRef
+								ref="severance-luther">Severance</persRef>, answered by a cool,
+							sensible and moderate speech; opposed to the whole Bill; and even to
+							giving the notice of annulment of the joint occupation convention.— I
+							spoke about half an hour, remonstrating against the heedless haste with
+							which the bill is to be driven through the house, without waiting for
+							the book they have decided to purchase, or for the answer of the
+								<persRef ref="tyler-john">President</persRef> to the call for the
+							documents of the negotiation— I declared myself willing to give the
+							notice of annulment to the British Government, and to constitute the
+							territory to take effect after the expiration of the term of notice
+							Aaron V. Brown answered me— Committee rose— Adjourned. </p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

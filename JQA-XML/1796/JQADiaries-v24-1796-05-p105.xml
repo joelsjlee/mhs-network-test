@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1796-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="105"  mhs:precedingFile="JQADiaries-v24-1796-04-p100.xml" mhs:followingFile="JQADiaries-v24-1796-06-p111.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1796-05-01" to="1796-05-31"/></bibl>
+
+				<!-- D/JQA/24.512 -->
+				<!-- question for Bill: okay if day entry 2d, not at end of file? -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-01">
+					<head>1 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">May 1796.</hi></dateline>
+						<p><date>1. </date>Wrote and read a little in the forenoon. Constant dread
+							of visitors.— Dined and spent the Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>. He
+							is unwell, as are some others of the family.</p>
+						<lg>
+							<l>“Canst thou not Minister to a <hi rend="italic">mind</hi>
+							diseas’d.”</l>
+						</lg>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05"/><editor
+						role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise between 9 and 10. Spend about an hour in
+							dressing. It is one of the necessities of the time and the place.
+							Breakfast. Read the Morning Chronicle for Opposition news, &amp; the
+							Times for the ministerial: This brings me to nearly twelve. Read or
+							write about an hour. Then walk two more to pay a foolish visit, or two.
+							from thence till 5. my dinner time read again or write. Generally dine
+							at home or at <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Am sure at least to pass the Evening &amp; sup
+							there; return home between 12 &amp; 1. at night. look over the Courier
+							smoke my segar, and just before 2 in the morning retire to bed.— What a
+							life!</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-02">
+					<head>2 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Visit this morning to <persRef ref="pinckney-thomas">M<hi
+									rend="superscript">r:</hi> Pinckney</persRef>. Not at home. But I can
+							expect no assistance from him to enable me to get away, and must
+							therefore stay till I hear from Holland. My Patience must be drained to
+							the very dregs.— As I was coming home met <persRef ref="sargent-john">J.
+								T. Sargent</persRef>. Evening at <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Murdoch</persRef> there. Return’d this day
+							from Bath.— Find another cold coming on me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-03">
+					<head>3 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Marshall</persRef> called on me this morning. He is going to
+							Holland, and enquired whether I should go soon. I know not what to
+							answer.— Walk in the forenoon. Pass’d a couple of hours in the Poets’
+							Gallery, another collection of Paintings. The compound is singular,
+							about half the subjects being taken from the Bible, and the other half
+							from several of the british Poets. The former are the originals of the
+							prints in <persRef ref="macklin-thomas">Macklin’s</persRef> Bible, now
+							publishing.</p>
+						<p>The Room is not well adapted for an exhibition and half the pictures are
+							lost by being placed in a bad light. But the proportion of good
+							paintings appears to me greater than in either of the other galleries I
+							have visited. <persRef ref="opie-john">Opie</persRef> who has more here
+							than any other Painter, gains upon my taste. His Henry and Emma is very
+							good. There is an admirable scene of peasant girls, by <persRef
+								ref="reynolds-joshua">Sir Joshua Reynolds</persRef>, and a Woodman
+							in Winter from <persRef ref="cowper-william">Cowper’s</persRef> task,
+							also very excellent. (by <persRef ref="barker-thomas"
+							>Barker</persRef>.).— On my return home found a line from M<hi
+								rend="superscript">r:</hi> Marshall, informing me of a vessel going to
+							Amsterdam on Friday. He intends going in her, but I cannot.— Evening at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Letter from <persRef key="adams-thomas">my
+								brother</persRef> at the Hague of 17<hi rend="superscript">th</hi> last
+							month, relieved me from great anxiety; but he has been very ill.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-04">
+					<head>4 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="106" type="ms"/>
+						<p><date>4. </date>Visitors in abundance. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Murdoch</persRef> called and delivered me a letter from
+								<persRef key="adams-thomas">my brother</persRef> at the Hague, dated
+							the 28<hi rend="superscript">th:</hi> of last month. He mentions having sent me
+							on the 22<hi rend="superscript">d:</hi> the supply, the want of which now
+							detains me. But that letter being important of course I have not
+							received it. I am almost become superstitious on this subject. Dined at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Walk after dinner with the <persRef
+								ref="adams-louisa-catherine;hellen-ann;frye-carolina">young
+								Ladies</persRef> to Ludgate Hill. Evening according to custom.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-05">
+					<head>5 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Wrote a letter to <persRef key="adams-abigail">my
+								mother</persRef>. Walk to the City. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Wadsworth</persRef> dined with me. <persRef
+								ref="hall-joseph">Hall</persRef> came in this afternoon: just
+							return’d from Bath. We all went and passed the Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.—
+								<persRef ref="rogers-william2">M<hi rend="superscript">r:</hi>
+								Rogers</persRef> was here this morning, and yesterday. It seems the
+							catastrophe at New-York, which I have long seen to be inevitable, has
+							actually taken place.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-06">
+					<head>6 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Read New-York papers. Violent debates in congress. Dined
+							at <persRef ref="pinckney-thomas">M<hi rend="superscript">r:</hi>
+								Pinckney’s</persRef>. <persRef ref="church-john">M<hi rend="superscript"
+									>r:</hi> Church</persRef>. <persRef ref="cutting-john">M<hi
+									rend="superscript">r:</hi> Cutting</persRef>, and a <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> McPherson</persRef>, whom I did not
+							know. M<hi rend="superscript">r:</hi> Pinckney says he thinks <persRef
+								ref="paine-thomas">Tom Paine’s</persRef>
+							<hi rend="italic">forte</hi> is <hi rend="small-caps">irony</hi>.
+							Q. N. Talk’d of his purity &amp; independence of Spirit too. Pinckney is
+							one of the school himself; and inclines to it in profession as much as
+							he dares. Cutting said that the french manufactures were universally
+							superior to the English excepting only hard ware. Church said the stocks
+							of this Country were a circulating <hi rend="italic">medium</hi>; I had
+							said the contrary; and in the controversy Pinckney and Cutting both
+							joined Church against me. The more I see of these people the more I find
+							them destitute of information.— Home at about ten, and read a book of
+								<persRef ref="pope-alexander">Pope’s</persRef> Iliad. an employment
+							more agreeable, and certainly much more instructive than that of
+							discussing with the company I had quitted.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-07">
+					<head>7 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Sent a packet of newspapers to go by <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Marshall</persRef>, to <persRef
+								key="adams-thomas">my brother</persRef>. He had gone about an hour
+							before. Another lesson upon delay. I have taken and forgotten enough.
+							Went down to give <persRef ref="bird-robert">M<hi rend="superscript">r:</hi> R.
+								Bird</persRef> his letters for America. Did not see him &amp; left
+							my letters— (<persRef ref="packwood-george">Packwood’s</persRef> razor
+							strops. N. 16. Grace-church street.) <persRef ref="lackington-james"
+								>Lackington’s</persRef> book shop. Finsbury Square. Home. Dined at
+								<persRef ref="copley-john">M<hi rend="superscript">r:</hi>
+								Copley’s</persRef>. <persRef ref="erving-george">M<hi rend="superscript"
+									>r:</hi> Erving</persRef>, <persRef ref="bromfield-henry;u">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript">rs:</hi>
+								Bromfield</persRef>; and <persRef ref="u">Captain Winslow</persRef>.
+							Had some little of the grace of consideration but not enough. Evening,
+							(last part of it) at <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-08">
+					<head>8 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date><persRef ref="hall-joseph">Hall</persRef> was with me in
+							the forenoon— Ride with the <persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladies</persRef> to the Park. Overtook him.— Walk interrupted by
+							the rain. Dined at <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Evening there too. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Murdoch</persRef>. Home at about 12.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-09">
+					<head>9 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date><persRef ref="hall-joseph">Hall</persRef> called on me
+							between 12 &amp; 1. We went to <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>, from thence with
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Murdoch</persRef> and the
+								<persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladies</persRef> to the Exhibition. I persist in the opinion that
+								<persRef ref="beechey-william">Beechey’s</persRef> portraits are
+							much better than <persRef ref="hoppner-john">Hoppner’s</persRef>. Walk’d
+							back with the young Ladies. Hall left us. He goes this Evening to a ball
+							at Highgate. <persRef ref="u">M<hi rend="superscript">rs:</hi> Court</persRef>
+							&amp; <persRef ref="u">her Daughters</persRef> dined with us.— Evening
+							but so so.— Music.— Conversation flagging.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-10">
+					<head>10 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="107" type="ms"/>
+						<p><date>10. </date>Wrote and read a little. Short walk in the morning. At
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef> in the Evening. Play’d backgammon.— The usual
+							asperities arose this Evening.— I must get away.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-11">
+					<head>11 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="hall-joseph">Hall</persRef> here in the
+							morning. Made our arrangements for the Evening. He called on me again
+							after dinner with <persRef ref="rogers-william2">Rogers</persRef>. It
+							was late before we arrived at <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>. From thence, went
+							immediately with the <persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladies</persRef> to Ranelagh. More lessons of dress.— Dull and out
+							of humour. After we arrived at Ranelagh, all my temper came out. too
+							offensively perhaps. Latter part of the Evening however agreeable. The
+							fantoccini are little better than a miserable puppet-show. The room was
+							extremely thin of company. Between 12 and 1. we set off to return.
+							Supp’d at M<hi rend="superscript">r</hi> Johnson’s after our return. And at
+							about half after three and in broad day-light, Hall left me at my
+							lodgings.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-12">
+					<head>12 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Late up. Wrote a short letter to America. Dined and
+							pass’d the Evening at <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef>. An Evening of satisfaction, and of
+							explanation. Home at about 12.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-13">
+					<head>13 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>Walk before dinner. Lounge at the exhibition Somerset
+							House.— My Opinion of the portraits acquires additional confirmation,
+							the more I see of them. <persRef ref="beechey-william"
+								>Beechey’s</persRef> are the best. <persRef ref="westall-richard"
+								>Westall’s</persRef> come next and <persRef ref="northcote-james"
+								>Northcote</persRef>, before <persRef ref="opie-john">Opie</persRef>
+							and <persRef ref="hoppner-john">Hoppner</persRef>. The best miniatures
+							are by <persRef ref="plimer-andrew">Plimer</persRef>.— Evening at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Cards— Part of the family dull.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-14">
+					<head>14 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Reading <persRef ref="gibbon-edward">Gibbon’s</persRef>
+							memoirs of his life and writings. A very valuable piece of Biography.
+							Dined with <persRef ref="u">Murdoch</persRef>.— <persRef
+								ref="cutting-john">Cutting</persRef> said he wished <persRef
+								ref="morris-gouverneur">M<hi rend="superscript">r:</hi> Morris</persRef>
+							might be appointed to succeed <persRef ref="pinckney-thomas">M<hi
+									rend="superscript">r:</hi> Pinckney</persRef> as American Minister
+							here.— <persRef ref="u">M<hi rend="superscript">r:</hi> Sandi</persRef>.
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Crewe</persRef>. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Lyle</persRef>. Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							Music.— Murdoch gives too good Madeira.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-15">
+					<head>15 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>I have undertaken as an amusement to read the <hi
+								rend="italic">Epic Poets</hi> (the foreigners in the English
+							translations.) An hour every day is devoted to the purpose. Began
+								<persRef ref="pope-alexander">Pope’s</persRef> Homer on the 29<hi
+								rend="superscript">th.</hi> of last month. I read one book a day. This is
+							not perhaps the best possible way of employing my time. But it is better
+							than lounging in the streets or doing absolutely nothing. As I now live
+							I have only the choice of my dissipation.</p>
+						<p><persRef ref="hall-joseph">Hall</persRef> called on me. Would not go to
+							dine at <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Left him at the London Coffee-House.— Day from
+							dinner time past as usual. Evening tolerably pleasant.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-16">
+					<head>16 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date><hi rend="strikethrough">Visit from M</hi><hi
+								rend="superscript strikethrough">r</hi><hi rend="strikethrough">
+								Wadsworth</hi>— Called on <persRef ref="hall-joseph">Hall</persRef>
+							and <persRef ref="rogers-william2">Rogers</persRef> who were out. On
+								<persRef ref="sargent-henry">H. Sargent</persRef>, the young
+							Painter, who has considerable talent in that Line. He shew me his
+							work-room with his paintings.— His likenesses to general are very good.
+							He says it is a great question among the artists whether the style of
+							finishing pictures, like those of <persRef ref="beechey-william"
+								>Beechey</persRef>, or of centering all the effect in the face, like
+								<persRef ref="hoppner-john">Hoppner</persRef> and <persRef
+								ref="lawrence-thomas">Laurence</persRef> is preferable. Rather
+							inclines to the latter which was introduced and recommended by the
+							practice of <persRef ref="reynolds-joshua">Sir Joshua
+							Reynolds</persRef>: but he thinks it is carried too far by some of the
+							imitators, and for my own part I think that a very little of it is by
+							much too much.— At <persRef ref="pinckney-thomas">M<hi rend="superscript"
+									>r:</hi> Pinckney’s</persRef>. Not at home. Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>
+							Hall, <persRef ref="russell-joseph2">Russell</persRef>, <persRef ref="u"
+								>Murdoch</persRef> there. Music. Cards but I did not play.— Good
+							humoured.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-17">
+					<head>17 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="108" type="ms"/>
+						<p><date>17. </date>Forenoon principally spent in my two adopted
+							occupations.— Weather very fine. Dined at <persRef ref="johnson-joshua"
+									>M<hi rend="superscript">r:</hi> Johnson’s</persRef>. From thence went
+							with the <persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladies</persRef> to Drury-Lane Theatre. <persRef ref="hall-joseph"
+								>Hall</persRef> &amp; <persRef ref="russell-joseph2"
+								>Russell</persRef> were to have come at 1/2 past 5 to take two of
+							them. They had not arrived at 6. We therefore set off without them, but
+							met them before we had run a quarter of a mile. We were in a great
+							hurry. The performances were 6<hi rend="superscript">th:</hi> Night of a new
+							Opera called Mahmoud or the Prince of Persia. and a Farce entirely new
+							called Alive and Merry. The music of the first was a passport for its
+							dulness. The last, a first attempt, was of doubtful success, and still
+							more dubious merit. A new singer by the name of <persRef
+								ref="braham-john">Braham</persRef>, pleased us in the Opera. He is
+							pronounced the finest tenor in the world, by those who here undertake to
+							award such ranks, and has indeed a very good voice.— He was indeed the
+							pretext of our going this day, and the Ladies are delighted with him.—
+							We returned to supper at M<hi rend="superscript">r:</hi> Johnson’s, and by the
+							pleasures of the company were kept there till almost two in the
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-18">
+					<head>18 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Visit from <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Wadsworth</persRef>, and returned it. Went with him and <persRef
+								ref="deas-william">M<hi rend="superscript">r:</hi> Deas</persRef> to the
+							exhibition at Somerset house. Met <persRef ref="hall-joseph"
+								>Hall</persRef> there. Stroll’d round till near 5. My first
+							judgments acquire daily new strength. They do not altogether accord with
+							the fashionable taste. Dined alone. Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+								<persRef ref="u">Murdoch</persRef> there. Play’d Whist malgré moi.
+							Invited to the dance to-morrow Evening. Cannot go. Accounts from America
+							very unpleasant, but to <hi rend="italic">me</hi> by no means
+							unexpected.— Affected as much as I could good humour. Succeeded no
+							better than usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-19">
+					<head>19 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>The difference between the popular and Executive
+							branches of the American Government is approaching to a crisis, and I
+							fear the superior force is not where it should be. Resolves of the house
+							on the 17<hi rend="superscript">th:</hi> of last month, appear in this day’s
+							papers.— Called to see <persRef ref="u">Forbes</persRef>, who is very
+							unwell, but found him not at home. Met <persRef ref="johnson-joshua"
+									>M<hi rend="superscript">r:</hi> Johnson</persRef>, &amp; <persRef
+								ref="hall-joseph">Hall</persRef> successively. Talk’d unreasonably.—
+							Dined alone. Evening at Covent Garden Theatre; saw The Way to get
+							married, a new Comedy that has had a very great run this Season, and
+							Harlequin’s treasure, a pantomime as stupid, as they always are.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-20">
+					<head>20 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="hall-joseph">Hall</persRef> called on me
+							this morning; offered to supply me with money, if I should have
+							occasion. told him I would call on him if I should not before next week
+							receive my long expected letter from <persRef key="adams-thomas">my
+								brother</persRef>. <persRef ref="pinckney-thomas">M<hi rend="superscript"
+									>r:</hi> Pinckney</persRef> here too. Said he had now rec<hi
+								rend="superscript">d:</hi> bills from America, which would place our
+							pecuniary concerns on rather a better footing here, than they have
+							been.— Said he would enquire of <persRef
+								ref="bird-henry;bird-robert;savage-benjamin">Mess<hi rend="superscript"
+									>rs:</hi> Bird &amp;c</persRef> to know if they could furnish
+							me. He seems to think right on the American news. But he has a leaning
+							in general towards the strongest side.— Has letters from <persRef
+								key="monroe-james">M<hi rend="superscript">r:</hi> Monroe</persRef>. The
+							french have <pb n="109" type="ms"/>given up it is said their intention
+							of sending an Envoy Extraordinary to America, to talk in high terms to
+							our Executive.— The batteries are changed it seems.— Dined at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>
+							Evening with the <persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladies</persRef> at Drury Lane Theatre. Saw Romeo and Juliet.
+								<persRef ref="romeo">Romeo</persRef> by <persRef
+								ref="barrymore-william">Barrymore</persRef>. (For his benefit)
+								<persRef ref="juliet">Juliet</persRef>
+							<persRef ref="jordan-dorthea">M<hi rend="superscript">rs:</hi> Jordan</persRef>
+							<persRef ref="mercutio">Mercutio</persRef> by <persRef ref="dodd-james"
+								>Dodd</persRef>. The part of Juliet alone was well performed: all
+							the rest were indifferent. Her action in the Garden Scene was not only
+							superior to what I had ever seen of it, but almost to any conception I
+							could form of it. In the more tragical scenes she was not superior, and
+							sometimes not equal to <persRef ref="wallis-tryphosa">Miss
+								Wallis</persRef>.— In the funeral procession the bed of state was
+							not brought forward on the stage but kept at the extremity of the scene.
+							I think this an improvement; at least in point of decorum.— The Nurse,
+							by <persRef ref="hopkins-elizabeth">M<hi rend="superscript">rs:</hi>
+								Hopkins</persRef> was very badly done indeed.— The farce was the
+							Follies of a Day, cut down to three Acts, and of course much mutilated.
+							The page by <persRef ref="bland-maria">M<hi rend="superscript">rs:</hi>
+								Bland</persRef>. <persRef ref="susan">Susan</persRef>
+							<persRef ref="farren-elizabeth">Miss Farren</persRef>. <persRef
+								ref="figaro">Figaro</persRef>. <persRef ref="palmer-robert">R.
+								Palmer</persRef>, and <persRef ref="comte-almaviva"
+								>Almaviva</persRef>
+							<persRef ref="bannister-john">Bannister junior</persRef>. They all
+							appear clumsy enough compared with the french actors of the same parts.—
+								M<hi rend="superscript">rs:</hi> Bland however sung very prettily.— Return’d
+							immediately home, it being late.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-21">
+					<head>21 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>At <persRef ref="baring-francis2">Sir Francis
+								Baring’s</persRef> this morning to deliver the order I received
+							yesterday from <persRef key="adams-thomas">my brother</persRef> for at
+							length it has arrived. But Sir Francis is gone into the Country for
+							about ten days. Parliament was yesterday dissolved.— An hour at <persRef
+								ref="lackington-james">Lackington’s</persRef> book shop, &amp;
+							bought some books. Dined at <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Ulett</persRef> an English clergyman,
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Washington</persRef>, and
+								<persRef ref="u">M<hi rend="superscript">r</hi> Rawlin</persRef>, Gentlemen
+							from Virginia. <persRef ref="russell-joseph2">Russell</persRef> and
+								<persRef ref="u">Murdoch</persRef> were the company. The two latter
+							past the Evening, and supped likewise there. Received another letter
+							from my brother enclosing some from America. Conversation between sweet
+							and bitter, in the Evening.— When I came home found a line from <persRef
+								ref="pinckney-thomas">M<hi rend="superscript">r:</hi> Pinckney</persRef>,
+							informing me that <persRef ref="bird-henry;bird-robert;savage-benjamin"
+									>Mess<hi rend="superscript">rs:</hi> Bird, Savage &amp; Bird</persRef>,
+							will furnish me the money for which I have occasion.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-22">
+					<head>22 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Forenoon engaged as usual. Called on <persRef
+								ref="russell-joseph2">Russell</persRef> and <persRef ref="u"
+								>Forbes</persRef>. Latter has changed his lodgings. Dined at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. And the Evening. <persRef ref="u"><unclear>M<hi
+									rend="superscript">r</hi></unclear> Murdoch</persRef> there, at the close of it.
+							Fettered according to custom, as indeed we always must be.— Finished
+							reading <persRef ref="pope-alexander">Popes</persRef> Iliad, at the day;
+							and am so dissipated as to think even this a sort of application.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-23">
+					<head>23 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>To the London Coffee house, with <persRef
+								ref="hall-joseph">Hall</persRef>. <persRef ref="u"
+								>Skinner’s</persRef> vessel is gone. To <persRef
+								ref="bird-henry;bird-robert;savage-benjamin">Mess<hi rend="superscript"
+									>rs:</hi> Bird &amp;c.</persRef> to get some money. It will be
+							more convenient to them on Wednesday. Shall therefore go again. Went to
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Clagett’s</persRef> to
+							enquire for an opportunity to go to Rotterdam. heard of one at the close
+							of this week. To see the Captain to-morrow. Visit to <persRef ref="u"
+								>Forbes</persRef>. found him very unwell, with a slow nervous fever.
+							Dined at home alone. Went with <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Wadsworth’s</persRef> to a Ball at <persRef ref="pinckney-thomas"
+									>M<hi rend="superscript">r:</hi> Pinckney’ s</persRef>. Danced almost
+							all the Evening. Company principally unknown to me. <persRef
+								ref="siddens-sarah2;siddens-maria">Two daughters</persRef> of
+								<persRef ref="siddons-sarah">M<hi rend="superscript">rs:</hi>
+								Siddons</persRef> among them.— Party very pleasant. At home before 2
+							in the morning; That is very early.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-24">
+					<head>24 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>To <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Clagett’s</persRef> to see the <persRef ref="garmers-heinke"
+								>Captain</persRef> of the vessel going to Rotterdam. Found him there
+							and went with him on board the vessel at Wapping Old stairs. It is a
+							small Prussian <pb n="110" type="ms"/>schooner with very indifferent
+							accommodations, for which I am to pay a price of real extortion. But I
+							am used to it. On my return called on <persRef ref="u"
+							>Forbes</persRef>.— Met <persRef ref="hall-joseph">Hall</persRef>,
+								<persRef ref="rogers-william2">Rogers</persRef> &amp; <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Stuart</persRef> there. Forbes is
+							somewhat better. Dined at Home. Evening at <persRef ref="johnson-joshua"
+									>M<hi rend="superscript">r:</hi> Johnson’s</persRef>. <persRef ref="u"
+								>Murdoch</persRef> sent for. Evening not remarkable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-25">
+					<head>25 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Sent my baggage on board the vessel. Went to <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Bird’s</persRef>, and at length
+							procured the money Sat to <persRef ref="hull-thomas">M<hi rend="superscript"
+									>r</hi> Hull</persRef>. Dined at <persRef ref="johnson-joshua"
+									>M<hi rend="superscript">r:</hi> Johnson’s</persRef>. <persRef
+								ref="hall-joseph">M<hi rend="superscript">r:</hi> Hall</persRef>, &amp;
+								<persRef ref="russell-joseph2">Russell</persRef> there, and <persRef
+								ref="u">Murdoch</persRef>. <persRef ref="johnson-catherine">M<hi
+									rend="superscript">rs:</hi> Johnson’s</persRef> birth day. But little
+							Music in the Evening. Russell is going to France in a day or two.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-26">
+					<head>26 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Preparing for my departure. Informed from my <persRef
+								ref="garmers-heinke">Captain</persRef> that he sails early next
+							week. Couple of hours with <persRef ref="hull-thomas">M<hi rend="superscript"
+									>r:</hi> Hull</persRef>. At <persRef ref="pinckney-thomas">M<hi
+									rend="superscript">r:</hi> Pinckney’s</persRef> to ask for a Passport.
+							received it accordingly. Visits to <persRef ref="copley-john">M<hi
+								rend="superscript">r:</hi> Copley</persRef>, and <persRef ref="hope-w">M<hi rend="superscript">r</hi>
+							Hope</persRef>. Dined at home. Then went to <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>, and from thence with the
+								<persRef
+								ref="johnson-catherine;adams-louisa-catherine;hellen-ann;frye-carolina"
+								>Ladles</persRef> to <persRef ref="merlin-joseph">Merlin’s</persRef>
+							exhibition. It is hardly worth seeing a second time. Return’d to supper,
+							and as usual home between 12. and 1.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-27">
+					<head>27 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Continuing preparations for my departure. At about 4.
+							P.M. received word from the <persRef ref="garmers-heinke"
+								>Captain</persRef> that he should sail to-morrow morning at 5
+							o’clock—that the wind is perfectly fair and if it continues so he will
+							be at Gravesend by noon, ready to proceed from thence. This intelligence
+							comes quite unexpected, and precipitates me so as to make several
+							arrangements I had proposed, quite impracticable. Went immediately to
+							the <persRef ref="cavendish-william">Duke of Portland’s</persRef> office
+							to procure an order to permit my embarkation. Was obliged to return a
+							second time, and then informed I could not have the order till ten or
+							eleven to-morrow morning. Very anxious lest after all my disappointments
+							I should lose this opportunity of returning to Holland. Evening at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>, an Evening of delight and of regret. Took my
+							leave of all the family with sensations unusually painful. Conversation
+							with M<hi rend="superscript">r:</hi> Johnson.— At home at 2 in the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-28">
+					<head>28 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Up at 6. and from that time till 12. obliged to crowd
+							the business of several days, into so short a space. I had received from
+								Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="u">Clagett</persRef> and <persRef ref="u">Pratt</persRef>,
+							yesterday evening two successive letters informing me that I must be at
+							Gravesend by noon, and afterwards by 10 or 11 at latest.— It was
+							impossible to go without the order to allow me to embark, which could
+							not be procured till within five minutes before 12. I determined
+							therefore to lose not one minute of unnecessary time and to run the risk
+							which I could not prevent.— At a number of shops. At <persRef
+								ref="hall-joseph">Hall’s</persRef> and left several necessary
+							matters with him. An hour at <persRef ref="hull-thomas">M<hi rend="superscript"
+									>r:</hi> Hull’s</persRef>. At the <persRef
+								ref="cavendish-william">Duke of Portland’s</persRef> office myself
+							by 10. Nobody there. Sent <persRef ref="whitcomb-tilly"
+								>Whitcomb</persRef> again just before 12 and at length procured the
+							necessary order. Stepped without the loss of a minute into a
+							Post-Chaise, and just at 4. afternoon arrived at Gravesend 25 miles from
+								<persRef ref="osborne-william">Osborns’s</persRef> Adelphi Hotel.
+							The Verwagtend Fortuyn, <persRef ref="garmers-heinke">Captain Heinke
+								Garmers</persRef>, the vessel in which I had engaged my passage,
+							after waiting for me three or four hours had just got under way with a
+							fine fresh breeze. the custom house officers and the inspector, upon
+							observing in my Passport my official character were very civil in
+							accommodating and facilitating my departure. I took a boat immediately
+							to follow the vessel, and after some contrivance of the boatmen to
+							practice and imposition to encrease their fare, in which <pb n="111"
+								type="ms"/>as usual they succeeded, I reached the vessel about 6
+							miles below Gravesend, between 5 and 6 o’clock. We proceeded down the
+							river as low as Sheerness, and then for reasons best known to the
+							Captain, came to anchor for the night, before 9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-29">
+					<head>29 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>At about 6 this morning we got again under weigh
+							proceeding down the Thames the banks of which are very beautiful. We had
+							good weather though very cold for the Season. The wind fair as it could
+							blow. At about noon we got out of the river, and from that time had a
+							very heavy sea rolling, which has been raised by the prevalence for
+							several days of fresh westerly winds. I was even a little sea-sick. More
+							so than I have before been, these ten years. At about 8 this Evening we
+							lay to for the night. the <persRef ref="garmers-heinke"
+								>Captain</persRef> thinking himself too near the Dutch coast to
+							proceed. This extreme caution in the night at a season, when there is
+							not four hours of darkness at a Time is unknown to American Seamen, with
+							one of whom our passage would by this night have been completed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-30">
+					<head>30 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>The weather this morning was thick drizly and cold— At
+							about 8. land was made, being the island of Schouwen. at 9 we received a
+							Pilot on board and about 10 made out to reach the lower harbour of the
+							Briel, where we came to Anchor, both wind and tide being then adverse to
+							our proceeding onwards to Rotterdam. From that time till night we had a
+							most furious storm, so that our <persRef ref="garmers-heinke"
+								>Captain</persRef> more than once expressed his satisfaction at
+							having reached the harbour just as we did. I contrived to pass the time
+							with as little tediousness as the situation would allow; but I should
+							have little relish for imprisonment.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-05-31">
+					<head>31 May 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-05-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Early this morning we got under weigh again, and in two
+							or three hours beat up as high as the Briel where we changed our Pilot
+							for another. But the tide soon turning and the wind being unfavourable
+							we came to anchor again; from ten till about 2 we lay <hi
+								rend="strikethrough">below</hi> just above the Briel; &amp; the wind
+							then coming round we sailed once more and landed at the wharf at
+							Rotterdam just at 5. I left <persRef ref="whitcomb-tilly"
+								>Whitcomb</persRef> behind to bring forward the baggage, and
+							immediately proceeded to the boat for Delft of 6 o’clock. Soon after I
+							entered it I was joined by <persRef ref="bourne-sylvanus">M<hi
+									rend="superscript">r:</hi> Bourne</persRef> much to our mutual surprize
+							at this accidental meeting. He is returning from Paris, where he has
+							been about a month. At Delft we took a carriage, and arrived at the
+							Hague at my old lodgings at 9 in the Evening, where I was happy to find
+								<persRef key="adams-thomas">my brother</persRef> in good health.
+								<persRef ref="vonschubart-hermann">Baron Schubart</persRef> whom I
+							met at the house where we took the Carriage at Delft had already told me
+							he was well. M<hi rend="superscript">r:</hi> Bourne sat with us an hour, and
+							though I have been several nights almost entirely deprived of rest, I
+							kept my brother up, chatting upon various subjects till after one in the
+							morning.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

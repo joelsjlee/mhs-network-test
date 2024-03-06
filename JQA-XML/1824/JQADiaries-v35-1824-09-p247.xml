@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v35-1824-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="247"
+				mhs:precedingFile="JQADiaries-v35-1824-08-p226.xml"
+				mhs:followingFile="JQADiaries-v35-1824-10-p262.xml" mhs:volume="35">
+				<bibl n="metadata"><date from="1824-09-01" to="1824-09-30"/></bibl>
+				<!-- D/JQA/35 -->
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-01">
+					<head>1 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">Wednesday 1. September 1824.</hi></dateline>
+						<p><date>1. V.</date> Stage at 6 O’Clock for Baltimore— There was a <persRef
+								ref="white-unknown5;white-unknown6" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								White</persRef> in it— English-born, but residing at Georgetown— At
+								<persRef ref="brown-jesse">Brown’s</persRef> Hotel we took in,
+								<persRef ref="blake-d">M<hi rend="superscript">r</hi>
+								Blake</persRef> of New-York, and at <persRef ref="hyer-unknown">Miss
+								Hyer’s</persRef> a <persRef ref="bell-eliza">M<hi rend="superscript"
+									>rs</hi> Bell</persRef>, wife of <persRef ref="bell-charles">an
+								Officer in the Navy</persRef>, and daughter of the late <persRef
+								ref="swartwout-john">Gen<hi rend="superscript">l.</hi> John
+								Swartwout</persRef> of New-York. We breakfasted at <persRef
+								ref="ross-unknown3">Ross’s</persRef>, and reached Baltimore about 2.
+							P.M. Stopped at <persRef ref="barney-john">Barney’s</persRef> tavern;
+							called the Fountain Inn— Found <persRef ref="hellen-johnson">Johnson
+								Hellen</persRef> there; who shewed me a Letter from <persRef
+								ref="cary-unknown">Miss Carey</persRef>— A parting one; in unwilling
+							submission to the prejudices of <persRef ref="carey-unknown2">her
+								mother</persRef>— I dined at the public Table, and then went with
+							Johnson to view the Washington and Battle Monuments, and the Roman
+							Catholic Cathedral. Returning, I met <persRef ref="munro-isaac">M<hi
+									rend="superscript">r</hi> Isaac Munro</persRef> and <persRef
+								ref="bentalou-paul">Col<hi rend="superscript">l.</hi>
+								Bentalou</persRef>, the Marshal of the District, who accompanied me
+							to the City Hall and Exchange. Where preparations are making for the
+							reception of <persRef ref="lafayette">Gen<hi rend="superscript">l.</hi>
+								La Fayette</persRef>.— A large Hall is also preparing at Barney’s,
+							where a public dinner is to be given him by the Corporation— At 5. in
+							the afternoon I repaired to the new Steam-Boat, Constitution <persRef
+								ref="robertson-unknown3">Captain Robertson</persRef>. <persRef
+								ref="niles-hezekiah">M<hi rend="superscript">r</hi> Niles</persRef>,
+								<persRef ref="glenn-elias">M<hi rend="superscript">r</hi>
+								Glenn</persRef>, <persRef ref="williams-unknown2;williams-unknown5"
+								type="multi">two Williams’s</persRef> and several other persons came
+							and greeted me at the Steam-boat until its departure. The weather was
+							fine; the Sea Smooth, and about half past eleven at Night we landed at
+							Frenchtown.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-02">
+					<head>2 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2.—</date> Proceeded immediately in the Stage, and at four in the
+							Morning arrived at Newcastle. There took the Steam-boat Baltimore,
+								<persRef ref="davis-unknown7">Captain Davis</persRef>, for
+							Philadelphia, which we reached at eight— I left my baggage to be
+							transferred to the Boat, that was to go at Noon for Trenton. Called at
+								<persRef ref="ewing-samuel">S. Ewing’s</persRef> house; but he was
+							gone to the Yellow Springs; having previously been to <pb type="ms"
+								n="248"/>Saratoga— His health much impaired. I then called at
+								<persRef ref="hopkinson-joseph">M<hi rend="superscript">r</hi> Jos.
+								Hopkinson’s</persRef>— He determined to go with me to Bordentown—
+								<persRef ref="hall-unknown18">M<hi rend="superscript">r</hi>
+								Hall</persRef> Ewing’s uncle was with him. I called on <persRef
+								ref="walsh-robert">M<hi rend="superscript">r</hi> Walsh</persRef> at
+							his Office, and then, at <persRef ref="sergeant-john">M<hi
+									rend="superscript">r.</hi> John Sergeant’s</persRef>, with whom
+							I found <persRef ref="yard-james">M<hi rend="superscript">r</hi>
+								Yard</persRef>— Saw <persRef ref="sergeant-margaretta">M<hi
+									rend="superscript">rs </hi>Sergeant</persRef> also— Thence I
+							went to the Bank of the United States, and saw the President <persRef
+								ref="biddle-nicholas">N. Biddle</persRef>— He accompanied me to the
+							Steam-boat Philadelphia, which I very narrowly missed by being too late—
+							The boat stopped on the left shore of the Delaware, and landed the
+							passengers who were going by the way of Trenton— And there I parted from
+							my fellow passengers <persRef ref="blake-d">M<hi rend="superscript"
+									>r</hi> Blake</persRef> of New-York and <persRef
+								ref="bell-eliza">M<hi rend="superscript">rs</hi> Bell</persRef>—
+							About 5. I landed in a boat with M<hi rend="superscript">r</hi>
+							Hopkinson at Bordentown; the shallowness of the river at low-tide not
+							admitting the Boat to reach the wharf— At M<hi rend="superscript">r</hi>
+							Hopkinson’s I found <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and <persRef
+								ref="hellen-mary">Mary Hellen</persRef>— <persRef
+								ref="mease-isabella">Miss Mease</persRef> was also there— Walk with
+								M<hi rend="superscript">r</hi> Hopkinson round his grounds— Evening
+							pleasantly past, though with a cast of gloom at the distress of <persRef
+								ref="biddle-elizabeth">M<hi rend="superscript">rs</hi>
+								Keating</persRef>, M<hi rend="superscript">r</hi> Hopkinson’s
+							daughter; who was married very happily last Spring; and whose <persRef
+								ref="keating-john">husband</persRef> died a few weeks after the
+							marriage— An affecting instance of the vicissitudes and disappointments
+							of human life— We retired early for the Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-03">
+					<head>3 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. VII.</date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> concluded to go with
+							me to Quincy: and we took the Stage for Brunswick at ten this
+							morning—distance 28 miles. We arrived at Brunswick at 3 in the
+							afternoon, Steam-boat <hi rend="italic">Legislature</hi>. Followed
+							immediately by the Thistle; of the opposition line— There was a great
+							crowd of Passengers, and the deck was covered with barrels and baskets
+							of peaches; going to the New-York market. Among the passengers were
+							several who recognized me; and the market-man, insisted upon my
+							accepting two or three of his peaches as a brother yankee— He told me
+							his name was <persRef ref="barrett-unknown">Barrett</persRef>— That he
+							came from Vermont, and his father had been of Boston. <persRef
+								ref="dufief-nicolas">M<hi rend="superscript">r.</hi>
+								Dufief</persRef> the author of the Grammar and Dictionary, likewise
+							recognized, and spoke to me. There was a race between the two
+								<unclear>boa</unclear>ts; and in the narrowest parts of the Rariton
+							river, for about half an hour the bow of the Thistle, was within ten
+							feet of our Stern, both going at a rate of at least ten miles an hour.
+							As soon as there was width of passage for both Boats, the Thistle passed
+							us and reached New-York before us a few minutes. We landed about 7. in
+							the Evening, and came to the City-Hotel.— From the competition between
+							the two lines, the fare between Philadelphia and New-York is reduced to
+							2 dollars and the passage from Brunswick to N.Y. to 12.1/2 cents.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-04">
+					<head>4 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="249"/>
+						<p><date>4. VI:30.</date> Rainy, sultry Night. Morning absorbed by visitors—
+								<persRef ref="king-charles2">C. King</persRef> brought me a
+							manuscript copy of three Letters written by me in 1808 and 1809. to a
+							member of Congress. He said they had been sent to him for publication in
+							the New-York American; but he knew not to whom they were written; nor
+							from whom they came.— I told him they were genuine, and I believed were
+							to <persRef ref="bacon-ezekiel">M<hi rend="superscript">r</hi> Ezekiel
+								Bacon</persRef>; who was at that time a member of Congress from
+							Massachusetts. <persRef ref="mower-j">M<hi rend="superscript">r</hi>
+								Mower</persRef> called and gave me a pamphlet published this morning
+							by <persRef ref="noah-mordecai">M. M. Noah</persRef> late Editor of the
+							National Advocate; the proprietors of which have quarreled among
+							themselves— Other visitors were <persRef
+								ref="thompson-smith;thompson-sarah" type="multi">judge and M<hi
+									rend="superscript">rs</hi> Thompson</persRef>. <persRef
+								ref="stewart-delia;stewart-charles" type="multi">M<hi
+									rend="superscript">rs.</hi> and then Commodore
+							Stewart</persRef>, <persRef ref="wheaton-henry">M<hi rend="superscript"
+									>r</hi> Wheaton</persRef>—<persRef ref="edwards-ogden">judge
+								Ogden Edwards</persRef>, <persRef ref="bailey-john">M<hi
+									rend="superscript">r</hi> Bailey</persRef> the Postmaster,
+								<persRef ref="swartwout-robert">R. Swartwout</persRef>, and <persRef
+								ref="mccormick-daniel">M<hi rend="superscript">r</hi>
+								M’Cormick</persRef>. Swartwout was desirous that I should stop two
+							or three days in the City: and as I could not, desired me to ask
+								<persRef ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef> to stop, on his return to Washington— Judge
+							Thompson spoke of a misunderstanding between him, and the District
+								<persRef ref="vanness-william">judge Van Ness</persRef>, about the
+							place where the Circuit Court should be held in the City of New-York,
+							and in consequence of which the Court this week has been held by Van
+							Ness alone; and that no business has been done— The visitors engrossed
+							all the morning till dinner, immediately after which we embarked, at 3.
+							O’Clock, in the Steam-boat Fulton <persRef ref="comstock-william"
+								>Captain Comstock</persRef>. The boat is crowded with Passengers
+							among whom are <persRef ref="dewolf-nancy">M<hi rend="superscript"
+									>rs</hi> D’Wolfe</persRef>, wife of the <persRef
+								ref="dewolf-james">Senator from Rhode-Island</persRef>, and her
+							daughters <persRef ref="dodge-catherine">M<hi rend="superscript">rs</hi>
+								Dodge</persRef> and <persRef ref="sumner-mary">M<hi
+									rend="superscript">rs</hi> Perry</persRef>; <persRef
+								ref="dewolf-unknown4;dewolf-unknown5" type="multi">two of her
+								Sons</persRef>, and one of her Grand-children— <persRef
+								ref="fairbanks-gerry">M<hi rend="superscript">r</hi> Gerry
+								Fairbanks</persRef> of Boston; a <persRef ref="page-unknown"
+								>man</persRef>, <persRef ref="page-unknown2">wife</persRef>, and
+							several children by the name of Page; just from Russia, where Page who
+							is an American, married his wife, who is of an English family there—
+								<persRef ref="henderson-archibald">Col<hi rend="superscript">l.</hi>
+								Henderson</persRef>, with two of <persRef ref="henderson-anna">his
+								wife’s</persRef> Sisters, <persRef ref="hall-unknown19">M<hi
+									rend="superscript">rs</hi> Hall</persRef> and <persRef
+								ref="cazenove-unknown">Miss Cazenave</persRef> and <persRef
+								ref="brown-william10">M<hi rend="superscript">r</hi> Brown</persRef>,
+							a Clerk in the Department of State— M<hi rend="superscript">rs</hi>
+							D’Wolfe, and her daughters came on board from a place near Sands’s
+							point. The evening was fair, and I sat up on deck till near Midnight;
+							expecting to meet the Steam-boat Oliver Ellsworth, from Hartford, in
+							which <persRef ref="lafayette">General La Fayette</persRef>, was
+							returning to New-York— In this I was disappointed, and finally retired
+							to a birth in the forward Cabin, which M<hi rend="superscript">r</hi>
+							Fairbanks insisted, upon giving up to me.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-05">
+					<head>5 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. VI.</date> On rising this morning I found we were just outside
+							of the Southern extremity of Fisher’s Island; with fair weather, but a
+							very heavy swell, and the boat rolling, more than I had ever before
+							experienced in a Steam-boat. Many of the Passengers became Sea-sick—
+							None of the Ladies came out to breakfast; and the swell and rolling
+							continued until we had passed the Lighthouse, six miles below Newport—
+							We reached the City about 11 in the morning. <persRef
+								ref="hall-unknown19">M<hi rend="superscript">rs</hi> Hall</persRef>,
+								<persRef ref="cazenove-unknown">Miss Cazenave</persRef> and several
+								<pb type="ms" n="250"/>other passengers landed there— At half past
+							one we touched at Bristol, and there landed <persRef ref="dewolf-nancy"
+									>M<hi rend="superscript">rs</hi> D’Wolfe</persRef> and her
+							family— <persRef ref="dodge-catherine">M<hi rend="superscript">rs</hi>
+								Dodge</persRef> was of the party— At three in the afternoon we
+							landed at Providence being precisely 24 hours from New-York— Just before
+							we landed I was requested to step down from the deck, into the forward
+							Cabin, where I found almost all of the men passengers assembled, and
+								<persRef ref="fairbanks-gerry">M<hi rend="superscript">r</hi>
+								Fairbanks</persRef> announced to me a complimentary Resolution to me
+							with a request that I would take a glass of wine with them— I accepted
+							their invitation, returned them my thanks for their kindness; and shook
+							hands with them, all round. We immediately landed, and took Stages for
+							Boston. Supped about nine at <persRef ref="fuller-stephen"
+								>Fuller’s</persRef> in Walpole; and arrived at <persRef
+								ref="hamilton-james2">Hamilton’s</persRef> Exchange Coffee House
+							about one in the Morning— There was a light rain during the ride from
+							Dedham— <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> much fatigued.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-06">
+					<head>6 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. VII.</date> Heavy Thunder shower in the night, within an hour
+							after we were housed— This morning immediately after rising I called at
+								<persRef ref="welsh-thomas">D<hi rend="superscript">r</hi>
+								Welsh’s</persRef>. Saw only <persRef ref="welsh-abigail">M<hi
+									rend="superscript">rs</hi> Welsh</persRef>. My Son <persRef
+								ref="adams-george">George</persRef> had passed the Sunday at
+								<persRef ref="adams-john">my father’s</persRef> at Quincy— <persRef
+								ref="cruft-edward">M<hi rend="superscript">r</hi> Edward
+								Cruft</persRef> called immediately— Then <persRef ref="hall-joseph"
+								>Joseph Hall</persRef>, the Sheriff— George came in after breakfast
+							from Quincy. We had calls from Mess<hi rend="superscript">rs.
+								</hi><persRef ref="wallenstein-julius">Wallenstein</persRef> and
+								<persRef ref="ticknor-george">Ticknor</persRef>— <persRef
+								ref="everett-alexander">A. H. Everett</persRef>— <persRef
+								ref="gray-william">William Gray</persRef>— <persRef
+								ref="harris-samuel">Col<hi rend="superscript">l.</hi>
+								Harris</persRef>, <persRef ref="waterhouse-benjamin">D<hi
+									rend="superscript">r</hi> Waterhouse</persRef>, and <persRef
+								ref="welsh-harriet">Harriet Welsh</persRef>— At about eleven we took
+							a Hack, and came out with George to my father’s House at Quincy. I found
+							my Son <persRef ref="adams-charles2">Charles</persRef> here; it being
+							vacation time at Cambridge. <persRef ref="degrand-peter">M<hi
+									rend="superscript">r</hi> Degrand</persRef> came out in the
+							Evening. The infirmities of age have much increased upon my father since
+							I was here last year— His sight is so dim that he can neither write nor
+							read— He cannot walk without aid; and his hearing is partially affected—
+							His memory yet remains strong; his judgment sound; and his interest in
+							conversation considerable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-07">
+					<head>7 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. VII.</date><persRef ref="adams-george">George</persRef> returned
+							this morning to Boston in the Stage. We had visits from <persRef
+								ref="dearborn-henry">General H. Dearborn</persRef>, <persRef
+								ref="everett-alexander">A. H.</persRef> and <persRef
+								ref="everett-edward">Edward Everett</persRef>, and their <persRef
+								ref="everett-charlotte;everett-lucretia" type="multi"
+								>Ladies</persRef>— Edward Everett gave me a copy of his ΦBK.
+							Oration, delivered at Cambridge the day after Commencement, which is
+							highly celebrated. We went into Boston. Stopped at <persRef
+								ref="eustis-william">Governor Eustis’s</persRef> and saw <persRef
+								ref="eustis-caroline">M<hi rend="superscript">rs</hi>
+								Eustis</persRef>. He was not at home. At Boston we alighted at
+								<persRef ref="cruft-edward">M<hi rend="superscript">r</hi>
+								Cruft’s</persRef>. I called at the Athenaeum. Dined at <persRef
+								ref="blake-george">George Blake’s</persRef>— <persRef
+								ref="elwyn-elizabeth">M<hi rend="superscript">rs</hi>
+								Elwyn</persRef>, <persRef ref="crofts-unknown;crofts-unknown2"
+								type="multi">M<hi rend="superscript">r.</hi> and M<hi
+									rend="superscript">rs</hi> Crofts</persRef> of Charleston S.C.
+								<persRef ref="webster-daniel;webster-grace" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Webster</persRef>—and M<hi rend="superscript">r</hi> Edward Everett
+							were there. In the Evening we returned to Quincy, taking George with us.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> dined at M<hi rend="superscript">r</hi>
+							Cruft’s.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-08">
+					<head>8 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="251"/>
+						<p><date>8. VI.</date> Passed the day at Quincy. Heavy rain, great part of
+							the day— Mess<hi rend="superscript">rs. </hi><persRef ref="norton-jacob"
+								>Norton</persRef>, <persRef ref="southard-samuel"
+							>Southard</persRef>, with <persRef ref="chauncey-isaac">Commodores
+								Chauncey</persRef> and <persRef ref="morris-charles"
+								>Morris</persRef> and <persRef ref="harris-thaddeus">D<hi
+									rend="superscript">r</hi> Harris</persRef>, <persRef
+								ref="eustis-william;eustis-caroline" type="multi">Governor and M<hi
+									rend="superscript">rs</hi> Eustis</persRef>, visited us. I had a
+							particular conversation with M<hi rend="superscript">r</hi> Southard,
+							and told him what <persRef ref="swartwout-robert">R. Swartwout</persRef>
+							had said to me at New-York— Southard is going to-morrow to Portsmouth,
+							to return the next day. The remainder of this day I passed in
+							Conversations with <persRef ref="adams-john">my father</persRef>. He
+							bears his condition with fortitude; but is sensible to all its
+							helplessness. His mind is still vigorous; but cannot dwell long upon any
+							one subject— Articles of news, and of political speculation in the
+							Newspapers are read to him; on which he remarks with sound discernment—
+							He receives some Letters, and dictates answers to them— In general the
+							most remarkable circumstance of his present state, is the total
+							prostration of his physical powers, leaving his mental faculties
+							scarcely impaired at-all. M<hi rend="superscript">r</hi> Degrand came
+							out and spent the Evening here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-09">
+					<head>9 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-09"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Residences</note><note type="subject">Elections, Presidential
+							(1824)</note></bibl>
+					<div type="docbody">
+						<p><date>9. V:45.</date> I took a ride of about three miles with <persRef
+								ref="adams-john">my father</persRef> in his small carriage— Called
+							at <persRef ref="marston-john">M<hi rend="superscript">r</hi>
+								Marston’s</persRef>, and rode to the foot of Penn’s Hill, by the
+							houses where my father, and myself were born— That of his nativity, has
+							within the last year at his request been painted white— General <persRef
+								ref="dearborn-henry2">H. A. S. Dearborn</persRef> came out from
+							Boston, for a Committee of several persons who at a private meeting
+							resolved to give me a great Public Dinner at Faneuil Hall— I desired
+								Gen<hi rend="superscript">l.</hi> Dearborn to return my thanks to
+							the Meeting for the intended honour, and assure them of the grateful
+							sense I entertain of their kindness— But to say that in the present
+							agitation of the public mind; in the divisions of sentiment prevailing,
+							and in the total uncertainty of their issue; this measure would probably
+							increase the excitement which should rather be allayed— It might have
+							the aspect of a political expedient to make an ostentious and equivocal
+							exhibition of popularity, and perhaps even be represented as gotten up,
+							my own desire for that purpose— That I begged therefore to decline this
+							testimonial of their friendship, with the assurance that my sense of
+							obligation to those by whom it was offered was warm as if it had been
+							accepted— I went in to Boston with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef>. Stopped on the
+							way at <persRef ref="eustis-william">Governor Eustis’s</persRef>; and
+							had half an hour’s Conversation with him. He spoke of the Massachusetts
+							claim upon the Government of the United States with great solicitude;
+							and thinking it just, I told him I should give it all the aid in my
+							power. He spoke also of the electoral ticket in this State— A ticket was
+							nominated by the republican members of the Legislature last June,
+							understood to be favourable to me— An opposition ticket has since been
+							gotten up, at the head of which they have placed the names of Eustis,
+							and of the late <persRef ref="brooks-john">Governor Brooks</persRef>— As
+							this opposition has not been countenanced <pb type="ms" n="252"/>by
+							either of them, they have been urged by their friends to decline
+							publicly, and Eustis told me that they would— He said the only question
+							was as to the time, and he believed that would be soon. His own opinion,
+							he said had been made up and declared, two years ago; and it was well
+							known not only here but at New-York and Albany— He would see Brooks, and
+							they would decline about the same time, though perhaps not by a joint
+							act. In Boston I called at <persRef ref="cruft-edward">M<hi
+									rend="superscript">r</hi> Cruft’s</persRef>, found <persRef
+								ref="adams-george">George</persRef> there; and <persRef
+								ref="hall-elizabeth">M<hi rend="superscript">rs</hi> Hall</persRef>—
+							Then went to <persRef ref="sturgis-william">M<hi rend="superscript"
+									>r</hi> W: Sturgis’s</persRef>, but he was not at home—to
+								<persRef ref="foster-james">James H. Foster’s</persRef>, and saw him
+							and his family— To <persRef ref="stuart-gilbert">Stewart</persRef> the
+							Painter’s—but he was gone to Cambridge— Dined at <persRef
+								ref="ticknor-george">M<hi rend="superscript">r</hi> G. Ticknor’s
+							</persRef>with a small party. <persRef ref="story-joseph">Judge
+								Story</persRef>. <persRef ref="prescott-william">M<hi
+									rend="superscript">r</hi> W. Prescott</persRef> and <persRef
+								ref="prescott-edward;prescott-william2" type="multi">his
+								Sons</persRef>. <persRef ref="webster-daniel">M<hi
+									rend="superscript">r</hi> Webster</persRef>. <persRef
+								ref="everett-alexander">A. H. Everett</persRef>. <persRef
+								ref="mason-powell">Powell Mason</persRef>— <persRef
+								ref="wallenstein-julius">Wallenstein</persRef> and <persRef
+								ref="elliot-william">W. Elliot</persRef> were there— <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r</hi> Quincy</persRef>
+							came in after dinner— Judge Story invited me to dine with him at Salem,
+							and to give him notice of the day when I could come; which I promised to
+							do— We returned in the Evening to Quincy, and attended an evening party
+							at <persRef ref="quincy-eliza">M<hi rend="superscript">rs</hi>
+								Quincy’s</persRef>. <persRef ref="storer-hannah">M<hi
+									rend="superscript">rs</hi> Storer</persRef> was there; at an age
+							nearly equal to that of my father— Home about eleven O’Clock.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-10">
+					<head>10 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. VI:30.</date> Visit from <persRef ref="beale-benjamin">Captain
+								Benjamin Beale</persRef>, <persRef ref="adams-john">my
+								father’s</persRef> next door neighbour, aged 84. <persRef
+								ref="sumner-william">General W. H. Sumner</persRef> came and invited
+							me to dine with him at Dorchester. He gave me the manuscripts of several
+							papers written by me in the year 1804 and then published in the
+							Repertory. <persRef ref="beale-george">M<hi rend="superscript">r</hi> G.
+								Beale</persRef>, <persRef ref="greenleaf-thomas;greenleaf-mary"
+								type="multi">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> T. Greenleaf</persRef>, <persRef
+								ref="davis-john">Judge Davis</persRef> and <persRef
+								ref="sturgis-william">M<hi rend="superscript">r</hi> W.
+								Sturgis</persRef>, came out in the course of the morning. I dined
+							with W. H. Sumner, at a small neat pavilion, where he resides at
+							Dorchester— <persRef ref="eustis-william">Governor Eustis</persRef>, and
+								<persRef ref="joy-benjamin">B. Joy</persRef> were the only company.
+								<persRef ref="amory-rufus">R. G. Amory</persRef> came in after
+							dinner. Very warm political conversation, between Eustis and Amory—
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> came and took me up after dinner, and
+							we went in to Boston to an Evening party at <persRef
+								ref="gardner-samuel">M<hi rend="superscript">r</hi> Sam<hi
+									rend="superscript">l.</hi> P. Gardner’s</persRef>— The rooms
+							were crowded, and the heat almost stifling— M<hi rend="superscript"
+								>r</hi> Gardner married <persRef ref="gardner-rebecca">a
+								Sister</persRef> of the Lowell family; and he is connected with the
+							Cabot, Williams and Pickering families— But <persRef
+								ref="gray-elizabeth2">his daughter</persRef> married <persRef
+								ref="gray-william">M<hi rend="superscript">r</hi> William
+								Gray’s</persRef> son <persRef ref="gray-john">John</persRef>— The
+							company this Evening was accordingly a political medley— I left M<hi
+								rend="superscript">rs</hi> Adams to Lodge at <persRef
+								ref="cruft-edward">M<hi rend="superscript">r</hi> Cruft’s</persRef>,
+							and came alone home to my father’s</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-11">
+					<head>11 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-11"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Adams
+							Family Residences</note><note type="subject">Adams Family
+							Finances</note></bibl>
+					<div type="docbody">
+						<p><date>11. VII.</date><persRef ref="norton-jacob">M<hi rend="superscript"
+									>r</hi> Norton</persRef> of Weymouth came to see me. He is about
+							removing to the State of Vermont, and offers me for Sale, the house and
+							Estate where he now lives in Weymouth; being that where <persRef
+								ref="adams-abigail">my mother</persRef> was born, and where some of
+							the earliest years of my childhood were past— I told him that I had
+							strong temptations to purchase it, but could not without great
+							inconvenience, and must therefore decline it— But I agreed to take his
+							Potowmack Bridge Stock, as had been proposed to me by <persRef
+								ref="cranch-william">judge Cranch</persRef>. <pb type="ms" n="253"
+							/>I went into Boston— Called at <persRef ref="stuart-gilbert"
+								>Stewart</persRef> the Painter’s— He promised to finish the Portrait
+							of <persRef ref="adams-john">my father</persRef> which he painted for me
+							last year, but which was not then completed— He has also an excellent
+							Portrait of <persRef ref="boylston-ward">M<hi rend="superscript">r</hi>
+								W. N. Boylston</persRef>, which he painted some weeks since at
+							Princeton, and of which I bespoke a copy— I visited also <persRef
+								ref="southard-samuel">M<hi rend="superscript">r</hi>
+								Southard</persRef>, and Commodores <persRef ref="chauncey-isaac"
+								>Chauncey</persRef> and <persRef ref="morris-charles"
+								>Morris</persRef> at the Marlborough Hotel— Southard is obliged to
+							leave Boston, upon his return towards Washington next Tuesday— Visits to
+								<persRef ref="gray-william">M<hi rend="superscript">r</hi> William
+								Gray</persRef>, and <persRef ref="gray-francis">his Son
+								Francis</persRef>. Return to <persRef ref="cruft-edward">M<hi
+									rend="superscript">r</hi> Cruft’s</persRef>. Dined at <persRef
+								ref="dearborn-henry">General H. Dearborn’s</persRef>— <persRef
+								ref="eustis-william">Gov<hi rend="superscript">r.</hi>
+								Eustis</persRef>, <persRef ref="wingate-joshua">M<hi
+									rend="superscript">r</hi> Wingate</persRef> of Portland,
+								<persRef ref="blake-george">G. Blake</persRef>, <persRef
+								ref="austin-james">J. T. Austin</persRef>, <persRef
+								ref="winthrop-thomas">M<hi rend="superscript">r</hi>
+								Winthrop</persRef> and <persRef
+								ref="austin-catherine;winthrop-elizabeth;blake-sarah" type="multi"
+								>their Ladies</persRef> were there. Also <persRef
+								ref="melville-thomas">M<hi rend="superscript">r</hi>
+								Melville</persRef>, the naval Officers <persRef
+								ref="dearborn-henry2;dearborn-hannah" type="multi">Gen<hi
+									rend="superscript">l.</hi> and M<hi rend="superscript">rs</hi>
+								H. A. S. Dearborn</persRef>, <persRef ref="harris-samuel">Col<hi
+									rend="superscript">l.</hi> Harris</persRef>, and <persRef
+								ref="everett-john">John Everett</persRef>, and my Son <persRef
+								ref="adams-george">George</persRef>, who returned with us in the
+							Evening to Quincy.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-12">
+					<head>12 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. VI:30.</date> Heard <persRef ref="huntoon-benjamin">M<hi
+									rend="superscript">r</hi> Huntoon</persRef> of Canton from
+							Galatians 6.4. [“]But let every man prove his own work, and then shall
+							he have rejoicing in himself alone, and not in another.”— And from
+							Matthew 11.13. [“]For all the prophets and the law prophesied until
+							John.” M<hi rend="superscript">r</hi> Huntoon dined with us; and also
+								<persRef ref="degrand-peter">M<hi rend="superscript">r</hi>
+								Degrand</persRef> who came out from Boston— After the afternoon
+							service I walked over the hills with Degrand to the summit of the
+							Granite rock, whence the fine prospect of the harbour and Bay is seen.
+							They are cutting away the rock to build up the streets of Boston. While
+							we were out <persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster</persRef> called at <persRef ref="adams-john">my
+								father’s,</persRef> but did not stay till my return— <persRef
+								ref="greenleaf-daniel;greenleaf-elizabeth" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Daniel Greenleaf</persRef> and <persRef ref="miller-edward">M<hi
+									rend="superscript">r</hi> Edward Miller</persRef>, passed the
+							Evening here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-13">
+					<head>13 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-13"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>13. V:30.</date> Went in to Boston early this morning with <persRef
+								ref="adams-george">George</persRef>— Fishing party, in the Revenue
+							Cutter, <persRef ref="trevett-samuel">Captain Trevett</persRef>— Our
+							party consisted of <persRef ref="dearborn-henry2">Gen<hi
+									rend="superscript">l.</hi> H. A. S. Dearborn</persRef>, <persRef
+								ref="sturgis-william">William Sturgis</persRef>, <persRef
+								ref="cruft-edward">M<hi rend="superscript">r</hi> Cruft</persRef>,
+							and my son George— We went on board about nine in the morning; but the
+							day was calm, so that it was with great difficulty that we got out of
+							the harbour— About 2 in the afternoon we took the boat and boarded a
+							Sloop, fishing, about a mile off Nahant; where we purchased some fish;
+							about 3 the Cutter came up with us, and it began to rain— We fished
+							about an hour, without much success— I caught one Cod, and one Mackerel,
+							with a Cod hook— The largest I ever saw— Dined upon Chowder. The calm
+							continued, and as we were returning, the tide came against us just after
+							we passed the Lighthouse, and between the outer revolving and
+							long-island lights we came to anchor, for about three hours— About ten
+							in the Evening we got under weigh again, and landed between the central
+							and long wharfs at Midnight— General Dearborn immediately went out to
+							Roxbury; and I came home to lodge at M<hi rend="superscript">r</hi>
+							Cruft’s— George went to <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r</hi> Welsh’s</persRef>. I had intended to
+							have returned this Evening to Quincy, but when we got back to Boston, it
+							was too late.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-14">
+					<head>14 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="254"/>
+						<p><date>14. VII.</date> After breakfast at <persRef ref="cruft-edward">M<hi
+									rend="superscript">r</hi> Cruft’s</persRef> I came out to Quincy
+							alone. I had with me a small manuscript Volume; being the Journal kept
+							by <persRef ref="adams-abigail">my mother</persRef>, when she went to
+							England, in June 1784—and with fragments of a diary while she was there,
+							until her departure in 1788 to return home. The perusal of it, brought
+							many pleasing and mournful recollections to my mind— On my reaching
+							home, a <persRef ref="baker-unknown3">M<hi rend="superscript">r</hi>
+								Baker</persRef> came, and took a miniature likeness of me in wax— It
+							was hideous— <persRef ref="hatch-israel">M<hi rend="superscript">r</hi>
+								Israel Hatch</persRef> of Attleborough came to ask a Letter to the
+							Postmaster General. He is going to Washington to apply for a contract to
+							carry the Mail— Visits to <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> from <persRef
+								ref="davis-ellen">Miss Ellen Davis</persRef>, and another young
+							Lady— I went to Cambridge with M<hi rend="superscript">rs</hi> Adams and
+							we took <persRef ref="adams-charles2">Charles</persRef> with us— We left
+							him at his room, and dined at <persRef ref="everett-edward">Professor
+								Everett’s</persRef>— <persRef ref="southard-samuel">M<hi
+									rend="superscript">r</hi> Southard</persRef>, <persRef
+								ref="chauncey-isaac">Commodore Chauncey</persRef>, <persRef
+								ref="webster-daniel;webster-grace" type="multi">M<hi
+									rend="superscript">r.</hi> and M<hi rend="superscript">rs</hi>
+								Webster</persRef>, <persRef ref="brooks-peter">M<hi
+									rend="superscript">r</hi> P. C. Brooks</persRef>, <persRef
+								ref="everett-alexander;everett-lucretia" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> A.
+								H. Everett</persRef>, and my Son <persRef ref="adams-george"
+								>George</persRef> were of the party— We returned in the Evening
+							through Boston to Quincy, and found <persRef ref="marston-unknown5">M<hi
+									rend="superscript">rs</hi> Marston</persRef>, and <persRef
+								ref="greenleaf-john;greenleaf-anna" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								John Greenleaf</persRef> at <persRef ref="adams-john">my
+								father’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-15">
+					<head>15 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-15"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>15. V:30.</date> Bath at Black’s wharf. Half-tide— After Breakfast
+							rode with <persRef ref="adams-john">my father</persRef>— To <persRef
+								ref="marston-john">M<hi rend="superscript">r</hi>
+								Marston’s</persRef>— To <persRef ref="hardwick-henry">H.
+								Hardwick’s</persRef>, to Mount Wollaston, and as far as <persRef
+								ref="spear-luther">M<hi rend="superscript">r</hi> Spear’s</persRef>
+							house— The ride was rather too long for my father’s feeble state at this
+							time— We had visits from <persRef ref="robbins-e">M<hi
+									rend="superscript">rs</hi> E. H. Robbins</persRef>, <persRef
+								ref="lyman-g;lyman-elizabeth" type="multi">M<hi rend="superscript"
+									>r.</hi> and M<hi rend="superscript">rs</hi> Lyman</persRef>,
+							and <persRef ref="gerry-elbridge2;gerry-anna" type="multi">M<hi
+									rend="superscript">r</hi> and Miss Gerry</persRef>— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> went to Boston, to <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r</hi> Welsh’s</persRef>. I dined with my
+							brother at <persRef ref="eustis-william">Governor Eustis’s</persRef> at
+							Roxbury— <persRef ref="adams-ann">M<hi rend="superscript">rs</hi> T. B.
+								Adams</persRef> went with us, as far as a <persRef
+								ref="lunt-unknown">M<hi rend="superscript">r</hi> Lunt’s</persRef>,
+							a neighbour of the Governor’s. The dinner, was of men only—a company of
+							about forty, variously assorted, and with toasts— I escaped as soon as I
+							could; and came out with M<hi rend="superscript">r</hi> Quincy; who took
+							me to my father’s— <persRef ref="adams-george">George</persRef> had been
+							of the dinner, and also came out in the Evening— <persRef
+								ref="quincy-josiah2">Quincy</persRef> spoke to me confidentially,
+							respecting the state and prospects of my father’s health. He wrote under
+							my father’s dictation, his Will, and is appointed joint-Executor of it
+							with myself— I have not seen it— I have hope that my personal attentions
+							may yet contribute to the comfort of his declining days; and with
+							gratitude to Providence observe the still vigorous energies of his mind.
+								M<hi rend="superscript">rs</hi> Adams remained this Night at
+							Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-16">
+					<head>16 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-16"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>16. V:15.</date> Bath with <persRef ref="adams-george"
+								>George</persRef> at the wharf— <persRef
+								ref="norton-jacob;norton-elizabeth" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Norton</persRef> of Weymouth called at <persRef ref="adams-john">my
+								father’s</persRef>— I took his Potowmack-Bridge Stock, for which he
+							gave me an order upon <persRef ref="cranch-william">judge
+								Cranch</persRef>. I went into Boston with George. Met Mess<hi
+								rend="superscript">rs.</hi><persRef ref="barstow-gideon"
+								>Barstow</persRef> and <persRef ref="white-stephen">Stephen
+								White</persRef> of Salem, and <persRef ref="gorham-benjamin">M<hi
+									rend="superscript">r.</hi> B. Gorham</persRef> with another
+							friend, who were going out to visit me at Quincy. I promised M<hi
+								rend="superscript">r</hi> White to spend the Evening with him at
+							Salem next <pb type="ms" n="255"/>Wednesday. I had written to <persRef
+								ref="story-joseph">judge Story</persRef>; engaging to dine with him
+							on that day. I called at <persRef ref="stuart-gilbert">M<hi
+									rend="superscript">r</hi> Stewart</persRef> the Painter’s, and
+							found that he had worked at my father’s Portrait since I last saw it;
+							and he promised to go out to Quincy one day next week to finish it— At
+								<persRef ref="cruft-edward">M<hi rend="superscript">r</hi>
+								Cruft’s</persRef> I met <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef>, and we had visits
+							there, from <persRef ref="dearborn-henry2">Gen<hi rend="superscript"
+									>l.</hi> H. A. S. Dearborn</persRef>, Mess<hi rend="superscript"
+								>rs. </hi><persRef ref="crowninshield-benjamin"
+								>Crowninshield</persRef> (who engaged me to lodge at his house next
+							Wednesday[)]. <persRef ref="shepherd-unknown3">Shepherd</persRef>,
+								<persRef ref="welles-samuel">S. A. Welles</persRef>, and <persRef
+								ref="rogers-daniel">D. D. Rogers</persRef>— I called at <persRef
+								ref="brazer-john">M<hi rend="superscript">r</hi> John
+								Brazer’s</persRef>, and saw there his daughter, <persRef
+								ref="brazer-unknown3">Miss Brazer</persRef>, and his Granddaughter
+								<persRef ref="glover-unknown2">Miss Glover</persRef>— He was not at
+							home— Met <persRef ref="bailey-unknown2">M<hi rend="superscript">rs</hi>
+								Bailey</persRef> in Cornhill— Visits at <persRef ref="hall-joseph"
+									>M<hi rend="superscript">r.</hi> Jos. Hall’s</persRef>, and at
+								<persRef ref="welsh-abigail">M<hi rend="superscript">rs</hi>
+								Welsh’s</persRef>, where I saw <persRef ref="pearce-unknown2">Miss
+									P<unclear>ea</unclear>rce</persRef>. At the Marlborough Hotel, I
+							found <persRef ref="bailey-john">M<hi rend="superscript">r</hi>
+								Bailey</persRef>, and met <persRef ref="rankin-christopher">M<hi
+									rend="superscript">r</hi> Rankin</persRef> of Mississippi— We
+							dined at <persRef ref="winthrop-thomas">M<hi rend="superscript">r</hi>
+								T. L. Winthrop’s</persRef>, with a company of both sexes— <persRef
+								ref="eustis-william">Governor Eustis</persRef> was of the party—
+							Somewhat annoyed with a Cannonade Salute from a military Company on the
+							Common, which had been exhibiting to him in the Morning. In the Evening
+							returned to M<hi rend="superscript">r</hi> Cruft’s, and saw there
+								<persRef ref="smith-hannah">M<hi rend="superscript">rs</hi>
+								Smith</persRef>, and <persRef ref="cook-josiah">M<hi
+									rend="superscript">r</hi> Cook</persRef> the lawyer— We came out
+							to Quincy without George— M<hi rend="superscript">r</hi> Hall the
+							Sheriff was at M<hi rend="superscript">r</hi> Winthrop’s this day before
+							dinner— Eustis sent for him; to make some arrangement, about his and
+								<persRef ref="brooks-john">Brooks’s</persRef> declining to run upon
+							the unpledged Electoral ticket.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-17">
+					<head>17 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-17"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>17. VI.</date> Bath at the wharve’s alone— Rainy morning. I passed
+							it chiefly in conversation with <persRef ref="adams-john">my
+								father</persRef>— Visit from a <persRef ref="vernon-unknown">M<hi
+									rend="superscript">r</hi> Vernon</persRef> of New-York— A nephew
+							of <persRef ref="vernon-william">W. H. Vernon</persRef> of Rhode-Island,
+							who went with us to France in the Boston Frigate in 1778— He has been
+							now living upwards of twenty years in Newport, and his nephew says is a
+							Connoisseur in painting, and has a collection of pictures. He was one of
+							the deputation lately sent from Newport, to invite <persRef
+								ref="lafeyette">General La Fayette</persRef> to that place, and who
+							came to him, to Boston— Dined with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef> at <persRef
+								ref="dearborn-henry2">Gen<hi rend="superscript">l.</hi> H. A. S.
+								Dearborn’s</persRef> at Roxbury. Company of both sexes. 24. <persRef
+								ref="eustis-william">Governor Eustis</persRef> unwell, and not
+							there. <persRef ref="adams-george">George</persRef> was of the party,
+							and returned with us in the Evening to Quincy.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-18">
+					<head>18 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-18"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note></bibl>
+					<div type="docbody">
+						<p><date>18. VI.</date> Change of weather, from sultry to cold. Bath at the
+							wharf alone. With <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and <persRef
+								ref="adams-george">George</persRef> into Boston— Call at <persRef
+								ref="stuart-gilbert">Stewart</persRef> the Painter’s. He has not
+							finished <persRef ref="adams-john">my father’s</persRef> picture; but
+							will go out one day next week to take a last sitting. I returned the
+							visit of <persRef ref="eustaphieve-alexei">M<hi rend="superscript"
+									>r</hi> Eustaphieff</persRef>, the Russian Consul, and saw him;
+								<persRef ref="eustaphieve-sarah">his wife</persRef> and <persRef
+								ref="eustaphieve-unknown">daughter</persRef>, who are English. Then
+							at <persRef ref="sturgis-russell">Russell Sturgis’s</persRef>— At
+								<persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster’s</persRef> Office; which I found as nearly as possible on
+							the same spot, where I kept mine in the years 1792, 1793, and 1794. But
+							the house, then standing there has been pulled down, <pb type="ms"
+								n="256"/>and a brick one built in its place— M<hi rend="superscript"
+								>r</hi> Webster was gone out of town— I called also at <persRef
+								ref="lloyd-james">M<hi rend="superscript">r</hi> James
+								Lloyd’s</persRef>, but it being his dining hour did not go in— Met
+								<persRef ref="welsh-thomas">D<hi rend="superscript">r</hi>
+								Welsh</persRef> in the street, and called at his house. Dined with
+								<persRef ref="sturgis-william">Williams Sturgis</persRef>— <persRef
+								ref="davis-john">Judge</persRef> and <persRef ref="davis-isaac"
+								>Isaac P. Davis</persRef>, <persRef ref="thorndike-n">N.
+								Thorndike</persRef>, <persRef ref="bowditch-nathaniel">N.
+								Bowditch</persRef>, and <persRef ref="gould-benjamin">M<hi
+									rend="superscript">r</hi> Gould</persRef> were there— In the
+							Evening I went to <persRef ref="smith-hannah">M<hi rend="superscript"
+									>rs</hi> William Smith’s</persRef>, and found my wife there— We
+							returned with George, to my father’s.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-19">
+					<head>19 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-19"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Recreation</note><note type="subject">Elections, Presidential
+							(1824)</note></bibl>
+					<div type="docbody">
+						<p><date>19. VI.</date> Cold bath. The last for the Season— Heard <persRef
+								ref="lamson-alvan">M<hi rend="superscript">r</hi> Lamson</persRef>
+							from Dedham. From Matthew 24.35. “Heaven and Earth shall pass away; but
+							my words shall not pass away.” and from Acts 20.24. “But none of these
+							things move me, neither count I my life dear unto myself, so that I
+							might finish my course with joy, and the ministry, which I have received
+							of the Lord Jesus, to testify the gospel of the grace of God.” Visits
+							after the services, from M<hi rend="superscript">r</hi> Lamson, the
+								<persRef ref="bulfinch-george;bulfinch-thomas" type="multi">two
+								Sons</persRef> of <persRef ref="bulfinch-charles">M<hi
+									rend="superscript">r</hi> C. Bulfinch</persRef> who are here on
+							a tour from Washington, and <persRef ref="marston-john">M<hi
+									rend="superscript">r</hi> Marston</persRef>— <persRef
+								ref="sprague-joseph">M<hi rend="superscript">r</hi> Joseph E.
+								Sprague</persRef>, and <persRef ref="degrand-peter"
+								>Degrand</persRef> came out from Boston; took tea and supped here— I
+							had a long conversation with Sprague on the subject of the
+							Vice-Presidency. With regard to <persRef ref="jackson-andrew">General
+								Jackson</persRef>, as the prospect now is that he will stand the
+							highest on the list of Candidates for the Presidency, it appears useless
+							to sustain him for the second Office— But as the Pennsylvania
+							nomination, Jackson and <persRef ref="calhoun-john">Calhoun</persRef>,
+							is absolute proscription of New-England, I advised Sprague, that my
+							friends here should bethink themselves twice, before they lend their aid
+							to any part of this inveterate exclusion of themselves.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-20">
+					<head>20 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. VI:15.</date><persRef ref="adams-george">George</persRef> went
+							to Boston in the Stage— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> was very unwell, and
+							confined to her chamber— I walked in the burying-yard and viewed, the
+							Granite Tombstones, erected over the graves of my ancestors, by <persRef
+								ref="adams-john">my father</persRef>— <persRef ref="adams-henry"
+								>Henry Adams</persRef>, the first of the family who came from
+							England— <persRef ref="adams-joseph3">Joseph Adams Senior</persRef>, and
+								<persRef ref="adams-abigail3">Abigail Baxter</persRef> his wife.
+								<persRef ref="adams-joseph2">Joseph Adams junior</persRef> and
+								<persRef ref="adams-hannah">Hannah Bass</persRef>, his second wife—
+								<persRef ref="adams-john4">John Adams</persRef>, senior my father’s
+							father, and <persRef ref="hall-susanna">Susanna Boylston</persRef> his
+							wife— Four Generations; of whom very little more is known than is
+							recorded upon these Stones. There are three succeeding Generations of
+							us, now living— Pass another century, and we shall all be mouldering in
+							the same dust, or resolved into the same elements— Who then of our
+							posterity shall visit this yard?— And what shall he read engraved upon
+							the Stones?— This is known only to the Creator of all— The record may be
+							longer—may it be of as blameless lives. <pb type="ms" n="257"/>I went
+							and dined at <persRef ref="amory-rufus">M<hi rend="superscript">r</hi>
+								R. G. Amory’s</persRef> at Dorchester; with a company of about
+							twenty Ladies and Gentlemen— <persRef
+								ref="eustis-william;eustis-caroline" type="multi">Governor and M<hi
+									rend="superscript">rs</hi> Eustis</persRef>, <persRef
+								ref="derby-richard;derby-martha" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> R.
+								Derby</persRef>— <persRef ref="bethune-george;bethune-mary"
+								type="multi">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> Bethune</persRef>— <persRef
+								ref="freeman-william;freeman-susan" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Freeman</persRef>. <persRef ref="russell-catherine">Miss Catherine
+								Russell</persRef>— <persRef ref="beckwith-john">Col<hi
+									rend="superscript">l.</hi> Beckwith</persRef> of the British
+							army. <persRef ref="baring-unknown2">M<hi rend="superscript">r</hi>
+								Baring</persRef>— <persRef ref="russell-joseph">M<hi
+									rend="superscript">r</hi> Joseph Russell</persRef>— <persRef
+								ref="everett-alexander">M<hi rend="superscript">r</hi> A. H.
+								Everett</persRef>. <persRef ref="adams-thomas">My brother</persRef>
+							and my Son George— Also, a <persRef ref="howland-unknown3">M<hi
+									rend="superscript">r</hi> Howland</persRef>, of Boston— After
+							dinner there came a <persRef ref="tucker-unknown4">Miss
+							Tucker</persRef>, inquisitive about my <persRef ref="adams-john2">Son
+								John</persRef>— There was conversation about the battle of Waterloo,
+							in which Governor Eustis and Col<hi rend="superscript">l.</hi> Beckwith
+							took part— George returned with me in the Evening to Quincy; and we
+							stopped to a numerous party, at <persRef ref="greenleaf-thomas">M<hi
+									rend="superscript">r</hi> T. Greenleaf’s</persRef>— Home between
+							ten and eleven.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-21">
+					<head>21 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. VI:</date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> continues very
+							unwell. Sleepless Night— But she was able to go with me in to Boston— I
+							called at <persRef ref="stuart-gilbert">Stewart</persRef> the Painter’s,
+							and he promised to go to-morrow to <persRef ref="adams-john">my
+								father’s,</persRef> and take the last sitting for his Portrait— I
+							had made an appointment to meet <persRef ref="webster-daniel">M<hi
+									rend="superscript">r</hi> Webster</persRef>; but before the time
+							he was obliged to go out of town, and I missed seeing him— Call at
+								<persRef ref="fuller-timothy">T. Fuller’s</persRef> Office, and had
+							a long conversation with him— He declines a re-election to the next
+							Congress. I mentioned to him in confidence the despatch received from
+								<persRef key="rush-richard">R. Rush</persRef>, enclosing a proposal
+							from the Greek Agents in London, that the United States should take the
+							Greeks under their Protection— We dined at <persRef ref="hall-joseph"
+									>M<hi rend="superscript">r</hi> Joseph Hall</persRef>; the
+							Sheriff’s. <persRef ref="eustis-william;eustis-caroline" type="multi"
+									>Gov<hi rend="superscript">r.</hi> and M<hi rend="superscript"
+									>rs</hi> Eustis</persRef>, the <persRef ref="brooks-john">late
+								Governor Brooks</persRef>, <persRef ref="trumbull-john">Col<hi
+									rend="superscript">l.</hi> Trumbull</persRef>, and <persRef
+								ref="everett-alexander;everett-lucretia" type="multi">M<hi
+									rend="superscript">r</hi> &amp; M<hi rend="superscript">rs</hi>
+								A. H. Everett</persRef> were of the party— Numerous Evening party at
+							Governor Eustis’s, Roxbury; and we lodge there— <persRef
+								ref="adams-george">George</persRef> went out to Quincy.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-22">
+					<head>22 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-22"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">War of
+							1812</note><note type="subject">Internal Improvements</note></bibl>
+					<div type="docbody">
+						<p><date>22. VII.</date> There had been some question; whether <persRef
+								ref="eustis-caroline">M<hi rend="superscript">rs</hi>
+								Eustis</persRef>, and <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> should go with us to
+							Salem, but they were both this morning too unwell. M<hi
+								rend="superscript">rs</hi> Adams concluded therefore to return to
+							Quincy; and M<hi rend="superscript">rs</hi> Eustis to remain at home— I
+							came with <persRef ref="eustis-william">Governor Eustis’s</persRef>,
+							through Boston to Salem; and we stopped at the La Fayette, formerly
+							called the Essex Coffee-house. On the road we had Conversation upon
+							various subjects; and the Governor told me many occurrences of his own
+							History. He spoke with great bitterness of <persRef ref="otis-harrison2"
+								>H. G. Otis</persRef>, the rival candidate against him last year for
+							the Office of Governor; and who although he declined standing as a
+							Candidate this year, wrote a series of papers just as the Election was
+							coming on, against Eustis, and in defence of the Hartford Convention— We
+							had also some discussion upon the Powers of the Congress of the United
+							States to institute and establish a system of internal improvement by
+							roads and Canals— The Governor thinks Congress have not this power; and
+							that the exercise of it will be pernicious and perhaps fatal to the
+							Union; upon all which points my opinion is the reverse of his—but we
+							discussed the question with great coolness and good humor— At Salem I
+							called upon my old friend, <persRef ref="pickman-benjamin">Col<hi
+									rend="superscript">l.</hi> B. Pickman</persRef>, whom I found in
+							great affliction; one of <persRef ref="pickman-unknown2">his
+								daughters</persRef> having <pb type="ms" n="258"/>become insane— We
+							dined at <persRef ref="story-joseph">judge Story’s</persRef>—
+							Conversation at dinner on parties— After dinner we visited at <persRef
+								ref="silsbee-nathaniel">M<hi rend="superscript">r</hi> N.
+								Silsbee’s</persRef>, and then spent the Evening at <persRef
+								ref="white-stephen">M<hi rend="superscript">r</hi> Stephen
+								White’s</persRef>, where there was very numerous company of Ladies—
+							To almost all the company I was an entire Stranger, but among them there
+							were a <persRef ref="putnam-unknown">Son</persRef> and <persRef
+								ref="putnam-unknown2">daughter</persRef> of my old Associate and
+							Classmate, <persRef ref="putnam-samuel">judge Putnam</persRef>. The
+							Governor passed the night at M<hi rend="superscript">r</hi> White’s— I
+							came with my Son <persRef ref="adams-george">George</persRef> and we
+							lodge at <persRef ref="crowninshield-benjamin">M<hi rend="superscript"
+									>r</hi> B. W. Crowninshield’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-23">
+					<head>23 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. VI:30.</date> We breakfasted with a company of about twenty at
+								<persRef ref="barstow-gideon">M<hi rend="superscript">r</hi> G.
+								Barstow’s</persRef>; who was a member of the last Congress. Then we
+							rode over to Marblehead. Several of the Gentlemen from Salem accompanied
+							us— At Marblehead we met a number of the principal inhabitants of the
+							Town— <persRef ref="adams-william3">W. B. Adams</persRef>, <persRef
+								ref="prince-unknown2">Prince</persRef>, <persRef
+								ref="hooper-unknown">Hooper’s</persRef> and others— We visited the
+							Fort. I had never been at this place before; but seemed to recollect the
+							ledges of rocks off the harbour, as I had seen them from the Boston
+							Frigate in February 1778— From Marblehead we came to <persRef
+								ref="bainbridge-william">Commodore Bainbridge’s</persRef> at the
+							Navy-Yard, Charlestown where I had engaged to dine— The Commodore shewed
+							me the yard, and the line of battle ship now on the Stocks, and a Salute
+							was fired in the yard. The Columbus is also there; laid up, in ordinary—
+							We dined at Commodore Bainbridge’s— <persRef ref="dearborn-henry2"
+									>Gen<hi rend="superscript">l.</hi> H. A. S.</persRef> and
+								<persRef ref="dearborn-hannah">M<hi rend="superscript">rs.</hi>
+								Dearborn</persRef>, <persRef ref="silsbee-nathaniel">M<hi
+									rend="superscript">r</hi> Silsbee</persRef> and <persRef
+								ref="silsbee-nathaniel2">his Son</persRef>, who had come with us
+							from Salem, <persRef ref="amory-n">M<hi rend="superscript">r</hi> N.
+								Amory,</persRef><persRef ref="bridge-nathan">M<hi rend="superscript"
+									>r</hi> Bridge</persRef>, whom I had known in Russia, were of
+							the Company. Came with the Governor, through Boston. Stopped at the
+							Post-Office— Then at <persRef ref="haven-unknown">M<hi
+									rend="superscript">rs</hi> Haven’s</persRef>, where we took up
+								<persRef ref="eustis-caroline">M<hi rend="superscript">rs</hi>
+								Eustis</persRef>, who had spent the day there— At the <persRef
+								ref="eustis-william">Governor’s</persRef> House in Roxbury I took
+							leave of him, and of M<hi rend="superscript">rs</hi> Eustis; and
+							returned with my Son <persRef ref="adams-george">George</persRef> to
+							Quincy— Found <persRef ref="marston-john">M<hi rend="superscript">r</hi>
+								Marston</persRef> there with <persRef ref="adams-john">my
+								father</persRef>— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> had returned
+							yesterday from the Governor’s exceedingly ill; but was this Evening much
+							recovered.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-24">
+					<head>24 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. VI:15.</date> Visit from <persRef ref="trumbull-john">Col<hi
+									rend="superscript">l.</hi> Trumbull</persRef>. This day we took
+							our departure, to return to Washington— I took leave of <persRef
+								ref="adams-john">my father</persRef>, with a heavy and foreboding
+							heart. Told him I should see him again next year— Came with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> in to Boston to <persRef ref="cruft-edward">M<hi
+									rend="superscript">r</hi> Cruft’s</persRef>— My visit to my
+							father has only been of 18 days, during three-fourths of which I have
+							been called away; spending only the Nights at his house, and parts of
+							the Morning— <persRef ref="webster-daniel">M<hi rend="superscript"
+									>r</hi> Webster</persRef> called upon me at M<hi
+								rend="superscript">r</hi> Cruft’s. I had a long Conversation with
+							him, chiefly on political subjects— I told him of the proposal made by
+							the Greek Agents, to <persRef key="rush-richard">M<hi rend="superscript"
+									>r</hi> Rush</persRef> in London, in confidence, that he might
+							be aware of it; before the Commencement of the Session of <pb type="ms"
+								n="259"/>Congress— I also told him that I had mentioned it to
+								<persRef ref="fuller-timothy">M<hi rend="superscript">r</hi>
+								Fuller</persRef>— I received several visitors at M<hi
+								rend="superscript">r</hi> Cruft’s, and made various calls
+							preparatory to our departure— Dined with <persRef ref="adams-george"
+								>George</persRef> at <persRef ref="wells-john">M<hi
+									rend="superscript">r</hi> John Welles’s</persRef>— M<hi
+								rend="superscript">rs</hi> Adams was too unwell to go. M<hi
+								rend="superscript">r</hi> and <persRef ref="webster-grace">M<hi
+									rend="superscript">rs</hi> Webster</persRef>, <persRef
+								ref="sargent-henry;sargent-hannah" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi> H.
+								Sergent</persRef>, <persRef ref="blake-george">G. Blake</persRef>,
+								<persRef ref="amory-rufus">R. G. Amory</persRef> and <persRef
+								ref="amory-catherine">his daughter Catherine</persRef>, and the
+								<persRef ref="bulfinch-george;bulfinch-thomas" type="multi">two
+								sons</persRef> of <persRef ref="bulfinch-charles">M<hi
+									rend="superscript">r</hi> Bulfinch</persRef> now on a visit to
+							Boston were of the party— Evening at M<hi rend="superscript">r</hi>
+							Cruft’s— <persRef ref="foster-james;foster-elizabeth" type="multi">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								James H. Foster</persRef>, and <persRef
+								ref="pickman-benjamin2;pickman-hannah" type="multi">Col<hi
+									rend="superscript">l.</hi> and M<hi rend="superscript">rs</hi>
+								B. T. Pickman</persRef> were there— On the fifth of next Month, my
+							Son George, is to be admitted as an Attorney at the Court of Common
+							Pleas. He has been for the last year reading Law with M<hi
+								rend="superscript">r</hi> Webster; who this day, made a friendly
+							proposal to him, which may hereafter be of service to George— But for
+							the ensuing Winter; George proposes to go in to the Office of <persRef
+								ref="cook-josiah">M<hi rend="superscript">r</hi> Cook</persRef>, an
+							Attorney, in considerable practice; and with a view to acquiring the
+							forms of practice— I leave him with an anxious feeling for his welfare
+							and success in life.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-25">
+					<head>25 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. V:30.</date> We took seats in the Barry Stage— <persRef
+								ref="adams-george">George</persRef> and <persRef
+								ref="adams-charles2">Charles</persRef> came and saw us into the
+							Carriage— Charles returns this day to Cambridge; entering his Senior
+							year at the University— At seven, of the morning we left <persRef
+								ref="cruft-edward">M<hi rend="superscript">r</hi> Cruft’s</persRef>—
+							Went round the City and took up several passengers; among whom my
+							brother’s second daughter, <persRef ref="adams-elizabeth">Elizabeth
+								Coombs Adams</persRef>, at her <persRef ref="foster-james">uncle
+								Foster’s</persRef> in Bulfinch Place— She is going to pass the
+							winter with us at Washington— We came through Cambridge, Watertown,
+							Waltham, Weston, Sudbury, Lincoln, Stow, Bolton (where we dined)
+							Lancaster, and Sterling, to <persRef ref="boylston-ward">M<hi
+									rend="superscript">r</hi> Boylston’s</persRef> at Princeton, 47
+							miles— There was some difficulty at the turn of the road to go to M<hi
+								rend="superscript">r</hi> Boylston’s house— The driver however took
+							it— In the hurry of taking out our baggage, the travelling bag and a box
+							were left in and on the top of the Carriage, and were taken on to Barry.
+							We found M<hi rend="superscript">r</hi> Boylston convalescent from a
+							severe illness, but well enough to receive us with perfect
+							cordiality.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-26">
+					<head>26 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. VI.</date> I rode with <persRef ref="boylston-ward">M<hi
+									rend="superscript">r</hi> Boylston</persRef>, Morning and
+							afternoon to Meeting and heard a <persRef ref="perkins-george">M<hi
+									rend="superscript">r</hi> Perkins</persRef> of Ashburnham from
+							Romans 12.1. “I beseech you therefore brethren, by the mercies of God,
+							that ye present your bodies a living sacrifice holy, acceptable unto
+							God, which is your reasonable service”—and from Proverbs 4.23. “Keep thy
+							heart with all diligence, for out of it are the issues of life.”— M<hi
+								rend="superscript">r</hi> Perkins’s texts were to me, much more
+							impressive than his discourses; especially that of the afternoon, and
+							never had I greater need than at this time, of laying it to my heart.
+								M<hi rend="superscript">r</hi> Perkins who has been heretofore a
+							lawyer in Connecticut, and has <pb type="ms" n="260"/>but lately been
+							settled as a Minister of the Gospel— He, and <persRef ref="erving-john"
+									>M<hi rend="superscript">r</hi> John Erving</persRef>, and
+								<persRef ref="brooks-unknown">D<hi rend="superscript">r</hi>
+								Brooks</persRef> dined with us at M<hi rend="superscript">r</hi>
+							Boylston’s— Erving is an Uncle of <persRef ref="erving-george">G. W.
+								Erving’s</persRef>— M<hi rend="superscript">r</hi> Boylston’s man
+								<persRef ref="thomas">Thomas</persRef> went to Barry and brought
+							back our bag and box, which I had so carelessly forgotten yesterday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-27">
+					<head>27 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. VI.</date> I took a solitary morning’s walk on the road to
+							Worcester, of about half an hour— After breakfast, rode with <persRef
+								ref="boylston-ward">M<hi rend="superscript">r</hi>
+								Boylston</persRef>, <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and <persRef
+								ref="adams-elizabeth">Elizabeth</persRef>, about seven miles towards
+							Barry, and returned— <persRef ref="clarke-samuel">M<hi
+									rend="superscript">r</hi> Clark</persRef> the Clergyman of
+							Princeton dined with us— M<hi rend="superscript">r</hi> Boylston after
+							dinner shewed me the deposition of <persRef ref="otis-harrison2">H. G.
+								Otis</persRef>, in the case which was tried upon the Bond— And the
+							Bond itself; part in <persRef ref="blake-george">George
+							Blakes</persRef>, and the rest in Otis’s hand writing; to which the
+							signature of M<hi rend="superscript">r</hi> Boylston was so
+							unaccountably, and as the verdict of the Jury found, fraudulently
+							obtained. In the Evening, M<hi rend="superscript">r</hi> Boylston gave
+							us an entertaining account of his early travels in Greece</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-28">
+					<head>28 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. VI.</date> At half past eight O’Clock this morning, we left
+								<persRef ref="boylston-ward">M<hi rend="superscript">r</hi>
+								Boylston’s</persRef> in his Carriage, and came 14 Miles to
+							Worcester— I there met <persRef ref="stedman-william">M<hi
+									rend="superscript">r</hi> W. Stedman</persRef>, <persRef
+								ref="bancroft-aaron">D<hi rend="superscript">r</hi>
+								Bancroft</persRef> the Clergyman, and my old Classmate <persRef
+								ref="fiske-oliver">D<hi rend="superscript">r</hi> Fiske</persRef>— I
+							took an Extra Carriage, and came through Oxford, Dudley and Ward, to
+							Thompson in Connecticut— 25 Miles from Worcester— We dined at Thompson,
+							and while waiting for dinner I read <persRef ref="campbell-thomas"
+								>Campbell’s</persRef> Pleasures of Hope; which I found at the Inn.
+							At half past five the Stage from Boston to Hartford came in, and we took
+							seats in it, and dismissed our Extra-Carriage from Worcester— Thompson
+							is 50 miles from Boston and 49. from Hartford. In the Stage we met as
+							fellow passengers the <persRef ref="deganay-unknown">Count de
+								Ganay</persRef>, of the French Legation at Washington— <persRef
+								ref="medem-unknown">Count Medem</persRef> of the Russian Legation,
+							and <persRef ref="beckwith-john">Col<hi rend="superscript">l.</hi>
+								Beckwith</persRef>, with whom I had dined last week at <persRef
+								ref="amory-rufus">R. G. Amory’s</persRef>. We came on 18 Miles to
+							Ashford, where we arrived between nine and ten in the Evening; and where
+							we pass the Night— The weather was all day showery, and the rain, in the
+							evening on the way to Ashford quite unpleasant— The stage so full, that
+							Ganay took his seat with the driver.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-29">
+					<head>29 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. IV:30.</date> Sixteen Miles to Breakfast at Mansfield— 15
+							thence to Hartford, where we arrived at eleven O’Clock, and immediately
+							embarked in the Steam-Boat Oliver Ellsworth—<persRef ref="havens-daniel"
+								>Captain Havens</persRef>— The descent down Connecticut river was
+							new and very agreeable Scenery. The towns of Weathersfield, Middletown,
+							East and South Haddam, and Saybrook, with many other smaller Settlements
+							diversified the aspect of the way, and presented a variegated landscape,
+							constantly changing and always agreeable— The weather however was chilly
+							with occasional <pb type="ms" n="261"/>Showers, and the movement of the
+							boat so rapid, that we had not time fully to enjoy the beauties of the
+							Country which passed in quick succession before us— The distance from
+							Hartford to the mouth of the river is about fifty miles— At the dusk of
+							Evening we were off Saybrook, and the prospect of a Stormy Night,
+							alarmed some of the passengers who were desirous of laying to, for the
+							Night. We did not however; but after landing some passengers at
+							Saybrook, we entered the Sound— The evening was rough, but not
+							tempestuous. </p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-30">
+					<head>30 September 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. IV:30—</date> We had passed Hellgate when I rose, and at five
+							we landed at New-York, and proceeded to the City Hotel— The house was
+							full, so that we could obtain only a small bedroom to receive our
+							baggage— We breakfasted in the public room— We found <persRef
+								ref="dewindt-caroline">M<hi rend="superscript">rs</hi> De
+								Wint</persRef> in Broadstreet; going with one of <persRef
+								ref="dewindt-unknown">her daughters</persRef>, on a visit to
+								<persRef ref="adams-john">my father</persRef> at Quincy— She
+							concluded to go in the <persRef ref="ellsworth-oliver">Oliver
+								Ellsworth</persRef>, this afternoon— I called at <persRef
+								ref="mccormick-daniel">M<hi rend="superscript">r</hi>
+								M’Cormick’s</persRef>; and there met <persRef ref="north-william"
+								>General North</persRef>— He is going to live at or near New-London—
+							I stopped a few minutes at the Office of the American, where I saw
+								<persRef ref="king-charles2">M<hi rend="superscript">r</hi> Charles
+								King</persRef>, <persRef ref="verplanck-william">M<hi
+									rend="superscript">r</hi> Verplanck</persRef>, <persRef
+								ref="wheaton-henry">M<hi rend="superscript">r</hi>
+							Wheaton</persRef>, and <persRef ref="duer-john">M<hi rend="superscript"
+									>r</hi> John Duer</persRef>— <persRef
+								ref="dickinson-ann;dickinson-julia" type="multi">M<hi
+									rend="superscript">rs.</hi> and Miss Dickinson</persRef>, with
+								<persRef ref="tayloe-benjamin">M<hi rend="superscript">r</hi> B. O.
+								Tayloe</persRef>, who is shortly to marry Miss Dickinson, were at
+							the Hotel— At 11. we embarked in the Steam-boat Bellona, for Brunswick.
+							Found <persRef ref="chauncey-isaac">Commodore Chauncey</persRef> on
+							board, and <persRef ref="blunt-joseph">M<hi rend="superscript">r</hi>
+								Blunt</persRef> came with us, as far as Amboy, where he landed— Just
+							as the boat was loosened from the wharf, there was a call of enquiry, if
+							I was on board— On my answering to my name, <persRef
+								ref="mumford-gurdon">M<hi rend="superscript">r</hi> Gurdon S.
+								Mumford</persRef> standing with another person arm in arm called out
+							that it was an old schoolfellow of mine, who wished to take me by the
+							hand— I thanked him, and said it would have given me great pleasure. But
+							the boat was off; moving at the rate of ten miles an hour, and I had not
+							time even to recognize my old Schoolmate— At Brunswick where we arrived
+							at four in the afternoon; we left the other passengers, and I took an
+							extra-Carriage to Bordentown— The distance is 28 miles, which our driver
+							called 30; and after a chill Evening’s ride we reached <persRef
+								ref="hopkinson-joseph">M<hi rend="superscript">r</hi>
+								Hopkinson’s</persRef> house about ten— We found there only <persRef
+								ref="biddle-elizabeth">M<hi rend="superscript">rs</hi>
+								Keating</persRef>; all the rest of the family being at Philadelphia—
+							They are there in the bustle and glory of the reception of <persRef
+								ref="lafayette">La Fayette</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v35-1824-09-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<!-- This is a summary entry without a date. -->
+						<p><date><hi rend="italic">Day.</hi></date> The month has been consumed in a visit to <persRef
+								ref="adams-john">my father</persRef>, and my home— The time,
+							surrendered to company, with a respite from all industry. I have sought
+							with some success to escape from Cares, and have written scarcely any
+							thing— I am returning with anxious and with no flattering anticipations
+							to Washington, to finish my term of Service, and to meet the fate to
+							which I am destined by the Disposer, who <lg>
+								<l>leads the willing, drags the backward, on.
+									</l>
+							</lg></p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

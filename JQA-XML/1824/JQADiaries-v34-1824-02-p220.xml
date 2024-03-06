@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v34-1824-02">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="220"
+				mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v34-1824-03-p241.xml" mhs:volume="34">
+				<bibl n="metadata"><date from="1824-02-01" to="1824-02-05"/></bibl>
+				<!-- D/JQA/34.411 -->
+
+				<!-- February 1824 -->
+				<div type="entry" xml:id="jqadiaries-v34-1824-02-01">
+					<head>1 February 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-02-01"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Elections, Presidential (1824)</note><note type="subject">Caucus System
+							for Nominating Presidential Candidates</note></bibl>
+					<div type="docbody">
+						<pb n="220"/>
+						<dateline><hi rend="italic">Sunday 1. February 1814</hi></dateline>
+						<p><date>1. VII.</date> Heard <persRef ref="baker-daniel">M<hi
+									rend="superscript">r</hi> Baker</persRef> at the Presbyterian
+							Church from 2. Corinthians 5.17. “Therefore if any man be in Christ, he
+							is a new creature: old things are passed away; behold all things are
+							become new”— And in the afternoon from 2. Corinthians 6.1. “We then, as
+							workers together with him, beseech you also that ye receive not the
+							grace of God in vain.” In the interval between the services, Visits from
+								<persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster</persRef> with <persRef ref="blake-george">George
+								Blake</persRef>, recently from Boston— Also from <persRef
+								ref="hay-george">M<hi rend="superscript">r</hi> George
+							Hay</persRef>, who had a paper to give me for the Slave indemnity
+							Commission and a question to ask me— He said he had heard <persRef
+								key="crawford-william-harris">M<hi rend="superscript">r</hi>
+								Crawford’s</persRef> Caucussing friends had offered me the
+							Vice-Presidency, which I had declined— I told him that overtures to that
+							effect had been made to some of my friends by some of those of M<hi
+								rend="superscript">r</hi> Crawford— That my friends had given no
+							countenance to them, and that when consulted I had said I would not
+							accept of a Congressional Caucus nomination either for the Presidency or
+							the Vice-Presidency at this time— <persRef ref="coolidge-joseph3">M<hi
+									rend="superscript">r</hi> Joseph Coolidge</persRef> of Boston,
+								<persRef ref="pedrick-unknown">M<hi rend="superscript">r</hi>
+								Pedrick</persRef> of Marblehead and <persRef ref="vanwyck-samuel"
+									>M<hi rend="superscript">r</hi> Samuel Van Wyck</persRef>,
+							brother to <persRef ref="vanwyck-william">the member of the House from
+								Duchess County</persRef>, New-York dined with us. Van Wyck
+							particularly recommended to me <persRef ref="frost-joel">Joel
+								Frost</persRef> and <persRef ref="tyson-jacob">Jacob
+							Tyson</persRef>, two of the members from that State— <persRef
+								ref="hellen-johnson">Johnson Hellen</persRef> came down from
+							Rockville, to pass some time with us. His health is precarious and
+							critical.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-02-02">
+					<head>2 February 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-02-02"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Slavery</note></bibl>
+					<div type="docbody">
+						<p><date>2. VII.</date><persRef ref="talbot-isham">Isham Talbot</persRef> a
+							Senator from Kentuckey came to recommend <persRef ref="luckett-craven"
+									>M<hi rend="superscript">r</hi> Lucket</persRef> as a Land
+							Commissioner in West-Florida. <persRef ref="dewolf-james">James
+								D’Wolfe</persRef>, Senator from Rhode-Island, with <persRef
+								ref="dodge-joshua">M<hi rend="superscript">r</hi> Dodge</persRef>
+							his Son in Law, came and D’Wolfe stated objections to the re-appointment
+							of a <persRef ref="bates-barnabas">M<hi rend="superscript">r</hi>
+								Bates</persRef>, as Collector, for the Port of Bristol, where
+							D’Wolfe resides— Some of D’Wolfe’s objections are of a singular
+							character. That Bates is a Baptist preacher and turned Unitarian—
+							D’Wolfe says he is a Unitarian himself— But that Bates carries his
+							religion to the Custom-house, and turns out and puts in tide
+								<unclear>wa</unclear>iters for their Creeds— Also that he makes
+							himself <hi rend="italic">odious</hi> by disobliging people— <persRef
+								ref="cheves-langdon">M<hi rend="superscript">r</hi>
+							Cheves</persRef>, Commissioner, and <persRef ref="sewell-henry">M<hi
+									rend="superscript">r</hi> Seawell</persRef> arbitrator under the
+							Slave-indemnity Commission, came again for consultation. They enquired
+							whether it would be desirable that the fixing of the average value,
+							should be postponed, for the reception of further testimony; and whether
+							if evidence should be adduced on the British side, objection should be
+							made to receiving it. I said <persRef ref="hay-george">M<hi
+									rend="superscript">r</hi> Hay</persRef> wished an allowance of a
+							short time more for producing evidence, and that I thought it would be
+							liberal to admit evidence on the British side if offered— At the Office,
+								<persRef ref="hughes-t">M<hi rend="superscript">r</hi> T.
+								Hughes</persRef>, and <persRef ref="osullivan-john"
+								>O’Sullivan</persRef>, an old acquaintance returned from Chili,
+							Peru, and Cadix. He complained of the proceedings of <persRef
+								ref="forbes-john">J. M. Forbes</persRef> at Buenos-Ayres against a
+							ship which O’Sullivan had bought. <persRef ref="key-francis">M<hi
+									rend="superscript">r</hi> Francis Key</persRef> applied to me
+							some weeks since on the same Subject— I told O’Sullivan I believed
+							Forbes had done nothing but his duty; and that I had heard much of
+							O’Sullivan’s own transactions in the Pacific; but the <persRef
+								key="monroe-james">President</persRef> would form no decisive
+							opinion against him without hearing him— He shewed me a Letter
+							approbatory from <persRef ref="leroy-herman">Le Roy</persRef>, <persRef
+								ref="bayard-william">Bayard</persRef> and <persRef
+								ref="mcevers-unknown">M’Evers</persRef>— <persRef
+								ref="hicks-unknown">M<hi rend="superscript">r</hi> Hicks</persRef>
+							came for a Letter to the Consul at Mexico. And <persRef
+								ref="cox-charles">M<hi rend="superscript">r</hi> Charles D.
+								Coxe</persRef>, for his Commission as Consul at Tunis. He also
+							wanted advances upon impracticable principles— <persRef
+								ref="jackson-andrew">General Jackson</persRef> came with a <persRef
+								ref="tutt-charles">Col<hi rend="superscript">l.</hi> Tutt</persRef>,
+							a Virginian who removes to this City with a view to obtain a place— The
+							General strongly recommends him. <persRef ref="sullivan-george">George
+								Sullivan</persRef> much perplexed how to proceed with the claim—
+								<persRef ref="king-william">William King</persRef> has written a
+							Letter of strong complaint against him to <persRef ref="parris-albion"
+								>the Governor of Maine</persRef> who has communicated it to the
+							State Legislature, and it is published in a pamphlet and the newspapers—
+							I advised Sullivan immediately <pb type="ms" n="221"/>to press for
+							payment of the admitted portion of the claim, as he is expressly
+							instructed by <persRef ref="eustis-william">Governor Eustis</persRef>;
+							but he is afraid of offending the <persRef key="monroe-james"
+								>President</persRef>— <persRef ref="addington-henry"
+								>Addington</persRef> came chiefly for news; and the rolled iron
+							claim— I read him part of the latest despatch received from <persRef
+								key="rush-richard">R. Rush</persRef>. I called at the President’s—
+							Dined with <persRef ref="mosher-james">M<hi rend="superscript">r</hi>
+								Mosher</persRef>, at Georgetown. Pleasant party of about twenty.
+								<persRef ref="mosher-eliza">M<hi rend="superscript">rs</hi>
+								Mosher</persRef> and <persRef ref="magruder-rachel">M<hi
+									rend="superscript">rs</hi> Magruder</persRef>— Also <persRef
+								ref="mosher-unknown2">Mosher’s father</persRef>— The <persRef
+								ref="barbour-james;barbour-john" type="multi">two
+								Barbour’s</persRef>; other members of Congress, G. Haye, <persRef
+								ref="gouverneur-samuel">Gouverneur</persRef> and Dodge— Missed
+								<persRef ref="goodacre-robert">Goodacre’s</persRef> Lecture.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-02-03">
+					<head>3 February 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-02-03"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Elections, Presidential (1824)</note><note type="subject">Caucus System
+							for Nominating Presidential Candidates</note></bibl>
+					<div type="docbody">
+						<p><date>3. VII.</date><persRef ref="johnson-richard">Col<hi
+									rend="superscript">l.</hi> R. M. Johnson</persRef> here. He is
+							very earnestly engaged in counteracting the Caucus party and very
+							anxious for the appointment of <persRef ref="luckett-craven"
+								>Luckett</persRef>— The anti-caucus Meetings have not yet resulted
+							in the agreement to publish a declaration against it— <persRef
+								ref="tyler-benjamin">B. O. Tyler</persRef> came; disposed to talk,
+							but interrupted by other visitors. <persRef ref="plumer-william">W.
+								Plumer</persRef> told me that some of the New Hampshire members were
+							averse to signing the anti-caucus declaration, thinking that <persRef
+								key="crawford-william-harris">M<hi rend="superscript">r</hi>
+								Crawford’s</persRef> name might probably be withdrawn before the
+							close of this Session in Congress: in which case they expected the
+							nomination would be of me; and they would then have no objection to
+							going into Caucus— I told him the objection was to the thing; and not to
+							the person. The Sentiment of the Nation was against a nomination by
+							Members of Congress. I thought that sentiment well founded; and should
+							feel myself bound to decline such a nomination either for the Presidency
+							or the Vice-Presidency— <persRef ref="little-peter">P. Little</persRef>,
+							brought and introduced <persRef ref="loney-william">W. Loney</persRef>,
+								<persRef ref="loney-john">J. Loney</persRef>, and <persRef
+								ref="wilson-w">W. W. Wilson</persRef>, all of Baltimore— <persRef
+								ref="johnson-william">Judge W. Johnson</persRef> of the Supreme
+							Court, came to request that provision may be made for a Court House at
+							Charleston S. C— Said the lower floor of the Customhouse would answer.
+								<persRef ref="blake-george">G. Blake</persRef>; went with me to the
+							Office. His Letters gone. <persRef ref="baldwin-henry">H.
+								Baldwin</persRef> from Pittsburg. One of the candidates for the
+							mission to Mexico. <persRef ref="mason-john4">John Mason j<hi
+									rend="superscript">r.</hi></persRef> anxious to go soon for fear
+							of the yellow fever. <persRef ref="fuller-timothy">T.
+							Fuller</persRef>—had been at the <persRef key="monroe-james"
+								>President’s</persRef>— Spoke to him of <persRef
+								ref="edwards-ninian">N. Edwards</persRef> and <persRef
+								ref="dallas-george">Dallas</persRef>— Thinks Edwards will be
+							nominated— <persRef ref="conway-henry">Conway</persRef>, Delegate from
+							Arkansaw Territory— Had spoken with the President of the defect in
+								<persRef ref="miller-james">Governor Miller’s</persRef> appointment;
+							and said the President would speak of it to me. I called at the
+							President’s but he was out— Attended a Meeting of the Trustees of the
+							Presbyterian Church, which detained me till near 7. Provision made for
+							the payment of the Note to me; and for collections— Tuesday Evening
+							party— Company about 150. Hail and Snow. <persRef ref="cranch-elizabeth"
+								>Elizabeth Cranch</persRef>, and <persRef ref="mcknight-anna">Ann
+								M’Knight</persRef> here on visits.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-02-04">
+					<head>4 February 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-02-04"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Slavery</note><note type="subject">Elections, Presidential
+							(1824)</note><note type="subject">Caucus System for Nominating
+							Presidential Candidates</note><note type="subject"
+						>Sectionalism</note></bibl>
+					<div type="docbody">
+						<p><date>4. VII.</date><persRef ref="hay-george">G. Hay</persRef> here, with
+							Slave average value papers. Asked me, if what I had said to him on
+							Sunday, was confidential. I told him it was. He said <persRef
+								ref="gouverneur-samuel">S. L. Gouverneur</persRef> had told him he
+							had heard the same thing. I said it was known to several persons— But I
+							had spoken of it only confidentially. <persRef ref="ingham-samuel">S. D.
+								Ingham</persRef> called again, and I had a full and explicit
+							conversation with him respecting <persRef ref="dallas-george">G. M.
+								Dallas</persRef>; and generally respecting the treatment of me by
+								<persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun</persRef> and his friends. The professions of friendship,
+							and the acts of insidious hostility— The requisitions upon me to dismiss
+							the Democratic Press, and appoint the Franklin Gazette to publish the
+							Laws in Philadelphia; the vindictive malice of <persRef ref="binns-john"
+								>Binns</persRef> which they thereby excited against me; the
+							flaunting declaration in the Franklin Gazette, immediately afterwards,
+							that they were under no obligation to me for the appointment— The
+							decided part taken against me by that paper in the controversy with
+								<persRef ref="russell-jonathan">Jonathan Russell</persRef>, and its
+							frequent ill disguised attacks upon me since— The Courtship of the
+							New-England federalists for M<hi rend="superscript">r</hi> Calhoun. The
+							toast to the Memory of <persRef ref="ames-fisher">Fisher Ames</persRef>
+							at the Edgefield dinner to <persRef ref="mcduffie-george"
+								>M’Duffie</persRef>— The newspapers set up in Massachusetts, to
+							support M<hi rend="superscript">r</hi> Calhoun— The smuggled paragraphs,
+							asserting that my friends in New England had abandoned me for him, and
+							the panegyric of the Washington Republican upon the Boston Galaxy, a
+							paper for years advertised for Sale to the highest bidder of the
+							Presidential candidates, and which has at last opened a battery of
+							scurrilous abuse upon me, and in avowed support of M<hi
+								rend="superscript">r</hi> Calhoun; I mentioned all these things to
+							him in frankness; but told him they had not the slightest effect upon my
+							opinion with regard to the appointment of M<hi rend="superscript">r</hi>
+							Dallas— He wished to apologize for <persRef ref="norvell-joshua"
+								>Norvell</persRef>, the Editor of the Franklin Gazette, who he said
+							entertained the highest respect for me— And whose appointment had been
+								<pb type="ms" n="222"/>urged not from any hostility to me— The
+							papers published against me, in the controversy with Russell, he Ingham
+							had disapproved—and had written to Norvell to refuse them; but it
+							happened that before receiving his Letter, Norvell had promised to
+							publish the first; and then could not reject the others— The main
+							foundation of the opposition of the Franklin Gazette and of the
+							Republicans in Pennsylvania, to me, was owing to their seeing that I was
+							supported by <persRef ref="walsh-robert">Walsh</persRef>— I told him
+							that M<hi rend="superscript">r</hi> Walsh’s support of me had not been
+							solicited by me. It was voluntary and spontaneous; and had been by no
+							means uniform— In the Russell controversy he had been at first against
+							me; and upon other occasions had not been sparing of censure upon me—
+							The friends of M<hi rend="superscript">r</hi> Calhoun had no doubt the
+							right to set him up as a Candidate for the Presidency, and if they chose
+							to promote as the head of an administration, a man whose elevation must
+							of itself operate as a proscription from the Executive of the Nation, of
+								<hi rend="italic">all</hi> the other men who were distinguished
+							before the Nation, they surely might; but the error seemed to be in
+							supposing that this might be done, without any manifestation of enmity
+							towards them. My complaint was, not that attempts were made to tear my
+							reputation to pieces for the benefit of M<hi rend="superscript">r</hi>
+							Calhoun; but that they were preceded and accompanied by professions of
+							great respect and esteem, and with the expression of earnest desires for
+							harmony and good understanding. He said that it had not been considered
+							that mere age was the decisive qualification for the Presidency. I said
+							certainly not— But ours was practically more a Government of personal
+							consideration and influence, than of written Articles— There was in the
+							Genius of our Institutions a graduated subordination among the persons
+							by whom the Government was administered. Reputation was the basis of our
+							Elections; and the emblem of its organization was a pyramid at the point
+							of which was the Chief, under whom men of high Consideration though not
+							equal to his naturally found there places— Among the sources of this
+							Consideration, Age and Experience had their share; and unless superseded
+							by very transcendent merit, a decisive share— This had never yet been
+							otherwise under our present Constitution— Not a single instance had
+							occurred of a person older than the President of the United States
+							accepting Office as a Head of Department under him— This was not the
+							result of any written Law, but it arose from the natural operation of
+							our system. What the effect of such a departure from it, as the Election
+							of M<hi rend="superscript">r</hi> Calhoun might be, I could not
+							undertake to say; but this I would say; and had said to those of my
+							friends who had spoken to me on the subject; that if the harmony of the
+							Country could be promoted, by setting me altogether aside, I would
+							cheerfully acquiesce in that disposition: and never would be the
+							occasion or the supporter of factious opposition to any Administration
+							whatsoever. M<hi rend="superscript">r</hi> Ingham professed to be
+							satisfied with this exposition of my views and feelings; but as I gave
+							him no reason to expect I could be reconciled to the appointment of
+							Dallas to Mexico, he was doubtless not satisfied with the result of the
+							Meeting— At the Office; <persRef ref="hicks-unknown">M<hi
+									rend="superscript">r</hi> Hicks</persRef> came and I gave him a
+							Letter to <persRef ref="wilcocks-james">J. S. Wilcocks</persRef> our
+							Consul at Mexico— I attended in the Evening the Drawing Room at the
+							President’s— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> being not very well,
+							did not go. The Assembly was less numerous than at the last. The Judges
+							of the Supreme Court were there. On returning home I found <persRef
+								ref="taylor-john">J. W. Taylor</persRef> at my house, and had a long
+							Conversation with him— He told me that <persRef ref="thomas-jesse">Jesse
+								B. Thomas</persRef> a Senator from Illinois, had strongly urged upon
+							him the expediency of my acquiescing in the nomination as Vice
+							President, with <persRef key="crawford-william-harris">M<hi
+									rend="superscript">r</hi> Crawford</persRef> for the Presidency.
+							He said that M<hi rend="superscript">r</hi> Crawford would certainly be
+							elected— And he spoke of certain members of Congress, as ultimately to
+							vote for him, who appear to be far otherwise disposed at this time. That
+							it was however <pb type="ms" n="223"/>very desirable that he should
+							carry with him the strength which he would derive from the co-operation
+							of my friends. That from the state of M<hi rend="superscript">r</hi>
+							Crawford’s health it was highly probable the duties of the Presidency
+							would devolve upon the Vice-President which had made it necessary to
+							select with peculiar anxiety a person qualified for the contingency
+							which was to be anticipated. That a compliance with the views of M<hi
+								rend="superscript">r</hi> Crawford’s friends on this occasion would
+							be rendering them a service, which would recommend me to their future
+							favour and would doubtless secure my election hereafter to the
+							Presidency. Taylor said he had answered, that admitting even the
+							certainty that M<hi rend="superscript">r</hi> Crawford should be
+							elected, that was no sufficient reason, for the acquiescence of my
+							friends in the proposed arrangement. If the election should be carried
+							against them, they will at least have followed their own sense of what
+							was right and fit— They could not place me in subordination to M<hi
+								rend="superscript">r</hi> Crawford without inverting the natural
+							order of things, and placing the North in a position of inferiority to
+							the South— Should they be so placed by the Constitutional voice of the
+							People, they must undoubtedly submit; but they could not consent to be
+							so placed by their own act— Taylor said Thomas had asked him to see him
+							again after thinking on the subject. I said he might tell him then if he
+							thought fit, that he had seen me; and I had told him that I was so
+							satisfied of the inexpediency of a Congressional caucus nomination at
+							this time that I should decline accepting it were it even for the
+							Presidency— He said he thought it would be better that without referring
+							to me; or to my determination, he should simply state the perseverance
+							of my friends, in the sentiments he had already expressed, as being
+							theirs.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v34-1824-02-05">
+					<head>5 February 1824</head>
+					<bibl><author>JQA</author><date type="creation" when="1824-02-05"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Elections, Presidential (1824)</note><note type="subject"
+							>Slavery</note></bibl>
+					<div type="docbody">
+						<p><date>5. VII.</date><persRef ref="hay-george">G. Hay</persRef> was here
+							again with more slave-average value papers. <persRef ref="bailey-john"
+									>M<hi rend="superscript">r</hi> Bailey</persRef> called. He says
+							that <persRef ref="sloane-john">M<hi rend="superscript">r</hi>
+								Sloane</persRef> the Chairman of the Committee of Elections told
+							him, he thought the Committee would report against him— And gave him a
+							paper containing the reasons upon which they had come to that
+							conclusion— He shewed me the paper and the reasons assigned appeared to
+							me so weak, that I could not exclude suspicions from my mind of other
+							motives. Bailey said there were two of the Committee as he supposed,
+							decidedly in his favour— Two decidedly against him; two wavering; and
+							one, <persRef ref="ball-william">M<hi rend="superscript">r</hi>
+								Ball</persRef>, had not attended the Meetings— He doubted whether to
+							answer the reasoning of the Committee, or to let them go with it to the
+							house; and answer it there— I thought he had better answer it both to
+							themselves, and to the house— At the Office. <persRef
+								ref="bradley-stephen">M<hi rend="superscript">r</hi>
+								Bradley</persRef> of Vermont called, and told me, he had information
+							from an undoubted source that there was a Coalition between <persRef
+								key="clay-henry">Clay</persRef> and <persRef ref="calhoun-john"
+								>Calhoun</persRef>. How fair the friends of <persRef
+								ref="jackson-andrew">Jackson</persRef> had entered into it he did
+							not know; but the project for the Harrisburg Convention on the fourth of
+							March, was to make up a ticket, which would ultimately decide for
+							Jackson, Clay or Calhoun according to circumstances; but excluding
+							Crawford and me— <persRef ref="mallary-rollin">Mallary</persRef> told me
+							that Bradley was for Crawford, and Bradley says Mallary was so— </p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

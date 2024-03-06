@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1800-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="296"  mhs:precedingFile="JQADiaries-v24-1800-05-p294.xml" mhs:followingFile="JQADiaries-v24-1800-07-p299.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1800-06-01" to="1800-06-30"/></bibl>
+
+				<!-- D/JQA/24.2114 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-01">
+					<head>1 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">June 1800.</hi></dateline>
+						<p><date>1. </date>Called this morning upon the ministers <persRef
+								ref="alvensleben-philipp">Alvensleben</persRef> and <persRef
+								ref="haugwitz-christian">Haugwitz</persRef>, and informed them I had
+							received the ratification of the Treaty, and should be ready to exchange
+							it for theirs whenever it would be convenient for them— They told me
+							that they would give me notice, as soon as possible after the <persRef
+								ref="frederick-william-iii">king’s</persRef> return which is to be
+							on the 8<hi rend="superscript">th:</hi> or 9<hi rend="superscript">th:</hi> of this
+							month— Rode out this afternoon with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs.</hi> A.</persRef>
+							who is quite unwell— Received letters this Evening from <persRef
+								ref="king-rufus">M<hi rend="superscript">r:</hi> King</persRef>, and from my
+							brother <persRef key="adams-thomas">Thomas</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-02">
+					<head>2 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="297" type="ms"/>
+						<p><date>2. </date>Called this forenoon upon <persRef
+								ref="paleske-charles">M<hi rend="superscript">r:</hi> Paleske</persRef>, at
+							the hotel de Russie— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> went in the afternoon to
+							Charlottenburg with <persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+								Brown</persRef>— Evening at <persRef ref="wilhelminaofhesse"
+								>Princess Henry’s</persRef>.— Play’d Casino with <persRef ref="u"
+								>Madame de Blumenthal</persRef>, the <persRef
+								ref="vonheinitz-friedrich">Minister Heinitz</persRef>, and <persRef
+								ref="bunau-gunther">Count Bünau</persRef>— Stay’d to supper—
+							Convers’d with the french Secretary of legation <persRef
+								ref="bignon-louis">Bignon</persRef>— And likewise with <persRef
+								ref="beurnonville-pierre">General Beurnonville</persRef>, who is not
+							satisfied with this Government.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-03">
+					<head>3 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>At <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Schickler’s</persRef> counting house this morning, and again in the
+							afternoon. Took a couple of bills upon England. Called on <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Richards</persRef>— <persRef
+								ref="paleske-charles">M<hi rend="superscript">r:</hi> Paleske</persRef>
+							dined with <persRef key="adams-louisa-catherine">us</persRef>—
+							Thunder-shower this Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-04">
+					<head>4 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Wrote several letters— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> and myself came after dinner to Potsdam, upon a tour
+							of a few days for the benefit of her health— We travell’d the distance
+							in three hours &amp; a half, with our own horses.— Took a walk round the
+							town in the evening— Had one of the most violent thunder storms I ever
+							witness’d in Europe.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-05">
+					<head>5 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef key="adams-louisa-catherine">We</persRef> pass’d
+							this day at Potsdam to allow our horses to rest— The weather was very
+							warm— Walk’d alone in the forenoon—and towards evening with M<hi
+								rend="superscript">rs:</hi> Adams— Finish’d the translation of the 13<hi
+								rend="superscript">th:</hi> Satyre of <persRef ref="juvenal"
+								>Juvenal</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-06">
+					<head>6 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>At about 7. o’clock this morning we set out from Potsdam
+							to go to Brandenburg. The distance is between four and five German
+							miles; but our coachman by missing the way, lengthened it at least a
+							mile more. <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> was unwell even before we left the
+							inn, and soon became very ill— I wish’d to return but she insisted upon
+							going forward, untill at about one afternoon we were obliged to stop in
+							a miserable village, where we could find no house where she could have a
+							room, but at the clergyman’s. His name is <hi rend="italic"><persRef
+									ref="u">Volk</persRef></hi>, and the village — <persRef ref="u"
+								>his wife</persRef> was extremely kind and obliging, and would
+							accept nothing for their trouble— M<hi rend="superscript">rs:</hi> A. continued
+							very ill, untill about 3—when she recovered so far as to be able to
+							proceed— At Grossen Kreutz—two miles from Brandenburg, we took four
+							post-horses, and reach’d Brandenburg at about six o’clock. M<hi
+								rend="superscript">rs:</hi> A— was very much recovered; so as to be able to
+							take a short walk in the town— We had a shower in the afternoon, and the
+							Evening was very cool.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-07">
+					<head>7 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>We spent the day at Brandenburg the antient Capital of
+							this country, and the city from which the whole Margraviate takes its
+							name. It is of course quite an old, and in some sort a deserted town;
+							yet it is not easy to conceive why it was abandoned by the Government
+							for Berlin, the situation of which is not so pleasant. We walk’d round
+							the town both in the forenoon and afternoon; and in the evening I took a
+							walk alone, <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> not being yet wholly recover’d from
+							her severe illness of yesterday— We lodg’d at the sign of the white
+							Horse, in the new town.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-08">
+					<head>8 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>At 8 o’clock this morning we left Brandenburg, with a
+							couple of post-horses leading our own; and reach’d Potsdam at about four
+							in the afternoon— <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— was very well during the ride, but so
+							much fatigued as to have an indifferent evening— We took a short walk
+							however out of the town— Read a little of <persRef ref="radcliffe-ann"
+									>M<hi rend="superscript">rs:</hi> Radcliff’s</persRef> Mysteries of
+							Udolpho; but in general I have read little upon this journey.— I have
+							written however, more than usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-09">
+					<head>9 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>We had intended to pass this night at Potsdam, and return
+							to-morrow morning; but the weather being cool, and the place very dull,
+							we concluded to go home this evening— Just at 5 we set out, and reach’d
+							our own house, soon after 8— The tour would have been more agreeable,
+							had <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A.</persRef> not suffered so much illness, while we were making it—
+							But I hope it will in the end be serviceable to her health; and in other
+							respects it has been pleasant.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-10">
+					<head>10 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef ref="arbuthnot-robert">M<hi rend="superscript">r:</hi>
+								Arbuthnot</persRef> called this afternoon to pay us a visit. Resumed
+							my usual regular occupations. <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> spent the Evening at
+								<persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+							Brown’s</persRef>— I was there a couple of hours likewise— <persRef
+								ref="vincent-francis">Sir Francis Vincent</persRef>, an English
+							Baronet was there— He goes to-morrow morning for Dresden and Vienna.—
+							Began an attempt upon the 14<hi rend="superscript">th:</hi> Satire of <persRef
+								ref="juvenal">Juvenal</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-11">
+					<head>11 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="298" type="ms"/>
+						<p><date>11. </date>The <persRef ref="danadia-joao"
+								>vicomte d’Anadia</persRef> called upon me this forenoon, with a
+							letter from <persRef ref="platner-george">M<hi rend="superscript">r:</hi>
+								Platner</persRef>, a merchant of Trieste, who wishes to be appointed
+							American consul at that port.— Wrote a short letter to the <persRef
+								ref="marshall-john">Sec<hi rend="superscript">y:</hi> of State</persRef>,
+							and walk’d as usual before and after dinner.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-12">
+					<head>12 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— called this evening to see <persRef
+								ref="u">M<hi rend="superscript">rs:</hi> O’Farril</persRef>, but found her
+							not at home. Spent the Evening therefore at <persRef ref="brown-charles"
+								>Doctor Brown’s</persRef>, where we found <persRef
+								ref="arbuthnot-robert">M<hi rend="superscript">r:</hi> Arbuthnot</persRef>—
+							They had a fire.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-13">
+					<head>13 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>I am busied almost exclusively in copying; my
+							translations of <persRef ref="juvenal">Juvenal’s</persRef> 13<hi
+								rend="superscript">th:</hi> Satire and of the Oberon. Called at the Casino before dinner— Long walks in
+							the park; and by no means idle ones.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-14">
+					<head>14 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Letters to <persRef key="adams-abigail">my
+								mother</persRef> and <persRef key="adams-thomas">brother</persRef>,
+							and to the <persRef ref="marshall-john">Secretary of State</persRef>—
+							Was at the Casino before dinner; and almost the whole afternoon and
+							evening in the park.— Rain this Evening and the weather very cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-15">
+					<head>15 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Cold— Rainy day— Received a letter from <persRef
+								ref="vongentz-friedrich">M<hi rend="superscript">r:</hi> Gentz</persRef>
+							with four copies of his essay upon the American and french Revolutions—
+							Went to the play this Evening with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef>, and saw <hi
+								rend="italic">Weiberlist</hi>, the female stratagem. The music is of
+								<persRef ref="cimarosa-domenico">Cimarosa</persRef>, and very good.
+								<persRef ref="beurnonville-pierre">General Beurnonville</persRef>
+							&amp; his aids were with us in the box.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-16">
+					<head>16 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Cold and rainy weather continues. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> went this evening again to the play, and took
+								<persRef ref="whitcomb-elizabeth">Epps</persRef> with her. I took my
+							long walks in the park. Write a great deal, whether to any purpose or
+							not. my translations from <persRef ref="juvenal">Juvenal</persRef> are
+							at least an amusement to myself.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-17">
+					<head>17 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Letter to my brother <persRef key="adams-thomas"
+								>Thomas</persRef> enclosing one from <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							to her sister. Continue my copying and my translations. It leaves me
+							very little time to write any thing else— M<hi rend="superscript">rs:</hi> A—
+							this Evening at <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef>— I was there about an hour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-18">
+					<head>18 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Writing to <persRef key="adams-john">my
+							father</persRef>.— Somewhat unwell— The 14<hi rend="superscript">th:</hi> Satire
+							of <persRef ref="juvenal">Juvenal</persRef> which I am now translating
+							is much inferior to the 13<hi rend="superscript">th:</hi>— Walking this evening,
+							I was overtaken by the rain— Weather still very cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-19">
+					<head>19 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef ref="vonbruhl-karl;vonbruhl-sophia">Count and
+								Countess Bruhl</persRef>, and their daughter <persRef
+								ref="bruhl-maria">Mary</persRef>, <persRef
+								ref="ofarrillyherrera-gonzalo">General O’Farril</persRef>, <persRef
+								ref="u">his lady</persRef> &amp; her son, The <persRef
+								ref="danadia-joao">Vicomte d’Anadia</persRef>, <persRef
+								ref="bunau-gunther">Count Bunau</persRef>, Mess<hi rend="superscript"
+								>rs:</hi>
+							<persRef ref="araujo-antonio">d’Araujo</persRef> and <persRef ref="u"
+								>d’Aguilar</persRef>, <persRef ref="brown-charles">D<hi rend="superscript"
+									>r:</hi> Brown</persRef> and <persRef ref="brown-margaret"
+								>Margarett</persRef> &amp; <persRef ref="neale-pauline">Pauline
+								Neale</persRef>: dined with us to day— Miss Bruhl, went to be
+							presented in the evening at Maid of honour to the <persRef
+								ref="frederica-louise2">queen mother</persRef>.— I took my usual
+							evening walk in the park.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-20">
+					<head>20 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Oliver</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Ogden</persRef>, and <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Fulton</persRef>, three young Americans called upon me this morning.
+							The first We had seen the last autumn at Dresden; and the second brought
+							me a letter of introduction from <persRef ref="pitcairn-joseph">M<hi
+									rend="superscript">r</hi> Pitcairn</persRef>. They propose staying here
+							only a day or two. Dined at the <persRef ref="alvensleben-philipp"
+								>Minister Alvensleben’s</persRef>, with a diplomatic company of 24
+							persons— Walk’d afterwards to Charlottenburg where I found <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							and <persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+							Brown</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-21">
+					<head>21 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="engel-carl">M<hi rend="superscript">r:</hi>
+								Engel</persRef> called this morning, with a letter for my brother
+								<persRef key="adams-thomas">Thomas</persRef>— Mess<hi rend="superscript"
+								>rs:</hi>
+							<persRef ref="u">Oliver</persRef>, <persRef ref="u">Ogden</persRef> and
+								<persRef ref="u">Fulton</persRef> dined with <persRef
+								key="adams-louisa-catherine">us</persRef>— They go to-morrow morning
+							to Potsdam— Long walk; afterwards in the evening at <persRef
+								ref="brown-charles">D<hi rend="superscript">r:</hi> Brown’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-22">
+					<head>22 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Dined with <persRef ref="garlike-benjamin">M<hi
+									rend="superscript">r:</hi> Garlike</persRef>— After dinner walk’d to
+							Charlottenburg— Found <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A.</persRef> there— The <persRef
+								ref="vonbruhl-fanny;bruhl-maria">two Miss Brühl’s</persRef>; and the
+								<persRef ref="alvensleben-philipp">Minister Alvensleben</persRef>—
+							Walk’d home, likewise. Found letters from England &amp;c. And a
+							notification from <persRef ref="haugwitz-christian">Count
+								Haugwitz</persRef> to call on him to morrow and exchange the
+							ratifications of the Treaty.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-23">
+					<head>23 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Had a sleepless, restless, feverish night, and was
+							unwell all this day. At half-past one, I went and exchanged the
+							ratifications of the Treaty with <persRef ref="haugwitz-christian">Count
+								Haugwitz</persRef>; who offered me a snuff-box with the <persRef
+								ref="frederick-william-iii">king’s</persRef> picture set round in
+							diamonds, in the king’s name upon the occasion; which of course I
+							declined; but at his strong solicitation consented to write and request
+							leave of Congress to accept it, which I told him I was sure would be
+							refused— <persRef ref="vonbruhl-sophia">Countess Brühl</persRef>, and
+							her daughter <persRef ref="bruhl-maria">Mary</persRef> took tea, and
+							spent part of the evening with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef>. I read to them the
+							first book of my translation of Oberon, with which I am now wholly dissatisfied. My translation from <persRef
+								ref="juvenal">Juvenal</persRef> is almost wholly suspended.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-24">
+					<head>24 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Wrote to the <persRef ref="marshall-john">Secretary of
+								State</persRef>— Took a short walk this afternoon. Evening at a
+							party at <persRef ref="u">Madame de Saldern’s</persRef>— With this she
+							begins her weekly parties for the summer— Play’d whist with <persRef
+								ref="haugwitz-johanna">Countess Haugwitz</persRef>, <persRef ref="u"
+								>Madame de Blumenthal</persRef>, and the <persRef ref="u">chevalier
+								d’Aguilar</persRef>— Called afterwards at <persRef
+								ref="brown-charles">D<hi rend="superscript">r:</hi> Brown’s</persRef> for
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A.</persRef> who spent the Evening there— <persRef ref="brown-mary"
+									>M<hi rend="superscript">rs:</hi> Brown</persRef> very unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-25">
+					<head>25 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="299" type="ms"/>
+						<p><date>25. </date>At the Casino this forenoon.
+							Called upon <persRef ref="arbuthnot-robert">M<hi rend="superscript">r:</hi>
+								Arbuthnot</persRef> who is going in a few days to England.— In the
+							evening at a party at the <persRef ref="vonheinitz-friedrich">Minister
+								Heinitz’s</persRef>, upon the marriage of <persRef ref="u">Miss
+								Zedritz</persRef> to <persRef ref="vonhardenberg-karl">Count
+								Hardenberg</persRef>. <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> went, but stayed only about
+							an hour— I play’d whist, with <persRef ref="u">Mad: Lubinska</persRef>,
+								<persRef ref="u">M<hi rend="superscript">lle:</hi> de Hoorn</persRef> and
+								<persRef ref="vonknobelsdorf-alexander">M: de Knoblesdorf</persRef>;
+							and came away before supper.— The bride and bridegroom play’d cards
+							together, with <persRef ref="augustusferdinand">Prince Augustus
+								Ferdinand</persRef>, and <persRef ref="haugwitz-johanna">Madame de
+								Haugwitz</persRef>. Their playing together is according to the
+							custom of the country.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-26">
+					<head>26 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Dined with the portuguese Minister, the <persRef
+								ref="danadia-joao">vicomte d’Anadia</persRef>; with nearly the same
+							company we had last week— He shewed us his library and his paintings—
+							Long walk in the park. <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> very unwell this
+							evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-27">
+					<head>27 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— is much better— Writing to the <persRef
+								ref="marshall-john">Secretary of State</persRef><hi
+								rend="strikethrough">s</hi>. Walk, again in the park, and resume a
+							little the <persRef ref="juvenal">Juvenal</persRef> which has been for
+							some time neglected. Evening latter part at <persRef ref="brown-charles"
+									>D<hi rend="superscript">r:</hi> Brown’s</persRef>. <persRef
+								ref="brown-mary">M<hi rend="superscript">rs:</hi> Brown</persRef> quite
+							unwell— We met there <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Schickler</persRef> and <persRef ref="u">Miss Brandt</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-28">
+					<head>28 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>Finish’d the translation of <persRef
+								ref="vongentz-friedrich">Gentz’s</persRef> parallel between the
+							American and french revolutions— Spent the Evening and supp’d at
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Schickler’s</persRef>, who
+							goes with <persRef ref="u">his wife</persRef> next monday, for Hamburg—
+							Play’d Boston with <persRef ref="u">Madame Strickhuysen</persRef>,
+								<persRef ref="krudener-bourkhardt">Baron Krudener</persRef> and
+								<persRef ref="wartensleben-leopold">Count
+							Wartensleben</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-29">
+					<head>29 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>Took a ride with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> Adams</persRef> this afternoon to
+							Pankau, a village about four english miles out of town. resume, the copy
+							of my Oberon, which I have intermitted
+							for some days past— Compared a Satire of <persRef ref="donne-john"
+								>Donne</persRef> with the versification of it by <persRef
+								ref="pope-alexander">Pope</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-30">
+					<head>30 June 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Finish’d the 14<hi rend="superscript">th:</hi> Satire of
+								<persRef ref="juvenal">Juvenal</persRef>, which is inferior in every
+							respect to the 13<hi rend="superscript">th:</hi>— Took a ride this afternoon
+							with <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> to the village of Frederic’sfeldt—about four miles
+							out of town, on the Frankfort road— News of the battle of Maringo.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-06-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise between 6 and 8 very
+							irregularly—write untill nearly ten; either translating, or copying off
+							the Oberon.— Breakfast— Write letters, or continue to copy or translate
+							untill two— Walk an hour in the park. Dine— After dinner an hour or two
+							of leisure— Walk, two or three hours more in the park— Home at about 9.
+							Write down the lines I made in walking— Bed at about 11.— To this
+							regularity, there have been exceptions this month during five days when
+							we made our tour to Potsdam and Brandenburg; and during about ten days
+							together when I had constantly company at home, or dined out myself.— In
+							the course of the month I have translated <persRef
+								ref="vongentz-friedrich">Gentz’s</persRef> essay, and <persRef
+								ref="juvenal">Juvenal’s</persRef> 14<hi rend="superscript">th:</hi>
+							Satire.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v50-1839-02">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="month" mhs:startingPage="555" mhs:precedingFile=""
+                mhs:followingFile="JQADiaries-v42-1839-02-p101.xml" mhs:volume="50">
+                <bibl n="metadata"><date from="1839-02-02" to="1839-02-28"/></bibl>
+
+
+
+                <!-- NB: there are tables in the entries for the 15th and 25th that will need to be
+                    hand encoded when converted to XML -->
+
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-02">
+                    <head>2 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-02"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Smithsonian Institution</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="555"/>
+                        <dateline>February 1839.</dateline>
+                        <p><date>2. V:30.</date> Saturday</p>
+                        <p>Call at the Bank of Washington. Meeting of joint Smithson Committee—
+                            Present <persRef ref="robbins-asher">Robbins</persRef>, <persRef
+                                ref="benton-thomas">Benton</persRef>, <persRef ref="southard-samuel"
+                                >Southard</persRef>, <persRef ref="preston-william2"
+                                >Preston</persRef>, <persRef ref="bayard-richard"
+                            >Bayard</persRef></p>
+                        <p>Adams, <persRef ref="garland-james">Garland</persRef>, <persRef
+                                ref="shepard-charles">Shepard</persRef>, <persRef ref="ogle-charles"
+                                >Og</persRef></p>
+
+
+                    </div>
+                </div>
+                <pb n="556" type="ms"/>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-04">
+                    <head>4 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-04"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="557" type="ms"/>
+                        <p><date>Monday 4 Feb<hi rend="superscript">y</hi> 1839—</date></p>
+                        <list>
+                            <head>Bills</head>
+                            <item>N. 152 For the relief of the Heirs of <persRef
+                                    ref="sampson-crocker">Crocker Sampson</persRef></item>
+                            <item>307. Relief of the Representatives of <persRef
+                                    ref="tudor-william2">William Tudor jun<hi rend="superscript"
+                                        >r</hi></persRef></item>
+                            <item>366. Relief of <persRef ref="lobdell-ebenezer">Ebenezer
+                                    Lobdell</persRef></item>
+                            <item>1051. Relief of the Representatives of <persRef ref="huddy-joshua"
+                                    >Joshua Huddy</persRef>—</item>
+                        </list>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-05">
+                    <head>5 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-05"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>5 Feb<hi rend="superscript">y.</hi></date>
+                            <persRef ref="borland-alexander">Alex<hi rend="superscript">r</hi>
+                                Borland</persRef>, <persRef ref="cornwell-joseph">D<hi
+                                    rend="superscript">r</hi> Joseph B. Cornwell</persRef>—</p>
+                        <p><persRef ref="loring-thomas2">Thomas Loring’s</persRef> Letter.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-06">
+                    <head>6 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-06"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Recreation</subject>
+                        <subject>Smithsonian Institution</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>Wednesday 6. Feb<hi rend="superscript">y</hi>—</date> Meeting of
+                            the joint Smithson Committee— I offered 5 Resolutions against the
+                            appropriation of any part of the fund to any institute of education—very
+                            little discussed— <persRef ref="robbins-asher">M<hi rend="superscript"
+                                    >r</hi> Robbins</persRef> is to report a Bill constituting a
+                            board of Trustees on Commission to report a plan for the application of
+                            the fund, to the next Congress— H.R.U.S— <persRef ref="haynes-charles"
+                                >Haynes</persRef> moved again a suspension of the rules to offer a
+                            Resolution to discharge the Committee of the whole on the Union, from
+                            the <persRef ref="vanburen-martin">President’s</persRef> Message, to
+                            take it up in the House—lost<space/>to<space/>not two thirds— Reports
+                            from Committees received— Orders of the day— Army Appropriation Bill
+                            amendment of a Section appropriating 30000 dollars <pb n="558" type="ms"
+                            />for surveys— <persRef ref="pickens-francis">Pickens</persRef>,
+                            <persRef ref="robertson-john2">Robertson</persRef>, <persRef
+                                ref="cambreleng-churchill">Cambreleng</persRef> against it— <persRef
+                                ref="mercer-charles">Mercer</persRef> for it— Adjourned after 4.</p>
+                        <p><persRef ref="campbell-archibald">Campbell</persRef> dined with us—
+                            Evening whist.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-07">
+                    <head>7 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-07"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>7. V. Thursday—</date> Day for the Meeting of the Committee of
+                            Manufactures— I alone there— H.R.U.S—</p>
+                        <p><persRef ref="johnson-william2">W. Cost Johnson</persRef> reported from
+                            the great Land Committee of 26. asking to be discharged from the subject
+                            referred to them; and no further action of the House. Robertson offers
+                            sundry Resolutions as Amendments to the Reports—and speaks till the call
+                            of the Orders of the day.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-08">
+                    <head>8 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-08"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="559" type="ms"/>
+                        <p><date>8. V. Friday—</date> Meeting of the Massachusetts
+                                Delegation—<persRef ref="davis-john4">J. Davis</persRef>—Adams,
+                                <persRef ref="borden-nathaniel">Borden</persRef>, <persRef
+                                ref="briggs-george">Briggs</persRef>, <persRef ref="calhoun-william"
+                                >Calhoun</persRef>, <persRef ref="cushing-caleb">Cushing</persRef>,
+                                <persRef ref="fletcher-richard">Fletcher</persRef>, <persRef
+                                ref="grennell-george">Grennell</persRef>, <persRef
+                                ref="hastings-william">Hastings</persRef>, <persRef
+                                ref="parmenter-william">Parmenter</persRef>
+                            <persRef ref="reed-john">Reed</persRef>— M<hi rend="superscript">r</hi>
+                            Fletcher said <persRef ref="thayer-minot">Col<hi rend="superscript"
+                                    >l.</hi> Thayer</persRef> had seen the <persRef
+                                ref="poinsett-joel">Secretary of War</persRef>, who would recommend
+                            an appropriation of 65000 dollars for fortifications in Boston Harbour.
+                            I was charged to see <persRef ref="cambreleng-churchill"
+                                >Cambreleng</persRef> and arrange with him, the manner of
+                            introducing it— I saw him— He said <persRef ref="wright-silas"
+                                >Wright</persRef> would introduce it as an amendment in the army
+                            Bill, passed the House yesterday— H.R.U.S. <persRef ref="robertson-john2"
+                                >Robertson</persRef> continued his Speech on his Resolutions offered
+                            as an Amendment to <persRef ref="johnson-william2">W. Cost
+                                Johnson’s</persRef> Report of the great Land Committee of 26—
+                                <persRef ref="yell-archibald">Yell</persRef> offered an Amendment to
+                            the Amendment.— Orders of the day— Private Bills— Sundry passed—others
+                            rejected. Reconsiderations moved— Notice from <persRef
+                                ref="robbins-asher">A. Robbins</persRef> postponing till Wednesday
+                            the next meeting of the Smithson Com<hi rend="superscript">ee</hi>—and I
+                            notified the members of the Com<hi rend="superscript">ee.</hi> of
+                            Manufactures</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-09">
+                    <head>9 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-09"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="560" type="ms"/>
+                        <p><date>9. V:30.</date> Saturday</p>
+                        <p>Com<hi rend="superscript">ee.</hi> of Manufactures.</p>
+                        <p>Adams, <persRef ref="naylor-charles">Naylor</persRef>, <persRef
+                                ref="slade-william">Slade</persRef>, <persRef ref="kennedy-john"
+                                >Kennedy</persRef>, <persRef ref="tillinghast-joseph"
+                                >Tillinghast</persRef>, <persRef ref="elmore-franklin"
+                                >Elmore</persRef>. Absent <persRef ref="biddle-richard"
+                                >Biddle</persRef>, <persRef ref="hunter-robert">Hunter</persRef>
+                            <persRef ref="vail-henry">Vail</persRef>.</p>
+                        <p>Senate Bill N. 224 to be reported to the House, with an Amendment—a 3<hi
+                                rend="superscript">d.</hi> Section to refund duties paid on Railroad
+                            fastenings— The Letter from W<space/>to <persRef ref="howard-bf">B. F.
+                                Howard</persRef> praying for a repeal of the duty on Cotton—3 cents
+                            a pound, laid on the table</p>
+                        <p>Elmore says he has no objection to the Bill.</p>
+                        <p>Petition of <persRef ref="annable-td">T. D. Annable</persRef> and others
+                            for a duty on Starch</p>
+                        <p>To move discharge of the Com<hi rend="superscript">ee</hi> and reference
+                            to the Comm<hi rend="superscript">ee.</hi> of the whole on the Union
+                            upon the Bill— Pet<hi rend="superscript">n</hi> for a duty on ready made
+                            Sails, laid on the table—</p>
+                        <p>H.R.U.S— <persRef ref="robertson-john2">Robertson</persRef>, continues
+                            his Speech, on his Resolutions concerning the Public Lands— Orders of
+                            the Day— Private business— <persRef ref="rumsey-james"
+                                >Rumsey’s</persRef> beautiful Speech— I reported Senate Bill 224
+                            with the additional Section—</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-10">
+                    <head>10 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-10"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Anti-Slavery Petitions to Congress</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="561" type="ms"/>
+                        <p><date>10. VI. Sunday—</date> Heard <persRef ref="fowler-philemon"
+                                >Fowler</persRef> from Joshua 7.1 <persRef ref="achan"
+                                >Achan</persRef> and the accursed thing.— <persRef
+                                ref="campbell-archibald">Campbell</persRef> at dinner. S<hi
+                                rend="superscript">t.</hi> John’s P.M— <persRef ref="hawley-william"
+                                >Hawley</persRef> read prayers for Quinquagesima Sunday— Stranger
+                            preached from Psalm 104–29–30. apostrophe to some of the auditory—
+                                <persRef ref="smith-catherine-johnson">M<hi rend="superscript"
+                                    >rs</hi> Smith</persRef> dined at <persRef
+                                ref="johnson-thomas-baker">her brother’s</persRef>— Campbell and
+                                <persRef ref="u">Harry</persRef> here this Evening—bullying Letters—
+                            Abolition Petitions.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-11">
+                    <head>11 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-11"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>11. VI.</date> Monday—H.R.U.S. Resolution day, <persRef
+                                ref="haynes-charles">Haynes</persRef> moves to suspend the Rules to
+                            move to discharge the Com<hi rend="superscript">ee</hi> of the whole on
+                            the Union from the further consideration of the <persRef
+                                ref="vanburen-martin">President’s</persRef> Message—Lost. <persRef
+                                ref="bronson-isaac">Bronson</persRef> moves to go at once into the
+                            business of the Territories—lost— Res<hi rend="superscript">ns.</hi>
+                            called beginning with Ioway— Sandstone Resolution— <persRef
+                                ref="pratt-zadock">Pratt</persRef>
+                            <persRef ref="taliaferro-john">Taliaferro</persRef>, <persRef
+                                ref="naylor-charles">Naylor</persRef>
+                            <persRef ref="lincoln-levi2">Lincoln</persRef> &amp;c— Com<hi
+                                rend="superscript">ee:</hi> on public buildings to enquire— <persRef
+                                ref="slade-william">Slade’s</persRef> Resolution about men in
+                            chains—flurry— My Resolution to amend the 18<hi rend="superscript"
+                                >th.</hi> Rule about Petitions lies over one day— After 2. Orders of
+                            the day Territorial Bills.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-12">
+                    <head>12 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-12"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="562" type="ms"/>
+                        <p><date>12. V:30.</date> Tuesday— H.R.U.S— Territorial Bills, in Committee
+                            of the whole on the Union. <persRef ref="pickens-francis"
+                                >Pickens</persRef> in the Chair— He decides that a Bill, for selling
+                            public Lands to the Alabama, Florida, and Georgia Railroad Company is
+                            not a territorial Bill of those specially assigned for this day— Appeal
+                            from his decision—confirmed by the Committee— Other Bills passed—</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-15">
+                    <head>15 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-15"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Smithsonian Institution</subject>
+                        <subject>Anti-Slavery Petitions to Congress</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="563" type="ms"/>
+                        <p><date>15. VI.</date> Friday— Smithsonian Com<hi rend="superscript"
+                                >ee</hi>—<persRef ref="robbins-asher">Robbins</persRef>—<persRef
+                                ref="garland-james">Garland</persRef>. Robbins printed reasons,
+                            which he never offered, and was not authorised by the Committee to have
+                            printed. He said he was authorized by the Committee of the Senate to
+                            Report his Bill</p>
+                        <p>H.R.U.S— The Land Committee Resolution and <persRef ref="robertson-john2"
+                                >Robertson’s</persRef> Resolutions— <persRef ref="harrison-albert"
+                                >Harrison</persRef> of Missouri—refuses to yield the floor to
+                                <persRef ref="petrikin-david">Petrikin</persRef>. His Speech.</p>
+                        <p><persRef ref="cushing-caleb">Cushing</persRef> brought me a Letter from
+                                <persRef ref="kingsbury-fisher">F. A. Kingsbury</persRef>—and 4
+                            Petitions from Weymouth.</p>
+                        <table>
+                            <row>
+                                <cell role="name"><persRef ref="richards-elias">Richards</persRef>
+                                    Elias</cell>
+                                <cell role="num">1.</cell>
+                                <cell role="num">2.</cell>
+                                <cell role="num">3.</cell>
+                                <cell role="num">6.</cell>
+                                <cell role="num">95.</cell>
+                            </row>
+                            <row>
+                                <cell role="name">Same</cell>
+                                <cell role="num"/>
+                                <cell role="num">4.</cell>
+                                <cell role="num">5.</cell>
+                                <cell role="num">6</cell>
+                                <cell role="num">54.</cell>
+                            </row>
+                            <row>
+                                <cell role="name">Same</cell>
+                                <cell role="num"/>
+                                <cell role="num"/>
+                                <cell role="num"/>
+                                <cell role="num">7</cell>
+                                <cell role="num">56</cell>
+                            </row>
+                            <row>
+                                <cell role="name"><persRef ref="damon-zachariah">Damon
+                                        Zachariah</persRef></cell>
+                                <cell role="num"/>
+                                <cell role="num"/>
+                                <cell role="num"/>
+                                <cell role="num">8.</cell>
+                                <cell role="num">140.</cell>
+                            </row>
+                        </table>
+
+                    </div>
+                </div>
+                <pb n="564" type="ms"/>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-18">
+                    <head>18 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-18"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="565" type="ms"/>
+                        <p><date>18. V.</date> Monday— H.R.U.S. Petitions, all received and laid on
+                            the Table— No call of the States— Rules suspended—yeas and nays refused
+                                25—ag<hi rend="superscript">t.</hi> suspension 49— Order of the
+                            House— Debate on <persRef ref="robertson-john2">Robertson’s</persRef>
+                            Resolutions <persRef ref="harrison-albert">Harrison</persRef> concludes—
+                            Treasury Note Bill passed 114 to 88. Dinner at <persRef
+                                ref="bodisko-alexander">Bodisco’s</persRef>—Adams, <persRef
+                                ref="bayard-richard">Bayard</persRef>, <persRef ref="biddle-richard"
+                                >Biddle</persRef>, Bodisco, <persRef ref="u">Bradley</persRef>,
+                                <persRef ref="u">Bryan</persRef>—<persRef ref="carter-william"
+                                >Carter</persRef>, <persRef ref="clay-henry">Clay</persRef>,
+                            <persRef ref="crittenden-john">Crittenden</persRef>, <persRef ref="crogham-george">Croghan</persRef>,
+                                <persRef ref="cushing-caleb">Cushing</persRef>, <persRef
+                                ref="fox-henry3">Fox</persRef>, <persRef ref="gales-joseph"
+                                >Gales</persRef>, <persRef ref="graves-william2">Graves</persRef>,
+                                <persRef ref="u">Hamilton</persRef>, <persRef ref="jenifer-daniel"
+                                >Jenifer</persRef>, <persRef ref="u">Jones</persRef>, <persRef
+                                ref="kennedy-john">Kennedy</persRef>, <persRef ref="krehmer-george"
+                                >Krehmer</persRef>, <persRef ref="legare-hugh">Legare</persRef>,
+                                <persRef ref="u">Mackintosh</persRef>, <persRef
+                                ref="mareschal-wenzel">Marechal</persRef>, <persRef
+                                ref="martinez-francisco">Martinez</persRef>
+                            <persRef ref="martini-adrien">Martini</persRef>, <persRef ref="u"
+                                >Monmaur</persRef>, <persRef ref="nordin-gustaf">Norden</persRef>,
+                                <persRef ref="u">Rives</persRef>, <persRef ref="seaton-william"
+                                >Seaton</persRef>, <persRef ref="serruys-charles">Serruys</persRef>,
+                                <persRef ref="tallmadge-nathaniel">Tallmadge</persRef>, <persRef
+                                ref="u">Thomson</persRef>, <persRef ref="watterston-george"
+                                >Watterston</persRef>, <persRef ref="u">Williams</persRef>, and 3
+                            others.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-19">
+                    <head>19 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-19"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>19. VI.</date> Tuesday— Com<hi rend="superscript">ee.</hi> from the
+                            American Society for the diffusion of useful knowledge.— <persRef
+                                ref="proudfit-j">Proudfit</persRef>,</p>
+                        <p><persRef ref="u">Burnap</persRef></p>
+
+                    </div>
+                </div>
+                <pb n="566" type="ms"/>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-21">
+                    <head>21 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-21"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="567" type="ms"/>
+                        <p><date>21. VI:</date> Thursday</p>
+                        <p>H.R.U.S— <persRef ref="prentiss-seargent">S. S. Prentiss</persRef> offers
+                            Resolutions of enquiry, and to expel <persRef ref="duncan-alexander"
+                                    >Alex<hi rend="superscript">r.</hi> Duncan</persRef>, for a
+                            publication the evening before last, in the Globe; insulting to <persRef
+                                ref="stanly-edward">Stanly</persRef>
+                            <persRef ref="southgate-william">Southgate</persRef>, and <persRef
+                                ref="slade-william">Slade</persRef>— Debate upon it the whole day.
+                            Duncan avows the publication— Motion to lay all on the table lost—
+                                <persRef ref="menefee-richard">Menefee</persRef> and others reply—
+                            Prentiss modifies his Resolution— <persRef ref="thompson-waddy">W.
+                                Thompson</persRef> offers an Amendment— Second motion to lay on the
+                            table lost— House adjourn at 7. O’Clock. Evening party at <persRef
+                                ref="sewall-thomas">D<hi rend="superscript">r</hi>
+                                Sewall’s</persRef>— <persRef ref="u;u">Doctor and M<hi
+                                    rend="superscript">rs</hi> Combe</persRef> there. <persRef
+                                ref="brown-katherine">M<hi rend="superscript">rs</hi> Catherine
+                                Brown</persRef>— Fancy Ball, at <persRef ref="weightman-louisa">M<hi
+                                    rend="superscript">rs</hi> Weightmans</persRef></p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-22">
+                    <head>22 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-22"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>22. VI.</date> Friday</p>
+                        <p><persRef ref="folsom-george">M<hi rend="superscript">r</hi> G.
+                                Folsom</persRef>. N.Y. Historical Society— H.RU.S. yesterday— Com<hi
+                                rend="superscript">ee.</hi> of Manufactures— No Quorum but Adams,
+                                <persRef ref="naylor-charles">Naylor</persRef>, <persRef
+                                ref="slade-william">Slade</persRef>, <persRef
+                                ref="tillinghast-joseph">Tillinghast</persRef> present</p>
+                        <pb n="568" type="ms"/>
+                        <p>Call at the Pension-Office, with sundry Pension claims— <persRef
+                                ref="gould-phebe">Phebe Gould</persRef>.</p>
+                        <p>H.R.U.S. <persRef ref="petrikin-david">Petrikin</persRef> makes a short
+                            Speech and moves to lay on the table the Resolution for censure upon
+                                <persRef ref="duncan-alexander">A. Duncan</persRef>— Then withdraws
+                            the motion for <persRef ref="elmore-franklin">Elmore</persRef> to make a
+                            long Speech and renew it. Then</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-23">
+                    <head>23 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-23"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Whig Party</subject>
+                        <subject>Health and Illness</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="569" type="ms"/>
+                        <dateline>23. Feb<hi rend="superscript">y</hi> 1839</dateline>
+                        <p><date>23. V.</date> Saturday— Call at the Pension Office; with the Letter
+                            of <persRef ref="holden-oliver;holden-nehemiah">Oliver and Nehemiah
+                                Holden</persRef>, and the Affidavit of<space/>Holden, to support,
+                            the Pension claim of Nehemiah, and the Letter of <persRef
+                                ref="packard-zibia">Zibia Packard</persRef> in favour of <persRef
+                                ref="gould-phebe">Phebe Gould</persRef>— Met <persRef
+                                ref="duncan-alexander">A. Duncan</persRef>, and a Pensioner—<persRef
+                                ref="u">Kelly</persRef> 90 years old— H.R.U.S. Senate Bill for the
+                            armed occupation of Florida— <persRef ref="robertson-john2"
+                                >Robertson</persRef> moves to lay it on the table. Call of the
+                            House— Motion to lay on the table lost by yeas and nays 91 to 94— Orders
+                            of the day— Committee of the whole on the Union, Banks in the Chair—
+                                <persRef ref="garland-james">Garland</persRef> of Virginia makes a
+                            Speech of 3 hours— Independent
+                            Patriotic—Self-defensive—Conservative—against the Sub-treasury and
+                            against the Whigs— Followed by <persRef ref="underwood-joseph"
+                                >Underwood</persRef>, full of Statistics and Political-Economy, and
+                            by Halsey, pecking at petty malversations. I left the House in Session,
+                            and went and dined with <persRef ref="poinsett-joel;poinsett-mary">M<hi
+                                    rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+                                Poinsett</persRef>—<persRef ref="u">Barron</persRef>, <persRef
+                                ref="biddle-nicholas">N. Biddle</persRef>, <persRef ref="u"
+                                >Bracy</persRef>, an English man <persRef ref="fox-henry3"
+                                >Fox</persRef>, M<hi rend="superscript">r</hi>
+                                Lo<unclear>uis?</unclear>, <persRef ref="macomb-alexander">General
+                                Macomb</persRef> and <persRef ref="webster-daniel">D.
+                                Webster</persRef>
+                            <persRef ref="scott-winfield">General Scott</persRef> came in from the
+                            North, while we were at <pb n="570" type="ms"/>Table— When I came home,
+                                <persRef ref="campbell-archibald">M<hi rend="superscript">r</hi>
+                                Campbell</persRef>, with <persRef ref="u">Halley</persRef> and
+                                <persRef ref="u">Montgomery</persRef> were here— <persRef
+                                ref="adams-louisa-catherine">My wife</persRef> had been suddenly
+                            seized with severe illness. <persRef ref="thomas-john7">D<hi
+                                    rend="superscript">rs</hi> Thomas</persRef> and<space/>were
+                            here, and she was bled, cupped and blistered— Distressed.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-24">
+                    <head>24 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-24"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Religion</subject>
+                        <subject>Health and Illness</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <p><date>24. V.</date> Sunday</p>
+                        <p>Heard a Stranger at the Presbyterian Church from Matthew 25.46 first part
+                            of the verse— Eternity of future punishments—absurdity—and pernicious
+                            tendency of both universalist creeds. <persRef ref="campbell-archibald"
+                                >Campbell</persRef> dined with us. P.M. at S<hi rend="superscript"
+                                >t.</hi> John’s Church. <persRef ref="doane-george">Bishop
+                                Doane</persRef> read the Service for 2<hi rend="superscript">d.</hi>
+                            Sunday in Lent and preached from 1. Peter 5.7.— Cast our cares upon God—
+                                <persRef ref="adams-louisa-catherine">My wife</persRef> confined the
+                            whole day to her bed— <persRef ref="thomas-john7">D<hi
+                                    rend="superscript">r</hi> Thomas</persRef> twice here— Rumours
+                            of War.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-25">
+                    <head>25 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-25"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Slavery</subject>
+                        <subject>U.S. Constitution</subject>
+                        <subject>Anti-Slavery Petitions to Congress</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="571" type="ms"/>
+                        <p><date>25. V.</date> Monday— <persRef ref="u">Anderson</persRef>, and
+                                <persRef ref="u">Nelson</persRef> from Quincy, Illinois— <persRef
+                                ref="thomas-john7">D<hi rend="superscript">r</hi> Thomas</persRef>—
+                            Letter from <persRef ref="lewis-charles">Lewis</persRef> and <persRef
+                                ref="u">Pierce</persRef> 10. Front Street—Brooklyn—N.Y with 3
+                            Letters to <persRef ref="edwards-james">J. L. Edwards</persRef>, Comm<hi
+                                rend="superscript">r.</hi> of Patents</p>
+                        <table>
+                            <row>
+                                <cell>1.</cell>
+                                <cell>With Declaration and application of</cell>
+                                <cell><persRef ref="steenburgh-simon">Simon
+                                    Steenburgh</persRef></cell>
+                            </row>
+                            <row>
+                                <cell>2.</cell>
+                                <cell/>
+                                <cell><persRef ref="williams-william2">William
+                                    Williams</persRef></cell>
+                            </row>
+                            <row>
+                                <cell>3.</cell>
+                                <cell/>
+                                <cell><persRef ref="duffield-margaretta">Margaretta
+                                        Duffield</persRef>.</cell>
+                            </row>
+                        </table>
+                        <p>Left at the Pension Office</p>
+                        <p>H.R.U.S. Resolution day— <persRef ref="cambreleng-churchill"
+                                >Cambreleng</persRef> moves to suspend the Rules to receive Reports
+                            of Committees— I asked leave to offer 3. Resolutions for Amendments to
+                            the Constitution, to abolish Slavery, and a Petition of <persRef
+                                ref="jay-john4">John Jay</persRef> and 43 citizens of New-York; but
+                            the question was put on Cambreleng’s motion, the rules were
+                            suspended—the Committees reported; and the House went into Committee of
+                            the whole on the Union on the civil and diplomatic appropriation Bill—
+                                <persRef ref="slade-william">Slade</persRef>— Hayti— <persRef
+                                ref="ogle-charles">Ogle</persRef>—the branch mints— No Quorum—
+                            Committee finally rise— Adjourned at 1. A.M.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-26">
+                    <head>26 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-26"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="572" type="ms"/>
+                        <p><date>26. VII.</date> Tuesday— H.R.U.S. Com<hi rend="superscript"
+                                >ee.</hi> of the whole on the Union Banks in the Chair. The Civil
+                            and diplomatic appropriation Bill— <persRef ref="graham-james4"
+                                >Graham</persRef> of N.C. <persRef ref="dawson-william"
+                                >Dawson</persRef> and <persRef ref="bynum-jesse">Bynum</persRef>
+                            reply to <persRef ref="ogle-charles">Ogle</persRef>; also <persRef
+                                ref="mercer-charles">C. F. Mercer</persRef>— Message from <persRef
+                                ref="vanburen-martin">P.U.S.</persRef> on the North-eastern
+                            boundary— Message and documents <persRef ref="howard-benjamin"
+                                >Howard</persRef>, <persRef ref="thompson-waddy">Waddy
+                                Thompson</persRef>
+                            <persRef ref="evans-george2">Evans</persRef>, <persRef
+                                ref="petrikin-david">Pretikin</persRef> moves the previous question,
+                            withdraws it J. Q. A—<persRef ref="lincoln-levi2">Lincoln</persRef>, <persRef ref="cushing-caleb">Cushing</persRef>, <persRef ref="pickens-francis">Pickens</persRef>, <persRef
+                                ref="sergeant-john">J. Sergeant</persRef>, <persRef
+                                ref="everett-horace">Everett</persRef> previous Question. Message
+                            referred to Com<hi rend="superscript">ee.</hi> of Foreign Affairs with
+                            permission to sit during the sitting of the House Motions to print extra
+                            copies. <persRef ref="harlan-james">Harlan</persRef> moves to suspend
+                            the rules to present the <persRef ref="swartwout-samuel"
+                                >Swartwout</persRef> defalcation Committee 81 to 56 not two thirds.
+                            Committee of the whole on the Union again— Ogle repeats his speech on
+                            the Branch Mints— Bynum snarls a reply The Bill reported to the House—at
+                            10. P.M. Harlan presents the defalcation Committee’s report— Postponed
+                            till to-morrow morning— Home at 11. P.M.</p>
+
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-27">
+                    <head>27 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-27"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Native Americans</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="573" type="ms"/>
+                        <p><date>27. VII.</date> Wednesday— H.R.U.S. Harlan presents the report of
+                            the <persRef ref="swartwout-samuel">Swartwout</persRef> and <persRef
+                                ref="price-william2">Price</persRef> defalcation <persRef
+                                ref="owens-george">Com<hi rend="superscript">ee.</hi>
+                                Owens</persRef> presents the Minority Report— <persRef
+                                ref="petrikin-david">Petrikin</persRef> demands the reading of the
+                            whole; but compounds for a bargain no part of them should be read. 20000
+                            copies of the report and 5000 copies of the Journal to be printed.
+                                <persRef ref="hall-hiland">Hiland</persRef> Hall presents a report
+                            from a select Committee against Virginia comutation claims— All Virginia
+                            in a flame Motion to print postponed— Civil and diplomatic expenditure
+                            Bill passed to the 3<hi rend="superscript">d.</hi> reading and passed.
+                            Motion to meet for the rest of the Session at 10 A.M. Daily. and to take
+                            a recess from 3 to 1/2 past 4. 3. Messages from <persRef
+                                ref="vanburen-martin">P.U.S</persRef> Memorandum between <persRef
+                                ref="forsyth-john">J. Forsyth</persRef>, and <persRef
+                                ref="fox-henry3">H. S. Fox</persRef>—to pacify the fray between
+                            Maine and New-Brunswick— Bill of Appropriations to suppress Indian
+                            hostilities in Florida.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v50-1839-02-28">
+                    <head>28 February 1839</head>
+                    <bibl><author>JQA</author><date type="creation" when="1839-02-28"/><editor
+                            role="transcription">Neal Millikan</editor>
+                        <subject>Native Americans</subject>
+                    </bibl>
+                    <div type="docbody">
+                        <pb n="574" type="ms"/>
+                        <p><date>28. VII.</date> Thursday—</p>
+                        <p><persRef ref="u">Gerstner</persRef> with a Letter from <persRef
+                                ref="quincy-josiah2">President Quincy</persRef>. Austrian undertaker
+                            of Railroads—Russia. England— <persRef ref="dearborn-henry2"
+                                >Dearborns</persRef> Letters— Alabama and Georgia Railroad—</p>
+                        <p>H.R.U.S.— <persRef ref="hall-hiland">Hiland Hall’s</persRef> Report, read
+                            till the expiration of the Morning hour.— Report and Bill of the
+                            Committee of foreign Affairs— I proposed a slight amendment to the
+                            report—debate thereon— My amendment adopted: 10,000 copies of the
+                            message, documents, report and bill to be printed under the direction of
+                            the Com<hi rend="superscript">ee.</hi> Bill to suppress indian
+                            hostilities passed</p>
+                        <p>Recess— Draught of Report from Committee of Manufactures— <persRef
+                                ref="morris-samuel">Samuel W. Morris</persRef> of the Com<hi
+                                rend="superscript">ee.</hi> of Accounts Investigating Committee’s
+                            tavern Bills contested Com<hi rend="superscript">ee.</hi> of the Whole—
+                                <persRef ref="mckennan-thomas">M’Kennan</persRef> Chairman. Bill to
+                            take the 6<hi rend="superscript">th.</hi> Census— <persRef
+                                ref="garland-rice">Rice Garland</persRef>— Bill passed</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

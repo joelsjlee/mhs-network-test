@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v36i-1828-11">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="055"  mhs:precedingFile="JQADiaries-v36i-1828-10-p046.xml" mhs:followingFile="JQADiaries-v36i-1828-12-p065.xml" mhs:volume="36i">
+				<bibl n="metadata"><date from="1828-11-01" to="1828-11-30"/></bibl>
+				<!-- DJQA 1828- 11 DJQA36i -->
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-01">
+					<head>1 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-01"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline>November.</dateline>
+						<p><date>1. IV:30.</date> Ride the round— Saturday—</p>
+						<list>
+							<head rendition="#bracket-left">of Kentucky. visitors of
+								curiosity</head>
+							<item><persRef ref="u">Helme</persRef></item>
+							<item><persRef ref="u">Haight</persRef></item>
+						</list>
+						<list><item><persRef ref="u">Mumford</persRef>— Applies to be Keeper of light-house—
+							Nayat<lb/> Point—</item>
+						<item><persRef key="clay-henry">Clay</persRef>— Revised note to <persRef
+								ref="krudener-paul">Krudener</persRef>— Larned to go to Peru—
+							Despatches from <persRef ref="tudor-william2">Tudor</persRef>—
+								<unclear>Peace</unclear></item>
+						<item><persRef ref="fendall-philip">Fendall</persRef> Pardon to Winebago
+							Indians.</item></list>
+						<list>
+							<head rendition="#bracket-left">Visitors— Ministers of the Episcopal
+								Church— Assembled in this City—</head>
+							<item><persRef ref="mcilvaine-charles">M’Ilvaine</persRef></item>
+							<item><persRef ref="u">Polk</persRef></item>
+							<item><persRef ref="adams-jasper">Adams</persRef>.</item>
+						</list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-02">
+					<head>2 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-02"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="56"/>
+						<p><date>2. II. and VII. </date><unclear>symbols</unclear></p>
+						<list><item>St. John’s Heard <persRef ref="meade-william">M<hi rend="superscript"
+									>r</hi> Meade</persRef>. 1. John 4.10. 22<hi rend="superscript"
+								>d.</hi> after Trinity.<lb/> Communion day.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-03">
+					<head>3 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-03"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. IV:15.</date> Ride— College— Post-office— Rain. Drenched</p>
+						<list><item><persRef ref="adams-abigail2">Abigail S. Adams</persRef> went to
+							Baltimore—</item>
+						<item><persRef ref="fendall-philip">Fendall Ph. R.</persRef>— Pardons of
+							Winebago Indians, for murder 2<hi rend="superscript">d.</hi> Degree</item>
+						<item><persRef ref="porter-peter">Porter— Peter B</persRef>— <persRef
+							ref="scott-winfield">Scott’s</persRef> refusal of Obedience—
+							Winebagoes— Letter<lb/>to Scott— Proposal to revoke his brevet</item></list>
+						<list>
+							<head rendition="#bracket-left">Brother in Law to <persRef
+									ref="sergeant-john">J. Sergeant</persRef>, and his nephew—from
+								Philadelphia— Sergeant’s election lost—</head>
+							<item><persRef ref="u">Lober</persRef></item>
+							<item><persRef ref="u">Lober</persRef>.</item>
+						</list>
+						<list><item><persRef ref="nourse-charles">Nourse— C. J</persRef>— Letters from Scott,
+							Command of the Army in 1821.</item>
+						<item><persRef ref="lincoln-levi3">Lincoln Levi j.</persRef> Midshipman— going
+							to Norfolk.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-04">
+					<head>4 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-04"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. III.45.—</date> Fog— Ride P.M. 3 to 5.</p>
+						<list><item><persRef ref="southard-samuel">Southard S. L.</persRef> Scientific
+							exhibition— <persRef ref="wilkes-charles">Wilkes</persRef>, <persRef
+								ref="reynolds-jeremiah">Reynolds</persRef>— <persRef ref="u"
+								>Pendleton</persRef></item>
+						<item><persRef key="clay-henry">Clay— Henry</persRef>— Project of Treaty with
+							Austria.</item>
+						<item><persRef ref="jones-roger">Jones— Col<hi rend="superscript">l.</hi>
+								Roger</persRef>— absent yesterday. <persRef ref="fenwick-john"
+								>Fenwick</persRef> &amp; <persRef ref="clinch-duncan"
+								>Clinch</persRef> Letters.</item>
+						<item><persRef ref="nourse-charles">Nourse— Ch. J.</persRef> Came for <persRef
+								ref="scott-winfield">Scott’s</persRef> Letters to Command army in
+							1821.</item>
+						<item><persRef ref="mckenney-thomas">M’Kenney. T. L.</persRef> Medals for
+							Winebago Indians— The Pardon.</item>
+						<item><persRef ref="cass-lewis">Cass— Lewis</persRef>. Indian visit of Ceremony
+							this day— No business</item>
+						<item><persRef ref="porter-peter">Porter. Peter B</persRef>— with the Indians.
+								<persRef ref="forsyth-thomas">Forsyth</persRef> interpreter and
+							another</item>
+						<item>Winebago Indians <unclear>12.</unclear> one woman—2
+							Speeches—half-breed</item></list>
+						<list>
+							<head rendition="#bracket-left">Visits friendly.</head>
+							<item><persRef ref="warrington-lewis">Warrington—
+								Commodore</persRef></item>
+							<item><persRef ref="u">M’Intosh</persRef> of Norfolk.</item>
+						</list>
+						<list><item><persRef ref="u">Addison</persRef>— Wine—</item>
+						<item><persRef ref="lincoln-levi3">L. Lincoln</persRef> dined with us— Ride to
+							the woods—</item></list>
+						<cb/>
+						<list><item>Middlesex Canal Shares 755. 756.<lb/>transferred to <persRef
+								ref="adams-charles2">Charles</persRef>—</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-05">
+					<head>5 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-05"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. III.45.</date>
+							<persRef ref="adams-charles2">Charles</persRef> left us— Ride before
+							dinner—</p>
+						<list><item><persRef ref="southard-samuel">Southard S. L</persRef>— <persRef
+							ref="smith-waters">Waters Smith’s</persRef> claim for the
+							Negroes.</item>
+						<item><persRef ref="jones-roger">Jones— Roger</persRef>— <persRef
+								ref="fenwick-john">Fenwick</persRef> and <persRef
+								ref="clinch-duncan">Clinch</persRef> question of double rations.</item></list>
+						<list>
+							<head rendition="#bracket-left">Visits— M<hi rend="superscript">r</hi>
+								Gallatin is here upon the subject of the North Eastern boundary
+								question</head>
+							<item><persRef ref="gallatin-albert">Gallatin Albert</persRef></item>
+							<item><persRef ref="gallatin-albert2">Gallatin</persRef></item>
+						</list>
+						<list rendition="#bracket-left">
+							<head rendition="#bracket-left">Cabinet Meeting— Letter from Gen<hi
+									rend="superscript">l.</hi> Porter to <persRef
+									ref="scott-winfield">Scott</persRef> Question of revoking his
+								Brevet, not determined— To have another Meeting</head>
+							<item><persRef key="clay-henry">Clay</persRef></item>
+							<item><persRef key="rush-richard">Rush</persRef></item>
+							<item><persRef ref="porter-peter">Porter— P. B.</persRef></item>
+							<item>Southard S. L.</item>
+						</list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-06">
+					<head>6 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-06"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="57"/>
+						<p><date>6. IV:15.</date> Thursday— Ride before dinner</p>
+						<list><item><persRef ref="hatch-israel">Hatch Israel</persRef>. Comes from
+							Long-Island his embarrassments.<lb/>Loss of custom at his Inn, by
+							Steam-boat speed.</item>
+						<item><persRef ref="mckeehan-david">M’Keehan David</persRef>— Wants place—
+							totally deaf</item>
+						<item><persRef key="clay-henry">Clay Henry</persRef>— The Treaty with Austria,
+							Messenger to <persRef ref="hughes-christopher">Hughes</persRef></item>
+						<item><persRef ref="jones-roger">Jones— Roger</persRef>— Papers in the case
+							of <persRef ref="fenwick-john">Fenwick</persRef> and <persRef
+								ref="clinch-duncan">Clinch</persRef>—</item></list>
+						<list>
+							<head rendition="#bracket-left">Vistors— the Duke has been to Canada—
+								going with Bresson to South-America</head>
+							<item><persRef ref="debresson-charles">Bresson Ch</persRef></item>
+							<item><persRef ref="lannes-napoleon">Montebello— Duc de</persRef></item>
+						</list>
+						<list><item><persRef ref="scott-alexander2">Scott Alexander</persRef>— Wishes to
+							occupy the house near <persRef ref="carbery-thomas"
+							>Carbery’s</persRef>.—</item>
+						<item><persRef ref="barrell-samuel">Barrell— S. B.</persRef> Applies for the
+							Consulate General at Algiers<lb/>for his Cousin— Surprised to hear of
+							obstacles.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-07">
+					<head>7 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-07"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. IV.45.</date> Friday.— Ride before dinner.</p>
+						<list><item><persRef ref="u">Hopkins</persRef> of Northampton</item>
+						<item><persRef ref="u">His Son</persRef>—</item>
+						<item><persRef ref="pederson-peter">Pederson— P.</persRef><lb/>recently
+							returned<lb/>from Copenhagen, as<lb/>Minister Resident in<lb/>return for
+							our Chargé<lb/>d’Affaires who is very<lb/>acceptable.</item>
+						<item><persRef ref="adams-john2">John</persRef> and <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> dined at <persRef
+								key="clay-henry">M<hi rend="superscript">r</hi>
+							Clay’s</persRef>.</item></list>
+						<cb/>
+						<list><item>Sentence of Gen<hi rend="superscript">l.</hi> Court Martial on board U.S.
+							Sloop of War Lexington at Port Mahon. <unclear>9.</unclear> Aug<hi
+								rend="superscript">t</hi> 1828 dismissing acting <persRef
+								ref="wingerd-george">Midshipman George B. Wingerd</persRef> for
+							Drunkenness— approved</item>
+						<item>Signed 619. Land-Grants</item>
+						<item>Exequatur to <persRef ref="eustaphieve-alexei">Alexis
+								Eustaphieff</persRef> Consul General of Russia, at New-York—</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-08">
+					<head>8 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-08"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>8. IV:45.</date> Saturday— Rain before dinner.</p>
+						<list><item><persRef ref="hatch-israel">Hatch Israel</persRef>— Going to-morrow or
+							next day—will call again</item>
+						<item><persRef ref="nourse-charles">Nourse— C. J.</persRef> twice— Papers and
+							Books on <persRef ref="scott-winfield">Scott’s</persRef> claim</item>
+						<item><persRef ref="brent-daniel">Brent— Daniel</persRef>— <persRef
+								ref="tudor-william2">Tudor’s</persRef> Letters— Case of the
+							Spermo—</item>
+						<item><persRef key="rush-richard">Rush— Richard</persRef>— Observations on
+							Scott’s claim</item>
+						<item><persRef ref="biddle-james">Biddle— James</persRef>— Returned from Coast
+							of Brazil.</item>
+						<item>Letter from my Son <persRef ref="adams-george">George</persRef> enclosing
+							copies of two Letters from <persRef ref="giles-william">W. B.
+								Giles</persRef>. </item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-09">
+					<head>9 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-09"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="58"/>
+						<p><date>9. V.</date> Sunday</p>
+						<list><item>Heard <persRef ref="bigelow-andrew">Bigelow</persRef>— John 9–27. Will ye
+							also be his<lb/>disciples.</item>
+						<item><persRef ref="gales-joseph">Gales— Joseph j<hi rend="superscript"
+								>r.</hi></persRef>— <persRef ref="giles-william">W. B.
+								Giles’s</persRef> Letters in 1808.9</item>
+						<item><persRef ref="hawley-william">Hawley</persRef>. 23<hi rend="superscript"
+								>d.</hi> Sunday after Trin: Phil. 2.12–13.</item>
+						<item><persRef ref="frye-nathaniel">Frye. Nath<hi rend="superscript">l</hi>
+									jun<hi rend="superscript">r.</hi></persRef></item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-10">
+					<head>10 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-10"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>10. IV:15.</date> Monday</p>
+						<list><item><persRef ref="wilson-david">Wilson— David</persRef>. an Irishman from
+							Belfast—</item>
+						<item><persRef ref="forsyth-james">Forsyth</persRef>—    Midshipman—for
+								appointm<hi rend="superscript">t.</hi> in Marine Corps—</item>
+						<item><persRef ref="southard-samuel">Southard— Sam<hi rend="superscript"
+									>l.</hi> L.</persRef> Commission to <persRef
+								ref="stewart-charles3">Stewart</persRef> as Chaplain in the
+							Navy.</item>
+						<item><persRef ref="wirt-william">Wirt— William</persRef>— <persRef
+								ref="scott-winfield">Gen<hi rend="superscript">l.</hi>
+								Scott’s</persRef> claim to command <persRef ref="macomb-alexander"
+								>Macomb</persRef>.</item>
+						<item><persRef ref="mckee-john">M’Kee John</persRef>. M.H.R.U.S. from
+							Alabama.</item>
+						<item><persRef ref="frye-nathaniel">Frye. Nath<hi rend="superscript">l.</hi>
+									jun<hi rend="superscript">r.</hi></persRef>— Accounts of
+							payments for <persRef ref="hellen-thomas">T. J. Hellen</persRef></item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-11">
+					<head>11 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-11"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. V.</date> Tuesday.— Walk to foot of College Hill—</p>
+						<list><item><persRef ref="graham-george">Graham— George</persRef>— Reservations of
+							Kanzas Treaty 3. June 1824<lb/>Also, Cherokee Improvements W. of
+							Mississippi.</item></list>
+						<list>
+							<head rendition="#bracket-left">Cabinet Meeting— Scott’s Letter of 1.
+									Nov<hi rend="superscript">r</hi> asking for a furlough.—
+								Porter’s draught of Letter to him.</head>
+							<item><persRef key="clay-henry">Clay— Henry</persRef></item>
+							<item><persRef key="rush-richard">Rush. Richard</persRef></item>
+							<item><persRef ref="porter-peter">Porter— Peter B.</persRef></item>
+							<item><persRef ref="southard-samuel">Southard Sam<hi rend="superscript"
+										>l.</hi> L</persRef></item>
+							<item><persRef ref="wirt-william">Wirt— William</persRef></item>
+						</list>
+						<list><item><persRef ref="u">Hennington</persRef>— Dog and bird exhibition</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-12">
+					<head>12 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-12"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. IV.45—</date> Wednesday. Ride before dinner</p>
+						<list>
+							<item>No visitors</item>
+							<cb/>
+							<item>Signed Lead-mine Licenses from<lb/>N. 57 to 65. except N.
+								64.</item>
+						</list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-13">
+					<head>13 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-13"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>13. V.</date> Thursday.</p>
+						<list><item><persRef ref="southard-samuel">Southard— S. L.</persRef> Sec<hi
+								rend="superscript">y</hi> War’s draft of Letter to <persRef
+								ref="scott-winfield">Gen<hi rend="superscript">l.</hi>
+								Scott</persRef>—<lb/>left with me for addition.</item>
+						<item><persRef ref="rodgers-john">Rodgers— John</persRef>— Letters from
+								<persRef ref="offley-david">Offley</persRef> at Smyrna—
+							Bulletin<lb/>Turkish— <persRef ref="english-george">G. B.
+								English</persRef>.<lb/>Election politics and beggary.</item>
+						<item><persRef ref="u">Magrath</persRef>
+							<unclear>89.</unclear></item></list>
+						<list>
+							<head rendition="#bracket-left">M<hi rend="superscript">r</hi> Hammett a
+								Clergyman from Virginia</head>
+							<item><persRef ref="sewall-joseph">Sewall D<hi rend="superscript"
+										>r.</hi></persRef></item>
+							<item><persRef ref="u">Hammett</persRef>—</item>
+						</list>
+						<list><item><persRef key="rush-richard">Rush— Richard</persRef>— Treasury Estimates
+							for the Message.</item>
+						<item><persRef ref="wilkes-charles">Wilkes— Lieut<hi rend="superscript">t.</hi>
+							Ch</persRef>— Letter from <persRef ref="king-charles">Ch. King</persRef>— To be Astronomer on the Southern
+							Ocean expedition</item>
+						<item>company to dine.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-14">
+					<head>14 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-14"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="59"/>
+						<p><date>14. V.</date> Friday— Snow.</p>
+						<list><item><persRef ref="macomb-alexander">Macomb— Alex<hi rend="superscript"
+								>r</hi></persRef> Board of Officers in April 1815. Precedence
+							between him and <persRef ref="scott-winfield">Scott</persRef>— His
+							Statement—</item></list>
+						<list>
+							<head rendition="#bracket-left"> Tharp’s new Memorial, written by
+									<persRef ref="coxe-richard">Coxe</persRef>— Ambrose— Fairfax
+								County Election news.</head>
+							<item><persRef ref="tharp-william">Tharp— William</persRef></item>
+							<item><persRef ref="ambrose-robert">Ambrose— Robert</persRef></item>
+							<item><persRef ref="lee-richard3">Lee. Richard H.</persRef></item>
+						</list>
+						<cb/>
+						<list><item>Order to discharge from prison <persRef ref="sullivan-john2">John
+								Sullivan</persRef>. Washington County Assault and Battery.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-15">
+					<head>15 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-15"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. V.</date> Saturday. <persRef ref="lee-richard3">Lee’s</persRef>
+							Life of <persRef ref="lee-arthur">Arthur Lee</persRef> finished—
+							Ride</p>
+						<list><item><persRef key="clay-henry">Clay— Henry</persRef>— Treaty with Austria—
+								<persRef ref="lederer-lewis">Baron Lederer</persRef>
+							scruples<lb/>signing— Minutes for the Message.</item>
+						<item><persRef ref="southard-samuel">Southard— S. L.</persRef> with papers—
+							Will come on Monday.</item>
+						<item><persRef ref="porter-peter">Porter Peter B.</persRef> Letter to <persRef
+								ref="scott-winfield">Scott</persRef>— My addition inserted— To
+							be<lb/>sent to-night—</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-16">
+					<head>16 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-16"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>16. VI.</date> Sunday.</p>
+						<list><item>Heard <persRef ref="bigelow-andrew">Bigelow</persRef>. Luke 19.41</item>
+						<item><persRef ref="cranch-william">Cranch— William</persRef></item>
+						<item>Heard <persRef ref="hawley-william">Hawley</persRef>— S<hi
+								rend="superscript">t.</hi> John’s. Philippians 4.15–20.19.</item>
+						<item><persRef ref="frye-nathaniel">Frye— Nath<hi rend="superscript">l.</hi>
+									jun<hi rend="superscript">r.</hi></persRef></item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-17">
+					<head>17 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-17"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. VI.</date> Monday— Round Capitol Square Walk—</p>
+						<list><item><persRef ref="conner-benjamin">Conner. Captain B.</persRef> Wants
+							employment to remove Sandbars—</item>
+						<item><persRef ref="fendall-philip">Fendall— Ph. R.</persRef> Letter to
+							<persRef ref="macpherson-john2">M’Pherson</persRef> consul at Carthagena—</item>
+						<item><persRef ref="southard-samuel">Southard Sam<hi rend="superscript">l.</hi>
+								L.</persRef> The South Pole Expedition— <persRef ref="jones-thomas"
+								>Jones</persRef> to command—<lb/>Instruments to be purchased—</item>
+						<item><persRef key="clay-henry">Clay— Henry</persRef>
+							<persRef ref="lederer-lewis">Baron Lederer</persRef> declines signing
+							the Treaty.</item>
+						<item><persRef key="rush-richard">Rush— Richard</persRef> Letters from <persRef
+								ref="law-thomas">T. Law</persRef>— Rush’s Minutes of 1825. and 6</item>
+						<item><persRef ref="macomb-alexander">Macomb Alexander</persRef>— His
+							Statement— <persRef ref="u">Lambert</persRef> and <persRef ref="u"
+								>Belton</persRef>—</item>
+						<item><persRef ref="tharp-william">Tharp— William</persRef>. Returned him his
+							papers— Declined a decision.</item></list>
+						<list>
+							<head rendition="#bracket-left">Maps of the North-eastern Boundary.
+								Surveys by the States of Massachusetts and Maine. Letters from
+									<persRef ref="vaughan-benjamin">B. Vaughan</persRef>—</head>
+							<item><persRef ref="gallatin-albert">Gallatin Albert</persRef></item>
+							<item><persRef ref="gallatin-albert2">Gallatin    jun<hi
+										rend="superscript">r </hi></persRef></item>
+						</list>
+						<list><item><persRef ref="preble-william">Preble. W. P.</persRef>— from Maine</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-18">
+					<head>18 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-18"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Native Americans</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. V:30.</date> Tuesday— Ground covered with Snow</p>
+						<list><item><persRef ref="cass-lewis">Cass— Lewis</persRef>— Going to Baltimore—
+							Winebagoes— To ask them for their lead-<lb/>mine Lands— Medals. 2 large—
+							3. To take out the old<lb/><unclear>heart?</unclear>, and put in a new
+							one.</item>
+						<item>Signed Lead-mine Leases from 125 to 129.</item></list>
+						<pb type="ms" n="60"/>
+						<list><item><persRef ref="mclean-john2">M’lean John</persRef>— P.M.G— His annual
+							report. <persRef ref="gouverneur-samuel">S. L.
+							Gouverneur</persRef><lb/>P.M. at New-York. <persRef ref="low-n">N.
+								Low</persRef> at Portland.</item>
+						<item><persRef ref="anderson-alexander">Anderson. Alexander</persRef>. His
+							claim for extra-service— Going away</item>
+						<item><persRef ref="abrams-isaac">Abrams— Isaac— Rev<hi rend="superscript"
+									>d.</hi></persRef> 5. To build a Church in Baltimore.</item>
+						<item>An hour’s walk before dinner— Ground covered with Snow.</item>
+						<item><persRef ref="thumblert-william">Thumlert— William</persRef>— Gave him
+							the Letter to him from <persRef ref="u">Crommelin’s</persRef></item>
+						<item>Lost his inheritance 539. <unclear>Pittiless</unclear>— thinks nothing of
+							it, the sum<lb/>being so small.</item>
+						<item>Signed consent to the conveyance by <persRef ref="boure-john">John B.
+								Boure</persRef> of Indian descent of one half of two Sections of
+							Land, one reserved to him by 6. Article of Treaty with Potawatamis of
+							16. Oct<hi rend="superscript">r.</hi> 1826. the other by 3<hi
+								rend="superscript">d.</hi> Article of Treaty with Miamis of 23.
+								Oct<hi rend="superscript">r.</hi> 1826.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-19">
+					<head>19 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-19"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. VI.</date> Wednesday. Snow disappeared— Walk before dinner</p>
+						<list><item><persRef ref="u">Gardner. Captain</persRef>— Young <persRef ref="u"
+								>Fleury’s</persRef> Story— <persRef ref="calhoun-john"
+								>Calhoun</persRef>. <persRef ref="mcduffie-george"
+								>M’Duffie</persRef> &amp;c</item></list>
+						<list>
+							<head rendition="#bracket-left">Mail contractors from the State of
+								New-York— Garnsey has lost his election for being a free-mason—
+									<persRef ref="marvin-dudley">Marvin</persRef> the same—
+								Administration Electors chosen in their Districts by large
+								majorities</head>
+							<item><persRef ref="garnsey-daniel">Garnsey</persRef>.</item>
+							<item><persRef ref="u">Williams</persRef></item>
+							<item><persRef ref="u">Burt</persRef>.</item>
+							<item>Two Others</item>
+						</list>
+						<list>
+							<head rendition="#bracket-left">Anderson came to introduce Dederick and
+								to take leave—</head>
+							<item><persRef ref="anderson-alexander">Anderson.
+								Alexander</persRef></item>
+							<item><persRef ref="u">Dederick</persRef>.</item>
+						</list>
+						<list><item><persRef ref="crowell-john">Crowell— John</persRef>— Claims of the Creek
+							Indians—for balance of 250,000</item>
+						<item><persRef ref="porter-peter">Porter— Peter B.</persRef> Another Letter of
+							disobedience from <persRef ref="scott-winfield">Scott</persRef>.</item>
+						<item><persRef ref="connell-john">Connell. John</persRef> Report concerning
+							Indian Intercourse<lb/>from Philadelphia.</item></list>
+						<list>
+							<head rendition="#bracket-left">With Letter from <persRef
+									ref="cheverus-jean">Archbishop Cheverus</persRef> of
+								Bordeaux—</head>
+							<item><persRef ref="u">Montgomery Rev<hi rend="superscript"
+									>d</hi></persRef></item>
+							<item>Another.</item>
+						</list>
+						<list><item><persRef ref="macomb-alexander">Macomb. Alexander</persRef>.— with a
+							certificate from <persRef ref="u">Lambert</persRef>—</item>
+						<item><persRef key="rush-richard">Rush Richard</persRef>. A. Anderson’s claim—
+							Precedents to be examined— I read to M<hi rend="superscript">r</hi> Rush
+							the draught of Paragraphs for the message— He doubted the expediency of
+							introducing them. In relation to the Constitutionality of the Tariff
+							Law; and the commercial intercourse with Great-Britain.</item>
+						<item>J. Connell dined with us— Paragraph for the Message respecting Indians.
+							Letter from <persRef ref="adams-charles2">C. F. A.</persRef> to <persRef
+								key="adams-louisa-catherine">his Mother</persRef>— Offence taken by
+							Federalists at Boston at Statement in National Intelligencer.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-20">
+					<head>20 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-20"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb type="ms" n="61"/>
+						<p><date>20. V:45.</date> Thursday— Heavy Rain— Walk round Capitol
+							Square</p>
+						<list>
+							<head rendition="#bracket-left">Cooper is a Son of <persRef
+									ref="cooper-isaac">Isaac Cooper</persRef> and Grandson of
+									<persRef ref="cooper-william">William Cooper</persRef> of
+								Boston. Has been an acting Purser in the Mediterranean and wants an
+								ap-<lb/>pointment—</head>
+							<item><persRef ref="watkins-tobias">Watkins Tobias</persRef></item>
+							<item><persRef ref="cooper-william3">Cooper. William</persRef></item>
+						</list>
+						<list><item><persRef ref="jones-roger">Jones Roger— Col<hi rend="superscript"
+									>l.</hi></persRef></item>
+						<item><persRef ref="nourse-charles">Nourse— Charles J.</persRef></item>
+						<item><persRef ref="frye-nathaniel;frye-carolina;frye-thomas">Frye. N. j<hi
+									rend="superscript">r.</hi> M<hi rend="superscript">rs</hi> and
+								Tom</persRef>— Oyster supper and up till 11.</item></list>
+						<cb/>
+						<list><item><persRef ref="u">Samuel</persRef> on the British Army— Letters on the Army Register. of 1826—
+							Brevet-Rank. Commissions in the British Army.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-21">
+					<head>21 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-21"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. VI.</date> Friday— Round Capitol Square</p>
+						<list><item><persRef ref="graham-george">Graham— George</persRef>— Employment of
+							Choctaw Indian funds—</item>
+						<item><persRef ref="u">Gardner. Capt<hi rend="superscript">n.</hi></persRef>
+							The South-Carolina Treachery and <persRef ref="calhoun-john"
+								>Calhoun</persRef>—</item>
+						<item><persRef ref="southard-samuel">Southard— S. L.</persRef> The South-Sea
+							expedition preparations—</item>
+						<item><persRef key="clay-henry">Clay— Henry</persRef>— <persRef
+								ref="lederer-lewis">Lederer’s</persRef> new proposals and
+							motives.</item></list>
+						<list>
+							<head rendition="#bracket-left">Old Mail Contractor from Utica, with a
+								Letter from <persRef ref="johnson-alexander">Alexander
+									Johnson</persRef>.—</head>
+							<item><persRef ref="u">Parker</persRef></item>
+							<item><persRef ref="u">Story</persRef>.</item>
+						</list>
+						<list><item>25. or 30. N.Y. Mail contractors— Their visit round the house—</item>
+						<item><persRef ref="bowdoin-temple">Bowdoin Temple</persRef>— Going soon again
+							to England—</item>
+						<item><persRef ref="roberdeau-isaac">Roberdeau— Isaac</persRef>— Declining
+							health—dyspepsia.</item>
+						<item><persRef ref="nourse-charles">Nourse— Charles J.</persRef>— Letter of
+								<persRef ref="porter-peter">Sec<hi rend="superscript">y</hi> of
+								War</persRef> to <persRef ref="gaines-edmund">G<hi
+									rend="superscript">l.</hi> Gaines</persRef>—</item>
+						<item><persRef ref="wirt-william">Wirt— William</persRef>— Long conversation
+							with him upon <persRef ref="jefferson-thomas">M<hi rend="superscript"
+									>r</hi> Jefferson</persRef>.<lb/>Read to him mine to <persRef
+								ref="giles-william">W. B. Giles</persRef>.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-22">
+					<head>22 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-22"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>22. IV.</date> Saturday. Rain</p>
+						<list><item><persRef ref="connell-john">Connell— John</persRef>— Claims upon
+							Denmark—his powers from the<lb/>Claimants. Instructions to <persRef
+								ref="wheaton-henry">Wheaton</persRef>.</item></list>
+						<list>
+							<head rendition="#bracket-left">M<hi rend="superscript">r</hi> Clay gave
+								me to read a Letter from <persRef ref="brown-james">James
+									Brown</persRef>, Minister at Paris.</head>
+							<item><persRef key="clay-henry">Clay— Henry</persRef></item>
+							<item><persRef ref="u">Morris— D<hi rend="superscript">r.
+									</hi></persRef></item>
+						</list>
+						<list><item><persRef ref="southard-samuel">Southard Sam<hi rend="superscript">l.</hi>
+								L.</persRef> Five plans of Navy Yard, to be approved.</item>
+						<item>Confined all day to the house— Draft of Message and <persRef
+								ref="scott-winfield">Scott’s</persRef> case— Read to M<hi
+								rend="superscript">r</hi> Southard paragraphs of the Message—does
+							not approve them—</item>
+						<item>M<hi rend="superscript">r</hi> Southard— J. Connell— <persRef
+								ref="bowdoin-temple">Temple Bowdoin</persRef> and D<hi
+								rend="superscript">r</hi> Morris dined with us.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-23">
+					<head>23 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-23"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="62"/>
+						<p><date>23. V.</date> Sunday— Northwester</p>
+						<list><item>Heard <persRef ref="bigelow-andrew">Bigelow</persRef>— John 16.33.</item>
+						<item><persRef ref="brent-daniel">Brent— Daniel</persRef></item>
+						<item><persRef ref="menou-charles">Menou— Count de</persRef></item>
+						<item>At S<hi rend="superscript">t.</hi> John’s Heard <persRef
+								ref="hawley-william">Hawley</persRef> 1. Peter 1.2. 25. After
+							Trinity</item>
+						<item><persRef ref="frye-nathaniel">Frye— N. j<hi rend="superscript"
+								>r.</hi></persRef></item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-24">
+					<head>24 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-24"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. V:15.</date> Monday    Ride round</p>
+						<list><item><persRef ref="shaler-william">Shaler— W</persRef>— Turkish Manuscripts. Beber Language. <persRef
+								ref="hodgson-william">Hodgson</persRef>.</item>
+						<item><persRef ref="hammond-jabez">Hammond— Jabez D.</persRef> from Albany.</item></list>
+						<list>
+							<head rendition="#bracket-left">M<hi rend="superscript">r</hi> Southard
+								introduced his nephew—and left with me his report upon Navy
+								Department affairs</head>
+							<item><persRef ref="southard-samuel">Southard— S. L.</persRef></item>
+							<item><persRef ref="southard-daniel">Southard— Daniel</persRef>.</item>
+						</list>
+						<list><item><persRef ref="knapp-samuel">Knapp— S. L</persRef>— His pamphlet on
+							Masonry— Φ.B.K.</item></list>
+						<list>
+							<head rendition="#bracket-left">Jones comes with a Message from <persRef
+									ref="redjacket">Red Jacket</persRef> Asks to be re-appointed
+								Interpreter.</head>
+							<item><persRef ref="porter-peter">Porter— Peter B.</persRef></item>
+							<item><persRef ref="jones-horatio">Jones. Horatio</persRef>.</item>
+						</list>
+						<list><item><persRef ref="u">Ross</persRef>. of Penns<hi rend="superscript">a</hi>.
+							Curiosity— Says he is ashamed of his State—</item>
+						<item><persRef ref="nourse-charles">Nourse— C. J.</persRef> With papers from
+							the War Department and copy.</item>
+						<item><persRef ref="garnsey-daniel">Garnsey</persRef>— His distress and want of
+							an appointment—</item>
+						<item><persRef ref="adams-abigail2">Abigail S. Adams</persRef> came home</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-25">
+					<head>25 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-25"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. V.15.</date> Tuesday— Ride round— Cabinet Meeting</p>
+						<list>
+							<head rendition="#bracket-left">M<hi rend="superscript">rs</hi> Williams
+								came for her papers. To come again tomorrow— <persRef
+									ref="ringgold-tench">Ringgold</persRef> will not pay her—</head>
+							<item><persRef ref="u">Williams M<hi rend="superscript"
+									>rs</hi></persRef></item>
+							<item><persRef ref="u">Her daughter</persRef></item>
+						</list>
+						<list><item>Rush. R. With Statement of the revenue for the year.</item>
+						<item><persRef ref="bigelow-andrew">Bigelow Andrew</persRef>— Visit—
+							interrupted—</item>
+						<item><persRef ref="nourse-charles">Nourse— Ch. J</persRef>— Copy of my paper—
+								<persRef ref="scott-winfield">Scott’s</persRef> pamphlet Letter—</item></list>
+						<list>
+							<head rendition="#bracket-left">Winebago Indians— To receive them again
+								next Saturday— Their dance Friday</head>
+							<item><persRef ref="cass-lewis">Cass Lewis</persRef></item>
+							<item><persRef ref="clark-william">Clark. William</persRef></item>
+						</list>
+						<list>
+							<head rendition="#bracket-left">Cabinet Meeting— Draft of the Message
+								read— They then took it to the War Dep<hi rend="superscript">t.</hi>
+								Office; read it over again and suggested several slight alterations—
+								They returned at 6. in the Eve and dined with us—</head>
+							<item><persRef key="clay-henry">Clay. Henry</persRef></item>
+							<item><persRef key="rush-richard">Rush Richard</persRef></item>
+							<item><persRef ref="porter-peter">Porter Peter B</persRef></item>
+							<item><persRef ref="southard-samuel">Southard S. L.</persRef></item>
+							<item><persRef ref="wirt-william">Wirt— William</persRef></item>
+						</list>
+						<list><item><persRef ref="reynolds-jeremiah">Reynolds</persRef>    Of the South Sea
+							and Pacific Ocean voyage of discovery— Wishes a third vessel to be
+							employed— Also that <persRef ref="knapp-samuel">S. L. Knapp</persRef>
+							should go as purser, and writer of the Narrative—</item>
+						<item><persRef ref="scott-winfield">Gen<hi rend="superscript">l.</hi>
+								Scott</persRef>— suspended from command— Western Department.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-26">
+					<head>26 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-26"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<pb type="ms" n="63"/>
+						<p><date>26. V.</date> Wednesday.</p>
+						<list>
+							<head rendition="#bracket-left">She took back her papers—</head>
+							<item><persRef ref="u">Williams— M<hi rend="superscript"
+									>rs</hi></persRef></item>
+							<item><persRef ref="u">Her Daughter</persRef></item>
+						</list>
+						<list><item><persRef ref="derrick-william">Derrick. W. S</persRef>— Instructions to
+								<persRef ref="brown-james">James Brown</persRef>—</item>
+						<item><persRef ref="brent-daniel">Brent— Daniel</persRef>— Additional Article
+							Treaty with Hanse Towns</item>
+						<item><persRef ref="duncan-joseph">Duncan. Joseph— Gen<hi rend="superscript"
+									>l.</hi></persRef> M.H.R. from Illinois</item>
+						<item><persRef ref="shepperd-augustine">Shepherd. Augustine H.</persRef> Member
+							H.R. from North-Carolina</item>
+						<item><persRef ref="knight-nehemiah">Knight. N. R.</persRef> Senator U.S. from
+							Rhode-Island just re-elected.</item>
+						<item><persRef ref="white-joseph">White Joseph M</persRef>— Delegate from
+							Florida— Trials of Land Causes</item>
+						<item><persRef key="rush-richard">Rush— Richard</persRef>. Proposed Alteration
+							of Message— About Civil War—</item>
+						<item><persRef ref="southard-samuel">Southard Sam<hi rend="superscript">l.</hi>
+								L.</persRef> Navy Documents— South Sea Expedition—</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-27">
+					<head>27 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-27"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. V.</date> Thursday.</p>
+						<list><item><persRef ref="shaler-william">Shaler— W</persRef>. Took back <persRef ref="hodgson-william">Hodgson’s
+							</persRef>Manuscripts and his own—</item>
+						<item><persRef ref="nourse-charles">Nourse C. J</persRef>— Documents for the
+							Message from the War Office</item></list>
+						<list>
+							<head rendition="#bracket-left">Contractor upon the Chesapeake and Ohio
+								Canal—</head>
+							<item><persRef ref="adams-parmenio">Adams Parmenio</persRef></item>
+							<item><persRef ref="u">Towsey</persRef></item>
+						</list>
+						<list><item><persRef ref="trumbull-john">Trumbull. John</persRef>— Finished the work
+							upon his pictures.</item>
+						<item><persRef ref="seaton-william;seaton-sarah2">Seaton— W. W. and M<hi
+									rend="superscript">rs</hi></persRef>— here this Evening at
+							tea.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-28">
+					<head>28 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-28"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. V.</date> Friday— Walk— round Capitol Square</p>
+						<list><item><persRef ref="elgar-joseph">Elgar— Joseph</persRef>— Asked for his Report
+							on the public Buildings</item></list>
+						<list>
+							<head rendition="#bracket-left">Members of Congress from
+								Massachusetts—just arrived. <persRef ref="everett-charlotte">M<hi
+										rend="superscript">rs</hi> Everett</persRef> is with her
+								husband— None of the other Ladies.</head>
+							<item><persRef ref="silsbee-nathaniel">Silsbee— Nathan<hi
+										rend="superscript">l</hi></persRef></item>
+							<item><persRef ref="crowninshield-benjamin">Crowninshield. B.
+									W.</persRef></item>
+							<item><persRef ref="everett-edward">Everett— Edward</persRef></item>
+						</list>
+						<list><item><persRef ref="southard-samuel">Southard S. L</persRef>— Read me his
+							Report, to go with the Message</item>
+						<item><persRef ref="rodgers-john">Rodgers— John</persRef>. Letter from <persRef
+								ref="offley-david">David Offley</persRef>. Smyrna—</item>
+						<item><persRef ref="nourse-charles">Nourse C. J</persRef>— Took the Reports
+							from the War Office</item>
+						<item><persRef ref="frye-nathaniel;frye-thomas">Frye. N. and Tom</persRef>, to
+							see the Indians dance</item>
+						<item><persRef key="clay-henry">Clay. Henry</persRef>— <persRef
+							ref="tacon-francisco">Tacon’s</persRef> complaint— <persRef ref="salmon-hilario">Salmon</persRef> vs
+								<persRef ref="kirk-william">Kirk</persRef>.</item>
+						<item><persRef ref="cass-lewis">Cass. Lewis</persRef>— The Winebago Indian War
+							Dance—front of house</item>
+						<item>Everett Edward— dined with us— Sat with me in the Evening.</item></list>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-29">
+					<head>29 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-29"/><editor
+							role="transcription">Emily Wieder</editor>
+					<subject>Recreation</subject>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. V:15.</date> Saturday— Ride round College and Capitol.</p>
+						<list>
+							<head rendition="#bracket-left">Members of Congress coming in. Chaplain
+								to be appointed for the South Sea Voyage of Discovery. Additions to
+								the Message— Execution of the Act for the gradual improvement of the
+								Navy— Received <persRef ref="elgar-joseph">Elgar’s</persRef> Report
+								on the Public buildings— Penitentiary— Slave indemnity Commission
+								closed—</head>
+							<item><persRef ref="foot-samuel">Foot— Sam<hi rend="superscript">l.</hi>
+									A</persRef></item>
+							<item><persRef ref="southard-samuel">Southard. S. L.</persRef></item>
+							<item><persRef ref="butman-samuel">Butman Samuel</persRef></item>
+							<item><persRef ref="barber-noyes">Barber— Noyes</persRef></item>
+						</list>
+						<pb type="ms" n="64"/>
+						<list><item><persRef ref="taylor-john">Taylor. John W.</persRef></item>
+						<item><persRef ref="miner-charles">Miner. Charles</persRef></item>
+						<item><persRef ref="buckner-richard">Buckner Richard A</persRef></item>
+						<item><persRef ref="dickinson-john">Dickinson John D.</persRef></item>
+						<item><persRef ref="barnard-daniel">Barnard Daniel D.</persRef></item>
+						<item><persRef ref="watkins-george">Watkins— George</persRef></item>
+						<item><persRef ref="noble-james">Noble James</persRef></item>
+						<item><persRef ref="hendricks-william">Hendricks William</persRef>.</item>
+						<item><persRef ref="blake-thomas">Blake— Thomas H</persRef></item>
+						<item><persRef ref="vanrensselaer-stephen">Van Rensselaer.
+							Stephen</persRef></item>
+						<item><persRef ref="everett-edward">Everett— Edward</persRef></item>
+						<item><persRef ref="long-john">Long— John</persRef></item>
+						<item><persRef ref="wickliffe-charles">Wickliffe Charles A</persRef></item>
+						<item><persRef ref="bailey-john">Bailey. John</persRef></item>
+						<item>Winebago Indians.</item></list>
+						<p>Long talk with the Winebago Indians. Smoked the pipe of Peace with them—
+							Gave them Medals— Rifles, Pistols and Sabres. Three Speakers—one Chief
+							said to be 96 years old. Told me he and I were about of the same age— I
+							exhorted them to Peace and Friendship— Told them they had better let us
+							have the land where the lead was of no use to them— Gave them the pardon
+							of the two Chiefs sentenced to Death for Murder— Told them I had never
+							pardoned a white man for that crime— They said they must consult their
+							Nation about the land; and next Spring they would let us have a small
+							piece of land— But they had some debts which they wanted to have paid.—
+							They said the white people had swarmed upon their lands, till the game
+							had all disappeared, and there was not a Rabbit to be found— The talk
+							lasted three hours</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36i-1828-11-30">
+					<head>30 November 1828</head>
+					<bibl><author>JQA</author><date type="creation" when="1828-11-30"/><editor
+							role="transcription">Emily Wieder</editor></bibl>
+					<div type="docbody">
+						<p><date>30. V:15.</date></p>
+						<list><item>Heard <persRef ref="bigelow-andrew">Bigelow</persRef> Psalm 48.9.</item></list>
+						<list>
+							<head rendition="#bracket-left">General Bernard introduced M<hi
+									rend="superscript">r</hi> Peugnet who keeps a french and
+								classical School or Academy— M<hi rend="superscript">r</hi> Bell and
+									M<hi rend="superscript">r</hi> Robbins Senators U.S. from New
+								Hampshire and Rhode Island—</head>
+							<item><persRef ref="bell-samuel">Bell. Samuel</persRef></item>
+							<item><persRef ref="robbins-asher">Robbins Asher</persRef></item>
+							<item><persRef ref="brent-daniel">Brent. Daniel</persRef></item>
+							<item><persRef ref="bernard-simon">Bernard— Gen<hi rend="superscript"
+										>l.</hi></persRef></item>
+							<item><persRef ref="u">Peugnet</persRef>.</item>
+						</list>
+						<p>No afternoon service at S<hi rend="superscript">t.</hi> John’s Church—
+							Here ends the Month— I wrote this Morning the last paragraphs of the
+							Message— And I am still much occupied with the observations on <persRef
+								ref="scott-winfield">Scott’s</persRef> claim of Brevet command. I
+							find it absolutely impossible to keep up the current of my Diary.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

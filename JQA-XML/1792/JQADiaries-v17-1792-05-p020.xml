@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v17-1792-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="20"  mhs:precedingFile="" mhs:followingFile="" mhs:volume="17">
+				<bibl n="metadata"><date from="1792-05-03" to="1792-05-16"/></bibl>
+
+				<!-- DJQA 1792-05 DJQA17 May 1792 -->
+				<div type="entry" xml:id="jqadiaries-v17-1792-05-03">
+					<head>3 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="20"/>
+						<p><date><hi rend="italic">Thursday May 3. 1792.</hi></date> The evenings
+							grow very short; and from a variety of circumstances, which upon
+							different circumstances call me away I spend very few of them at my
+							office, and of course have seldom an opportunity to amuse myself with
+							this scribbling. In looking back upon the time elapsed since the date of
+							the last pages I cannot pride my self upon a very diligent improvement
+							of my time. A session of the Court of Common pleas has been held during
+							the interval which required my attention, though it furnished me but
+							little employment. My legal reading has been principally confined to
+								<persRef ref="espinasse-isaac">Espinasse</persRef>, as I have not
+							had occasion to examine any particular Question. This day however
+								<persRef ref="jennison-timothy">D<hi rend="superscript">r:</hi>
+								Jennison</persRef> called on me, and had some conversation with me,
+							which induces me to enquire into the detail of the laws respecting
+							Executors &amp; Administrators; upon which subject, I intend to commence
+							to-morrow morning. The professional studies are tedious: they require
+							some certain object, some focus upon which to collect the rays of
+							application— I have at length gone through all the philippics, which I
+							finished yesterday. They afford some insight into the manners and
+							habits, as well as into the History of those times, and contain many
+							Sentiments which must be equally applicable in every period of the
+							world.— They exhibit also a very striking figure of an unnatural state
+							of parties and an unaccountable mixture of opposite characters connected
+							together by a very peculiar juncture of affairs. The Coalition between
+							the Caesarean party headed by <persRef ref="augustuscaesar"
+								>Octavius</persRef> and the Consuls <persRef ref="hirtius-aulus"
+								>Hirtius</persRef> and <persRef ref="pansa-gaius">Pansa</persRef>,
+							with the republicans, their support of the <persRef
+								ref="brutus-decimus;brutus-marcus">two Brutus’s</persRef> &amp;
+								<persRef ref="cassius">Cassius</persRef> and <persRef
+								ref="cicero-marcus">Cicero</persRef> himself, against the followers
+							of <persRef ref="antony-mark">Antony</persRef> who likewise professed
+							himself the avenger of <persRef ref="caesar-julius">Caesar’s</persRef>
+							murder, is very easily accounted for upon the principles of political
+							ambition; but Cicero surely could never imagine that parties so
+							discordant in their nature could remain united till the accomplishment
+							of the great object, which he seems to have had in view, the
+							re-establishment of the republic. The death of the two Consuls at and
+							immediately after the battle at Modena was at the time considered as so
+							extremely favourable to the view of Augustus, that it was attributed to
+							his contrivance, and was supposed <pb n="21" type="ms"/>to have been
+							produced by treachery. But had they lived, the Event could not have been
+							other than it was. They had been the creatures of Caesar, and their
+							reconciliation with those who began upon their plan of reform by
+							murdering him, could not be for any other purpose than to suppress the
+							attempt of Antony, to engross to himself the unlimited Dominion, which
+							he had so infamously offered to Caesar. The truth is, the republic was
+							gone; the public mind, was enslaved, the Genius of Roman Liberty had
+							expired, and all the efforts of human eloquence, and more than human
+							virtue, were incompetent to the task of breathing anew in his nostrils
+							the breath of life. There appears to me to be even in these philippics
+							abundant evidence, that the evil was incurable. The temporizing
+							expedients of the partisans apparently the warmest for the public good,
+							the Embassy upon embassy, sent or proposed to be sent to Antony; the
+							manifest restraint and alarm under which the Orator appears to labour
+							from the supposed sentiments among the veteran troops even of his own
+							party; the extravagant and unprecedented honours and dignities, which he
+							is continually advising to heap upon Brutus, upon Cassius, upon the
+							Consuls and particularly upon Octavius Caesar, all conspire to show
+							clearly that all was rotten in the Commonwealth. The “venal city” had
+							found her purchaser; and after submitting to the prostitution of
+							Caesar’s dominion, it was in vain to think of reclaiming her to the
+							virgin chastity of republican freedom. The historical information to be
+							collected from these Orations is small, as they were all delivered in
+							the course of a few months. The state of parties must be collected
+							rather from what the orator does not express, than from what he says;
+							rather from what appears dimly through the disguise in which his hopes
+							and fears, endeavour to veil every thing about him, than from the
+							statements which the policy of the time, made it proper for him to
+							exhibit: But in no one particular, would it be more fallacious, than to
+							apply to these discourses, or indeed to any others of Cicero, for the
+							characters of the men who were then the principal actors upon the
+							theatre of Life. It is not in the darkness of a passionate invective,
+							nor in the splendor of a pompous panegyric, that we are to seek for the
+							soft and delicate tints which distinguish and diversify the Qualities of
+							his Enemies or of his friends. He is <pb n="22" type="ms"/>never at a
+							loss for virtues to decorate the followers of his own party, nor for
+							shameful vices with which to load his opposers. But on the one hand, his
+							animosity and partial prejudices, and on the other the simulation which
+							circumstances might justify, but which, justifiable or not, is very
+							evident, must detract exceedingly from the credit which we might give to
+							his descriptions of Characters. The reader who would form a proper
+							estimate of the real value <hi rend="strikethrough">to be</hi> of his
+							sentiments on this head, should compare, what he says in these Orations
+							respecting Caesar, with the Orations for <persRef ref="ligarius-quintus"
+								>Ligarius</persRef>, for <persRef ref="marcellus-marcus"
+								>Marcellus</persRef>, for <persRef ref="deiotarus"
+								>Dejotarus</persRef>, what he here says of <persRef
+								ref="piso-lucius">L. Piso</persRef>, with the Oration against him
+							delivered nearly twenty years before, beginning—jamne vides bellua
+							&amp;c—what he says in short of all the personages introduced with his
+							opinions relative to the same persons contained in the familiar
+							Epistles, and after making the comparison, whatever his opinion may be
+							of the speakers eloquence, he will not consider these compositions as
+							the most favourable specimens of his Sincerity.— Many reflections have
+							occurred to me during the persual of these books, but ideas like all
+							else pertaining to this world, and perhaps even beyond the common
+							proportion are fleeting and irretrievable— They must past unrecorded,
+							tho’ perhaps the most valuable.— But let them go.— The world will lose
+							but little.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v17-1792-05-04">
+					<head>4 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Friday May 4. 1792. </hi></date>At my office very
+							constantly the whole day excepting about half an hour in the forenoon,
+							upon business for <persRef ref="adams-john">my father</persRef>, and a
+							walk at dusk for my own health. It is now between 9 and 10, and I am
+							under the common obligation to retire to the refreshment and relaxation
+							of the body. In the forenoon I made some enquiries into the Laws
+							relative to Executors &amp; Administrators, &amp; began upon that title
+							in <hi rend="italic"><persRef ref="bacon-matthew">Bacon</persRef></hi>.
+							Support me ye powers of Patience, through these sandy desarts of legal
+							study, from whence I am to pick up a scanty subsistence by forcing an
+							unnatural cultivation.— I hope to proceed upon the undertaking
+							to-morrow. In pursuance of my Ciceronian resolution, I have in the two
+							last afternoon’s read the four Orations against Catiline, which I used
+							formerly to study, but which I have not read before these ten years. To
+							say the truth I have not read them as a critic or a philosopher, and if
+							I had, I have no time at present to communicate the result of my
+							reflections.</p>
+						
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v17-1792-05-16">
+					<head>16 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="23" type="ms"/><p><date><hi rend="italic">Wednesday May 16</hi><hi
+									rend="superscript italic">th:</hi><hi rend="italic"> 1792.</hi></date> I
+							am not satisfied with the manner in which I employ my time. It is
+							calculated to keep me forever fixed in that state of useless and
+							disgraceful insignificancy which has been my lot for some years past. At
+							an age bearing close upon 25, when many of the characters who were born
+							for the benefit of their fellow creatures have rendered themselves
+							conspicuous among their cotemporaries, and founded a reputation upon
+							which their memory remains and will continue to the latest posterity, at
+							that period I still find myself as obscure as unknown to the world, as
+							the most indolent, or the most stupid of human beings. In the walks of
+							active life, I have done nothing. Fortune indeed, who claims to herself
+							a large proportion of the merit which exhibits to public view the
+							talents of professional men at an early period of their Lives, has not
+							hitherto been peculiarly indulgent to me. But If to my own mind I
+							enquire whether I should at this time be qualified to receive and derive
+							any benefit from an opportunity which it may be in her power to procure
+							to me, my own mind would shrink from the investigation— My heart is not
+							conscious of an unworthy ambition; nor of a desire to establish either
+							fame honour or fortune upon any other foundation, than that of desert.—
+							But it is conscious, and the consideration is equally painful and
+							humiliating, it is conscious that the ambition is constant, and
+							unceasing, while the exertions to acquire the talents which ought alone
+							to secure the reward, of Ambition, are feeble, indolent, frequently
+							interrupted, and never pursued with an ardor equivalent to its purposes.
+							My future Fortunes in Life, are therefore the objects of my present
+							Speculation, and it may be proper for me to reflect further upon the
+							same subject, and if possible to adopt some Resolutions, and prescribe
+							to myself some regulations which may enable me as <persRef
+								ref="uncletoby">uncle Toby Shandy</persRef> said of his miniature
+							sieges, <hi rend="italic">to answer the great ends of my
+							existence</hi>.</p>
+						<p>First then, I begin, with establishing as a fundamental principle upon
+							which all my subsequent pursuits and regulations are to be established,
+							that the acquisition, at least of a respectable reputation is (subject
+							to the overruling power and wisdom of Providence) within my own power.
+							And that on my part nothing is wanting, but a constant, and persevering
+							determination to tread in the steps which naturally lead to <pb n="24"
+								type="ms"/>honour. And at the same time, I am equally convinced,
+							that I never shall attain that credit in the world, which my Nature
+							directs me to wish, without such a steady, patient and persevering
+							pursuit of the means adapted to the end I have in view, as has often
+							been the subject of my speculation, but never of my practice.</p>
+						<lg>
+							<l>“Labour and Toil, stand stern before the throne,</l>
+						<l>And guard, so Jove commands, the sacred place.”</l>
+						</lg>
+						<p>The mode of Life, adopted almost universally by my cotemporaries and
+							equals, is by no means calculated to secure the objects of my ambition.
+							My Emulation is seldom stimulated, by observing the Industry and
+							application of those whom my situation in Life gives me for companions.
+							The pernicious and childish opinion, that extraordinary Genius, cannot
+							brook the slavery of plodding over the rubbish of antiquity (a cant so
+							common among the heedless votaries of indolence) dulls the edge of all
+							industry, and is one of the most powerful ingredients in the Circean
+							potion, which transforms many of the most promising young men into the
+							beastly forms, which in sluggish idleness feed upon the labours of
+							others.— The degenerate Sentiment I hope will never obtain admission in
+							my mind, and if my Time should be loitered away in stupid laziness, it
+							will be under the full conviction of my conscience, that I am basely
+							bartering the greatest benefits with which human beings can be indulged;
+							for the miserable gratifications which are hardly worthy of contributing
+							to the enjoyments of the brute creation.</p>
+						<p>And as I have grounded myself upon the principle, that my character is
+							(under the smiles of Heaven) to be the work of my own hands, it becomes
+							necessary for me to determine, upon what part of active or of
+							speculative life, I mean to rest my pretensions to eminence— My own
+							Situation and that of my Country equally prohibit me from seeking to
+							derive any present expectations from a public career.— My disposition is
+							not military; and happily the warlike talents are not those which open
+							the most pleasing or the most reputable avenue to fame.— I have had some
+							transient thoughts of undertaking some useful litterary performance, but
+							the pursuit would militate at present too much, with that of the
+							profession upon which I am to <pb n="25" type="ms"/>to depend, not only
+							for my reputation, but for my subsistence. I have therefore concluded,
+							that the most proper object of my present attention, is <hi
+								rend="italic">that profession itself</hi>. And in acquiring the
+							faculty to discharge the duties of it, in a manner suitable to my own
+							wishes and to the expectations of my friends, I find ample room for
+							close and attentive application; for frequent and considerate
+							observation, and for such benefits of practical experience as occasional
+							opportunities may throw in my way.</p>
+						<p>The abilities requisite to constitute the character of a great lawyer,
+							may be traced in the labours which in the course of his profession, he
+							is called upon to perform. These may be divided with us into two
+							classes. The business of his office, and the business he transacts in
+							Court. A long, painful, and incessant attention to the prescriptions of
+								<hi rend="italic">positive</hi> Law (by which I mean in general the
+							municipal Laws) is absolutely necessary, to qualify him for giving
+							proper advice, for doing thorough justice to his clients, as a
+							counsellor, and for preparing the causes which are to be litigated in
+							the Courts.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

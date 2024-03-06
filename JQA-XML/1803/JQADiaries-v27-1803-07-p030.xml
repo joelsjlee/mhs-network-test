@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1803-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="30" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v27-1803-08-p035.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1803-07-01" to="1803-07-31"/></bibl>
+
+				<!--D/JQA/27.202-->
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-01">
+					<head>1 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="30"/>
+						<dateline><hi rend="italic">July 1803.</hi></dateline>
+						<p><date>1. </date>Bathed at the bottom of the Common, this morning before
+							breakfast.— The weather being again extremely warm, I pass’d the
+							remainder of the day at home untill near sun-set— Arranging papers in
+							the forenoon; reading the <hi rend="italic">Bacchides</hi> of <persRef
+								ref="plautus-titus">Plautus</persRef>, after dinner— The plot
+							depends on the mistakes occasioned by twin-sisters— A cunning scoundrel
+							slave, who cheats an old-man for the benefit of his son, as usual.— A
+							vain glorious soldier again— The varieties are, a Pedagogue or
+							School-Master, who complains bitterly of the degeneracy of the times,
+							and the degradation of his Office— And two old-men wheedled by the two
+							girls, till they imitate the excesses of their sons— Walk in the Mall;
+							where I met <persRef ref="emerson-william">M<hi rend="superscript"
+									>r:</hi> Emerson</persRef> and <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Phillips</persRef>— Found <persRef
+								ref="hall-joseph">M<hi rend="superscript">r:</hi> Hall</persRef>,
+							when I came home— Walk with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-02">
+					<head>2 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>Called this morning at <persRef ref="parsons-theophilus"
+									>M<hi rend="superscript">r:</hi> Parsons’s</persRef> Office, but
+							he was out of town. The weather turn’d extremely cold, and this
+							afternoon we had quite a north-east storm— I went out to Quincy
+							nevertheless— Found <persRef ref="adams-abigail">my mother</persRef>
+							very ill— <persRef ref="adams-john">My father</persRef> too has been
+							unwell, and appears not to be perfectly recovered— I bathed this
+							morning, at the bottom of the Common— Began to read the Mostellaria of
+								<persRef ref="plautus-titus">Plautus</persRef> but had not time to
+							finish it</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-03">
+					<head>3 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-03"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>Heard <persRef ref="williams-simeon">M<hi
+									rend="superscript">r:</hi> Williams</persRef> of Weymouth, who
+							dined with <persRef ref="adams-louisa-catherine">us</persRef>— His
+							afternoon Sermon was upon good and bad bargains— Read the last four of
+							the Provincial letters, and continued to write upon the life of <persRef
+								ref="pascal-blaise">Pascal</persRef>. It is a very amusing
+							occupation— <persRef ref="beale-benjamin2">B. Beale jun<hi
+									rend="superscript">r:</hi></persRef> told me of <persRef
+								ref="king-rufus">M<hi rend="superscript">r:</hi> King’s</persRef>
+							arrival at New-York 30. ult<hi rend="superscript">o:</hi>
+							<persRef ref="welsh-thomas">D<hi rend="superscript">r:</hi>
+								Welsh</persRef> and <persRef ref="welsh-abigail">his lady</persRef>
+							came out this afternoon, from Boston, and return’d at Night— He had seen
+								<persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef>, since noon— She was well, and had
+							walk’d to <persRef ref="gray-sarah">M<hi rend="superscript">rs:</hi>
+								Gray’s</persRef> in Tremont Street.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-04">
+					<head>4 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date><hi rend="italic">Independence Day</hi>. I return’d to
+							Boston early this morning; and on my arrival received from the
+							countenance, and mouth of <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef> the news, that I have
+							a second child— <persRef ref="adams-john2">A Son</persRef>— Born at 3
+							o’clock this morning— The mother and child are both as well as I could
+							hope. For this new blessing, I desire to offer my humblest gratitude to
+							the throne of Heaven— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> was taken ill
+							between 7 and 8 last Evening. Sent for <persRef ref="welsh-thomas">D<hi
+									rend="superscript">r:</hi> Welsh</persRef> about 11.— He had not
+							long been returned from Quincy. I went to hear the anniversary Oration,
+							which was delivered by <persRef ref="sullivan-william">M<hi
+									rend="superscript">r:</hi> W. Sullivan</persRef>. The prayer by
+								<persRef ref="baldwin-thomas">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef>, the Chaplain to the House of Representatives— In
+							the afternoon I called at <persRef ref="parsons-theophilus">M<hi
+									rend="superscript">r:</hi> Parsons’s</persRef> Office, and saw
+							him.— Took one turn in the Mall, where there was as usual a great crowd
+							of people. Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-05">
+					<head>5 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> is as well as her
+							condition admits— <persRef ref="adams-john2">The child</persRef> has a bad cold— <persRef ref="thomas-t">M<hi
+									rend="superscript">r:</hi> T. Thomas</persRef> called on me this
+							Morning— At <persRef ref="dawes-thomas">Judge Dawes’s</persRef> Office,
+							and <persRef ref="davis-john">Judge Davis’s</persRef>— To meet on the
+							questions respecting the <persRef ref="hopkins-e">Hopkins</persRef>
+							legacy— The former could not attend this day.— We agreed to meet next
+							Friday at 10 o’clock in the Morning. The Court of Common Pleas meet this
+							day. At noon we had the semi-annual meeting of the Directors of Neponsit
+							Bridge, and settled the <persRef ref="foster-james"
+								>Treasurer’s</persRef> Accounts.— I read this afternoon the
+							remainder of <persRef ref="plautus-titus">Plautus’s</persRef>
+							<hi rend="italic">Mostellaria</hi>, and four acts of the <hi
+								rend="italic">Menaechmei</hi>— The <hi rend="italic">Retour </hi><hi
+								rend="italic">Imprevu</hi> of <persRef ref="regnard-jean"
+								>Regnard</persRef> is taken from the former, and his <hi
+								rend="italic">Menechmes</hi> from the latter— In the Mostellaria, a
+							slave passes two deceptions upon an old man, who is returning home after
+							a long absence— He makes him believe his house is <hi rend="italic"
+								>haunted</hi>, and that his son has purchased another for him—
+							Regnard has adopted and improved upon both incidents.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-06">
+					<head>6 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> more unwell this day
+							than before; and this evening suddenly and for some time excessively
+							ill.— I found her so on returning from the club at <persRef
+								ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson’s</persRef>— I met <persRef ref="warren-john3">D<hi
+									rend="superscript">r:</hi> Warren</persRef> this morning; who
+							was going out to Quincy, to see <persRef ref="adams-abigail">my
+								mother</persRef>— Letters from <persRef ref="adams-thomas">my
+								brother</persRef>— The post-office has made free with one I sent him
+							some time since— I finished reading the <hi rend="italic"
+								>Menaechmei</hi> of <persRef ref="plautus-titus">Plautus</persRef>
+							and began the Miles Gloriosus— <persRef ref="shakespeare-william"
+								>Shakespear’s</persRef> Comedy of Errors, is taken closely, with
+							respect to the incidents from the Menaechmei— He has however added the
+							second pair of twins, the Dromio’s, as well as the characters and story
+							of the parents to the Antipholis’s.— <persRef ref="adams-john2"
+								>Child</persRef>
+							<hi rend="italic">weighs</hi> 6 1/2 lb.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-07">
+					<head>7 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="31" type="ms"/>
+						<p><date>7. </date><persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef>, this day better; but
+							still very feeble— Attended at the District Court, which is sitting. In
+							the afternoon, finished the Miles Gloriosus, and read 2. Acts of the
+							Mercator, of <persRef ref="plautus-titus">Plautus</persRef>— The soldier
+							is egregiously duped; but his character is dull and foolish in extreme—
+							There is some resemblance between him and <persRef
+								ref="shakespeare-william">Shakespear’s</persRef> Parolles— But the
+							latter is much more amusing.— Walk’d in the Mall this Evening.— Read to
+								M<hi rend="superscript">rs:</hi> Adams <persRef
+								ref="shenstone-william">Shenstone’s</persRef> Schoolmistress and
+								<persRef ref="johnson-samuel">Johnson’s</persRef> London—from
+								<persRef ref="dodsley-robert">Dodsley’s</persRef> collection of
+							poems.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-08">
+					<head>8 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Met <persRef ref="dawes-thomas">judge Dawes</persRef> and
+								<persRef ref="davis-john">Judge Davis</persRef>, at the office of
+							the former, to consider the questions from the Trustees of the <persRef
+								ref="hopkins-e">Hopkins</persRef> donation— We examined the decree
+							in Chancery, and agreed upon our Answers. Received a letter from
+								<persRef ref="king-rufus">M<hi rend="superscript">r:</hi>
+								King</persRef>, inclosing two, from <persRef
+								ref="proby-john;proby-elizabeth">Lord and Lady Carysfort</persRef>—
+							In the afternoon read the last three acts of <hi rend="strikethrough"
+								>Miles Gloriosus</hi>
+							<hi rend="italic">Mercator</hi>, and the first two of Pseudolus— The
+							Mercator is one of the most indifferent of <persRef ref="plautus-titus"
+								>Plautus’s</persRef> Comedies— Tis an old man, in love with his
+							son’s mistress.— I took a turn in the Mall, but the heat was so
+							excessive I could walk no longer— In the evening, read to <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, <persRef ref="green-matthew">Greene’s</persRef>
+							poem upon the Spleen, which is very pretty.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-09">
+					<head>9 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>The warmest day of the Season. My Thermometer at 92.
+							entirely in the shade.— <persRef ref="u">M<hi rend="superscript"
+									>rs:</hi> Otis</persRef> called to pay <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> a visit— <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef> went out to Quincy
+							with <persRef ref="gardner-john">M<hi rend="superscript">r:</hi>
+								Gardner</persRef>.— <persRef ref="dexter-richard">Dexter</persRef>
+							came in for me; but I concluded not to go out— Finished <persRef
+								ref="plautus-titus">Plautus’s</persRef> Pseudolus this afternoon and
+							read two acts of his Poenulus.— I once read the Pseudolus with <persRef
+								ref="dumas-charles">M<hi rend="superscript">r:</hi> Dumas</persRef>,
+							in the year 1783. But I recollected only one passage of the play; where
+							the cook tells <persRef ref="ballio">Ballio</persRef> that Jupiter sups
+							every night upon the vapours from his Cooking; and on Ballio’s asking
+							him what Jupiter does when he is out of employ, the Cook answers, He
+							goes to bed without supper— It is difficult to account for the
+							impression which a particular passage makes upon the memory more than
+							all others— There are an hundred witticisms in this Comedy, as good as
+							this, which upon this perusal are as new to me, as if I had never read
+							it— But this diverted me so much at the first reading that it has never
+							since slip’d from my memory. The whole play amused me very much at the
+							time— But the traces of it are all gone— <persRef ref="cicero-marcus"
+								>Cicero</persRef> admires the wit of Pseudolus— But it is one of the
+							poet’s most indecent works— And there is a coarseness in the humour,
+							which never would be tolerated in modern writer’s.— Walk’d this evening
+							with <persRef ref="frye-carolina">Caroline</persRef>, in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-10">
+					<head>10 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-10"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Fore-part of the day warm as yesterday; about 2. in the
+							afternoon, a slight thunder-shower with a very little rain changed the
+							atmosphere, which in the evening became quite cool. <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, who ventured from her bed-room into another
+							chamber, had a short but very severe attack similar to that of last
+							Wednesday. She soon recovered, and for the remainder of the day was as
+							well as before. Heard <persRef ref="howard-simeon">D<hi
+									rend="superscript">r:</hi> Howard</persRef> in the Morning, and
+								<persRef ref="emerson-william">M<hi rend="superscript">r:</hi>
+								Emerson</persRef>, this afternoon— Read two Sermons of <persRef
+								ref="tillotson-john">Tillotson</persRef>, 4<hi rend="superscript"
+								>th:</hi> vol: on suffering for Christ’s sake— Writing, a large part
+							of the day— Walk in the Mall with <persRef ref="frye-carolina"
+								>Caroline</persRef>, after Sunset.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-11">
+					<head>11 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-11"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>I enter this day upon my thirty-seventh year, with
+							sorrow to think how long I have lived, and to how little purpose— Bathed
+							this morning before breakfast— <persRef ref="shaw-william">M<hi
+									rend="superscript">r:</hi> Shaw</persRef> returned from Quincy—
+							Wrote a little this forenoon. At 4. this afternoon attended the annual
+							parish-meeting, at <persRef ref="emerson-william">M<hi
+									rend="superscript">r:</hi> Emerson’s</persRef>.— Finished
+							reading the Poenulus of <persRef ref="plautus-titus">Plautus</persRef>.
+							It is principally remarkable for a few lines of the Carthaginian
+							language, spoken by <persRef ref="hanno">Hanno</persRef> the
+							Carthaginian, at the opening of the 5<hi rend="superscript">th:</hi>
+							Act— They are said to be the only specimen of that language extant— They
+							bear a great resemblance to the Phoenician languages, and of course to
+							the Hebrew. In other respects this Comedy is like the rest— Two
+							courtezans discovered to be citizens, and an old pimp duped by a cunning
+							slave. Walk’d alone in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-12">
+					<head>12 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>I have bathed at the bottom of the Common, yesterday and
+							this morning before breakfast. Attended the Court of Common Pleas. Walk
+							this Evening in the Mall, with <persRef ref="frye-carolina"
+								>Caroline</persRef>— Just after we <pb n="32" type="ms"/>returned
+							home, there was a thunder shower, for about an hour— I read the Persa of
+								<persRef ref="plautus-titus">Plautus</persRef>:—the Amours of a
+							Slave, and a pimp cheated— <persRef ref="smith-william3">M<hi
+									rend="superscript">r:</hi> Smith</persRef> called upon me this
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-13">
+					<head>13 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Went, with <persRef ref="frye-carolina"
+								>Caroline</persRef> and <persRef ref="adams-george"
+							>George</persRef>, to Quincy, where we pass’d the day. Found <persRef
+								ref="adams-abigail">my mother</persRef>, a little but not much
+							better, than when I saw her last. <persRef ref="cranch-mary2">M<hi
+									rend="superscript">rs:</hi> Cranch</persRef> there after
+							dinner.— We return’d to Boston at Night. Club at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Freeman’s</persRef>— Finished the
+							first draught of my translation of <persRef ref="juvenal"
+								>Juvenal’s</persRef> 7<hi rend="superscript">th:</hi> Satire, which
+							has lain upon my hands unfinished, more than two years.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-14">
+					<head>14 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-14"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Attended the Court of Common Pleas this forenoon. Went
+							out to Roxbury, Jamaica-Plains, and dined with <persRef
+								ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef>— <persRef ref="greene-david">M<hi
+									rend="superscript">r:</hi> David Greene</persRef> &amp; <persRef
+								ref="u">his son</persRef>; <persRef ref="gray-thomas2">M<hi
+									rend="superscript">r:</hi> Gray</persRef>, the Minister of that
+							Parish <persRef ref="durant-cornelius">M<hi rend="superscript">r:</hi>
+								Durant</persRef>
+							<persRef ref="brimmer-h">M<hi rend="superscript">r:</hi> H.
+								Brimmer</persRef>, a <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Greenough</persRef>, were the company— I return’d to
+							town early in the Evening— Walk’d about an hour in the Mall— This
+							morning, before breakfast, I bathed from a wharf behind the almshouse, a
+							place mentioned last evening by <persRef ref="dexter-aaron">D<hi
+									rend="superscript">r:</hi> Dexter</persRef>, as much more
+							convenient than that at the bottom of the common—and so I really found
+							it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-15">
+					<head>15 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-15"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Rain, a great part of the last Night, and this morning.
+							I could not bathe. At the Court of Common Pleas, this forenoon— Read
+							this afternoon <persRef ref="plautus-titus">Plautus’s</persRef> Rudens—
+							A Shipwreck. A casket— A Courtezan found to be daughter of an Athenian
+							Citizen, and the old pimp to be fleeced.— Walk’d in the Mall— Read to
+							the <persRef ref="adams-louisa-catherine;frye-carolina"
+							>Ladies</persRef>, about half an hour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-16">
+					<head>16 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Called upon <persRef ref="emerson-william">M<hi
+									rend="superscript">r:</hi> Emerson</persRef> this morning, to
+							inform him of my intention to have <persRef ref="adams-john2">my
+								child</persRef> baptized to-morrow— Subscribed the declaration
+							customary on this occasion— Attended a few minutes at the Court of
+							Common-Pleas— <persRef ref="boylston-ward">M<hi rend="superscript"
+									>r:</hi> Boylston</persRef> called upon me— This afternoon I
+							read the <hi rend="italic">Stichus</hi>, of <persRef ref="plautus-titus"
+								>Plautus</persRef>; one of the short plays— Two married women whose
+							husbands have been long absent, and whose father urges them to marry
+							again— The husbands however return home— There is a hungry parasite, who
+							is deceived and a slave who is indulged with a treat— I also read some
+							of <persRef ref="rousseau-john">Rousseau’s</persRef> letters.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-17">
+					<head>17 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-17"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Unwell this morning; and a great part of the day— Heard
+							a young <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Lincoln</persRef> this Morning; and <persRef ref="emerson-william"
+									>M<hi rend="superscript">r:</hi> Emerson</persRef> this
+							afternoon. He baptized <persRef ref="adams-john2">my child, by the name
+								of <hi rend="italic">John</hi></persRef>— I read two Sermons of
+								<persRef ref="tillotson-john">Tillotson</persRef>. The 68<hi
+								rend="superscript">th:</hi> and 69<hi rend="superscript">th.</hi>—
+							Good men Strangers and sojourners on Earth.— Walk’d morning &amp;
+							evening. We had several Thunder-Showers from 2 this afternoon, untill 9.
+							in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-18">
+					<head>18 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Attended at 11. this morning at the Academy’s room in
+							the State-House, a meeting of the Trustees of the Hopkins Charity— The
+							Committee on <persRef ref="willard-joseph2">President
+								Willard’s</persRef> questions, made their report which was accepted—
+							Upon which the meeting was dissolved— In the afternoon, I read the
+							Trinummus of <persRef ref="plautus-titus">Plautus</persRef>. The moral
+							is better than in most of the others— It contains the model of a
+							faithful friend— But even he to fulfill his obligations of fidelity, has
+							recourse to fraud and imposture— From the anxiety manifested to give a
+							young woman a portion, when her lover is willing to take her without
+							one; it should seem it was held disgraceful to marry a female without
+							it. The son, without authority sells his father’s house in his
+							absence—and the poet, says he possess’d such a right by law— I amused
+							myself with the Second Satire of <persRef ref="juvenal"
+								>Juvenal</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-19">
+					<head>19 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef ref="humphreys-david">Col<hi rend="superscript"
+									>l:</hi> Humphreys</persRef>, called on me this forenoon, and
+							told me, <persRef ref="chaumont-james">M<hi rend="superscript">r:</hi>
+								Le Ray de Chaumont</persRef> was in town with <persRef
+								ref="morris-gouverneur">M<hi rend="superscript">r:</hi> G.
+								Morris</persRef>— I paid them a visit, and went with <persRef
+								ref="frye-carolina">Caroline</persRef> to see <persRef
+								ref="lear-tobias;lear-francis">M<hi rend="superscript">r:</hi> &amp;
+									M<hi rend="superscript">rs:</hi> Lear</persRef>, but found none
+							of them. Past the remainder of the day at home, excepting my customary
+							morning and Evening, walks. This afternoon I read the <persRef ref=""
+								>Truculentus</persRef> and the fragments of <persRef
+								ref="plautus-titus">Plautus</persRef>, and have thus gone through
+							this author. I likewise read in the 22<hi rend="superscript">d:</hi>
+							Volume of <persRef ref="lessing-gotthold">Lessing</persRef>, his life of
+							Plautus. The Truculentus is a struggle <pb n="33" type="ms"/>between
+							three lovers, for a Courtezan who values them exactly in proportion to
+							their respective liberality; this play is among the incomplete pieces,
+							much of which is lost. But is mentioned with approbation, by <persRef
+								ref="cicero-marcus">Cicero</persRef>, together with the Pseudolus.—
+							The general character of these plays is that they bear too close a
+							resemblance together— Their greatest value arises from the
+							representation of domestic manners they exhibit, and even in this
+							respect I know not how much dependence can be placed upon them— The
+							manners of the theatre differ in all Countries, most essentially from
+							the manners of real life; and in this case most of the plays of Plautus
+							are translated from the greeks— The characters are not much
+							discriminated— An old <hi rend="italic">dupe</hi>, a young <hi
+								rend="italic">spendthrift</hi>, a vixen <hi rend="italic">wife</hi>,
+							a tippling <hi rend="italic">bawd</hi>, a scoundrel <hi rend="italic"
+								>pimp</hi>, a swindling <hi rend="italic">slave</hi>, a famish’d <hi
+								rend="italic">parasite</hi>, a hired <hi rend="italic"
+							>impostor</hi>, and a braggart <hi rend="italic">soldier</hi>, and a
+							courtezan these <hi rend="strikethrough">ten</hi> personages constitute
+							the whole of Plautus’s dramatis personae— His twenty plays now extant,
+							as well as the six of <persRef ref="terence">Terence</persRef>, are only
+							varieties in the adventures natural to such persons. The incidents, the
+							wit and the humour all turn upon the situations and relations of such
+							beings. The range of human life is therefore extremely partial and
+							confined. The wit is sometimes excellent, often vulgar— The moral
+							occasionally good, and generally very bad— They are a <hi rend="italic"
+								>mine</hi> of dramatic treasure, but the metal is buried in a heap
+							of alloy.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-20">
+					<head>20 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="morris-gouverneur">M<hi rend="superscript"
+									>r:</hi> Morris</persRef> and <persRef ref="chaumont-james">M<hi
+									rend="superscript">r:</hi> Chaumont</persRef> called on me this
+							forenoon. As did a <persRef ref="groves-matthew">Captain
+								Groves</persRef>, with a project for discovering the longitude, by
+							an observation of Jupiter’s Satellites—
+							His invention is an instrument similar to that of <persRef
+								ref="halley-edmond">Halley’s</persRef> Quadrant, with a <hi
+								rend="italic">concave</hi> reflecting mirror, to bring the object
+							upon the horizon, to observe it in spite of the ship’s motion— He has
+							one or two other projects, with which he proposes going to Europe; for
+							he can find here neither encouragement, nor an optician to make his
+							instrument— I read this afternoon in <persRef ref="lessing-gotthold"
+								>Lessing’s</persRef> works vol: 22. and 23. The letter to him
+							against the Captives of <persRef ref="plautus-titus">Plautus</persRef>,
+							and his defence of that play— He persists to the last in the opinion,
+							that it is the best Comedy ever brought upon <hi rend="italic">any</hi>
+							Stage— I think it the best of the plays of lautus.— In the Evening, club
+							at <persRef ref="kirkland-john">D<hi rend="superscript">r:</hi>
+								Kirkland’s</persRef>, which was thinly attended— Returning from club
+								<persRef ref="eliot-john3">D<hi rend="superscript">r:</hi>
+								Elliot</persRef> told me there had been in 1792 or 1793 a vote of
+							Congress, that a copy of the Journals should be given to the Historical
+							Society. But that they had not received them for several years— I
+							promised to call for them, when I go on to Washington. He also told me
+								<persRef ref="u">D<hi rend="superscript">r:</hi> Mitchell</persRef>
+							had written him, that a gentleman at the Southward, had a valuable
+							manuscript which he had intended giving to the same Society. But he had
+							been so much abused in the newspapers, here, he supposed nothing from
+							him would be acceptable— Mitchell did not say who the gentleman was.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-21">
+					<head>21 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> was very ill the
+							greatest part of this day, and all the Evening— <persRef
+								ref="cranch-mary2">M<hi rend="superscript">rs:</hi> Cranch</persRef>
+							here this morning. I called with <persRef ref="frye-carolina"
+								>Caroline</persRef>, to see <persRef
+								ref="humphreys-david;humphreys-anne">M<hi rend="superscript">r:</hi>
+								and M<hi rend="superscript">rs:</hi> Humphreys</persRef>, at
+								<persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Whitwell’s</persRef>, but they were abroad— This afternoon I took up
+							the 6<hi rend="superscript">th:</hi> Volume of <persRef
+								ref="montaigne-michel">Montaigne</persRef>, whom I drop’d about a
+							month ago, to read <persRef ref="plautus-titus">Plautus</persRef>. Began this forenoon a course of reading on
+							American History, to which I purpose to devote two hours a day— Began
+							with <persRef ref="winterbotham-william">Winterbotham’s</persRef> View
+							of the United States.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-22">
+					<head>22 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>Continued reading <persRef ref="winterbotham-william"
+								>Winterbotham</persRef> in the morning, and <persRef
+								ref="montaigne-michel">Montaigne</persRef>, of whom I finished the
+								6<hi rend="superscript">th:</hi> volume, in the afternoon— Walk’d at
+							the beginning of the Evening; <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> is better. Congress
+							is called together the 15<hi rend="superscript">th:</hi> of October— I
+							endeavour to employ as much of my time as possible in study, to escape
+							from Reflections and prospects, under which I cannot choose but feel
+							impatient and worse.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-23">
+					<head>23 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="34" type="ms"/>
+						<p><date>23. </date>Heavy rains in the Night; so that I did not go out in
+							the morning— Forenoon at home— Principally reading, the life of <persRef
+								ref="columbus-christopher">Columbus</persRef>— In the Afternoon
+							began the 7<hi rend="superscript">th:</hi> volume of <persRef
+								ref="montaigne-michel">Montaigne</persRef>. Went out to Quincy, with
+								<persRef ref="dexter-richard">M<hi rend="superscript">r:</hi>
+								Dexter</persRef>— Found <persRef ref="adams-abigail">my
+								mother</persRef> convalescent, and <persRef ref="smith-louisa"
+								>Louisa Smith</persRef> very unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-24">
+					<head>24 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Bathed between 5 and 6 this morning, at <persRef
+								ref="black-moses">M<hi rend="superscript">r:</hi> Black’s</persRef>
+							wharf— Heard <persRef ref="whitney-peter">M<hi rend="superscript"
+									>r:</hi> Whitney</persRef>— My <persRef ref="adams-peter">Uncle
+								Adams</persRef> was with us at dinner.— Finished the sketch of
+								<persRef ref="pascal-blaise">Pascal’s</persRef> life; and read some
+							letters in the 3<hi rend="superscript">d:</hi> volume of <persRef
+								ref="derabutin-marie">Mad<hi rend="superscript">e:</hi> de
+								Sevigné</persRef>— Evening in conversation with <persRef
+								ref="adams-john">my father</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-25">
+					<head>25 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-25"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Very warm night and copious showers— Bathed this morning
+							before breakfast— Returned to Boston, in the forenoon— Received a letter
+							from <persRef ref="kinnaird-charles">M<hi rend="superscript">r:</hi>
+								Kinnaird</persRef>, introducing a <persRef ref="u">M<hi
+									rend="superscript">r:</hi> King</persRef>, at whose lodgings I
+							called. Spent the afternoon, in reading <persRef ref="voltaire-francois"
+								>Voltaire’s</persRef> correspondence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-26">
+					<head>26 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Bathed, from the wharf at Barton’s point, between 5 and
+							6 this morning; then walk’d an hour.— Finish’d reading the life of
+								<persRef ref="columbus-christopher">Columbus</persRef>— In the
+							afternoon, read <persRef ref="laharpe-jean">La Harpe</persRef> against
+								<persRef ref="shakespeare-william">Shakespear</persRef>.— Walk’d in
+							the Mall, with <persRef ref="adams-george">George</persRef>— The dog
+							days commence this day, and the weather is conformable.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-27">
+					<head>27 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-27"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>Bathed at 5 this morning— And walk’d afterwards—
+								<persRef ref="u">M<hi rend="superscript">r:</hi> King</persRef>
+							called on me this forenoon. Read in <persRef ref="winterbotham-william"
+								>Winterbotham</persRef>; and this afternoon in <persRef
+								ref="montaigne-michel">Montaigne’s</persRef> 7<hi rend="superscript"
+								>th:</hi> volume— His Essays are divided into Books and Chapters;
+							one knows not why— For there is no connection between his subjects; and
+							often very little between the title of a Chapter and its Contents. For
+							instance I read this afternoon the Chapter on the resemblance of
+							children to their parents—which is in fact a violent philippic against
+							physicians. a concentration of every thing that has been or can be said
+							against the profession— I also met this afternoon what I take to be the
+							root of <persRef ref="larochefoucauld-francois2"
+								>Rochefoucault’s</persRef> famous maxim concerning our enjoyment of
+							the misfortunes of our friends— Club this evening at <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi>
+								Smith’s</persRef>. Thin— <persRef ref="u">D<hi rend="superscript"
+									>r:</hi> Prince</persRef> there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-28">
+					<head>28 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date><persRef ref="adams-george">George</persRef> with me
+							last Night— Rained the greatest part of this day. Bathed early this
+							morning, notwithstanding— Read further in <persRef
+								ref="winterbotham-william">Winterbotham</persRef>; and this
+							afternoon in <persRef ref="montaigne-michel">Montaigne</persRef>. Walk’d
+							in the Mall at the commencement of the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-29">
+					<head>29 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>Bathed at about 6 this morning— Went by invitation of
+							the Select-men, on their annual party to Deer Island. Between 8 and 9 in
+							the morning, we embarked, and reached the island at about 11. We went in
+							the Castle barge, over to Point-Shirley, and Saw the salt-works <persRef
+								ref="sturgis-samuel">M<hi rend="superscript">r:</hi>
+								Sturges</persRef> is erecting there— We dined, and returned in
+							manner similar to the former parties of the same kind; excepting that
+							this time we got ashore for about a quarter of an hour; and one of the
+							party lost his hat. We landed on the wharf at eight in the evening— On
+							coming home, I found <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> unwell, with a
+							head-ache. <persRef ref="pinckney-charles">General Pinckney</persRef>
+							and <persRef ref="humphreys-david">Col<hi rend="superscript">l:</hi>
+								Humphreys</persRef>, were of the party; and <persRef ref="u;u"
+									>Mess<hi rend="superscript">rs:</hi> King</persRef> and
+							<persRef ref="u">Roper</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-30">
+					<head>30 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef ref="sigourney-elisha">M<hi rend="superscript"
+									>r:</hi> Sigourney</persRef> called on me this morning— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> rode out, the first time since her confinement— No
+							carriage came in from Quincy— I read in Winterbotham before dinner, but
+							did not find time to write. In the afternoon finish’d the Chapter of
+								<persRef ref="montaigne-michel">Montaigne</persRef>, on certain
+							verses of Virgil, and the 7<hi rend="superscript">th:</hi> volume. The
+							verses of <persRef ref="virgil">Virgil</persRef>, are those in which
+								<persRef ref="venus">Venus</persRef> obtains of <persRef
+								ref="vulcan">Vulcan</persRef> to forge arms for <persRef
+								ref="aeneas">AEneas</persRef>; but it is an excursive dissertation
+							upon the physical connection of the two sexes, and all the author’s own
+							experience on the subject. I bathed this evening, just at Dusk, and
+							walk’d in the Mall, untill near 9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-31">
+					<head>31 July 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07-31"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Heard <persRef ref="ware-henry">M<hi rend="superscript"
+									>r:</hi> Ware</persRef> of Hingham— Walk with <persRef
+								ref="frye-carolina">Caroline</persRef> in the Mall this Evening.
+							Weather warm to excess.— Read the 69<hi rend="superscript">th:</hi>
+							Sermon of <persRef ref="tillotson-john">Tillotson</persRef>— The
+							presence of the Messias the glory of the Second Temple—and the 70<hi
+								rend="superscript">th.</hi>— Christ the only mediator between God
+							and Man.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-07-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day.</hi></date> Rise between 5 and 6. Bathe and
+							walk about two hours— Read or amuse myself with <persRef
+								ref="adams-george">George</persRef> untill 9. Breakfast— At Market—
+							Read or write untill 2. p.m. Dine— Read again untill Sunset— Walk an
+							hour. Lounge away the time untill 10.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

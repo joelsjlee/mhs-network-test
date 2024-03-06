@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v29-1815-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="313"
+				mhs:precedingFile="JQADiaries-v29-1815-08-p301.xml"
+				mhs:followingFile="JQADiaries-v29-1815-10-p324.xml" mhs:volume="29">
+				<bibl n="metadata"><date from="1815-09-01" to="1815-09-30"/></bibl>
+
+				<!--D/JQA/29.1579-->
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-01">
+					<head>1 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">September 1815.</hi></dateline>
+						<p><date>1. V:30. </date>I wrote a short Letter this Morning to <persRef
+								ref="maury-james">M<hi rend="superscript">r</hi> Maury</persRef>,
+							and brought up my Journal to this day. But I wasted much of my time in
+							arranging papers, and was interrupted while correcting <persRef
+								key="adams-george">George’s</persRef> translation from <persRef
+								ref="cicero-marcus">Cicero</persRef>, which we did not afterwards
+							resume— <persRef ref="amory-nathaniel2">M<hi rend="superscript">r</hi>
+									Nath<hi rend="superscript">l:</hi> Amory</persRef> and <persRef
+								ref="amory-prudence2">his wife</persRef> paid us a morning visit— I
+							took a walk of half an hour with George, <pb n="314" type="ms"/>and we
+							all dined at <persRef ref="nicholas-george2">D<hi rend="superscript"
+									>r:</hi> Nicholas’s</persRef>— The company at dinner consisted
+							of the D<hi rend="superscript">rs.</hi> <persRef ref="nicholas-caroline">eldest daughter</persRef> and <persRef
+								ref="nicholas-george3;nicholas-francis">two eldest Sons</persRef>,
+							and several Ladies and Gentlemen of the neighbourhood— <persRef ref="u"
+									>M<hi rend="superscript">rs:</hi> Wims</persRef>, the wife of a
+								<persRef ref="u">General</persRef> of that name, with a <persRef
+								ref="u">Miss Blair</persRef>— <persRef
+								ref="copland-alexander;copland-lucy">M<hi rend="superscript">r:</hi>
+								and M<hi rend="superscript">rs</hi> Copland</persRef>, <persRef
+								ref="morrison-alexander;morrison-jane">M<hi rend="superscript"
+									>r</hi> and M<hi rend="superscript">rs</hi> Morrison</persRef>,
+							and <persRef ref="u;u">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> Gray</persRef>, and a <persRef
+								ref="vonharten-gerhard">M<hi rend="superscript">r</hi> Von
+								Harten</persRef> a German— This Gentleman asked me, if I recollected
+							having in the year 1809 met at sea, off the Orkney Islands a vessel
+							called the Edward of New-York, then bound to the Elk. I had a distinct
+							recollection of it— He said he was on board of that vessel— It is
+							mentioned in my Journal of 13. September 1809. He has since been to
+							America, and is married to an <persRef ref="u">American Lady</persRef>;
+							a native of Fairfield in Connecticut. He has resided in this vicinity
+							these two years— Our entertainment was the most elegant and sumptuous,
+							of any that I have been at in England— After dinner the Ladies retired,
+							and the Gentlemen sat upwards of an hour longer— On returning to the
+							Parlour we found there D<hi rend="superscript">r</hi> Nicholas’s three
+							younger daughters— There were cards, and one whist party was made. M<hi
+								rend="superscript">rs</hi> Copland and the eldest Miss Nicholas
+							played upon the Piano, and the Harp, and sung very well. Doctor
+							Nicholas’s two Sons had been shooting Partridges, from four O’Clock this
+							Morning— The Season for shooting commences this day. M<hi
+								rend="superscript">r</hi> Copland told me that he was going on a
+							shooting party down in to Norfolk— It was between 11 and 12 O’Clock when
+							we came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-02">
+					<head>2 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. VI:15. </date>I received this morning a note from <persRef
+								ref="grubb-james">M<hi rend="superscript">r</hi> Grubb</persRef>,
+							saying that he had received from a Portuguese Gentleman, just arrived
+							from the Brazils, a large packet of letters, too bulky to be sent by the
+							Post-Office— There was a card also from the bearer, the <persRef
+								ref="desodre-louis">Chevalier de Sodré</persRef>, with a note from
+								<persRef ref="sumter-thomas">M<hi rend="superscript">r</hi>
+								Sumter</persRef> to him, recommending the despatch to his care with
+							extraordinary precautions— And he is to go to morrow morning for Paris—
+							I concluded therefore to go in to London, and after calling at several
+							Coachmakers to look for a Carriage without suiting my self, I paid
+							visits to <persRef ref="amory-nathaniel2;amory-prudence2">M<hi
+									rend="superscript">r</hi> &amp; M<hi rend="superscript">rs</hi>
+								Amory</persRef>, who were not at home, to <persRef
+								ref="delreal-jose">M<hi rend="superscript">r</hi> Del
+							Real</persRef>, and to the Chevalier de Sodre whom I found. He told me
+							that he had been the <persRef ref="wellington-arthur">Duke of
+								Wellington’s</persRef> Portuguese Secretary during all the war in
+							the Peninsula, and had been to Brezil to solicit the appointment of
+							Minister to Holland; but that <persRef ref="araujo-antonio">M<hi
+									rend="superscript">r</hi> d’Araujo</persRef> had contrived to
+							place there, one of his own Protegés, <persRef ref="brito-jose">M<hi
+									rend="superscript">r</hi> Brito</persRef>. He spoke with great
+							freedom and of the Court there, which he said was in a state of Siege
+							between the Lisbonians and the Brazilians.— He spoke like a disapointed
+							and discontented man, and told me that he intended to return here in
+							about a month from Paris. I went to my Office, and found there the
+							packet from M<hi rend="superscript">r</hi> Sumter— It enclosed a Letter
+							from him to me, several other papers, and a packet for the <persRef
+								ref="delachastre-claude">Comte de la Châtre</persRef>, the French
+							Ambassador, with particular directions to have it delivered to him. I
+							took it myself to his house; but he was at his Country Seat, at
+							Battersea. I left it with his private Secretary, with the injunction to
+							have it delivered to him as soon as possible— I returned home to dinner.
+								<persRef ref="bollmann-justus">D<hi rend="superscript">r</hi>
+								Bollmann</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r</hi> M’Murtrie</persRef> dined with us— Only two persons out
+							of thirteen whom we had invited. <persRef key="adams-john2"
+								>John</persRef> and <persRef key="adams-charles2">Charles</persRef>
+							were also at home to dinner; but returned to School, at eight in the
+							Evening. <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> has been for some days unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-03">
+					<head>3 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. VI:15. </date>This morning I finished reading with <persRef
+								key="adams-george">George</persRef> the Old Testament in the French
+							Bible— Went to Church and heard <persRef ref="nicholas-george2">D<hi
+									rend="superscript">r</hi> Nicholas</persRef>. He read as well as
+								<persRef ref="carr-colston">M<hi rend="superscript">r</hi>
+								Carr</persRef>— His text was from VI. Matthew 33. [“]But seek ye
+							first the kingdom of God, and his righteousness; and all these things
+							shall be added unto you”— The Sermon was good, and well written; but the
+							delivery inanimate. It was communion day; but I did not stay to the part
+							of the Service that followed the Sermon— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> rode to Long Ditton near Kingston, to deliver a
+							Letter to <persRef ref="u">Miss Porter</persRef>, from her brother,
+								<persRef ref="porter-robert">Sir Robert</persRef>— <persRef
+								ref="vonharten-gerhard">M<hi rend="superscript">r</hi> Von
+								Harten</persRef> paid me a visit— He lives at Drayton Green. He has
+							a Plantation and a Partner, at the Havanna— After dinner we took an
+							hours walk, but the days have become so short that we must henceforth
+							give up that practice. I lost much of the day; but wrote principally in
+							the Evening, upon Subjects which weigh heavily upon my mind.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-04">
+					<head>4 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. VI— </date>Employed the day in writing to <persRef
+								key="adams-thomas">my brother</persRef>, and in copying Papers to be
+							sent by <persRef ref="u">M<hi rend="superscript">r</hi>
+								M’Murtrie</persRef>: I intended to have enclosed the papers to my
+							brother, but after finishing my Letter, I concluded to take the papers
+							to M<hi rend="superscript">r</hi> M’Murtrie, and request him to make the
+							transfer upon his arrival at Philadelphia. <persRef key="adams-george"
+								>George</persRef> rode out this morning and afterwards walked with
+							me to Kew, over the Bridge. On our return within three minutes of home
+							we were overtaken by a heavy shower, and were wet through. I wrote again
+							the whole Evening— A Letter to <persRef ref="castlereagh-robert">Lord
+								Castlereagh</persRef>, and part of one to the <persRef
+								key="monroe-james">Secretary of State</persRef>— Began the reading
+							with George of the French New Testament, comparing it with the Greek
+							Testament.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-05">
+					<head>5 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. VI:15. </date>Finished my Letter to the <persRef
+								key="monroe-james">Secretary of State</persRef>; and went into
+							London— First to the Coachmaker’s <persRef ref="messer-j"
+								>Messer</persRef> and <persRef ref="page-r">Page</persRef>. The
+							Carriage was not there which I was to have seen, but they said it would
+							be there next Friday.— Thence I went to the glass shop, and next to
+								<persRef ref="key-sarah">Key</persRef> and <persRef
+								ref="jameson-john">Jameson’s</persRef>, with whom I settled for the
+							Curricle— I then went to the New Hummums, Covent-Garden to see <persRef
+								ref="u">M<hi rend="superscript">r</hi> M’Murtrie</persRef>; but he
+							was not at his lodgings— I went to Charles Street— Had a Copy made by
+								<persRef ref="grubb-james">M<hi rend="superscript">r</hi>
+								Grubb</persRef> of the Letter to <persRef ref="castlereagh-robert"
+								>Lord Castlereagh</persRef> to send to the Secretary of State— Then
+							made up the Packets for him and took them again to M<hi
+								rend="superscript">r</hi> M’Murtrie’s lodgings— They had told me he
+							would probably be there at 5 O’Clock— But he had not come in— I went
+							back again to Charles Street, gave the packets to M<hi
+								rend="superscript">r</hi> Grubb, requesting him to call and <pb
+								n="315" type="ms"/>and give them to M<hi rend="superscript">r</hi>
+							M’Murtrie early to-morrow Morning. And to request him to take the
+							Certificate of Stock, and the Letter of Attorney, and to make the
+							transfer, on his arrival at Philadelphia— On returning home I stopped a
+							third time, at the New Hummums; but M<hi rend="superscript">r</hi>
+							M’Murtrie was still not there— While I was at Charles Street, two
+							persons came for Passports— A <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Smith</persRef>, to go to France, and a <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Jones</persRef> to go to
+							Liverpool, and the United States— <persRef ref="carroll-martin">M<hi
+									rend="superscript">r</hi> Carroll</persRef> the man to whom I
+							have twice lent money to enable him to return to America came to ask a
+							third loan, stating that he had again lost his passage— I told him that
+							although this third application must appear suspicious from a man who
+							was a total Stranger to me, I would yet lend him ten pounds more, if he
+							would bring me a certificate from the Captain of the Vessel in which he
+							now said he was going, that he had engaged his passage— A Sailor came
+							also, with a list of the names of twenty others, to ask for the means of
+							returning to America, and to complain of <persRef ref="beasley-reuben"
+									>M<hi rend="superscript">r</hi> Beasley</persRef>, to whom
+							however I was obliged to refer them back— It was seven O’Clock in the
+							Evening when I got home to dinner.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-06">
+					<head>6 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. VI:15. </date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and <persRef
+								key="adams-george">George</persRef> went into London this Morning,
+							to look at some Carriages, and after their return George walked with me
+							to Brentford, and on the Windsor road— I wrote a Letter to <persRef
+								ref="sumter-thomas">M<hi rend="superscript">r</hi> Sumter</persRef>
+							at Rio Janeiro, in answer to all those received from him within the last
+							year— I received a letter from <persRef ref="grubb-james">M<hi
+									rend="superscript">r</hi> Grubb</persRef>— <persRef ref="u">M<hi
+									rend="superscript">r</hi> M’Murtrie</persRef> has my despatches,
+							the Certificate of Stock and the Letter of Attorney; and has agreed to
+							make the Transfer— He goes in the Mail to-morrow Evening for Liverpool—
+							Also a Letter from <persRef ref="murray-james">M<hi rend="superscript"
+									>r</hi> Murray</persRef> at Liverpool requesting a Passport, as
+							bearer of despatches; and one from <persRef ref="smith-j4">M<hi
+									rend="superscript">r</hi> Smith</persRef> the dealer in horses,
+							which I answered. In the Evening I only read a few pages of <persRef
+								ref="morgan-william3">Morgan’s</persRef> Memoirs of the Life of
+								<persRef ref="price-richard">D<hi rend="superscript">r</hi>
+								Price</persRef>— And I have run three days in arrear of this
+							journal.— Evening [symbols]</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-07">
+					<head>7 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. VI:15. </date>After writing this morning a Letter to <persRef
+								ref="jackson-henry">M<hi rend="superscript">r</hi> Jackson</persRef>
+							at Paris, I went into London, and first called upon the <persRef
+								ref="delachastre-claude">Comte de La Chátre</persRef>, the French
+							Ambassador, to enquire whether he had received the packet which <persRef
+								ref="sumter-thomas">M<hi rend="superscript">r</hi> Sumter</persRef>
+							had sent me for him. He said he had and that the enclosures for the
+								<persRef ref="louis-xviii">king’s</persRef> Ministers has already
+							been forwarded to Paris— I told him that the care of it had been very
+							particularly recommended to me, as it came from the <persRef ref="u"
+								>Count de Gestas</persRef>, whose prior despatches I understood had
+							failed of reaching the king’s Ministers— And I had been requested by the
+							American Minister at Rio Janeiro, who had forwarded the packet to say
+							that he had been a witness to the zeal and activity, with which the
+							Count de Gestas had served the king’s interests there. The Count said
+							that this testimonial gave him great pleasure— That it had happened that
+							the Count de Gestas was the only one, of all the diplomatic agents whom
+							the king had employed, before his restoration; who had not after that
+							event, been confirmed, in the same office; but it was only a
+							mal-entendu, which he hoped would be repaired— He said that he himself
+							had been the king’s Minister here, ever since the Ministry of <persRef
+								ref="fox-charles">M<hi rend="superscript">r</hi> Fox</persRef>— He
+							was the most antient member of the Corps Diplomatique here. Though great
+							part of the time without acknowledged public character— I asked him
+							whether he expected <persRef ref="derayneval-maximilien">M<hi
+									rend="superscript">r</hi> de Rayneval</persRef> soon back. He
+							said, perhaps next week— He had expected him sooner, but he would not
+							come until the arrangements are terminated. He said the Elections for
+							the Representative Chamber were generally very good; and he entertained
+							great hopes from their meeting which was to be about the 20<hi
+								rend="superscript">th.</hi> I said there had been some talk of
+							changes in the Ministry— He said he did not think that probable— Perhaps
+								<persRef ref="fouche-joseph">Fouché</persRef> might retire— It was
+								<hi rend="italic">much</hi> (c’est beaucoup) that he was appointed
+							to the place he now holds— After a little further conversation upon
+							indifferent topics, I left the Count, and went to the <persRef
+								ref="freire-cipriano">Chevalier de Freire’s</persRef>, the
+							Portuguese Minister— He was not at home— I left with his Secretary, my
+							Letter to M<hi rend="superscript">r</hi> Sumter with a request that he
+							would forward it— He told me that it would be too late for this Months
+							packet; the despatches to go by it having been made up and sent off to
+							Falmouth, last Night. But my letter would be sent by an occasional
+							merchant vessel, or by the Packet of next Month.— After calling at
+								<persRef ref="key-sarah">Key</persRef> and <persRef
+								ref="jameson-john">Jameson</persRef> the Coachmakers, I paid a visit
+							to <persRef ref="maclure-william">M<hi rend="superscript">r</hi>
+								Maclure</persRef> who was not at home, and to <persRef
+								ref="bollmann-justus">D<hi rend="superscript">r</hi>
+								Bollmann</persRef> whom I found. He is a man of very singular
+							character and Genius— Full of intrigue, of Projects, and of information—
+							Ardent, meditative, a mixture of calculation and Romance, which enters
+							much into the composition of the Germans of the present age—flattering
+							aukwardly. Vain to an incredible excess— A man who might be made in the
+							highest degree useful, but that his flightiness of mind, and equivocal
+							principle <hi rend="strikethrough">did not</hi> render him still more
+							dangerous. I had Conversation with him upon various points which I can
+							scarcely now commit to paper— But the gravity with which he exhorted me
+							to study his writings upon finance in the American Review diverted me
+							much— He appears to have a wish to be appointed American Agent at the
+							Court of Vienna. I went from him to the Office in Charles Street, where
+							I found <persRef ref="grubb-james">M<hi rend="superscript">r</hi>
+								Grubb</persRef>, very unwell— He had been all the morning in bed—
+								<persRef ref="u">M<hi rend="superscript">r</hi> M’Murtrie</persRef>
+							had already been there and taken <pb n="316" type="ms"/>his Passports— I
+							made out the Passport as bearer of despatches, for <persRef
+								ref="murray-james">M<hi rend="superscript">r</hi> Murray</persRef>,
+							and took it with the Packet I had made up for the <persRef
+								key="monroe-james">Secretary of State</persRef>, to the New Hummums—
+								M<hi rend="superscript">r</hi> M’Murtrie was gone— He had left the
+							house in a Hackney Coach the moment before I got there— The waiter
+							shewed me the Coach, which I followed and overtook near Temple-Bar— I
+							gave M<hi rend="superscript">r</hi> M’Murtrie the packet and the Letter—
+							He told me he had the Certificate of Stock, and Letter of Attorney, and
+							would make the transfer. I returned to Charles Street— M<hi
+								rend="superscript">r</hi> Grubb was gone— <persRef
+								ref="loyall-george">M<hi rend="superscript">r</hi> George
+								Loyall</persRef> had left a Letter of Recommendation to me from
+								<persRef ref="newton-thomas">M<hi rend="superscript">r</hi> Thomas
+								Newton</persRef> of Norfolk, and a packet of Despatches from the
+							Secretary of State— Duplicates of those last received— I came home at a
+							quarter past six— In the Evening I opened the Trunk received from M<hi
+								rend="superscript">r</hi> Jackson at Paris, and found the
+							Certificates of Stock all there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-08">
+					<head>8 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-08"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>African Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. V:30. </date>Wrote this morning to <persRef
+								ref="meulemeestermerchants">Mess<hi rend="superscript">rs:</hi>
+								Meulemeester’s and C<hi rend="superscript">o:</hi></persRef> at
+							Ghent, a third letter concerning the trunks that I left there, about the
+							fate of which I begin to be much concerned— Immediately afterwards,
+								<persRef ref="butterfield-valentine">Valentine
+							Butterfield</persRef>, the Sailor who had been the other day at the
+							Office, came with another Seaman, a Black Man— They had a letter, signed
+							by five Masters of American Vessels, at the Port of London, offering to
+							take home as many as they can of the destitute American Seamen; passage
+							free; if they could be suitably found in Provisions, for the passage,—I
+							received also a Letter from one of the same Captains, asking for Bedding
+							and Cloaths for a Man, sent by <persRef ref="beasley-reuben">M<hi
+									rend="superscript">r</hi> Beasley</persRef>, on board his
+							Vessel— I answered both the Letters and also wrote to M<hi
+								rend="superscript">r</hi> Beasley, recommending to him to accept the
+							offer of the Captains, and to endeavour to prevail on the Masters of all
+							the other American vessels in the Port to concur in it. These Letters
+							which I sent by the two Seamen, employed me until breakfast time— And
+							after journalizing for yesterday, I took a ride with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> in the Curricle to Harrow on the Hill—about eight
+							miles— We returned between 5 and 6. O’Clock, and I had barely time to
+							get through the Morning reading with <persRef key="adams-george"
+								>George</persRef> before dinner— After dinner I walked with him to
+							Brentford, and after returning wrote part of a Letter to <persRef
+								ref="hall-joseph">M<hi rend="superscript">r</hi> Hall</persRef>, at
+							Boston—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-09">
+					<head>9 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. V:45. </date>I could not finish my Letter this morning, although
+							it was near two O’Clock, when I left home to go in to London. Having
+							received no Letters, yesterday or this morning from <persRef
+								ref="grubb-james">M<hi rend="superscript">r</hi> Grubb</persRef>, I
+							was apprehensive that his illness had continued, and that he had been
+							unable to attend at the office— I went first to the Coachmaker’s in
+							Margaret Street, <persRef ref="messer-j">Messer</persRef> and <persRef
+								ref="page-r">Page</persRef>, and thence to <persRef ref="key-sarah"
+								>Key</persRef> and <persRef ref="jameson-john">Jameson’s</persRef>
+							Wardour-Street— At each of those places there was a Landau for sale, and
+							I was to fix my choice between them. After seeing them both, I went to
+							the Office in Charles Street, where I found M<hi rend="superscript"
+								>r</hi> Grubb, who has recovered from his complaint— <persRef
+								ref="storer-seth">M<hi rend="superscript">r</hi> Seth
+								Storer</persRef> was with him a brother of <persRef
+								ref="storer-woodbury">M<hi rend="superscript">r</hi> Woodbury
+								Storer</persRef> of Portland, who is to embark next week for Boston.
+							He offered to take Letters or despatches for me and told me a long Story
+							of his own commercial concerns— His claims upon the Government of Naples
+							for <persRef ref="joachim-i">Murat’s</persRef> depredations and his
+							lawsuit with a commercial house here— There were also half a dozen
+							Letters— One from <persRef ref="murray-james">M<hi rend="superscript"
+									>r</hi> Murray</persRef> at Liverpool, brought by a <persRef
+								ref="u">M<hi rend="superscript">r</hi> Aborn</persRef>— One from
+								<persRef ref="smith-j4">Smith</persRef> the Horse-dealer,
+							threatening me with a Sollicitor.— One from <persRef ref="harris-levett"
+									>M<hi rend="superscript">r</hi> Harris</persRef> at S<hi
+								rend="superscript">t</hi> Petersburg, concerning the Privilege to
+								<persRef ref="fulton-robert">M<hi rend="superscript">r</hi>
+								Fulton</persRef>, and two from <persRef ref="everett-alexander">M<hi
+									rend="superscript">r</hi> A. H. Everett</persRef>, one by the
+							Post from the Hague, and the other a Letter of Recommendation, written
+							in June 1813. and brought by a <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Coffin</persRef>— While I was at the Office a Letter was
+							brought in from <persRef ref="morier-john">M<hi rend="superscript"
+									>r</hi> Morier</persRef>, in answer to one of the Subjects upon
+							which I wrote to him last week— Shortly after five I left the Office;
+							called at <persRef ref="silvester-richard">Silvester’s</persRef> in the
+							Strand; where I took my Seal; then at Key and Jameson’s with whom I
+							could not agree for their Landau; and then at Messer and Page’s where I
+							took their’s upon trial until Monday Morning— I came home in it, leaving
+							my Curricle with them— It was half past seven, when I reached home— I
+							found <persRef key="adams-john2">John</persRef> and <persRef
+								key="adams-charles2">Charles</persRef> at home from school— <persRef
+								ref="u">M<hi rend="superscript">r</hi> Barberi</persRef> finishes
+							this day, giving them &amp; <persRef key="adams-george">George</persRef>
+							fencing Lessons.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-10">
+					<head>10 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. VI:30. </date>We all went to Church this morning— The service
+							was performed and the Sermon preached by <persRef ref="u">M<hi
+									rend="superscript">r</hi> Lewis</persRef>— The Sermon, from
+							Psalm XIX.14. “Let the words of my mouth, and the meditation of my
+							heart, be acceptable in the sight, O Lord, my strength, and my
+							redeemer,” was much better than any one that I had heard from the same
+							person before— It was an exposition of the whole of that admirable Psalm
+							from which the text was taken—a very feeble one indeed, but superior to
+							any thing that I should have expected from the Preacher— After Church,
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> and the Children rode to Richmond— I
+							began a Letter to <persRef key="adams-abigail">my Mother</persRef>, and
+							walked with <persRef key="adams-george">George</persRef> an hour before
+							dinner— <persRef ref="beasley-reuben">M<hi rend="superscript">r</hi>
+								Beasley</persRef> came out and dined with us— <persRef
+								key="adams-john2">John</persRef> was taken so unwell while we were
+							at dinner that we could not send him back this Evening to school—
+								<persRef key="adams-charles2">Charles</persRef> was also unwell and
+							kept at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-11">
+					<head>11 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. VI:15. </date><persRef key="adams-john2">John</persRef> and
+								<persRef key="adams-charles2">Charles</persRef> were this day much
+							recovered; but it was concluded not to send them to school until
+							to-morrow morning— The Carpenters came, and began to make the changes in
+							my Cabinet—opening two of the side windows and closing in their stead,
+							two of those at the end— They make it for the time very inconvenient to
+							read or write in my chamber— I finished however my Letter to <persRef
+								key="adams-abigail">my Mother</persRef>— <persRef ref="west-john"
+									>M<hi rend="superscript">r</hi> West</persRef> the mechanic who
+							lodges at <persRef ref="grubb-james">M<hi rend="superscript">r</hi>
+								Grubb’s</persRef> came out to consult with me about his projects for
+							Patents. He has obtained or is applying for four or five here— One for
+							threshing corn—another for pounding rice— A third for a new Carriage <pb
+								n="317" type="ms"/>Spring, and others which he endeavoured to
+							explain to me, without much success. He also wishes to take out a number
+							of useful patent inventions from this Country, to take out Patents for
+							them in the United States—for which purpose he wishes an alteration in
+							the Patent Law, of the United States— He says there is a late Act of
+							Parliament here, by virtue of which foreigners can take out Patents. I
+							asked him to procure a copy of that Act of Parliament and of any other
+							useful information upon the subject; and promised to write concerning it
+							to America— I walked with <persRef key="adams-george">George</persRef>
+							an hour and a half before dinner; and wrote again in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-12">
+					<head>12 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>African Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. VI:30. </date>A short despatch to the <persRef
+								key="monroe-james">Secretary of State</persRef>— <persRef
+								key="adams-john2">John</persRef> and <persRef key="adams-charles2"
+								>Charles</persRef> returned to school, and I went into London with
+								<persRef key="adams-george">George</persRef>. We had not been more
+							than five minutes on the road, when we met <persRef
+								ref="saunders-prince">M<hi rend="superscript">r</hi>
+								Sanders</persRef> the black man, with <persRef ref="u">M<hi
+									rend="superscript">r</hi> Bryden</persRef>, a young Gentleman
+							whom he had brought out as an acquaintance for George— Sanders said he
+							expected to go for France on Thursday, and wished me to be useful to
+							him— He was desirous of having some conversation with me— I asked him
+							and M<hi rend="superscript">r</hi> Bryden, to stay and dine with us, and
+							promised to be at home at six O’Clock— We went to the Office in Charles
+							Street, where I found with <persRef ref="grubb-james">M<hi
+									rend="superscript">r</hi> Grubb</persRef>, a M<hi
+								rend="superscript">r</hi><space/>an American, waiting for a
+							Passport. There were afterwards three or four others who also applied
+							for, and obtained Passports— The Clerk of <persRef ref="smith-j4"
+								>Smith</persRef> the Horse dealer came again to demand payment of
+							his account— I answered him in anger—complained of imposition—asked him
+							if he knew the situation I stood in here, when he threatened me with a
+							solicitor, and perceiving that in his talk, he was endeavouring to
+							entrap me into some concession of which he might take advantage I told
+							him I saw his drift, and should abide only by what I had written— I
+							would pay him no more— In all this, I spoke unadvisedly with my lips,
+							because, although I deliberately think it a scandalous attempt to impose
+							upon me, yet it is unworthy of me for such a trifle to suffer myself to
+							be put out of temper— <persRef ref="carroll-martin">M<hi
+									rend="superscript">r</hi> Carroll</persRef> came with a
+							Certificate from <persRef ref="knight-joshua">Captain Joshua
+								Knight</persRef>, Master of the Ship John and Adam, that he should
+							have a passage to New-York in that vessel, and I lent him ten pounds
+							more upon his Bill on <persRef ref="orrok-alexander">Alexander
+								Orrok</persRef>. I gave him also the despatches for the Secretary of
+							State, and the packets for Boston, to be delivered to <persRef
+								ref="storer-seth">M<hi rend="superscript">r</hi> Storer</persRef> at
+							the New-England Coffee-House. <persRef ref="loyall-george">M<hi
+									rend="superscript">r</hi> Loyall</persRef> came, and brought me
+							a few American Newspapers, and <persRef ref="rawle-william2">M<hi
+									rend="superscript">r</hi> Rawle</persRef> for a Passport to go
+							to France. I wrote a Note to <persRef ref="bathurst-henry">Lord
+								Bathurst</persRef> requesting an interview with him— He was at
+							Putney and will have my note to-morrow. A <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Smith</persRef> an Englishman came to
+							ask me some questions about an Estate to which he supposes himself to be
+							entitled, in Florida. I was so much engaged that he determined to call
+							again. A French Lady, who called herself Fleury, came to enquire after
+								<persRef ref="gallatin-albert">M<hi rend="superscript">r</hi>
+								Gallatin</persRef> and <persRef ref="storrow-thomas">M<hi
+									rend="superscript">r</hi> Storrow</persRef>, whom she said she
+							and her mother had known at Ghent; and M<hi rend="superscript">r</hi>
+							Gallatin at <persRef ref="dolorukay-elena">Princess
+								Dolgorouki’s</persRef> at S<hi rend="superscript">t</hi> Petersburg—
+							They wished to write to those Gentlemen, and they wished also to go to
+							America— I thought but was not sure that it was <persRef
+								ref="madamejulien">Madame Julien</persRef> the actress— I had
+							ordered the Carriage at four O’Clock, and until past that hour the
+							Office was not a moment without company.— We hastened home, and found
+							that M<hi rend="superscript">r</hi> Sanders and M<hi rend="superscript"
+								>r</hi> Bryden had concluded, not to dine with us this day, but to
+							come again on Thursday.— Instead of writing in the Evening, I read over
+							for the second time the Exposition of the causes, and character of the
+							War, which <persRef ref="cobbett-william">Cobbett</persRef> has
+							contrived to get into extensive circulation here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-13">
+					<head>13 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-13"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>War of 1812</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. VI:45. </date>Sent the Coachman into London this Morning for
+							the Curricle, and to call at the Office for any Letters that might be
+							there for me— There were none— The Carpenters are still at work in my
+							Cabinet, and interrupt me in my occupations— I only wrote Two or three
+							short Letters— Went with <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and paid visits to
+								<persRef ref="clitherow-james;clitherow-jane;clitherow-mary">Col<hi
+									rend="superscript">l.</hi> and M<hi rend="superscript">rs.</hi>
+								and Miss Clitherow</persRef>. They were gone to London, and we left
+							Cards— Walk with <persRef key="adams-george">George</persRef> before
+							dinner to the Brentford Fair— And after dinner again with M<hi
+								rend="superscript">rs</hi> Adams and George— We saw one of the
+							Shows, a double jointed ox, between two and three feet high, a sheep
+							with five legs, an Armadillo, a Jackall and a Baboon.— We also stopp’d
+							and saw several people looking through a magic lanthorn, the Showman of
+							which announced that it was a view of the burning of the City of
+							Washington; by <persRef ref="ross-robert">General Ross</persRef>— He
+							said there was not a house in that City but what was in flames. And his
+							next Show was the Battle of Waterloo, where he said the British army had
+							lost thirteen thousand men, killed and wounded— While we were listening
+							to him in the crowd, I felt a hand making a plunge at my Coat pocket,
+							and was in time to prevent its getting in— This was another kind of
+							British hostility from which it was expedient to remove, and we returned
+							home— The Fair is confined within the limits of the market square, and
+							is frequented only by children and the rabble. It continues three days—
+							After returning home I played Back-gammon with George about half an
+							hour.— The warmth of the weather, and the uncomfortable situation of my
+							chamber prevented me from writing. It was I think the warmest day there
+							has been this Summer— The Season has been uncommonly dry, and the last
+							ten days there has been no rain. [symbols]</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-14">
+					<head>14 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-14"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>Treaty of Paris (1783)</subject>
+						<subject>Treaty of Ghent</subject>
+						<subject>Native Americans</subject>
+						<subject>War of 1812</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="318" type="ms"/>
+						<p><date>14. VI— </date>This morning was occupied in reading over the
+							Letters which I have received from <persRef key="adams-john">my
+								father</persRef> and the enclosures in them. The Carpenters finished
+							their work in my Cabinet, where they have been nearly a week employed in
+							opening two side windows, and closing two at the end. <persRef
+								ref="saunders-prince">M<hi rend="superscript">r</hi>
+								Sanders</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Bryden</persRef> came out before I left home— A young
+							Frenchman named <persRef ref="u">Sabatier</persRef> also came to ask me
+							for Letters of Recommendation to America— He is a carver and engraver,
+							and wishes to go and settle in that Country. I went into London, and as
+							I had anticipated found a Note from <persRef ref="bathurst-henry">Lord
+								Bathurst</persRef>, appointing two O’Clock this day to see me at
+							Downing-Street— It was then just two, and I went immediately to his
+							Office, and had an interview with him of about an hour— I said that
+							having lately received despatches from the American <persRef
+								key="monroe-james">Secretary of State</persRef> respecting several
+							objects of some importance to the relations between the two Countries,
+							my first object in asking to see him had been to enquire whether he had
+							received from <persRef ref="baker-anthony">M<hi rend="superscript"
+									>r</hi> Baker</persRef> a Communication of the Correspondence
+							between M<hi rend="superscript">r</hi> Monroe and him, relative to the
+							surrender of Michillimakinac, to the proceedings of <persRef
+								ref="nicholls-edward">Col<hi rend="superscript">l:</hi>
+								Nicolls</persRef> in the Southern part of the United States; and to
+							the warning given by the Captain of a British armed vessel, to certain
+							American fishing vessels to withdraw from the fishing grounds to the
+							distance of twenty leagues from the Coast— He said that he had received
+							all these papers from M<hi rend="superscript">r</hi> Baker about four
+							days ago, that an answer with regard to the warning of the fishing
+							vessels had immediately been sent; but on the other subjects there had
+							not been time to examine the papers and prepare the answers— I asked him
+							if he could without inconvenience state the substance of the answer that
+							had been sent— He said, certainly— It had been that as on the one hand
+							Great-Britain could not permit the vessels of the United States to fish
+							within the Creeks, and close upon the shores of the British territories,
+							so on the other hand it was by no means her intention to interrupt them
+							in fishing any where in the open sea, or without the territorial
+							jurisdiction—a marine league from the shore— And therefore that the
+							warning given in the place stated in the case referred to was
+							unauthorised. I said that the particular act being disavowed, I trusted
+							the British Government before adopting any final determination upon the
+							Subject, would estimate in candour and in the Spirit of amity which my
+							own Government was anxious to have prevailing in our relations with this
+							Country, the Considerations which I was instructed to present in support
+							of the right of the People of the United States to fish on the whole
+							Coast of North-America, which they have uniformly enjoyed from the first
+							settlement of the Country. That I should in the course of a few days
+							address a Letter to him on the Subject. He said that they would give due
+							attention to the Letter that I should send him, but that Great-Britain
+							had explicitly manifested her intention upon the Subject— That there was
+							a great deal of feeling on it in this Country, as I doubtless knew, and
+							their own fishermen considered it as an excessive hardship to be
+							supplanted by American fishermen even upon the very shores of the
+							British dominions— I said that those whose sensibilities had been thus
+							excited, had probably not considered the question of right, in the point
+							of view in which it had been regarded by us. That the question of right
+							had not been discussed at the negotiation of Ghent— That the British
+							Plenipotentiaries had given a notice that the British Government would
+							not hereafter allow the People of the United States to fish and cure and
+							dry fish within the exclusive British territorial Jurisdiction in
+							America, without an equivalent. That the American Plenipotentiaries had
+							given notice in return, that the American Government considered all the
+							rights to the fisheries on the whole Coast of North America, as
+							sufficiently secured by their enjoyment of them from the settlement of
+							the Country by them, and by the recognition of it in the Treaty of Peace
+							of 1783. That they did not think any new stipulation necessary for a
+							further confirmation of the right— No part of which did they consider as
+							having been forfeited by the War— It was perfectly obvious that the
+							Treaty of Peace of 1783 was not one of those ordinary Treaties which by
+							the usages of Nations were considered as annulled by a subsequent war
+							between the same parties. It was a Treaty of partition between two parts
+							of one Nation agreeing thenceforth to be separated into two distinct
+							Sovereignties— The Conditions upon which this was done constituted
+							essentially the Independence of the United States, and the preservation
+							of all the fishing rights which they had always enjoyed, over the whole
+							Coast of North America, was among the most important of them— This was
+							no concession no grant on the part of Great-Britain which could be
+							annulled by a War— There had been in the same Treaty of 1783. a right
+							recognized in British subjects to navigate the Mississippi— This right
+							the <persRef ref="goulburn-henry;adams-william;robinson-frederick"
+								>British Plenipotentiaries</persRef> at Ghent had considered a just
+							claim of Great-Britain, notwithstanding the war that had intervened— The
+								<persRef
+								ref="clay-henry;gallatin-albert;bayard-james;russell-jonathan"
+								>American Plenipotentiaries</persRef>, to remove all future
+							discussion upon both points had offered to agree to an article expressly
+							confirming both the rights— In declining this an Offer had been made on
+							the part of Great-Britain, stipulating to negotiate in future for the
+							renewal of both rights, <hi rend="italic">for an equivalent</hi>. This
+							was declined by the American Plenipotentiaries because its only effect
+							would have been an implied admission, that both the rights were
+							annulled— There was therefore no Article concerning them in the Treaty,
+							and the question as to the right was not discussed. I now stated the
+							ground upon which the Government of the United States considered the
+							right as subsisting and unimpaired— It would be for the British
+							Government ultimately to determine how far this reasoning was to be
+							admitted as correct. <pb n="319" type="ms"/>There were also
+							considerations of policy and expediency to which I hoped the British
+							Government would give suitable attention before they came to a final
+							decision upon this point— I thought it my duty to suggest them; that
+							they might not be overlooked— The subject was viewed by my Countrymen as
+							highly important, and I was profoundly anxious to omit nothing which
+							might possibly have an influence to promote friendly sentiments between
+							the two Nations, or to guard against the excitement of others.— These
+							fisheries afforded the means of subsistence to multitudes of people, who
+							were destitute of any other— They also afforded the means of remittance
+							to G. Britain, in payment for articles of her manufacture exported to
+							America— It was well understood to be the policy of Great-Britain that
+							no unnecessary encouragement or stimulus should be given to manufactures
+							in the United States, which would diminish the importations from those
+							of Great-Britain— But by depriving the fishermen of the United States of
+							this source of subsistence, the result must be to throw them back upon
+							the Country, and drive them to the resort of manufacturing for
+							themselves—while on the other hand, it would cut off the means of making
+							remittances in payment for the manufactures of Great-Britain— I might
+							add that the people in America whose interests would be immediately and
+							severely affected by this exclusion, were in the part of the Country
+							which had always manifested of late years most friendly dispositions
+							towards Great-Britain— This might perhaps be less proper for me to
+							suggest than for a British Cabinet to consider— To me the interests of
+							all my Countrymen, in every part of the United States was the same. I
+							could know no distinction between them. But upon a point where I was
+							contending for what we conceived a strict right, I thought it best to
+							urge every consideration which might influence the other party to avoid
+							a collision upon it— I would even urge considerations of humanity— I
+							would say that fisheries, the nature of which was to multiply the means
+							of subsistence to mankind, were usually considered by civilized Nations
+							as under a sort of special Sanction— It was a common practice to leave
+							them uninterrupted even in time of war— He knew for instance that the
+							Dutch had been for centuries in the practice of fishing upon the Coasts
+							of this Island, and that they were not interrupted in this occupation
+							even in ordinary times of war— It was to be inferred from this that to
+							interrupt a fishery which had been enjoyed for ages was itself an
+							indication of more than ordinary animosity— He said that no such
+							disposition was entertained by the British Government— That to shew the
+							liberality which they had determined to exercise in this case he would
+							assure me that the Instructions which he had given to the Officers on
+							that Station had been, not even to interrupt the American fishermen, who
+							might have proceeded to those Coasts within the British Jurisdiction,
+							for the present year—to allow them to complete their fares, but to give
+							them notice, that this privilege could be no longer allowed by
+							Great-Britain, and that they must not return the next year— It was not
+							so much the fishing, as the drying and curing on the shores that had
+							been followed with bad consequences— It happened that our fishermen by
+							their proximity, could get to the fishing Stations sooner in the Season
+							than the British, who were obliged to go from Europe, and who upon
+							arriving there found all the fishing places, and drying and curing
+							places preoccupied— This had often given rise to disputes and quarrels
+							between them, which in some instances had proceeded even to blows— It
+							had even disturbed the Peace among the inhabitants on the shores; and
+							for several years before the war, the complaints to this Government had
+							been so great and so frequent that it had been impossible not to pay
+							regard to them— I said that I had not heard of any such complaints
+							before—but that as to the disputes arising from the competition of the
+							fishermen, they could surely be easily made a subject of regulation, by
+							the Government, and as to the Peace of the Inhabitants there could be no
+							difficulty in securing that; as the liberty enjoyed by the American
+							fishermen, was in all settled and inhabited places, expressly subjected
+							to the consent of the inhabitants, and by agreement with them— I then
+							adverted to the other topics—Michillimakinac—Bois Blan—and Col<hi
+								rend="superscript">l.</hi> Nicolls— I asked him if he had any
+							account of the delivery of the Post— He said he had no doubt whatever;
+							but that it had been long since delivered up— But he had no late
+							despatches from the Canadian Government— Some delay had occurred by the
+							change of the Governor General; but <persRef ref="prevost-george">Sir
+								George Prevost’s</persRef> leaving Quebec to come to Europe, and
+							consequently by <persRef ref="drummond-gordon">General
+								Drummond’s</persRef> coming from upper Canada to Quebec— As to the
+							indisposition manifested by the Indians to accept the Peace offered by
+							the United States, he regretted it very much— It had been the sincere
+							wish and intention of the British Government that the Peace with the
+							Indians should immediately follow that agreed to by this Country, the
+							British Officers there had been formally instructed to make known to
+							them the Peace which had been concluded, and to advise them to take the
+							benefit of it— As to Col<hi rend="superscript">l:</hi> Nicolls I said
+							that the American Government had been peculiarly concerned at the
+							proceedings of that Officer, because they appeared marked with
+							unequivocal characters of hostility— Why, said Lord Bathurst to tell you
+							the truth, Col<hi rend="superscript">l:</hi> Nicolls, is I believe a man
+							of activity and Spirit, but a very wild fellow— He did make and send
+							over to me a Treaty Offensive and defensive with the Indians, and he is
+							now come over here and has brought over some of those Indians <pb
+								n="320" type="ms"/>I sent for answer that he had no authority
+							whatever to make a Treaty offensive and defensive with the Indians, and
+							that this Government would make no such Treaty. I have sent him word
+							that I could not see him upon any such project— The Indians are here in
+							great distress indeed; but we shall only furnish them with the means of
+							returning home, and advise them, to make their terms with the United
+							States as well as they can— Perceiving that I had noticed his
+							declaration that he had declined seeing Col<hi rend="superscript"
+								>l.</hi> Nicolls, he said that perhaps he should see him upon the
+							general subject of his transactions but that he had declined seeing him
+							in regard to his Treaty with the Indians— I then observed that M<hi
+								rend="superscript">r</hi> Monroe had also sent me his Letter to M<hi
+								rend="superscript">r</hi> Baker concerning the Island of Bois Blanc.
+							He said, it seemed merely a question of fact; whether the Island had
+							been in the possession of the British at the Commencement of the late
+							War, or not— He did not know how that was, but he thought it could not
+							be difficult to ascertain; and it was altogether of very little
+							importance. I then asked him if he could inform me, when <persRef
+								ref="bagot-charles">M<hi rend="superscript">r</hi> Bagot</persRef>
+							would probably embark for the United States— He laughed and said he
+							believed he must refer me to the man midwife— They had expected <persRef
+								ref="bagot-mary">M<hi rend="superscript">rs</hi> Bagot</persRef>
+							would be confined about this time, and to be ready to go early in
+							October— I said that I had asked the question now, because by a late
+							Letter from M<hi rend="superscript">r</hi> Baker to the American
+							Secretary of State, it appeared that his powers in relation to the
+							execution of the Treaty of Peace were less extensive than the Government
+							of the United States had understood they were; which circumstance had
+							made me more solicitous for the departure of M<hi rend="superscript"
+								>r</hi> Bagot— He said there would be no delay that could possibly
+							be avoided.— After this conference I went to the engraver <persRef
+								ref="silvester-richard">Silvester’s</persRef> in the Strand.— Left
+							the Seal, for an alteration.— As I was returning to Charles Street, I
+							met the Sardinian Minister, <persRef ref="u">Count S<hi
+									rend="superscript">t:</hi> Martin d’Aglie</persRef>, in the
+							Street— He says that the Treaty of Peace with France is signed— That
+							France will retain her boundaries of 1789. without dismemberment only
+							restoring to <persRef ref="victoremmanuel">his king</persRef>, what had
+							been taken from him by the Treaty of Paris of May 1814— He says that
+							there is a political fanaticism prevailing in Germany of which an
+							association calling themselves friends of virtue has been the
+							consequence— They were the great declaimers for the dismemberment of
+							France; but it was not sufficient to desire a thing; it must also be
+							considered what was practicable— I left Charles Street, about half past
+							four, and reached home at six. M<hi rend="superscript">r</hi> Sanders
+							and M<hi rend="superscript">r</hi> Bryden dined with us; and our Sons
+								<persRef key="adams-john2">John</persRef> and <persRef
+								key="adams-charles2">Charles</persRef> were at home for a half
+							holiday from school— They returned in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-15">
+					<head>15 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. VI:15. </date>I had the Carpenters again at work in my writing
+							room, great part of the morning.— We all went and dined with <persRef
+								ref="vaughan-william">M<hi rend="superscript">r</hi> William
+								Vaughan</persRef> and <persRef
+								ref="vaughan-sarah;vaughan-barbara;vaughan-rebecca">his
+								Sisters</persRef>,—one of whom however was unwell and did not
+							appear— The company were <persRef ref="carew-benjamin">Admiral Sir
+								Benjamin Hallowell</persRef> and <persRef ref="carew-ann">his
+								Lady</persRef>, <persRef ref="dickason-thomas2;u">M<hi
+									rend="superscript">r</hi> &amp; M<hi rend="superscript">rs</hi>
+								Dickason</persRef>, <persRef ref="amory-nathaniel2;amory-prudence2"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+									>rs</hi> Amory</persRef>, and <persRef ref="u">M<hi
+									rend="superscript">r</hi> Coffin</persRef>, and M<hi
+								rend="superscript">r</hi> Vaughan’s nephew <persRef
+								ref="vaughan-petty">Petty</persRef>— Admiral Hallowell resides at
+							Ealing, in our neighbourhood— He is a brother of <persRef
+								ref="boylston-ward">M<hi rend="superscript">r</hi> Ward
+								Boylston’s</persRef>. He appears to be dissatisfied with the
+							reduction of the Navy, though he is himself retained in service upon the
+							Peace Establishment, and is to command upon the
+								<unclear>Station</unclear> at Cork— He expects to go in eight or ten
+							days. M<hi rend="superscript">r</hi> Dickason gave me a copy of a Letter
+							to <persRef ref="erving-george">M<hi rend="superscript">r</hi>
+								Erving</persRef>, requesting him to put in a claim upon the Spanish
+							Government for an American Vessel taken by an English Cruizer, within
+							the Spanish Jurisdiction, and carried to Gibraltar. M<hi
+								rend="superscript">r</hi> Dickason desired me to make application
+							upon the Subject to the <persRef ref="delosrios-carlos">Spanish
+								Ambassador</persRef> here, and promised to furnish me the Papers— We
+							came home in the Evening about 11. O’Clock.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-16">
+					<head>16 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. VI:30. </date>This morning I received a notification that the
+							Trunks which I have been so long expecting from Ostend had arrived; in
+							consequence of which I went with <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs</hi> Adams</persRef> into London— We
+							paid a visit to <persRef ref="amory-nathaniel2;amory-prudence2">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Amory</persRef>, but did not find them at home. We stopp’d at
+								<persRef ref="copley-susanna">M<hi rend="superscript">rs</hi>
+								Copley’s</persRef> door, but concluded it was too soon to pay her a
+							visit— <persRef ref="copley-john">M<hi rend="superscript">r</hi>
+								Copley</persRef> died last Saturday. We went to Charles Street, and
+							I immediately called upon <persRef ref="morier-john">M<hi
+									rend="superscript">r</hi> Morier</persRef>, the Under Secretary
+							of State in Downing Street. I found on enquiry there that the order from
+							the Treasury to the Custom-House for the landing of my Trunks arrived
+							from Ostend had been sent on the 20<hi rend="superscript">th:</hi> of
+							July, at the time when I applied to <persRef ref="hamilton-william">M<hi
+									rend="superscript">r</hi> Hamilton</persRef> for it— M<hi
+								rend="superscript">r</hi> Morier said I had only to direct
+							application to be made at the Custom-house to <persRef ref="u">M<hi
+									rend="superscript">r</hi> M’Lean</persRef>, and the trunks would
+							be delivered— I asked M<hi rend="superscript">r</hi> Morier whether he
+							had received from me a list of Negroes— He said he had— And then said,
+								<persRef ref="bathurst-henry">Lord Bathurst</persRef> had explained
+							to me the circumstances respecting <persRef ref="nicholls-edward">Col<hi
+									rend="superscript">l:</hi> Nicolls</persRef>— I said yes— I
+							asked him whether they were likely soon to settle their affairs in
+							France— He said they had made considerable progress, and it must be
+							drawing to a conclusion. There were so many parties, that some shades of
+							difference in opinion had arisen among them, as to what was best to be
+							done; but they would probably be all soon smoothed down— I asked him
+							whether he could tell me when <persRef ref="bagot-charles">M<hi
+									rend="superscript">r</hi> Bagot</persRef> would probably embark
+							for America; <persRef ref="bagot-mary">M<hi rend="superscript">rs</hi>
+								Bagot</persRef> having now got a <persRef ref="bagot-henrietta"
+								>daughter</persRef>— He could not tell; but said I should have
+							notice in ample time to write by him— On returning to the office I gave
+								<persRef ref="grubb-james">M<hi rend="superscript">r</hi>
+								Grubb</persRef> the Bill of lading, and Letter of Notification,
+							requesting him to see to the landing of the trunks and sending them out
+								<pb n="321" type="ms"/>to us at Ealing on Monday, if it could be.
+							After a walk with M<hi rend="superscript">rs</hi> Adams, we returned
+							home— We walked from Gunnersbury House; nearly two Miles, and were
+							sprinkled with rain. There was a very heavy shower this morning at our
+							house, but it did not extend a mile from it, and great part of the way
+							to and from London, we were much annoyed by the dust.— In the Evening I
+							began a Letter to the <persRef key="monroe-james">Secretary of
+								State</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-17">
+					<head>17 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. VI:15. </date>Attended Church both at the Morning and Afternoon
+							Service— <persRef ref="carr-colston">M<hi rend="superscript">r</hi>
+								Carr</persRef> preached in the morning— His text from XI Matthew 30.
+							For my yoke is easy, and my burden is light— The afternoon preacher was
+							a stranger— His sermon was from V. Job. 5. and 6. Although affliction
+							cometh not forth of the dust, neither doth trouble spring out of the
+							ground; yet man is born unto trouble as the sparks fly upward— Both dull
+							discourses. I mistook the hour when the second service begins and was
+							half an hour too late— The reading of prayers was finished before I went
+							in— After the morning service I rode round and returned <persRef
+								ref="vonharten-gerhard">M<hi rend="superscript">r</hi> Von
+								Harten’s</persRef> visit, but he was not at home— As I was returning
+							from the second Service, I met <persRef ref="morrison-alexander">Major
+								Morison</persRef> and <persRef ref="copland-alexander">M<hi
+									rend="superscript">r</hi> Copland</persRef>, on horse-back, who
+							had just called to pay a visit at my house— I found <persRef
+								ref="joy-george">M<hi rend="superscript">r</hi> Joy</persRef> there—
+							We returned however to London to dinner— In the leisure of the day and
+							Evening, I continued writing to the <persRef key="monroe-james"
+								>Secretary of State</persRef>—particularly, two hours after
+							dinner.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-18">
+					<head>18 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. VI.— </date>I finished my letter to the <persRef
+								key="monroe-james">Secretary of State</persRef>— Then brought up
+							this Journal, and in the Evening began a Letter to <persRef
+								key="adams-john">my father</persRef>. But I cannot possibly keep
+							pace with my intentions— <persRef key="adams-george">George</persRef>
+							went into London to the circulating Library and brought home some books—
+							I took a solitary walk an hour before dinner— Received two Letters from
+								<persRef ref="grubb-james">M<hi rend="superscript">r</hi>
+								Grubb</persRef>, respecting the Trunks from Ostend, which are not
+							likely to be landed for three or four days—also a Letter from Spain,
+							enclosing one for <persRef ref="erving-george">M<hi rend="superscript"
+									>r</hi> Erving</persRef>. It came with a packet too large to be
+							forwarded by the Post.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-19">
+					<head>19 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-19"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>American Revolution</subject>
+						<subject>Barbary Wars/Barbary Pirates</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. VI:15. </date>I could not this morning finish my Letter to
+								<persRef key="adams-john">my father</persRef>, having received
+							before breakfast an enclosure from <persRef ref="grubb-james">M<hi
+									rend="superscript">r</hi> Grubb</persRef>, with several Letters—
+							There was one from <persRef ref="u">M<hi rend="superscript">r</hi>
+								Wortham</persRef>, the Solicitor of <persRef ref="smith-j4">M<hi
+									rend="superscript">r</hi> Smith</persRef> the horse dealer;
+							demanding payment again of his bill— One from <persRef
+								ref="kirkland-john">D<hi rend="superscript">r</hi>
+								Kirkland</persRef>, President of Harvard University, recommending
+								<persRef ref="bond-william">M<hi rend="superscript">r</hi> William
+								Cranch Bond</persRef>, and enclosing a Letter of Recommendation of
+							him to <persRef ref="pond-john">M<hi rend="superscript">r</hi>
+								Pond</persRef>, the Astronomer Royal.— M<hi rend="superscript"
+								>r</hi> Bond has come to obtain information for the construction of
+							an Observatory at Cambridge, and to bespeak Instruments for it— He left
+							the Letters yesterday at the Office— I went with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> and <persRef key="adams-george">George</persRef>
+							into London— We called first at the circulating Library, where I wanted
+							to procure <persRef ref="anderson-adam">Anderson’s</persRef> History of
+							Commerce— I could get only the first volume, and that not complete— I
+							now feel very severely the want of a Library— We then went to see
+								<persRef ref="west-benjamin">M<hi rend="superscript">r</hi>
+								West’s</persRef> Pictures that are exhibited in Pall-Mall— There are
+							two large ones—Christ healing the Sick, and Christ rejected— Both very
+							fine pictures, but not satisfying me— There is not idealism enough in
+							West’s Pictures. There is not beauty enough in his female faces, and not
+							ease and grace enough in any of his figures— There are several smaller
+							Pictures, and sketches, less admirable than the great pictures. We went
+							to the Office in Charles Street— I found there a <persRef
+								ref="waters-morgan">M<hi rend="superscript">r</hi> Waters</persRef>,
+							with documents for a claim of two or three Millions of dollars, of a
+							Canadian named <persRef ref="cazeau-francois">Casaux</persRef>, against
+							the United States for services and expenditures, during the War of
+							American Independence— M<hi rend="superscript">r</hi> Waters prevailed
+							upon me to take these papers, and to promise to look over them, and see
+							him again about them on Saturday— There was also a <persRef
+								ref="king-mitchel">M<hi rend="superscript">r</hi> King</persRef>,
+							from Charleston South-Carolina, who brought me Letters of
+							Recommendation, from <persRef ref="elliott-stephen">M<hi
+									rend="superscript">r</hi> Stephen Elliott</persRef>, and
+								<persRef ref="crafts-william">M<hi rend="superscript">r</hi> William
+								Crafts</persRef>— M<hi rend="superscript">r</hi> Elliott is
+							President of a Literary and Philosophical Society, lately formed at
+							Charleston, and M<hi rend="superscript">r</hi> King comes upon pursuits
+							connected with the Society— I promised to see him again at the Office on
+							Thursday. M<hi rend="superscript">r</hi> Bond came also, and after some
+							conversation with him I agreed to go with him on Thursday to Greenwich
+							to introduce him to M<hi rend="superscript">r</hi> Pond— There was a
+							large packet from <persRef ref="brent-thomas">M<hi rend="superscript"
+									>r</hi> Brent</persRef> the Secretary of Legation at Madrid,
+							enclosing one for <persRef ref="erving-george">M<hi rend="superscript"
+									>r</hi> Erving</persRef>, with a Letter addressed to the
+							Minister or Consul of the United States at London, requesting him to
+							forward the Packet for M<hi rend="superscript">r</hi> Erving— Another
+							large packet from <persRef ref="decatur-stephen">Commodore
+								Decatur</persRef> enclosing a number of Letters to be forwarded—a
+							Letter from Decatur to me, announcing the Algerine Peace— A Letter from
+								<persRef ref="harris-levett">M<hi rend="superscript">r</hi>
+								Harris</persRef> at S<hi rend="superscript">t</hi> Petersburg, and a
+							short Note from <persRef ref="morier-john">M<hi rend="superscript"
+									>r</hi> Morier</persRef>, about suits in the Admiralty Court,
+							for Sailor’s wages. These visitors and Letters occupied me so that I had
+							barely time to make up the Packet of Dispatches for the <persRef
+								key="monroe-james">Secretary of State</persRef> and request M<hi
+								rend="superscript">r</hi> Grubb to have it forwarded as speedily as
+							possible, either from this Post, or under cover to <persRef
+								ref="maury-james">M<hi rend="superscript">r</hi> Maury</persRef> at
+							Liverpool— Wrote also several Cards— We returned home, and I walked with
+								<persRef key="adams-george">George</persRef> about the last half of
+							the way—from 1 1/2 mile beyond Acton— It was seven O’Clock when we
+							reached home— And consequently so late when we had dined, that I had no
+							time after dinner, to do any thing more than file the Letters and papers
+							that I have received.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-20">
+					<head>20 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="322" type="ms"/>
+						<p><date>20. VI:15. </date>Finished the Letter to <persRef key="adams-john"
+								>my father</persRef>, upon the subject which of all others now gives
+							me the most concern, and uneasiness— Wasted this morning a portion of my
+							time, with the prospect of a task before, which ought speedily and yet
+							not hastily to be performed. Brought up my Journal which has a perpetual
+							tendency to run in arrears.— Sent the Coachman into Town with the
+							Landau, to be put in Condition. Walked with <persRef key="adams-george"
+								>George</persRef> before dinner, round by Gunnersbury house.— Wrote
+							again in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-21">
+					<head>21 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. VI— </date>After writing one or two short Letters this Morning
+							I went into London with the Curricle. I had promised to be at Noon, at
+							the Office in Charles Street, but it was close upon one, when I got
+							there. I found <persRef ref="bond-william">M<hi rend="superscript"
+									>r</hi> Bond</persRef> there, and after having been detained an
+							hour in making up despatches, and Letters, and by several Americans
+							applying for Passports, I took a Hackney Coach and went with him to
+							Greenwich. We enquired there of several persons for the royal
+							observatory, but none of them any more than our Coachman knew any thing
+							about it, or understood what we meant— I then enquired for the
+							Astronomer Royal, and at last found a man who said. Oh! that’s <persRef
+								ref="pond-john">Captain Pond</persRef>. He lives at Flamstead House,
+							and then directed the Coachman to the Park gate— When we went up to the
+							house, we found that M<hi rend="superscript">r</hi> Pond was not at
+							home— We left the books and Letters, and after walking an hour about the
+							Park, and M<hi rend="superscript">r</hi> Pond not having returned, M<hi
+								rend="superscript">r</hi> Bond concluded to stay and lodge this
+							Night at Greenwich and to call again upon M<hi rend="superscript">r</hi>
+							Pond in the Evening— I returned in the Hackney Coach alone to Charles
+							Street; and after going and taking my Seal at <persRef
+								ref="silvester-richard">Silvester’s</persRef>, I returned home in
+							precisely one hour from Charles Street. I got home just at seven— In the
+							Evening I began the second draft of a Letter to <persRef
+								ref="bathurst-henry">Lord Bathurst</persRef> upon the fisheries— The
+							first being utterly unsatisfactory to myself.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-22">
+					<head>22 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. VI— </date>After the longest series of dry and beautiful
+							weather that I ever knew in England, there was this day an appearance of
+							change, and the prospect of an Equinoctial Storm— I was employed, though
+							with more than sufficient intervals of relaxation, the whole day, and
+							Evening upon the draft of my Letter to <persRef ref="bathurst-henry"
+								>Lord Bathurst</persRef>— Walked round by Gunnersbury House and
+							through Brentford, with <persRef key="adams-george">George</persRef>
+							before dinner— Wrote after dinner until ten, and afterwards the time
+							slip’d away in Conversation until Midnight.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-23">
+					<head>23 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. VI:15. </date>I had intended to have gone this morning into
+							London, but was deterred by the appearance of the weather, which was
+							gloomy, and still more by the desire to prepare my Letter to <persRef
+								ref="bathurst-henry">Lord Bathurst</persRef>, the greater part of
+							which I copied from my draft. I feel severely the want of large Library
+							to consult for this discussion, and I have not even the most necessary
+							books!— <persRef key="adams-john2">John</persRef> and <persRef
+								key="adams-charles2">Charles</persRef> came home from school to pass
+							the Sunday— I walked with <persRef key="adams-george">George</persRef>
+							round through Brentford, and returned by the way of Gunnersbury house—
+							And have now ascertained the distances with almost as much accuracy as
+							could be done with a chain.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-24">
+					<head>24 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. V:45. </date>We had this day the equinoctial storm— Rain all
+							the morning and until 4. in the afternoon when it cleared away. I
+							finished the fair copy of my Letter to <persRef ref="bathurst-henry"
+								>Lord Bathurst</persRef>, and enclosed it to <persRef
+								ref="grubb-james">M<hi rend="superscript">r</hi> Grubb</persRef>,
+							for another fair Copy to be made out for to-morrow, when I intend to go
+							into Town— This paper has given and yet gives me great anxiety. I
+							recurred to the only book that I have, which could give me any useful
+							information on the subjects—<persRef ref="lacepede-bernard">La
+								Cepede’s</persRef> Natural History of Fishes—and under the Article
+							Gade Morue, found something— Walked with <persRef key="adams-george"
+								>George</persRef> the four mile walk before dinner— <persRef
+								key="adams-john2">John</persRef> and <persRef key="adams-charles2"
+								>Charles</persRef> returned to school this Evening and I wrote a
+							short Letter to the <persRef key="monroe-james">Secretary of
+								State</persRef>, and one to <persRef key="adams-thomas">my
+								brother</persRef>, enclosing <persRef ref="carroll-martin">M.
+								Carroll’s</persRef> three drafts.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-25">
+					<head>25 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. V:45. </date>I went into London in the Curricle, and after
+							stopping at <persRef ref="messer-j;page-r">the Coachmakers</persRef>,
+							where the work on the Carriage was done wrong, and must be altered, and
+							at the boot-makers, and circulating library, I went to the office in
+							Charles Street. It was between three and four O’Clock, and <persRef
+								ref="grubb-james">M<hi rend="superscript">r</hi> Grubb</persRef> had
+							not received my Letter until between twelve and one— It was impossible
+							for him to finish the fair copy of that for <persRef
+								ref="bathurst-henry">Lord Bathurst</persRef> in time for me to sign
+							it this day— He is to send it out to me therefore to-morrow; and I am to
+							return it in the Evening, or Wednesday Morning— There was a circular
+							note from Lord Bathurst dated on the 23<hi rend="superscript">d:</hi>
+							instant, giving notice that the recent restrictions upon the departure
+							of Aliens from this Country, being deemed no longer necessary were to
+							cease from the date of the Note— There was also a packet from <persRef
+								ref="jones-thomas3">M<hi rend="superscript">r</hi> T. M.
+								Jones</persRef> at Birmingham, with a Book, some of <persRef
+								ref="cobbett-william">Cobbett’s</persRef> Registers, and a couple of
+							American Songs— I called upon <persRef ref="bollmann-justus">D<hi
+									rend="superscript">r</hi> Bollmann</persRef> who informed me he
+							should go on Thursday morning, either to Falmouth to embark in the
+							Packet, or to Liverpool, to go in the Helvetius to Philadelphia— He
+							mentioned again his wishes to be employed in Europe, and the wish that I
+							would recommend him— He had a late Letter from France which he read to
+							me, and spoke again of the proposal made to the Government of the United
+							States, through him— I called at <persRef ref="silvester-richard"
+								>Silvester’s</persRef> and spoke of the device for a Seal; the
+							Constellation—Lyra— In the Strand I procured, the Exposition of the
+							Causes and character of the War—7<hi rend="superscript">th:</hi>
+							Edition, and the eleventh number of the Pamphleteer. Returned to Charles
+							Street; then to the Coachmaker’s Messer and Page, and finally home about
+							half past seven O’Clock— After dinner I read the new Edition of <persRef
+								ref="atcheson-nathaniel">Atcheson’s</persRef> pamphlet, about half
+							through.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-26">
+					<head>26 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Barbary Wars/Barbary Pirates</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="323" type="ms"/>
+						<p><date>26. V:45. </date>The day was stormy, with so much rain that I was
+							deprived of the exercise of walking, except about half an hour in the
+							Garden. I wrote to <persRef ref="maury-james">M<hi rend="superscript"
+									>r</hi> Maury</persRef>, and then to <persRef
+								ref="beasley-reuben">M<hi rend="superscript">r</hi>
+								Beasley</persRef>, enclosing an extract of the Letter which I lately
+							received from <persRef ref="decatur-stephen">Commodore
+							Decatur</persRef>, concerning the Algerine Peace— I also wrote a Letter
+							to the <persRef ref="madison-james">President</persRef> of the United
+							States. <persRef ref="amory-nathaniel2;amory-prudence2">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Amory</persRef>, and Mess<hi rend="superscript">rs</hi>
+							<persRef ref="u">Coffin</persRef>, <persRef ref="joy-george"
+								>Joy</persRef>, <persRef ref="king-mitchel">King</persRef>, <persRef
+								ref="langdon-john2">Langdon</persRef>, <persRef ref="loyall-george"
+								>Loyall</persRef>, <persRef ref="maclure-william">Maclure</persRef>,
+								<persRef ref="u">Murdoch</persRef> and <persRef ref="u"
+								>Williams</persRef> dined with us— M<hi rend="superscript">r</hi>
+							King wishes to obtain here for the Literary and Philosophical Society of
+							South Carolina copies of antient papers from the Colonial Office; and to
+							get access to them by an Introduction from me— I have doubts of the
+							propriety of my giving it to him— He has also proposals for the
+							publication of a large historical work, by the late <persRef
+								ref="ramsay-david">D<hi rend="superscript">r</hi> Ramsay</persRef>.
+							He left the paper of them with me, and a letter on the subject to
+							himself— M<hi rend="superscript">r</hi> Joy left with me a Letter from
+							his brother <persRef ref="joy-benjamin">Benjamin</persRef> to him
+							concerning his application for an Appointment.— We had fire the first
+							time for the Season in our drawing room.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-27">
+					<head>27 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. V:45. </date>The approach of winter begins to interrupt my
+							Morning occupations and I was prevented by the cold from writing this
+							morning before Breakfast— I concluded to go into London, principally to
+							see <persRef ref="bollmann-justus">D<hi rend="superscript">r</hi>
+								Bollmann</persRef>, again. I went in the Curricle, and returned in
+							the Landau— I signed and sent in the Letter to <persRef
+								ref="bathurst-henry">Lord Bathurst</persRef>— There were several
+							applications for Passports to go to America, nothwithstanding the notice
+							given in Lord Bathurst’s circular Letter of the 23<hi rend="superscript"
+								>d.</hi> instant.— I called upon D<hi rend="superscript">r</hi>
+							Bollmann, and gave him the Letter, which I requested him to deliver,
+							himself.— I intimated to him also, that he might perhaps find some
+							prejudices against him at Washington; which would interfere with his
+							present views.— He thought, they could only have arisen from his
+							concerns with <persRef ref="burr-aaron">Col<hi rend="superscript"
+									>l.</hi> Burr</persRef>; but I gave him to understand that there
+							might be others of more recent origin; and referred him to reports of
+							conversations held by him last Summer, and autumn— <persRef
+								ref="grubb-james">M<hi rend="superscript">r</hi> Grubb</persRef>
+							promised to make up the packet of despatches, to give to D<hi
+								rend="superscript">r</hi> Bollmann this Evening, or to-morrow
+							Morning before ten O’Clock— I received at the Office several Letters
+							from America—one of them from <persRef key="adams-abigail">my
+								Mother</persRef>, informing me that <persRef
+								ref="smith-william-steuben;smith-catherine-johnson">M<hi
+									rend="superscript">r</hi> &amp; M<hi rend="superscript">rs</hi>
+								W. S. Smith</persRef>, had lost <persRef ref="smith-caroline">their
+								daughter</persRef>, by the Measles— One from <persRef
+								ref="maury-james">M<hi rend="superscript">r</hi> Maury</persRef> at
+							Liverpool, who has a packet for me, not to be put into the Post-Office—
+							And a large packet from <persRef ref="dickasonandcompany">Mess<hi
+									rend="superscript">rs:</hi> T. Dickason and C<hi
+									rend="superscript">o:</hi></persRef> enclosing the papers in the
+							case, upon which they wished me to make application to the <persRef
+								ref="delosrios-carlos">Spanish Ambassador</persRef>— I read them all
+							as I was riding home; which I reached at 5. O’Clock— I intended not to
+							have shewn <persRef key="adams-louisa-catherine">my wife</persRef> the
+							Letter from my Mother, until to-morrow Morning; but there was a Letter
+							to <persRef key="adams-george">George</persRef>, which also mentioned
+							the Death of Catherine’s child, which was thus immediately disclosed to
+								M<hi rend="superscript">rs</hi> Adams— She was so much affected by
+							it, that she could not go out as she had intended this Evening. At Seven
+							O’Clock I went with George to <persRef ref="nicholas-george2">D<hi
+									rend="superscript">r</hi> Nicholas’s</persRef> School, and saw
+							the performance of <persRef ref="terence">Terence’s</persRef> Adelphi by
+							some of the Scholars— The performances were very good. The Prologue and
+							Epilogue were spoken twice, which made them rather tedious. D<hi
+								rend="superscript">r</hi> Nicholas allowed my Sons, <persRef
+								key="adams-john2">John</persRef> and <persRef key="adams-charles2"
+								>Charles</persRef> to sit with me— The dresses of the boys were all
+							of modern fashion and some of them very elegant— The <persRef
+								ref="edward">Duke of Kent’s</persRef> band, attended, as the
+							Orchestra— There were many Ladies attended and a few Gentlemen— The
+							exhibition finished soon after ten.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-28">
+					<head>28 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. VI:45. </date>The morning was cold, and I employed it in
+							reading instead of writing. At one O’Clock we all went to <persRef
+								ref="nicholas-george2">D<hi rend="superscript">r</hi>
+								Nicholas’s</persRef> School, and heard the exhibition of English
+							Speaking. They began with Scenes and Dialogues from <persRef
+								ref="shakespeare-william">Shakespear</persRef>—<persRef
+								ref="henry-v">Henry the 5<hi rend="superscript">th:</hi></persRef> <persRef ref="brutus">Brutus</persRef> and <persRef
+								ref="cassiuscharacter">Cassïus</persRef>—<persRef ref="hotspur"
+								>Hotspur</persRef> and <persRef ref="owenglendower">Owen
+								Glendower</persRef>, <persRef ref="othello">Othello</persRef>
+							&amp;c— Then the Parliamentary debate in 1742. The famous altercation
+							between <persRef ref="walpole-horace">Horace Walpole</persRef>, and the
+								<persRef ref="pitt-william">first William Pitt</persRef>. The Stage
+							was fitted up in imitation of the House of Commons; with the Speaker in
+							his Chair and the two Clerks at the Table, all in their wigs and gowns,
+							and part of the school-boys on the benches to form the house. The
+							speaking was all very good— The best Speaker was a young man named
+								<persRef ref="fletcher-edward">Fletcher</persRef>, who spoke the
+							Prologue to the Play last Evening, and performed the part of Demea— He
+							was M<hi rend="superscript">r</hi> Pitt in the debate, and concluded the
+							debate by speaking <persRef ref="pope-alexander">Pope’s</persRef> Ruling
+							Passion. It lasted about two hours, and was more crowded with company
+							than last Evening.— The <persRef ref="edward">Duke of Kent</persRef> was
+							there— And still, many more ladies than Gentlemen. <persRef
+								key="adams-john2">John</persRef> and <persRef key="adams-charles2"
+								>Charles</persRef> come home with us, and the Doctor allows them for
+							Michaelmas, Holidays until Sunday Evening— I walked with <persRef
+								key="adams-george">George</persRef> the four Mile walk, and in the
+							Evening <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> went with all the boys to see the Play
+							performed again— This was the last of the three Evenings— I passed it at
+							home reading and writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-29">
+					<head>29 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. VI— </date>Michaelmas day— Something of a Holiday in England,
+							though I believe it has ceased to be celebrated even in the Catholic
+							Countries— It was a stormy and rainy day, so that I barely found time to
+							walk about an hour before dinner with <persRef key="adams-george"
+								>George</persRef>— I employed the day chiefly in writing, but lost
+							much of the time— Received a Note from <persRef ref="grubb-james">M<hi
+									rend="superscript">r</hi> Grubb</persRef> with notice that the
+							trunks from Ostend have at length reached Charles Street, and that he
+							has received the packet from <persRef ref="maury-james">M<hi
+									rend="superscript">r</hi> Maury</persRef> at Liverpool, which he
+							had been directed not <pb n="324" type="ms"/>to put into the
+							Post-Office. I sent the Coachman to town to bring them out, but M<hi
+								rend="superscript">r</hi> Grubb was gone before he reached the
+							Office. There was a German, named <persRef ref="u">Leyser</persRef>, who
+							came out, and wanted assistance to go to America, where he wishes to
+							settle— His Country having been heretofore part of France, and now
+							having fallen to Prussia.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-30">
+					<head>30 September 1815</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. VI. </date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef>, and the boys,
+								<persRef key="adams-john2">John</persRef> and <persRef
+								key="adams-charles2">Charles</persRef> went with me into London, and
+							we paid first a visit to <persRef ref="perkins-samuel;u">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs</hi>
+								Perkins</persRef>. The Lady only was at home. They propose to go
+							very shortly to France— When we came to the Office at Charles Street we
+							found there a <persRef ref="carver-james">M<hi rend="superscript">r</hi>
+								Carver</persRef>, who had been twice to ask my assistance to pay his
+							debts and go to America. He was now come a third time and with a new
+							Story. I told him I could not lend him money, and I thought the
+							Gentlemen at whose instance he said he had declined the invitation of
+							the <persRef ref="alexander-i">Emperor of Russia</persRef>, and
+							subsequent advantageous engagement to go to the East-Indies, ought to
+							supply him, with what he needed— <persRef ref="u">M<hi
+									rend="superscript">r</hi> Cruger</persRef> called and took
+							leave; going to France; and <persRef ref="king-mitchel">M<hi
+									rend="superscript">r</hi> King</persRef>, going to Liverpool to
+							return to America— He asked my further advice for his application in
+							behalf of the Literary and Philosophical Society of South-Carolina, to
+							obtain Copies of old documents from the Office of the Colonial
+							Department, and for the projected Publication of <persRef
+								ref="ramsay-david">D<hi rend="superscript">r</hi> Ramsay’s</persRef>
+							posthumous works. I declined soliciting <persRef ref="goulburn-henry"
+									>M<hi rend="superscript">r</hi> Goulburn</persRef> for the
+							Papers, under the expectation that they would be refused, and even that
+							some umbrage might be taken at my making the request. On public
+							considerations I thought it best not to incur the hazard of exciting
+							suspicion or giving offence at that office. With regard to the
+							publication of D<hi rend="superscript">r:</hi> Ramsay’s works, he had
+							prepared a History of America, to form two Volumes octavo— And an
+							Abridgment of Universal History, to form ten or twelve— I thought the
+							publication of the first might be successful, but that the other would
+							be too voluminous, and expensive. M<hi rend="superscript">r</hi> King
+							was of the same opinion— He had found that to obtain a copy right here,
+							it would be necessary to have the book printed, but not published in
+							America, and to deposit fifteen copies of it at Stationers Hall. After
+							which a bargain for the copy-right might be made with a Bookseller. He
+							said that D<hi rend="superscript">r</hi> Ramsay’s Executor was a
+								<persRef ref="hayne-robert">Grandson</persRef> of <persRef ref="u"
+									>Col<hi rend="superscript">l:</hi> Haynes</persRef>, and that
+								D<hi rend="superscript">r:</hi> Ramsay’s <persRef
+								ref="ramsay-martha">widow</persRef>, a daughter of <persRef
+								ref="laurens-henry">President Laurens</persRef>, with a large family
+							of Children had been left in distressed and indigent Circumstances— The
+							Doctor having been of a speculative turn, and unfortunate in his
+							speculations, at the latter period of his life— I went with the two boys
+							to <persRef ref="maclure-william">M<hi rend="superscript">r</hi>
+								Maclure’s</persRef> lodgings, and left there, the letter for
+								<persRef key="adams-abigail">my Mother</persRef>— It was between 7
+							and 8 in the Evening when we got home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v29-1815-09-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1815-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Without Variation since the last
+							Month—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

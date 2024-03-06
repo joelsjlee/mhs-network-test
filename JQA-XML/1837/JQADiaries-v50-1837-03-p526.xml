@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v50-1837-03">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="526" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v33-1837-03-p229.xml" mhs:volume="50">
+				<bibl n="metadata"><date from="1837-03-14" to="1837-03-14"/></bibl>
+
+				<!--D/JQA/50 14 March 1837 P 526 Lindsey Woolcock  -->
+
+				<div type="entry" xml:id="jqadiaries-v50-1837-03-14">
+					<head>14 March 1837</head>
+					<bibl><author>JQA</author><date type="creation" when="1837-03-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline>Washington 14. March 1837.</dateline>
+						<list>
+							<item>Acts of Parliament.</item>
+							<item>Parliamentary debates 1781</item>
+							<item>History of England 1780</item>
+							<item><persRef ref="hatsell-john">Hatsell</persRef>—</item>
+							<item>17. Oct<hi rend="superscript">r.</hi> 1837.</item>
+							<item><persRef ref="anacharsis">Anacharsis</persRef>.</item>
+							<item>Mexican Document. &amp; others. </item>
+						</list>
+						<cb/>
+						<list>
+							<item><persRef ref="cambreleng-churchill">Cambreleng</persRef></item>
+							<item><persRef ref="cramer-john">Cramer</persRef></item>
+							<item><persRef ref="cushman-samuel">Cushman</persRef></item>
+							<item><persRef ref="hall-joseph6">Joseph Hall</persRef></item>
+							<item><persRef ref="hamer-thomas">Hamer</persRef></item>
+							<item><persRef ref="hannegan-edward">Hannegan</persRef></item>
+							<item><persRef ref="holt-orrin">Holt</persRef></item>
+							<item><persRef ref="mann-abijah">Abijah Mann</persRef></item>
+							<item><persRef ref="mason-moses">Moses Mason</persRef></item>
+							<item><persRef ref="mclene-jeremiah">M’Lane</persRef></item>
+							<item><persRef ref="u">Miller</persRef></item>
+							<item><persRef ref="vanderpoel-aaron">Vanderpoel</persRef></item>
+							<item><persRef ref="ward-aaron">Ward</persRef></item>
+						</list>
+						<list rendition="#bracket-right">
+							<item rendition="#line-above"><persRef ref="allan-chilton">Chilton
+									Allan</persRef></item>
+							<item><persRef ref="ashley-william">Ashley</persRef></item>
+							<item><persRef ref="milligan-john">Milligan</persRef></item>
+							<item><persRef ref="underwood-joseph">Underwood</persRef></item>
+						</list>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1803-10">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="43"
+				mhs:precedingFile="JQADiaries-v27-1803-09-p038.xml"
+				mhs:followingFile="JQADiaries-v27-1803-11-p050.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1803-10-01" to="1803-10-31"/></bibl>
+
+				<!--D/JQA/27.301-->
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-01">
+					<head>1 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">October 1803.</hi></dateline>
+						<p><date>1. </date>We intended to have started this morning, by six O’clock,
+							but it was eight, before <persRef ref="adams-louisa-catherine"
+								>we</persRef> could get ready, and enter the carriage— <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							went with us, untill we found <persRef ref="otis-samuel">M<hi
+									rend="superscript">r:</hi> Otis</persRef> waiting for us, at the
+							top of Milton Hill, at the parting of the Roads by <persRef
+								ref="robbins-edward">M<hi rend="superscript">r:</hi>
+								Robbins’s</persRef> house— M<hi rend="superscript">r:</hi> Shaw then
+							took M<hi rend="superscript">r:</hi> Otis’s chaise, to carry back to
+							Boston, and M<hi rend="superscript">r:</hi> Otis joined us— We came to
+							Attleborough to dinner, and at about 7 in the Evening safely arrived at
+							Providence— We took up our lodgings at <persRef ref="u"
+								>Ammidon’s</persRef>, on the top of the Hill—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-02">
+					<head>2 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="44" type="ms"/>
+						<p><date>2. </date>During the prevalence of the malignant fever which rages
+							at New-York, the intercourse between this place and that city by the
+							Packets is suspended— <persRef ref="u">Captain Anthony</persRef> however
+							has agreed to send his sloop the Cordelia, to land us at Powles Hook,
+							and agreed to sail to-morrow, if the wind will permit— I went with
+								<persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis</persRef> this forenoon to the congregational meeting-house,
+							and heard <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Abbot</persRef>; and in the afternoon, to the episcopal Church,
+							where we heard a young <persRef ref="crocker-nathan">M<hi
+									rend="superscript">r:</hi> Crocker</persRef>— Walked afterwards
+							round the town— <persRef ref="foster-theodore">M<hi rend="superscript"
+									>r:</hi> Theodore Foster</persRef>, <persRef ref="barnes-david"
+								>Judge Barnes</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Ward</persRef> called upon us in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-03">
+					<head>3 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>Our <persRef ref="u">Captain</persRef> found it
+							impracticable to sail this day, which was entirely calm, and the weather
+							very warm— <persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis</persRef>, who thought he could not venture the risque of
+							further delay, concluded to proceed in the mail-stage, which went on
+							this day, at about 1. P.M. The rest of us remained at Providence. In the
+							evening <persRef ref="bourne-benjamin">Judge Bourne</persRef> alighted
+							at the house where we lodge— And pass’d an hour with me; as did <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Bronson</persRef>, who came
+							this day from Newport— <persRef ref="barnes-david">Judge
+								Barnes</persRef> likewise called— This evening, a man by the name of
+								<persRef ref="brown-james8">James Brown</persRef> entered into
+							conversation with me; by the strangeness of which it became very soon
+							evident that his intellects were disordered. He talks of nothing less
+							than totally changing the face of the world, natural, political and
+							moral— And his first conquest is to be over lee-way.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-04">
+					<head>4 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>At nine this morning, we embarked on board the Packet
+							Cordelia, <persRef ref="u">Captain Crepon</persRef> (for <persRef
+								ref="u">Captain Anthony</persRef> does not go with us himself)— We
+							had a thickening, cloudy and rainy day; growing all the afternoon to a
+							North-east storm— <persRef ref="brown-james8">M<hi rend="superscript"
+									>r:</hi> Brown</persRef>, the man of new organizations, came
+							with <persRef ref="adams-louisa-catherine;adams-george;adams-john2"
+								>us</persRef>; between four and five in the afternoon we arrived at
+							Newport; and concluded to put up for the night, at <persRef
+								ref="brenton-benjamin">M<hi rend="superscript">r:</hi>
+								Brinton’s</persRef>, where we lodged when we came from New-York in
+							November 1801— He has moved into another house; more distant from the
+							wharf where the packets usually lay— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Hore</persRef>, an Englishman who
+							took passage with us, came to the same lodgings— We had also a french
+							family, from S<hi rend="superscript">t:</hi> Domingo; of two men, two
+							women, and two children, very nearly of the age of ours— But they remain
+							on board the Packet—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-05">
+					<head>5 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>We could not proceed yesterday, though with a perfectly
+							fair wind, because we had foul weather; and this day we cannot sail,
+							though with fair weather; because we have a foul wind. This double
+							inconvenience almost always occurs in attempting to go this way from
+							Boston to New-York; which I shall not willingly do again— This is the
+							third time I have made the experiment— And twice I have been detained
+							four or five days at Providence and Newport— I shall think myself very
+							fortunate to be delayed no longer this time— This is already the third
+							lost day— The convenience is much greater in coming from New-York by
+							this way; and for the future I think I shall traverse the Sound only in
+							the direction Eastward.— The last Night was extremely boisterous, and
+							this day has been equally so— Provided <persRef ref="adams-george"
+								>George</persRef> with a pair of shoes instead of those he yesterday
+							threw over-board— Was on board the Packet this forenoon, vainly urging
+							our <persRef ref="u">Captain</persRef> to sail— Pass’d the day in
+							tedious expectation of the morrow— Walk’d out with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> this afternoon— Read a few pages in <persRef
+								ref="langhorne-william;langhorne-john">Langhorne’s</persRef>
+							<persRef ref="plutarch">Plutarch</persRef>— The life of <persRef
+								ref="romulus">Romulus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-06">
+					<head>6 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>After a boisterous night, we have the wind this morning
+							directly a-head, as it was yesterday. I made some inquiry for a carriage
+							to go on by land to New-London; but the roads are so bad, that I could
+							not procure one; so we were compelled to take patience for another day
+							of delay— I spent the forenoon principally in writing; and the afternoon
+							in reading <persRef ref="plutarch">Plutarch’s</persRef> life of <persRef
+								ref="lycurgus">Lycurgus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-07">
+					<head>7 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="45" type="ms"/>
+						<p><date>7. </date>This morning before Sun-rise there was a very light
+							breeze from the North-east— I went with <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Hoare</persRef> down to the Packet,
+							and finally prevailed upon the <persRef ref="u">Captain</persRef> to
+							sail— We quitted the wharf just at eight o’clock but the North-eastern
+							breeze was already gone. We made our way to Point Judith in a couple of
+							hours, and then found a head wind, which compell’d us to take our course
+							on the outer-side of Block Island. The breeze was light untill shortly
+							before Sun-set, when it suddenly freshened almost to a gale— A heavy
+							Sea, arose— Almost every body on board became Sea-sick, our jib-stay
+							broke, and we were obliged to lay to a couple of hour’s to repair it. We
+							continued beating between Fisher’s island and Long island, the whole
+							Night, which was extremely boisterous, though with a clear sky— We all
+							suffered much; but <persRef ref="adams-louisa-catherine">my
+								wife</persRef> with <persRef ref="adams-john2">her infant</persRef>
+							whom she was obliged to keep in one of the very small births of the
+							Packet, while <persRef ref="adams-george">George</persRef> was laying,
+							continually Sea-sick, all night in another close at her side was more
+							distress’d than the rest of us. I was up the whole night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-08">
+					<head>8 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>This morning, the wind continuing violent, and the sea
+							very high, we found it quite useless to struggle longer against them,
+							and persuaded our <persRef ref="u">Captain</persRef> to put in to
+							New-London. We landed at the wharf, between 7 and 8 o’clock; and after
+							breakfasting went on shore, and took chambers at <persRef ref="u"
+								>Frink’s</persRef> Tavern &amp; Coffee-House. Here we remained the
+							rest of the day; and at night had retired to bed in expectation of
+							passing it quietly when we were summoned again on board the Packet; the
+							wind having become favourable to the progress of our voyage— We
+							therefore embarked again between 11 and 12 at Night, and sailed in
+							company with the two Sisters <persRef ref="u">Captain Earle</persRef>,
+							another of the Newport Packets, which left that place the Night before
+							us, and after having proceeded fifty miles farther than we had, was
+							obliged to come back here, and had come in this morning about two hours
+							after us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-09">
+					<head>9 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>After an easy, and pleasant run of fifteen hours, we
+							landed at Powles Hoek, and immediately took a carriage, to <persRef
+								ref="gifford-archer">Gifford’s</persRef> tavern at Newark—9 miles.
+							We arrived between 5 and 6. in the afternoon, and with no small
+							difficulty obtained a single chamber to lodge the <persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">whole
+								family</persRef>. The town and the house are so much crowded, by the
+							inhabitants fled from the yellow-fever at New-York, that it is scarcely
+							possible to find a chamber unoccupied— We had scarcely quitted the
+							Carriage, and entered the house, when my wife, whose constitution is not
+							strong enough to endure the violent fatigue, and agitation she has gone
+							through the last three days, was suddenly seized with an extremely
+							violent fever— I immediately sent for a physician, <persRef ref="u"
+								>Doctor Johnson</persRef>, who came, and gave her a powerful opiate,
+							which produced the effect of laying her asleep, which continued with
+							intervals of extreme illness the whole night— I called on <persRef
+								ref="smith-margaret2">M<hi rend="superscript">rs:</hi>
+								Smith’s</persRef> at the house where she now lives, after going to
+							that where she formerly resided— She invited me to her house, and to
+							bring the family with me; but our family is too large, and my wife was
+							too ill to be removed— I found here <persRef ref="pickering-timothy"
+									>Col<hi rend="superscript">l:</hi> Pickering</persRef>, <persRef
+								ref="cutler-manasseh">M<hi rend="superscript">r:</hi>
+								Cutler</persRef>, <persRef ref="taggart-samuel">M<hi
+									rend="superscript">r:</hi> Taggart</persRef>, and a <persRef
+								ref="chamberlain-william">M<hi rend="superscript">r:</hi>
+								Chamberlain</persRef> of Vermont, members of Congress, going on
+							to-morrow.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-10">
+					<head>10 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date><persRef ref="adams-louisa-catherine">My wife</persRef>
+							continued very ill the whole day. But her fever has been subsiding, and
+							leaves her extremely weak: <persRef ref="smith-margaret2">M<hi
+									rend="superscript">rs:</hi> Smith</persRef> and <persRef
+								ref="adams-sarah">M<hi rend="superscript">rs:</hi> C.
+								Adams</persRef> called to see her in the morning— <persRef ref="u;u"
+									>M<hi rend="superscript">r:</hi> and M<hi rend="superscript"
+									>rs:</hi> Meredith</persRef> and <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Hawkins</persRef> called also this
+							afternoon, but she was not able to see them— I carried <persRef
+								ref="adams-george">George</persRef> to M<hi rend="superscript"
+								>rs:</hi> Smith’s, where he pass’d the day. M<hi rend="superscript"
+								>rs:</hi> Adams with <persRef ref="smith-ann2">Nancy Smith</persRef>
+							brought him back in the afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-11">
+					<head>11 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>We are still detained by <persRef
+								ref="adams-louisa-catherine">my wife’s</persRef> illness— Her fever
+							though much abated is not yet completely subdued. <persRef
+								ref="smith-william">Col<hi rend="superscript">l:</hi>
+								Smith</persRef> called to see us in the morning— I carried <persRef
+								ref="adams-george">George</persRef> again to <persRef
+								ref="smith-margaret2">M<hi rend="superscript">rs:</hi>
+								Smith’s</persRef>, and brought him back at night. Col<hi
+								rend="superscript">l:</hi> Smith has brought <persRef
+								ref="dewindt-caroline">his daughter</persRef> with him here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-12">
+					<head>12 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="46" type="ms"/>
+						<p><date>12. </date><persRef ref="adams-louisa-catherine">My
+								wife’s</persRef> fever having entirely subsided, we left <persRef
+								ref="gifford-archer">Gifford’s</persRef> at Newark this day at noon,
+							and came on six miles to Elizabeth-Town, and stop’d at <persRef
+								ref="lyon-joseph">Lyon’s</persRef> tavern. Gifford sent us on in a
+							light, easy carriage of his own. An extra stage is to come on<hi
+								rend="strikethrough">e</hi> to-morrow if the day be fair, and if not
+							the next day, to take us in two days to Frankfort.— M<hi
+								rend="superscript">rs:</hi> Adams though very weak, supported the
+							ride very well, and appears to be rapidly recovering.— They are now
+							holding their elections in this State— In the afternoon I took a walk,
+							and went into the Hall where the poll is opened. There were a number of
+							people about the house; all apparently warmly interested in the
+							event.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-13">
+					<head>13 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>The weather threatened to be foul this morning, and our
+							Stage did not come from Newark for us. <persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">We</persRef>
+							therefore pass’d the day at Elizabeth-Town— Here I saw <persRef
+								ref="pintard-john">M<hi rend="superscript">r:</hi> Pintard</persRef>
+							of New-York, who is going on to Georgia for his health— He went away
+							about noon; the weather having cleared up. It is much warmer than I have
+							ever known it so late in the Season at Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-14">
+					<head>14 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>The day being very fine, the Stage from <persRef ref="u"
+								>General Cumming’s</persRef> at Newark, came and took us up, at 1/2
+							past 9 this morning. They are to carry us on as far as Frankford.— We
+							came twenty miles to Brunswick, where we dined, and then 18 to
+							Princeton— <persRef ref="adams-louisa-catherine">My wife</persRef> on
+							arriving, went immediately to bed— She is still very weak.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-15">
+					<head>15 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>At 1/2 past eight this morning, we left Princeton, in a
+							Stage and Horses which came from Kingstown 3 miles back and took us up—
+							We rode twelve miles to Trenton, and then ten to Bristol, where we
+							dined. Here I found a letter from <persRef ref="adams-thomas">my
+								brother</persRef>, who left the place not an hour before we arrived—
+							He returned into the City— After dinner we came on fifteen miles to
+							Frankford; where we could not find accommodations to lodge— The place
+							being crowded with fugitives from Philadelphia, as Newark is with those
+							from New-York. At length we procured lodgings at <persRef
+								ref="dover-john">Dover’s</persRef>— The Rising Sun— Just over the
+							Bridge, and in the Northern Liberties of Philadelphia— When we had got
+							well settled, I went to enquire for a mode of proceeding on our Journey—
+							I found we had only the alternative of going round to <persRef
+								ref="gray-george">Gray’s</persRef> ferry, and there taking the
+							Stage, to travel Night and day— Or of sending in to Philadelphia, for a
+							private Carriage and Horses to take us on from this place— I preferr’d
+							the latter of these modes, and wrote in to my brother to engage us a
+							Carriage and Horses, to come for us early on Monday Morning. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Patten</persRef> the
+							Post-Master, promised to have the letter to my brother delivered
+							to-morrow morning— We had a rainy morning; but the weather cleared away
+							wholly fair in the afternoon. <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> continues quite
+							unwell; but has borne the journey from Elizabeth-Town, beyond
+							expectation.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-16">
+					<head>16 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>I went to the Baptist meeting-house, and heard <persRef
+								ref="rogers-william">D<hi rend="superscript">r:</hi>
+								Rogers</persRef> of Philadelphia. The house was very much crowded.
+							As I came out, from it, I found <persRef ref="adams-thomas">my
+								brother</persRef> waiting for me. He dined with <persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">us</persRef>.
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Ewen</persRef> and
+								<persRef ref="nicholls-unknown">M<hi rend="superscript">r:</hi>
+								Nicholls</persRef> of Philadelphia, called and pass’d an hour with
+							us in the evening— My brother returned to Philadelphia in the Evening,
+							and comes out in a carriage he has engaged for us, to-morrow
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-17">
+					<head>17 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Between 8 and 9 this morning, my brother came out in a
+							carriage from Philadelphia; with a pair of horses; which took us round
+							without entering within the limits of the City; untill we came to the
+							middle ferry. There we took four fresh horses, and my brother
+							accompanied us to Chester where we dined— <persRef ref="adams-thomas">My
+								brother</persRef> there took leave of <persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">us</persRef>
+							and we came to Wilmington to lodge— At the middle ferry I saw the
+							workmen at the permanent Bridge, which they are carrying over the
+							Schuylkill— They are also making a Turnpike from Philadelphia to
+							New-York.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-18">
+					<head>18 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date><persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">We</persRef>
+							left Wilmington this morning at 1/2 past eight and came through Newport,
+							Christine and Elkton, where we dined, to the Susquehannah, which we
+							cross’d between Sunset and dark. We lodge at Havre-de-Grace— The public
+							houses on this road are very good; but the roads are indifferent; and
+							the soil of the Country poor, and very miserably cultivated.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-19">
+					<head>19 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="47" type="ms"/>
+						<p><date>19. </date>This morning soon after 8 <persRef
+								ref="adams-louisa-catherine;adams-george;adams-john2">we</persRef>
+							started from Havre de Grace, and after riding about 35 miles arrived
+							just about dusk at Baltimore— We expected to have been stop’d, short of
+							the City by a health officer; in consequence of the regulation
+							prohibiting the entrance here of persons from Philadelphia or New-York;
+							but no such officer is thus stationed, and the regulation itself is
+							rather a menace in terrorem, than an effectual exclusion of persons from
+							the sickly cities— We could not procure lodgings at <persRef
+								ref="evans-william">Evans’s</persRef>— His house being already full;
+							but he obtained admission for us at <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Grey’s</persRef>—a private boarding
+							house, where the accomodations however are very poor.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-20">
+					<head>20 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-20"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="evans-william">Evans</persRef> furnished
+							us this morning an extra-Stage, in which we left Baltimore at 1/2 past
+							8, and arrived at Washington just at dusk in the Evening. Our journey
+							was unpleasant this day on Account of the dust, with which we have not
+							been troubled before. As we came in to the City of Washington we met
+								<persRef ref="otis-samuel">M<hi rend="superscript">r:</hi>
+								Otis</persRef> in a carriage going from the <persRef
+								ref="jefferson-thomas">President’s</persRef> House to the Capitol—
+							Immediately after we arrived I received a card from him, with some
+							letters, and mentioning that he had been when we met him to the
+							President’s to carry the Advice of the Senate to the ratification of the
+							Treaty for the cession of Louisiana, which pass’d in the Senate 24 yeas
+							and 7. nays— We came to <persRef ref="hellen-walter">M<hi
+									rend="superscript">r:</hi> Hellen’s</persRef>, where we found
+								<persRef ref="johnson-catherine">M<hi rend="superscript">rs:</hi>
+								Johnson</persRef>, and her family— All well; excepting <persRef
+								ref="hellen-ann">M<hi rend="superscript">rs:</hi> Hellen</persRef>,
+							who is extremely ill.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-21">
+					<head>21 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>At 11. this morning, I took my seat in the Senate of the
+							United States, after delivering my credential letter to <persRef
+								ref="otis-samuel">M<hi rend="superscript">r:</hi> Otis</persRef> the
+							Secretary; and being sworn to support the Constitution of the United
+							States, by <persRef ref="brown-john10">M<hi rend="superscript">r:</hi>
+								John Brown</persRef> of Kentucky, who is the President pro tem:—
+								<persRef ref="burr-aaron">M<hi rend="superscript">r:</hi>
+								Burr</persRef>, the Vice-President being absent. There was little
+							business done, and the Senate adjourned soon after 12.— M<hi
+								rend="superscript">r:</hi> Otis is much alarmed, at the prospect of
+							being removed from his Office. It has been signified to him this day,
+							that in order to retain it, he must have all the printing done by
+								<persRef ref="duane-william2">Duane</persRef>— His compliance may
+							possibly preserve him one session longer. After the Senate adjourned, I
+							went in, without the bar of the House of Representatives; but they
+							adjourned immediately afterwards— As I returned home, I called at the
+								<persRef ref="jefferson-thomas">President’s</persRef>, and not
+							finding him at home, left a Card.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-22">
+					<head>22 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-22"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>I called this morning at the Offices of the <persRef
+								ref="madison-james">Secretary of State</persRef>, and of the
+								<persRef ref="gallatin-albert">Secretary of the Treasury</persRef>,
+							but found neither of them there— Attended in Senate, where the principal
+							business done was upon a resolution offered by <persRef
+								ref="clinton-dewitt">M<hi rend="superscript">r</hi>
+								Clinton</persRef>, for designating in all future elections of
+							President and Vice-President, the persons who are to fill each of those
+							Offices— Several amendments were offered to this resolution, which was
+							finally committed to a select Committee, of five. It was near 3. o’clock
+							when the adjournment took place.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-23">
+					<head>23 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>There is no church of any denomination at this City, but
+							religious service is usually performed on Sundays at the
+							Treasury-Office, and at the Capitol— I went both forenoon and afternoon
+							to the Treasury, but found there was this day no preaching there, on
+							account of the Indisposition of <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Laurie</persRef>.— The two Senators
+							from Delaware, Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="wells-william2">Wells</persRef> and <persRef
+								ref="white-samuel2">White</persRef>, and <persRef
+								ref="huger-benjamin2">M<hi rend="superscript">r:</hi>
+								Huger</persRef> a Member of the House of Representatives from South
+							Carolina, called upon me this morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-24">
+					<head>24 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+						<subject>Supreme Court</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Called at the <persRef ref="madison-james">Secretary of
+								State’s</persRef> Office this morning, and had some conversation
+							with him, relative to the settlement of my Accounts during my residence
+							abroad, in the public service— But he still makes difficulties, beyond
+							what I conceive to be reasonable or proper— Called also on the <persRef
+								ref="gallatin-albert">Secretary of the Treasury</persRef>, but he
+							was not at his Office. <pb n="48" type="ms"/>Attended in Senate— The day
+							was spent in debate upon the proposed amendment to the Constitution,
+							respecting the election of President and Vice-President— No decision was
+							had— Some warm expressions pass’d between <persRef ref="clinton-dewitt"
+									>M<hi rend="superscript">r:</hi> Clinton</persRef> and <persRef
+								ref="dayton-jonathan">M<hi rend="superscript">r:</hi>
+								Dayton</persRef>— Dined with <persRef ref="cranch-william">M<hi
+									rend="superscript">r:</hi> Cranch</persRef>; who informed me
+							that he was about publishing a volume of Reports of Cases adjudged by
+							the Supreme Court of the United States, in this City.— Returning home I
+							stop’d at the Post-Office, and left a specimen of my signature, as
+							required by Law, for the purpose of franking my letters— The Clerks told
+							me it was unnecessary, as that direction of the Law was almost
+							universally neglected— That only one member of Congress had complied
+							with it this Session— I left however my signature and thus executed the
+							injunction of the law so far as respected myself.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-25">
+					<head>25 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-25"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>I called this morning at the Office of the <persRef
+								ref="gallatin-albert">Secretary of the Treasury</persRef>, but did
+							not find him there— Attended in Senate— <persRef ref="clinton-dewitt"
+									>M<hi rend="superscript">r:</hi> Clinton</persRef>, who is
+							appointed Mayor of the City of New-York, and will be obliged to be sworn
+							in at the beginning of the next month, went away early this morning— He
+							left an handsome written apology for the expressions he used yesterday,
+							offensive to <persRef ref="dayton-jonathan">M<hi rend="superscript"
+									>r:</hi> Dayton</persRef>, which was read by <persRef
+								ref="wright-robert">M<hi rend="superscript">r:</hi> Wright</persRef>
+							in his place— <persRef ref="breckinridge-john">M<hi rend="superscript"
+									>r:</hi> Breckinridge’s</persRef> bill for enabling the <persRef
+								ref="jefferson-thomas">President</persRef> to take possession of
+							Louisiana, was debated at the 2<hi rend="superscript">d:</hi> reading,
+							and is to be read the third time— M<hi rend="superscript">r:</hi> Wright
+							informed the Senate, that the reason why the decision upon the
+							Resolution for amending the Constitution in respect to the election of
+							President, was so vehemently press’d was, because M<hi
+								rend="superscript">r:</hi> Clinton the mover wanted to get through
+							with it before he went home— But that as other gentlemen wanted time and
+							the subject was important, he moved the subject be postponed for further
+							consideration untill to-morrow; which was done. He then called up his
+							Resolution for coming to a new choice of Secretary and other Officers of
+							the Senate— But it was determined by a bare majority not to take up the
+							consideration of this Resolution for the present.— Adjourned at about 1.
+							o’clock. P.M— I went in to the House of Representatives, and heard a
+								<persRef ref="elliot-james">M<hi rend="superscript">r:</hi>
+								Elliot</persRef> from Vermont for about an hour— <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracy</persRef>
+							made me acquainted with <persRef ref="griswold-roger">M<hi
+									rend="superscript">r:</hi> Griswold</persRef>.— Came home to
+							dinner between 3 and 4. o’clock— After dinner we went with the <persRef
+								ref="adams-louisa-catherine">Ladies</persRef> on board the ship
+							Cleopatra, which lies below in the river and is going to Amsterdam.—
+								<persRef ref="smith-john6">M<hi rend="superscript">r:</hi> John
+								Smith</persRef>, the second Senator from the State of Ohio, this day
+							was sworn and took his seat.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-26">
+					<head>26 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Called again at the Office of the <persRef
+								ref="gallatin-albert">Secretary of the Treasury</persRef> without
+							finding him— Saw the <persRef ref="harrison-richard">Auditor</persRef>
+							and shewed him the documents which had been required for the settlement
+							of my Accounts— Attended in the Senate. The bill for enabling the
+								<persRef ref="jefferson-thomas">President</persRef> to take
+							possession of Louisiana, and <hi rend="italic">for other purposes</hi>,
+							pass’d the 3<hi rend="superscript">d:</hi> reading— 26. yeas 6 nays. The
+							objection was to the second Section as Unconstitutional— After the bill
+							had pass’d M<persRef ref="breckinridge-john"><hi rend="superscript"
+									>r:</hi> Breckinridge</persRef>, who introduced it, had the
+							words <hi rend="italic">for other purposes</hi>, in the title altered
+							for <hi rend="italic">the temporary government of the same</hi>— We
+							adjourned about 1/2 past two.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-27">
+					<head>27 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Attended in Senate, where some private business was
+							done, and the Treaty of limits with Great-Britain was read the second
+							time— <persRef ref="wright-robert">M<hi rend="superscript">r:</hi>
+								Wright</persRef> called up his resolution for choosing a Secretary
+							and the other Officers of the Senate; but a motion to postpone the
+							consideration of the Resolution untill the 1<hi rend="superscript"
+								>st:</hi> Monday in October next prevailed. The votes were 17 to 13—
+							Adjourned quite early. I went in to the House of Representatives and
+							heard the debate there on the bill which yesterday pass’d the Senate—
+							The principal speakers were Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="griswold-roger">Griswold</persRef>, <persRef
+								ref="eustis-william">Eustis</persRef>, <persRef ref="randolph-john"
+								>J. Randolph</persRef>, <persRef ref="eppes-john">Eppes</persRef>,
+								<persRef ref="rodney-caesar">Rodney</persRef> and <persRef
+								ref="elliot-james">Elliot</persRef>— Home between 4 and 5.— Evening,
+							not very well.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-28">
+					<head>28 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>called at the <persRef ref="madison-james">Secretary of
+								State’s</persRef> Office, to give him a letter for <persRef
+								ref="randolph-edmund">M<hi rend="superscript">r:</hi>
+								Randolph</persRef>— Spoke to him also for a copy of Laws and
+							Journals for the Historical Society— I ask’d him whether the Executive
+							had made any arrangements with any member of either house to bring
+							forward the proposal for an Amendment to the Constitution to carry
+							through the Louisiana Treaty— That if any such arrangement was made, I
+							should wait <pb n="49" type="ms"/>wait quietly untill it should be
+							produced— But if not, I should think it my duty to move for such an
+							Amendment— He said he did not know that it was universally agreed that
+							it required an Amendment of the Constitution— But for his own part, had
+							he been on the floor of Congress he should have seen no difficulty in
+							acknowledging, that the Constitution had not provided for such a case as
+							this— That it must be estimated by the magnitude of the object, and that
+							those who had agreed to it, must rely upon the candour of their Country
+							for Justification— To all of which I agreed, but urged the necessity of
+							removing as speedily as possible all question on this subject, to which
+							he readily assented— He said he did not know that any arrangement had
+							been made; that probably when the objects of immediate pressure were
+							gone through it would be attended to, and if <hi rend="italic">he should
+								have any agency</hi> in concerting the measure, he would request the
+							gentleman who might propose it to consult previously with me.— Attended
+							in Senate.— <persRef ref="butler-pierce">M<hi rend="superscript">r:</hi>
+								Butler’s</persRef> Resolution for a <hi rend="italic">further</hi>
+							Negotiation with France under consideration, debated untill past 3. p.m.
+							when we adjourned— I was unwell in the Evening, and had been indeed so
+							the whole day— Had no rest last Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-29">
+					<head>29 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>In Senate— The debate was upon the bill to enable the
+								<persRef ref="jefferson-thomas">President</persRef> to take
+							possession of Louisiana &amp;c, which comes back from the House with
+							Amendments to the second Section— I moved an amendment to the last
+							Amendment from the house, by an addition of the words “consistently with
+							the Constitution of the U.S.” But it was objected that this was not in
+							order, my proposed amendment referring not to the Amendment from the
+							House, but to the original section of the bill, upon which this House,
+							having already acted could not now act again— The President so decided,
+							but requested the sense of the House which confirmed his decision. The
+							amendments were all rejected, and a Committee of Conference appointed.
+							The House of Rep: insisted— The Conferees met, and agreed, that the
+							Senate should recede from their disagreement to the amendments from the
+							House, and agree to the same, with a further amendment— When our
+							Conferees came in, the Senate agreed to that part of the report which
+							proposed to recede, but disagreed to the additional amendment of their
+							own Conferees— So the bill pass’d as amended in the House of
+							Representatives— It was observed as a rule and on all sides recognized
+							that the Speaker of the House and President of the Senate could not sign
+							an enrolled bill, but while those bodies are respectively in session—
+							Adjourned soon after 3. o’clock.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-30">
+					<head>30 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>Attended public service at the Capitol, where <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Rattoon</persRef> an
+							Episcopalian Clergyman from Baltimore, preached a sermon.— I afterwards
+							called on Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="wells-william2">Wells</persRef> and <persRef
+								ref="white-samuel2">White</persRef>, the Senators from Delaware, but
+							did not find them at their lodgings— Visited also <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Amory</persRef>, and <persRef
+								ref="pickering-timothy">M<hi rend="superscript">r:</hi>
+								Pickering</persRef>, with whom I found a number of the Connecticut
+							and Massachusetts members of Congress.— Walking home I met <persRef
+								ref="baldwin-abraham">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef>, with <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Morton</persRef>, who arrived with <persRef ref="u"
+									>M<hi rend="superscript">rs:</hi> Morton</persRef> last
+							Evening.— M<hi rend="superscript">r:</hi> Baldwin told me, he had called
+							with <persRef ref="butler-pierce">M<hi rend="superscript">r:</hi>
+								Butler</persRef> to see me— The <persRef
+								ref="adams-louisa-catherine">ladies</persRef> overtook me soon
+							after, in the Carriage, with which they had been visiting— I went with
+							them to <persRef ref="peter-david">M<hi rend="superscript">r:</hi> D.
+								Peter’s</persRef>, and to <persRef ref="huger-benjamin2">M<hi
+									rend="superscript">r:</hi> Huger’s</persRef>, at Georgetown—
+								<persRef ref="u">Captain Blackston</persRef> dined with us—
+							Afternoon we had a visit from <persRef ref="otis-samuel">M<hi
+									rend="superscript">r:</hi> Otis</persRef>, and in the evening
+							from <persRef ref="thornton-william">D<hi rend="superscript">r:</hi>
+								Thornton</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-31">
+					<head>31 October 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10-31"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>In Senate, <persRef ref="breckinridge-john">M<hi
+									rend="superscript">r:</hi> Breckinridge</persRef>, introduced a
+							resolution, to wear crape a month for the three illustrious patriots,
+								<persRef ref="adams-samuel">Samuel Adams</persRef>, <persRef
+								ref="pendleton-edmund">Edmond Pendleton</persRef> and <persRef
+								ref="mason-stevens">Stevens Thompson Mason</persRef>.— I asked for
+							the Constitutional Authority of the Senate to injoin upon its members
+							this act, and he referred to the manual, that such a regulation was
+							merely conventional, and not binding, upon the members. I then objected
+							against it, as improper in itself, tending to unsuitable discussions of
+							character, and to an employment of the Senate’s time in debates
+							altogether foreign to the <pb n="50" type="ms"/>the subjects which
+							properly belong to them— This led to a debate of three hours, in the
+							course of which the resolution was divided into two— One for M<hi
+								rend="superscript">r:</hi> Mason, as a matter of form and of course,
+							to a member of the Senate, holding the Office at the time of his
+							decease— The other for the two other illustrious patriots. The first was
+							unanimously agreed to— The last by a majority of 21 to 10— A Message
+							from the <persRef ref="jefferson-thomas">President</persRef>, with
+							several Indian Treaties was then read— And the Treaty of limits with
+							Great Britain, taken up as in Committee of the whole. <persRef
+								ref="butler-pierce">M<hi rend="superscript">r:</hi> Butler</persRef>
+							proposed an alteration in the 5<hi rend="superscript">th:</hi> Article,
+							and <persRef ref="smith-samuel2">M<hi rend="superscript">r:</hi> S.
+								Smith</persRef> intimated that since the ratification of the
+							Louisiana Treaty, this one must not be ratified at-all— Adjourned at 1/2
+							past 3.— I walk’d with <persRef ref="wells-william2">M<hi
+									rend="superscript">r:</hi> Wells</persRef>, as far as the
+							President’s House, where he, with several others of the Senators
+							dined.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-10-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day.</hi></date> From the 1<hi rend="superscript"
+								>st:</hi> to the 20<hi rend="superscript">th:</hi> of this month we
+							were upon our Journey from Quincy to Washington, with the customary
+							irregularity of travelling. Here my mode of life is more uniform— I rise
+							at about 7. Write in my own chamber untill 9. Breakfast— Dress, and soon
+							after ten begin my walk to the Capitol. The distance is two miles and an
+							half, and takes me 45 minutes— I get there soon after 11. and usually
+							find the Senate assembled. We sit untill 2 or 3. and when the
+							adjournment is earlier, I go in and hear the debates in the House of
+							Representatives. Home at 4. dine— And pass the Evening, idly, with
+								<persRef ref="adams-george">George</persRef> in my chamber, or with
+							the <persRef ref="adams-louisa-catherine">ladies</persRef>. They sup
+							between 9 and 10.— At 11. is the hour for bed— This great change in the
+							arrangement of my daily occupations and manner of living, has affected
+							my health in some degree, and the interest with which my mind seizes
+							hold of the public business, is greater than suits my comfort or can
+							answer any sort of public utility.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v18-1792-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="19"  mhs:precedingFile="JQADiaries-v18-1792-04-p014.xml" mhs:followingFile="JQADiaries-v18-1792-06-p023.xml" mhs:volume="18">
+				<bibl n="metadata"><date from="1792-05-01" to="1792-05-31"/></bibl>
+
+				<!-- DJQA 1792-05 DJQA18 May 1792 -->
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-01">
+					<head>1 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline>May.</dateline>
+						<p><date><hi rend="italic">1.</hi></date> Walk’d with <persRef
+								ref="english-thomas">M<hi rend="superscript">r:</hi> English</persRef>, as
+							clerk of the market at 6. A.M. before breakfast, and again at 11. Seized
+							a quantity of bread. A busy forenoon. P.M. more leisurely, read the
+								13<hi rend="superscript">th:</hi> philippic, &amp; wrote to this spot.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-02">
+					<head>2 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">2.</hi></date> Finished the philippics. Walk in
+							the Mall, towards Evening. unpleasant weather. club at <persRef
+								ref="dexter-aaron">D<hi rend="superscript">r:</hi> Dexter’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-03">
+					<head>3 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">3.</hi></date> Espinasse.— Busy at my office the
+							whole day. Evening there likewise. Wrote by way of amusement and of
+							exercise.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-04">
+					<head>4 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">4.</hi></date> Day and Evening again at my
+							Office. excepting a walk as usual. Bacon. Exõrs &amp; Adm̃<hi rend="superscript"
+								>rs:</hi> Cicero, in Catilinam.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-05">
+					<head>5 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">5.</hi></date> Attentive to my business.— Party
+							of the Club, went to <persRef ref="u">Pearce’s</persRef> to dine upon a
+							plan some time since proposed.— I did not go.— Alarm of fire 10 at
+							night— soon over— Ret<hi rend="superscript">d:</hi> with <persRef ref="u"
+								>Barton</persRef> to the Hall. 21. till noon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-06">
+					<head>6 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">6.</hi></date>
+							<persRef ref="clarke-john">M<hi rend="superscript">r:</hi> Clarke</persRef>.—
+								<persRef ref="u;u">M<hi rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Abbot</persRef>, to dine— <persRef ref="u">M<hi
+									rend="superscript">r.</hi> Lambert</persRef>, and another french
+							gentleman at tea.— Walk’d to Roxbury in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-07">
+					<head>7 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">7.</hi></date> Long walk before breakfast. met
+								<persRef ref="sigourney-charles">M<hi rend="superscript">r.</hi>
+								Sigourney</persRef>.— Did his business. <persRef ref="bacon-matthew"
+								>Bacon</persRef> &amp; <persRef ref="cicero-marcus">Cicero</persRef>
+							pro Rabirio.— Walk in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-08">
+					<head>8 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">8.</hi></date> C.C.P. met for Judgments.
+							Discussion with <persRef ref="otis-harrison">Otis</persRef>, rather
+							incautious. mem<hi rend="superscript">m:</hi> to reform it. Town meeting P.M.
+							Walk this Eveg. in the Mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-09">
+					<head>9 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">9.</hi></date> Dined with <persRef
+								ref="otis-harrison">Otis</persRef>. <persRef ref="u">Capt<hi
+									rend="superscript">n:</hi> Coffin</persRef>. <persRef
+								ref="tudor-william">M<hi rend="superscript">r:</hi> Tudor</persRef>.
+								<persRef ref="hichborn-hannah">M<hi rend="superscript">rs.</hi>
+								Hichborn</persRef>. Eve<hi rend="superscript">g.</hi> agreeably at <persRef
+								ref="breck-samuel2">M<hi rend="superscript">r:</hi> Breck’s</persRef>. only
+							the young ladies &amp; <persRef ref="gray-s">Miss Gray</persRef>.
+								<persRef ref="adams-john">My father</persRef> &amp; family arrived
+							home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-10">
+					<head>10 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">10.</hi></date> Party at fresh-pond this
+							afternoon— Rode with <persRef ref="u">Miss Templeman</persRef>, <persRef
+								ref="breck-lucy">Miss L. Breck</persRef> and <persRef
+								ref="amory-mary2">Miss M. Amory</persRef>.— <persRef
+								ref="amory-thomas">T. Amory</persRef> &amp; <persRef
+								ref="callender-john">Callender</persRef>, pleasant ride—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-11">
+					<head>11 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">11.</hi></date> Town meeting P.M. Question
+							respecting the poor. <persRef ref="wendell-e">E. Wendell</persRef>,
+							oratorical. Evening at <persRef ref="breck-samuel2">M<hi rend="superscript"
+									>r:</hi> Breck’s</persRef>: large collection of Ladies, &amp;
+							well chosen.— Att<hi rend="superscript">d:</hi>
+							<persRef ref="amory-mary2">Miss Amory</persRef> home—return’d, &amp;
+							walk d in the mall, with <persRef ref="breck-lucy;lloyd-hannah">Miss
+								Breck’s</persRef> and <persRef ref="u">Miss Templeman</persRef>.
+							home with the latter.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-12">
+					<head>12 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">12.</hi></date> Circuit Court, met and
+							adjourned.— Busy most of the day, with <persRef ref="adams-john">my
+								father’s</persRef> affairs. Went out to Quincy at night, overtaken
+							by the rain.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-13">
+					<head>13 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="20" type="ms"/><date><hi rend="italic">13.</hi></date> Rain, in
+							the morning. No meeting. <persRef ref="adams-abigail">M<hi rend="superscript"
+									>rs:</hi> A.</persRef> went over to Weymouth. Thunder shower.
+								<persRef ref="cranch-william">W. Cranch</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-14">
+					<head>14 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">14.</hi></date> Return’d to Boston, with <persRef
+								ref="adams-john">my father</persRef>. Circuit Court. Charge from the
+							C.J. to the Jury— <persRef ref="smith-william3">M<hi rend="superscript">r.</hi>
+								Smith</persRef> dined with us. 4. P.M. before <persRef
+								ref="gardner-joseph">M<hi rend="superscript">r:</hi> Gardner</persRef> for
+								<persRef ref="hunt-e">E. Hunt</persRef>. Walk in the Evening with
+								<persRef ref="barrell-j5">J. Barrell</persRef> &amp; <persRef
+								ref="breck-samuel2">S. Breck</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-15">
+					<head>15 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">15.</hi></date> Court A.M.— Party to fresh pond
+							in the afternoon. Collection somewhat miscellaneous. Rode with <persRef
+								ref="u">Miss Payne</persRef>, <persRef ref="u">Miss
+								Winslow</persRef> and <persRef ref="amory-mary2">Miss M.
+								Amory</persRef>.— <persRef ref="borland-samuel">S.
+							Borland</persRef>, &amp; <persRef ref="frazier-nathan">N.
+								Frazier</persRef>.— Walks there—a tour in a boat, &amp; the return
+							home, not unpleasant. Walk with F. in the mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-16">
+					<head>16 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">16.</hi></date> Rainy day. Circuit Court sat, and
+							decided a Question, upon the consular convention, against their own
+							Jurisdiction— And as commissioners upon applications of invalids for
+							pensions.— Eve<hi rend="superscript">g:</hi> at my Office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-17">
+					<head>17 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">17.</hi></date> Court sat, principally upon
+							applications for pensions. Spent my time not to much purpose in
+							attending on it. Walk this Eve<hi rend="superscript">g:</hi> in the mall.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-18">
+					<head>18 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">18.</hi></date> All day at sale of books.
+							Purchased a few. <persRef ref="sohier-edward">E. Sohier</persRef> &amp;
+								<persRef ref="townsend-horatio">Townsend</persRef>. Dined at
+								<persRef ref="gore-christopher">M<hi rend="superscript">r:</hi>
+								Gore’s</persRef>, large Company there. <persRef ref="parker-samuel2"
+									>D<hi rend="superscript">r:</hi> Parker</persRef>, on <persRef
+								ref="gibbon-edward">M<hi rend="superscript">r:</hi> Gibbon</persRef>, &amp;
+								<persRef ref="priestley-joseph">D<hi rend="superscript">r</hi>
+								Priestley</persRef>. Walk with <persRef ref="callender-john"
+								>Callender</persRef>— Evening at <persRef ref="u">Miss
+								Templeman’s</persRef>. <persRef ref="foster-elizabeth3;foster-mary2"
+								>Miss Foster’s</persRef>, <persRef ref="gardner-s">Miss S.
+								Gardner</persRef>, <persRef ref="breck-lucy">Miss L.
+							Breck</persRef>.— Dull!—more than Dull! Home with Miss M. Foster. Very
+							cool.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-19">
+					<head>19 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">19.</hi></date> Dined at <persRef
+								ref="lowell-john2">Judge Lowell’s</persRef>: Roxbury, numerous
+							company. Ladies and Gentlemen. Late at table. From thence to Quincy.
+							Arrived after 9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-20">
+					<head>20 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">20.</hi></date>
+							<persRef ref="u">M<hi rend="superscript">r:</hi> Smith</persRef> &amp; <persRef
+								ref="storer-charles">M<hi rend="superscript">r:</hi> C. Storer</persRef>.
+							Meeting. <persRef ref="u">M<hi rend="superscript">r:</hi> Root</persRef>.—
+								<persRef ref="wendell-e">E. Wendell</persRef>, came in while we were
+							at dinner— Amusing, but tedious. Company, in the afternoon—read in the
+							office.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-21">
+					<head>21 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">21.</hi></date> Returned to Town. Severe
+							toothache, great part of the day. Evening at <persRef ref="gray-s">Miss
+								Gray’s</persRef>. large company of Ladies there. amused my pain away
+							for a short time.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-22">
+					<head>22 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">22.</hi></date> Sleepless night. Went at 6. A.M.
+							to <persRef ref="flagg-josiah2">Flagg</persRef> the dentist. He cleaned
+							my teeth; but knew not which to draw. Advised me to take out two. an
+							insipid coxcomb. left him as such— Had an excruciating day. Could attend
+							to no business. Read however <persRef ref="u">Davis’s</persRef>
+							Miscellanies. Eve<hi rend="superscript">g.</hi> at home. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Smith</persRef> &amp; <persRef
+								ref="carter-nathaniel">N. Carter</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-23">
+					<head>23 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">23.</hi></date> Little sleep. painful night.
+							Supported it however till this afternoon. Finally prevailed upon
+								<persRef ref="welsh-thomas">D<hi rend="superscript">r:</hi> Welsh</persRef>
+							to draw one of my teeth. Hit the right one, &amp; was immediately
+							relieved. Club this Eve at <persRef ref="minot-george">M<hi rend="superscript"
+									>r:</hi> Minot’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-24">
+					<head>24 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">24.</hi></date> Warm weather. Evening at <persRef
+								ref="u">Miss Payne’s</persRef>. number of Ladies. Con<unclear>v:</unclear> with
+								<persRef ref="gray-s">S. Gray</persRef>, upon a subject once very
+							interesting, but at present indifferent. Walk in the mall— N.B. young
+								<persRef ref="u">Read</persRef> there—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-25">
+					<head>25 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">25.</hi></date>
+							<persRef ref="wetmore-william">M<hi rend="superscript">r:</hi>
+							Wetmore</persRef>— Walk this Eve<hi rend="superscript">g.</hi> in the Mall.
+								<persRef ref="barrett-samuel">Justice Barrett</persRef>. Met Ladies,
+							&amp; walk’d with them. <persRef ref="breck-lucy">L. Brec</persRef>—
+								rem<hi rend="superscript">r:</hi> of the Eve<hi rend="superscript">g.</hi> at
+								<persRef ref="breck-samuel2">M<hi rend="superscript">r:</hi>
+								Breck’s</persRef>. home with <persRef ref="geyer-m">M.
+								Geyer</persRef>.— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Gilman</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-26">
+					<head>26 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">26.</hi></date> Took pains to send a Letter to
+							Pownalborough but in vain. <persRef ref="wendell-e">M<hi rend="superscript"
+									>r.</hi> Wendell’s</persRef> in the morning. he was much
+							affected.— To Quincy P.M. with <persRef ref="charlotte5"
+								>Charlotte</persRef>. Unfortunate accident. hurt a boy. Late home.
+								Ch<hi rend="superscript">ge:</hi> of weath<unclear>er.</unclear></p>
+						<p><pb n="21" type="ms"/></p>
+						<p><pb n="22" type="ms"/></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-27">
+					<head>27 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="23" type="ms"/><date><hi rend="italic">27.</hi></date> Very Cold,
+							the whole day; and rainy during a great part of it. <persRef
+								ref="dalton-tristram">M<hi rend="superscript">r:</hi> Dalton</persRef>, and
+							the french Consul, came from Boston to dine with us. political conv<hi
+								rend="superscript">n:</hi> Consul, <hi rend="italic">profond.</hi></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-28">
+					<head>28 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">28.</hi></date> Returned to Boston. Weather
+							growing warm again. Walk in the Mall this Evening; with <persRef
+								ref="amory-f">F. Amory</persRef>, and <persRef ref="gray-james2">J.
+								Gray</persRef>. Saw likewise <persRef ref="amory-thomas">T.
+								Amory</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-29">
+					<head>29 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">29.</hi></date> Purchased a few books at auction.
+								<persRef ref="adams-john">My father</persRef> in Town— A. Academy:
+							annual meeting. Evening at <persRef ref="u">M<hi rend="superscript">rs:</hi>
+								Amory’s</persRef>—company not very large but agreeable. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Gilman</persRef> entr’ autres.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-30">
+					<head>30 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">30.</hi></date> Very warm day. Election Sermon,
+							preached by <persRef ref="tappan-david">M<hi rend="superscript">r:</hi>
+								Toppan</persRef>: ingenious. Dined with <persRef
+								ref="smith-william3">M<hi rend="superscript">r:</hi> Smith</persRef>.
+								<persRef ref="adams-john">My father</persRef> at <persRef
+								ref="welsh-thomas">D<hi rend="superscript">r:</hi> Welsh’s</persRef>. Upon
+							the Common P.M. Evening at <persRef ref="breck-samuel2">M<hi rend="superscript"
+									>r:</hi> Breck’s</persRef>. Succession of Company numerous.
+							beautiful Eve. Squib thrown in at the window.— Saw <persRef
+								ref="wigglesworth-sarah">Miss Wigglesworth</persRef> &amp; <persRef
+									ref="brown-katherine">Miss Jones</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v18-1792-05-31">
+					<head>31 May 1792</head>
+					<bibl><author>JQA</author><date type="creation" when="1792-05-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">31.</hi></date> Uncommonly warm. mere dog-days.
+							Dined at <persRef ref="clarke-john">M<hi rend="superscript">r:</hi>
+								Clarke’s</persRef>, number of clergymen. <persRef
+								ref="austin-benjamin">B. Austin</persRef>— Rode to <persRef ref="u"
+								>Wiswell’s</persRef> at Dorchester towards Eve<hi rend="superscript">g.</hi>
+							with <persRef ref="pickman-benjamin">Pickman</persRef>, <persRef
+								ref="welles-j">Wells</persRef> and <persRef ref="amory-thomas">T.
+								Amory</persRef>. As we returned, stopped &amp; pass’d an hour at
+								<persRef ref="u">M<hi rend="superscript">rs:</hi> Amory’s</persRef>.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1803-12">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="54"
+				mhs:precedingFile="JQADiaries-v27-1803-11-p050.xml"
+				mhs:followingFile="JQADiaries-v27-1804-01-p060.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1803-12-01" to="1803-12-31"/></bibl>
+
+				<!--D/JQA/27.369-->
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-01">
+					<head>1 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">December 1803.</hi></dateline>
+						<p><date>1. </date>The debate on the Constitutional Amendment was again
+							resumed; a new proposition to provide for the case of a non-election by
+							the House of Representatives was made, and occasioned a variety of
+							motions and discussions untill the adjournment— The <persRef
+								ref="adams-louisa-catherine">Ladies</persRef> took me home— They had
+							been to hear the debate— The final question was still postponed.
+								<persRef ref="condit-john">M<hi rend="superscript">r:</hi>
+								Condit</persRef> was absent from his seat— <persRef
+								ref="ward-charlotte">His daughter</persRef> being dead so that he
+							will probably not go.— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Stoddard</persRef> here this afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-02">
+					<head>2 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="55" type="ms"/>
+						<p><date>2. </date>In Senate from eleven this morning untill almost ten at
+							night, when the question on the proposed amendment to the Constitution
+							was taken and carried— 22 yeas, and 10 nays; among which was my vote—
+							Several good speeches were made by the members in the minority— That by
+								<persRef ref="tracy-uriah">M<hi rend="superscript">r</hi>
+								Tracy</persRef> was peculiarly excellent— On the other hand <persRef
+								ref="taylor-john2">M<hi rend="superscript">r:</hi>
+								Taylor’s</persRef> was unquestionably the best— It was almost 11.
+							when I got home, having fasted the whole day— <persRef
+								ref="adams-george">George</persRef> is quite ill with a fever.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-03">
+					<head>3 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date><persRef ref="adams-george">George</persRef> continues
+							very ill— The Senate did not meet. I called at the <persRef
+								ref="harrison-richard">Auditor’s</persRef> office but did not find
+							him there— My account however is at last made out and the balance drawn,
+							ready to be transmitted to the <persRef ref="duval-gabriel"
+								>comptroller’s</persRef> office— Visit to <persRef ref="tayloe-john"
+									>M<hi rend="superscript">r</hi> Tayloe</persRef>, who was not at
+							home— Writing, the greatest part of the day— In the evening somewhat
+							unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-04">
+					<head>4 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Heard <persRef ref="laurie-james">M<hi rend="superscript"
+									>r:</hi> Laurie</persRef> (I believe) at the Treasury Office.
+							Visited <persRef ref="lincoln-levi">M<hi rend="superscript">r:</hi>
+								Lincoln</persRef>, the Attorney General, and <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r</hi> Tracy</persRef>;
+							with whom I had some particular conversation— <persRef
+								ref="griswold-roger">M<hi rend="superscript">r:</hi>
+								Griswold</persRef> came in; and I unwisely continued the
+							conversation— Detained M<hi rend="superscript">r:</hi> Tracy from his
+							dinner— <persRef ref="u">M<hi rend="superscript">r:</hi> Elwin</persRef>
+							&amp; <persRef ref="sheldon-daniel">M<hi rend="superscript">r:</hi>
+								Sheldon</persRef> spent the evening with us— <persRef ref="u">D<hi
+									rend="superscript">r:</hi> Weems</persRef> attended <persRef
+								ref="adams-george">George</persRef>, and thinks him better— My
+							self-examination this Night, gave rise to many mortifying reflections—
+							This practice to which I have long accustomed myself in compliance with
+							the antient rule, is itself not so satisfactory, as in theory it
+							appears.— Of the errors, imprudences and follies which reflection
+							discovers to me in my own conduct, I do not correct myself by the
+							discovery.— Pride, and self-conceit and presumption lie so deep in my
+							natural character that when their deformity betrays them, they run
+							through all the changes of Proteus, to disguise themselves to my own
+							heart— I often see, and often condemn my faults— But for the efficacy of
+							correction I am afraid some penalty is necessary. Voluntary penance is
+							excluded from our systems of morality as a superstitious practice, and I
+							have never tried it— Yet to render self-examination of much use I
+							believe it necessary.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-05">
+					<head>5 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Returned the visit of <persRef ref="merry-anthony">M<hi
+									rend="superscript">r:</hi> Merry</persRef>, the British
+							Minister, who has just arrived. He was not at home— In Senate; which was
+							thinner than it has been heretofore— The great question being decided,
+							many of the members think they may now indulge themselves in some
+							relaxation— <persRef ref="tracy-uriah">M<hi rend="superscript">r:</hi>
+								Tracy</persRef> made a motion for a Committee to report amendments
+							to the bankrupt Law, instead of repealing it— This prevented the repeal
+							from passing this day to the third reading. <persRef ref="wright-robert"
+									>M<hi rend="superscript">r:</hi> Wright’s</persRef> motion for
+							appointing a Committee to make a form or forms of Government for
+							Louisiana, was considered. I opposed the appointment of such a Committee
+							on the ground that we ought to make no form of Government for them
+							without consulting the people, and without knowing something more of
+							them. The Committee however was appointed. 5 members. <persRef
+								ref="butler-pierce">M<hi rend="superscript">r:</hi> Butler</persRef>
+							laid on the table a motion for a rule of order respecting
+							reconsiderations— Senate rose about 3. I called at <persRef
+								ref="stelle-pontius">Stelle’s</persRef> to see <persRef
+								ref="smith-william-loughton">M<hi rend="superscript">r:</hi> W.
+								Smith</persRef>, late minister at Lisbon, who has just returned from
+							Europe; but he was not at his lodgings— I had a short conversation with
+								M<hi rend="superscript">r:</hi> Tracy.— This evening I read in
+								<persRef ref="thomson-james">Thomson’s</persRef>
+							<hi rend="strikethrough">in</hi> Seasons to the <persRef
+								ref="adams-louisa-catherine">Ladies</persRef>. Spring. <persRef
+								ref="hellen-walter">M<hi rend="superscript">r:</hi> Hellen</persRef>
+							very unwell— My <persRef ref="adams-george">George</persRef> is much
+							recovered.— I took again this day too much part in the debate— I <hi
+								rend="italic">must</hi> check myself or become worse than
+							ridiculous.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-06">
+					<head>6 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-06"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>The bill for repealing the bankrupt Law was made the
+							order of the day for to-morrow— Bill for establishing the Salaries of
+							the Executive Officers, had the 2<hi rend="superscript">d:</hi> reading.
+							Indiana Territory bill pass’d— The Senate adjourned early— I went in to
+							the House of Representatives, where they debated, on the proposed
+							Amendment to the Constitution, the question, whether two thirds of the
+							members present, being a quorum to do business, are competent to propose
+							Amendments, or whether it does not require two thirds of the whole
+							number— Decided that two thirds of the members present are sufficient—
+							Read in <persRef ref="raynal-guillaume">Raynal’s</persRef> 2<hi
+								rend="superscript">d:</hi> volume, which I took from the library.
+							Saw <persRef ref="smith-william-loughton">M<hi rend="superscript"
+									>r:</hi> W. Smith</persRef>, and <persRef ref="tousard-louis"
+									>Col<hi rend="superscript">l:</hi> Tousard</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-07">
+					<head>7 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="56" type="ms"/>
+						<p><date>7. </date><persRef ref="burr-aaron">M<hi rend="superscript">r:</hi>
+								Burr</persRef>, the Vice-President of the United States, attended,
+							and took the chair as President of the Senate. <persRef
+								ref="armstrong-john">General Armstrong</persRef>, appointed by the
+								<persRef ref="clinton-george">Governor of New-York</persRef> a
+							Senator instead of <persRef ref="clinton-dewitt">De Witt
+								Clinton</persRef>; also took his seat. All the business before the
+							Senate was postponed, and a very early adjournment took place.— I went
+							into the House of Representatives, and heard a debate on the proposed
+							amendment of the Constitution, untill past 4 o’clock; left the House
+							still engaged upon it— They sat untill 9. in the evening, and did not
+							take the final question— Read to the <persRef
+								ref="adams-louisa-catherine">Ladies</persRef> in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-08">
+					<head>8 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date><persRef ref="tracy-uriah">M<hi rend="superscript"
+									>r:</hi> Tracy</persRef> has not attended in Senate these two
+							days— The debate this day was on the repeal of the bankrupt Law.
+							Continued untill four o’clock, when an adjournment took place without
+							coming to a decision— Several amendments were attempted, to prevent the
+							decision on the question of absolute repeal; but all were rejected.—
+							This morning at 10. the Committee to prepare forms of Government for
+							Louisiana were to have met; but three out of five were too late— We are
+							to meet to-morrow— I called this morning at the bank— Read in the
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-09">
+					<head>9 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Met the Committee to prepare a form or forms of
+							Government for Louisiana— <persRef ref="breckinridge-john">M<hi
+									rend="superscript">r:</hi> Breckenridge</persRef> chairman,
+								<persRef ref="baldwin-abraham">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef> and <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>. (<persRef
+								ref="jackson-james2">M<hi rend="superscript">r:</hi>
+								Jackson</persRef> the other member of the Committee was absent, from
+							illness.)— We had some conversation on the subject— M<hi
+								rend="superscript">r:</hi> Breckenridge had a form of Government
+							ready prepared. My ideas are so different from those entertained by the
+							Committee, that I have nothing to do but to make fruitless opposition.
+							In Senate, the repeal of the bankrupt law was pass’d to a third
+							reading.— My motion for a Committee to inquire and report further
+							measures to carry into effect the Louisiana Treaty, was considered and
+							rejected— <persRef ref="pickering-timothy">M<hi rend="superscript"
+									>r:</hi> Pickering</persRef> and <persRef ref="hillhouse-james"
+									>M<hi rend="superscript">r:</hi> Hillhouse</persRef> only
+							supported it— <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Francis</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Stuart</persRef>, and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Baring</persRef> dined at <persRef ref="hellen-walter"
+									>M<hi rend="superscript">r:</hi> Hellen’s</persRef>. The
+							Constitutional Amendment pass’d this day the House of
+							Representatives.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-10">
+					<head>10 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-10"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Louisiana Purchase</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>I call’d this morning at the <persRef
+								ref="madison-james">Secretary of State’s</persRef> Office and had
+							some conversation with <persRef ref="wagner-jacob">M<hi
+									rend="superscript">r:</hi> Wagner</persRef>— Among other things,
+							he read me <persRef ref="barbemarbois-francois">M<hi rend="superscript"
+									>r:</hi> Marbois’s</persRef> project for the Louisiana Treaty—
+							And told me there had been addresses from some inhabitants of Louisiana
+							soliciting the Government of the United States to take possession of
+							that Country, before the Treaty was made.— I called afterwards at the
+								<persRef ref="harrison-richard">auditor’s</persRef> office, to see
+							how the settlement of my Accounts stands. It was gone to the <persRef
+								ref="duval-gabriel">Comptroller’s</persRef>— I called also at that
+							office; but the account had not yet pass’d examination there— Visited
+								<persRef ref="stoddert-benjamin">M<hi rend="superscript">r</hi>
+								Stoddert</persRef>, and <persRef ref="mason-john">M<hi
+									rend="superscript">r</hi> J. Mason</persRef> at Georgetown.—
+							Read this evening in <persRef ref="raynal-guillaume"
+							>Raynal</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-11">
+					<head>11 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-11"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>Heard <persRef ref="parkinson-william">M<hi
+									rend="superscript">r:</hi> Parkinson</persRef> preach at the
+							Capitol— Going up there I overtook <persRef ref="coffin-charles">M<hi
+									rend="superscript">r:</hi> Coffin</persRef> the President of the
+							Tennessee College, whom I saw last summer in Boston— After the sermon, I
+							paid a visit to <persRef ref="lowndes-thomas">M<hi rend="superscript"
+									>r:</hi> Lowndes</persRef>— <persRef ref="burrows-william"
+									>Col<hi rend="superscript">l:</hi> Burrows</persRef> there—
+							Drench’d with rain, as I return’d home—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-12">
+					<head>12 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>At the Senate, <persRef ref="butler-pierce">M<hi
+									rend="superscript">r:</hi> Butler’s</persRef> proposed amendment
+							to the Constitution was rejected— The yeas 4 nays 27. That which has
+							pass’d both houses came enroll’d, with a resolution requesting the
+								<persRef ref="jefferson-thomas">President</persRef> to transmit
+							copies of it to the Executives of the several States to be laid before
+							the several legislatures.— <persRef ref="tracy-uriah">M<hi
+									rend="superscript">r:</hi> Tracy</persRef> moved that the
+							Amendment should be sent to the President for his signature— This was
+							rejected yeas <hi rend="strikethrough">24</hi> 7 nays <hi
+								rend="strikethrough">7</hi> 24. The order requesting the President
+							to transmit the copies was then pass’d— Adjourn’d 1/2 past 3.— <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Cook</persRef> dined at
+								<persRef ref="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen’s</persRef>— A <persRef ref="u">D<hi rend="superscript"
+									>r:</hi> Rogers</persRef> came in after dinner— I was quite
+							unwell in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-13">
+					<head>13 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-13"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>We had another debate this morning, concerning 17.
+							copies of the Amendment to the Constitution— And a letter from the
+								<persRef ref="otis-samuel">Secretary of the Senate</persRef> to
+							defend himself against an outrageous and totally unjustifiable insult
+							offered him yesterday in debate by <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>— Afterwards the bill
+							to repeal the bankrupt Act, was read the third time, and pass’d—yeas 17.
+							Nays 12.— <persRef ref="venable-abraham">M<hi rend="superscript">r:</hi>
+								Venable</persRef> a Senator from Virginia, in the room of <persRef
+								ref="taylor-john2">M<hi rend="superscript">r:</hi> Taylor</persRef>
+							produced his credentials and took his seat and the Oath— Read to the
+								<persRef ref="adams-louisa-catherine">Ladies</persRef> in <persRef
+								ref="raynal-guillaume">Raynal</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-14">
+					<head>14 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>The principal business of this day was a debate upon a
+							bill for fixing the salaries of certain Officers in the Executive
+							departments— Those of the post-master General and his assistant were
+							raised. One or two other bills of minor importance were read the 3<hi
+								rend="superscript">d:</hi> time and pass’d— Adjourned at 3. I went
+							into the House of Representatives, where they were debating on a bill to
+							abolish the Commissioners of loans. <persRef ref="eustis-william">D<hi
+									rend="superscript">r:</hi> Eustis</persRef> spoke &amp; <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi> J. Randolph
+									jun<hi rend="superscript">r:</hi></persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-15">
+					<head>15 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="57" type="ms"/>
+						<p><date>15. </date>The two Senators from the State of Ohio were classed—
+								<persRef ref="worthington-thomas">M<hi rend="superscript">r:</hi>
+								Worthington</persRef> drew a lot for four years, and <persRef
+								ref="smith-john6">M<hi rend="superscript">r</hi> Smith</persRef> a
+							lot for six— The salary bill was read the third time and pass’d— The
+							question negatived yesterday was again debated and rejected— On
+							Executive business several nominations to offices were confirmed—
+							Adjourned between 2 and 3.— Dined with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> at <persRef ref="smith-robert">M<hi
+									rend="superscript">r:</hi> R. Smith’s</persRef>— The Secretary
+							of the Navy— <persRef ref="merry-anthony">M<hi rend="superscript"
+									>r:</hi> Merry</persRef>, the English Minister recently arrived,
+							was there. <persRef ref="madison-james;madison-dolley">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Madison</persRef>— <persRef
+								ref="livingston-henry2;livingston-mary">M<hi rend="superscript"
+									>r:</hi> and M<hi rend="superscript">rs:</hi>
+								Livingston</persRef> of New-York, <persRef ref="pickering-timothy"
+									>M<hi rend="superscript">r:</hi> Pickering</persRef>, <persRef
+								ref="armstrong-john">Gen<hi rend="superscript">l:</hi>
+								Armstrong</persRef>, <persRef ref="u">Captain Campbell</persRef>,
+							and some other Gentlemen. In the evening, went with M<hi
+								rend="superscript">rs:</hi> A. and <persRef
+								ref="hellen-ann;frye-carolina;boyd-harriet">her three elder
+								sisters</persRef> to the city Assembly. The room very small and much
+							crowded— Home at 2 in the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-16">
+					<head>16 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>There was very little business for the Senate to do, and
+							they adjourned early, after appointing several Committees— I went into
+							the House of Representatives where they were debating in Committee of
+							the whole a bill to introduce our revenue system into Louisiana— It
+							pass’d in the Committee and in the House, at the second reading— I
+							understand no opposition is intended against it— So at least <persRef
+								ref="huger-benjamin2">M<hi rend="superscript">r:</hi>
+								Huger</persRef> told me. Read this evening in <persRef
+								ref="raynal-guillaume">Raynal</persRef>.— Senate adjourned to
+							Monday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-17">
+					<head>17 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date><persRef ref="breckinridge-john">M<hi rend="superscript"
+									>r:</hi> Breckenridge</persRef> appointed a meeting of the
+							Louisiana Government Committee for 10 o’clock this morning. The members
+							all met accordingly excepting <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>. The subject was
+							discussed untill almost two o’clock. The majority agreed upon several
+							principles, on which the chairman is to draw up his bill— My objections
+							were and will be of no avail— Paid a Visit to the <persRef
+								ref="burr-aaron">Vice-President</persRef>, who was not at home—
+							Called on <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Morton</persRef>— He was gone to Alexandria— This morning I visited
+								<persRef ref="thornton-william">M<hi rend="superscript">r:</hi>
+								Thornton</persRef>— In the evening, some of the <persRef
+								ref="adams-louisa-catherine">Ladies</persRef> went out— I finished
+							reading the second and began the third volume of <persRef
+								ref="raynal-guillaume">Raynal</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-18">
+					<head>18 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-18"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Lowry</persRef> at the Treasury, this
+							morning— Return’d a visit to <persRef ref="u">General Stone</persRef>;
+							who was not at his lodgings— As I return’d home, <persRef
+								ref="burr-aaron">M<hi rend="superscript">r:</hi> Burr</persRef> the
+							Vice-President return’d mine of yesterday to him. <persRef
+								ref="thornton-anna">M<hi rend="superscript">rs</hi>
+								Thornton</persRef> and <persRef ref="brodeau-ann">her
+								mother</persRef> also were here— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Stone</persRef> and his two daughters
+							here at tea— The eldest is very pretty. Music all this evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-19">
+					<head>19 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>The principal debate of this day was on a motion of
+								<persRef ref="wright-robert">M<hi rend="superscript">r:</hi>
+								Wright</persRef> for a rule of order allowing every member of the
+							Senate to introduce his friends upon the floor of the house— It was
+							finally rejected—read this evening in <persRef ref="raynal-guillaume"
+								>Raynal</persRef> vol: 3.— Received a letter from <persRef
+								ref="hall-joseph">Jos: Hall</persRef> and one from <persRef
+								ref="adams-abigail">my mother</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-20">
+					<head>20 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Going to the Senate this morning the <persRef
+								ref="burr-aaron">Vice-President</persRef> in his carriage overtook
+							me, and offered me a seat which I accepted. He enquired after my father,
+							and spoke of his <hi rend="italic">social</hi> intimacy with him when he
+							was a Senator, and <persRef ref="adams-john">my father</persRef>
+							Vice-President. The Senate had little business before them and soon
+							adjourned— <persRef ref="huger-benjamin2;huger-mary">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Huger</persRef> and <persRef ref="purviance-samuel">M<hi
+									rend="superscript">r:</hi> Purviance</persRef>, a member of
+							Congress from North Carolina pass’d the evening with <persRef
+								ref="adams-louisa-catherine">us</persRef>.— Snow.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-21">
+					<head>21 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>Of the Committee appointed to inquire and report on the
+							Treaty of limits with Great-Britain, <persRef ref="nicholas-wilson">M<hi
+									rend="superscript">r:</hi> Nicholas</persRef> is absent, and
+								<persRef ref="wright-robert">M<hi rend="superscript">r:</hi>
+								Wright</persRef> and myself could not agree upon a report— I moved
+							that the Committee should be discharged—which after debate was rejected,
+							and <persRef ref="venable-abraham">M<hi rend="superscript">r:</hi>
+								Venable</persRef> added to the Committee in the room of M<hi
+								rend="superscript">r</hi>
+							<hi rend="strikethrough">Wright</hi> Nicholas— A message was received
+							from the <persRef ref="jefferson-thomas">President</persRef> containing
+							a long correspondence between <persRef ref="pinckney-thomas">M<hi
+									rend="superscript">r:</hi> Pinckney</persRef> and the Spanish
+							Government; the reading of which took more than two hours. Adjourned
+							after 3. I rode to the Capitol with the <persRef
+								ref="adams-louisa-catherine">Ladies</persRef> who were visiting.—
+							Received there the news of the death of my excellent friend <persRef
+								ref="murray-william2">William Vans Murray</persRef>, one of the
+							dearest and oldest friends I had— He died on the 11<hi
+								rend="superscript">th:</hi> inst<hi rend="superscript">t:</hi>— I
+							spent the evening in my own chamber, reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-22">
+					<head>22 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22. </date>The salary bill was returned to us from the House of
+							Representatives as I expected, with the amendments disagreed to— The
+							Senate insisted and appointed conferees— I think they will finally be
+							compelled to recede. <pb n="58" type="ms"/>Second reading of a bill for
+							punishing the crime of destroying ships— It was recommitted, and two
+							additional members put on the Committee.— <persRef ref="bradley-stephen"
+									>M<hi rend="superscript">r:</hi> Bradley</persRef> offered a
+							resolution respecting the Spanish Convention— To lay for consideration—
+							A resolution was moved by <persRef ref="smith-samuel2">M<hi
+									rend="superscript">r:</hi> S. Smith</persRef> to adjourn from
+							to-morrow untill Monday 2. January 1804. On the vote 12 for 12 against
+							the Resolution; the <persRef ref="burr-aaron">Vice-President</persRef>
+							decided against it. <persRef ref="tracy-uriah">M<hi rend="superscript"
+									>r:</hi> Tracy</persRef> gave notice he should renew the motion
+							to-morrow— In the evening the <persRef ref="adams-louisa-catherine"
+								>Ladies</persRef> went to the ball at George-town— Read in <persRef
+								ref="moreau-mederic">Moreau de S<hi rend="superscript">t:</hi>
+								Mary’s</persRef> Spanish S<hi rend="superscript">t:</hi>
+							Domingo.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-23">
+					<head>23 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>Rained severely the whole day— <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracy</persRef>
+							renewed in Senate the motion to adjourn untill 2. January next—which was
+							rejected by yeas and nays. 11 and 9.— The Louisiana revenue bill was
+							reported with amendments by the select Committee— <persRef
+								ref="venable-abraham">M<hi rend="superscript">r:</hi>
+								Venable</persRef> and <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>, on the English
+							Treaty Committee with me, could not agree between themselves, nor either
+							of them with me— The Committee are to meet again next Tuesday— I got
+							almost soaked through on returning home from the Senate— Which made me
+							so late that we found them at dinner at the <persRef
+								ref="jefferson-thomas">President’s</persRef>— <persRef
+								ref="smith-robert">M<hi rend="superscript">r:</hi> R.
+								Smith</persRef> &amp; <persRef ref="smith-margaret4">Lady</persRef>,
+								M<hi rend="superscript">r:</hi> Wright &amp; <persRef
+								ref="wright-caroline;wright-victoria">his daughters</persRef>—
+								<persRef ref="mccreery-william;mccreery-letitia;u">M<hi
+									rend="superscript">r:</hi> M<hi rend="superscript">rs:</hi>
+								&amp; Miss M’Creery</persRef>, <persRef
+								ref="livingston-henry2;livingston-mary">M<hi rend="superscript"
+									>r:</hi> and M<hi rend="superscript">rs:</hi>
+								Livingston</persRef> were there— We came home quite early <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> being unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-24">
+					<head>24 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Attended the Louisiana Government Committee, who were
+							all assembled, and who had three projects before them— One <persRef
+								ref="breckinridge-john">M<hi rend="superscript">r:</hi>
+								Breckenridge’s</persRef>— One <persRef ref="jackson-james2">General
+								Jackson’s</persRef>, and one, <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright’s</persRef>. The Committee
+							came to no final determination, and are to meet again on Monday— Mess<hi
+								rend="superscript">rs:</hi> Jackson and <persRef
+								ref="baldwin-abraham">Baldwin</persRef> walk’d with me— They were
+							going to Georgetown to dinner.— I wrote a letter to <persRef
+								ref="russell-benjamin">B. Russell</persRef>, Boston, and one to
+								<persRef ref="shaw-william">W. S. Shaw</persRef>.— Read in <persRef
+								ref="raynal-guillaume">Raynal</persRef> this evening— Somewhat
+							unwell for want of rest last Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-25">
+					<head>25 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Christmas day— Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Lowry</persRef> at the Treasury— Went
+							to Georgetown and paid a visit to <persRef ref="livingston-henry2">M<hi
+									rend="superscript">r:</hi> Livingston</persRef> and <persRef
+								ref="u">M<hi rend="superscript">rs:</hi> Greenleaf</persRef>— Saw
+								<persRef ref="livingston-mary">M<hi rend="superscript">rs:</hi>
+								Livingston</persRef>— Remainder of the day at home; and employed it
+							chiefly in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-26">
+					<head>26 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Met the Committee for the Louisiana Governments again
+							this morning— Members all assembled. They agreed upon all the principles
+							of the report, which is to be drawn into form by <persRef
+								ref="breckinridge-john">M<hi rend="superscript">r:</hi>
+								Breckinridge</persRef>— The Committee are to meet once more—
+							District Court in Session.— Walk’d home with <persRef
+								ref="purviance-samuel">M<hi rend="superscript">r:</hi>
+								Purviance</persRef>— <persRef ref="huger-benjamin2">M<hi
+									rend="superscript">r:</hi> Huger</persRef> and he called in the
+							evening, and accompanied us to the Ball given by the Officers of the
+							Marine Corps— The company was numerous. <persRef ref="smith-robert">M<hi
+									rend="superscript">r:</hi> Smith</persRef>, the Secretary of the
+							Navy and <persRef ref="smith-margaret4">his Lady</persRef>, the foreign
+							ministers &amp; their ladies were there. I met there, my old friend
+								<persRef ref="hooper-thomas">T. W. Hooper</persRef>, whom I had not
+							seen these ten years— Neither of us at first recognized the other— He is
+							a lieutenant <hi rend="strikethrough">and</hi> in the navy— I was
+							introduced to <persRef ref="merry-anthony;merry-elizabeth">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Merry</persRef>.— Home at about 2. in the morning— M<hi
+								rend="superscript">r:</hi> Purviance is a man of genius, and some
+							singularity of humour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-27">
+					<head>27 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>I attended at the Senate-Chamber, but they only met and
+							adjourned— The <persRef ref="burr-aaron">Vice-President</persRef> did
+							not attend. I presume he was at Annapolis— He sent a line dated this
+							day, but without any date of place, directed to the <persRef
+								ref="otis-samuel">Secretary</persRef>; and apologizing to the Senate
+							for being unable to come untill about 2 o’clock.— But he did not come
+							at-all. I wrote to <persRef ref="adams-thomas">my brother</persRef>—
+							Sent him the last sheets of our journals— Saw <persRef
+								ref="cranch-william">M<hi rend="superscript">r:</hi>
+								Cranch</persRef>; and <persRef ref="lee-edmund">M<hi
+									rend="superscript">r:</hi> Edmond J. Lee</persRef>, who spoke to
+							me concerning <persRef ref="hall-susanna2">M<hi rend="superscript"
+									>rs:</hi> Hall’s</persRef> business— Conversed with M<hi
+								rend="superscript">r:</hi> Cranch also upon the papers he put into
+							my hands— In the evening I finished the biographical notices of <persRef
+								ref="murray-william2">M<hi rend="superscript">r:</hi>
+								Murray</persRef>, and wrote to inclose them to <persRef
+								ref="dennie-joseph">M<hi rend="superscript">r:</hi>
+							Dennie</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-28">
+					<head>28 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>In the Senate, I finally made a report from the
+							Committee, on the Treaty with England; which was made the order for
+							to-morrow— The <persRef ref="burr-aaron">Vice-President</persRef>
+							attended, and explained the occasion of his absence yesterday— He was
+							returning from Annapolis, and was delayed by the swelling of the waters
+							of the Patuxent— It was from thence that he sent by express the apology
+							which was read yesterday— Nothing of consequence was transacted— I dined
+							at <persRef ref="tayloe-john">M<hi rend="superscript">r:</hi>
+								Tayloe’s</persRef>, with about twenty Gentlemen— In the evening
+							there were as many more, with a like number of ladies. I play’d whist
+							with <persRef ref="nicholson-joseph">M<hi rend="superscript">r:</hi>
+									Jos:<hi rend="superscript">h.</hi> H. Nicholson</persRef>, a
+								<persRef ref="u">M<hi rend="superscript">r:</hi>
+								Higginbotham</persRef>, and <persRef ref="u">Col<hi
+									rend="superscript">l:</hi> Meutges</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-29">
+					<head>29 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="59" type="ms"/>
+						<p><date>29. </date>I returned visits to <persRef ref="stclair-arthur"
+									>Gov<hi rend="superscript">r:</hi> S<hi rend="superscript"
+									>t:</hi> Clair</persRef>, at Georgetown, who called on me two or
+							three days since, and to <persRef ref="thatcher-samuel">M<hi
+									rend="superscript">r:</hi> Thatcher</persRef> on the Capitol
+							Hill— In Senate the first amendment to the Louisiana revenue bill was
+							read and discussed; but the question was not taken upon it— Walking home
+							I was overtaken by <persRef ref="eppes-john">M<hi rend="superscript"
+									>r:</hi> Epps</persRef>, who has been ten days absent— The
+							conferees of the two houses on the salary bill, could not agree; both
+							houses adhered to their intentions, and the bill was lost.— <persRef
+								ref="pichon-louis;pichon-alexandrine">M<hi rend="superscript"
+									>r:</hi> and M<hi rend="superscript">rs:</hi> Pichon</persRef>
+							spent the Evening here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-30">
+					<head>30 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>The Senate debated again the Amendments reported by the
+							Committee to the Louisiana revenue bill, but without taking the question
+							upon the first, and those connected with it— The other Committee to
+							prepare forms of Government likewise met and agreed upon a report, which
+							was made to the house and read for the first time. Adjourned at 3.— In
+							the evening, I went with <persRef ref="adams-louisa-catherine">my
+								wife</persRef> to <persRef ref="smith-robert">M<hi
+									rend="superscript">r:</hi> Robert Smith’s</persRef>, where there
+							was a ball— The company large— I play’d chess with <persRef
+								ref="dayton-jonathan">Gen<hi rend="superscript">l:</hi>
+								Dayton</persRef>, who beat me, and with <persRef ref="madison-james"
+									>M<hi rend="superscript">r:</hi> Madison</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-31">
+					<head>31 December 1803</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Spent the day too indolently, in reading— <persRef
+								ref="smith-adam">M<hi rend="superscript">r:</hi> Smith’s</persRef>
+							view of the Constitutions, and <persRef ref="montesquieu-charles"
+								>Montesquieu</persRef> on the Romans. Walk’d to Georgetown this
+							morning— <persRef ref="lowndes-thomas;lowndes-sarah">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								Lowndes</persRef>, and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Coles</persRef> paid a visit here. I prepared a demand
+							against <persRef ref="bird-robert">R. Bird</persRef> of New-York— Did
+							not sufficiently attend to the subject which comes next week again
+							before the Senate.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1803-12-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1803-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day.</hi></date> Differs only from that of the
+							last month, by a greater frequency of dining and passing Evenings
+							abroad.</p>
+						<p>The year now closing, has been remarkable as a part of my life, by one
+							very unfortunate occurrence, and by several events which call for
+							gratitude to an overruling Providence— The failure of a commercial house
+							in London, with whom I had deposited a considerable part of <persRef
+								ref="adams-john">my father’s</persRef> property, brought upon him a
+							loss which is more distressing to me than to himself— It put me to great
+							inconvenience to make the provisions to supply the chasm created by this
+							circumstance, but its effects in diminishing the comforts of my father’s
+							age, have been among the most painful things that ever happened to me. I
+							have in some degree shared in the loss, and have done all in my power to
+							alleviate its evils to him— But it has been and remains a continual
+							source of uneasiness to me; nor have I any prospect that it will ever be
+							removed.— In the disposal of my property however to meet the necessities
+							which arose from the protest and return of the bills I had drawn on the
+							house, I met with several facilities, and advantages which I had no
+							right to expect— The calamity has fallen the lighter for this, and my
+							own property has remained nearly in its former state— In my family I
+							have been highly favoured, by the birth of a <persRef ref="adams-john2"
+								>second Son</persRef>, and the unusual degree of health which we
+							have all enjoyed— The restoration of <persRef ref="adams-abigail">my
+								mother</persRef> too from the gates of death, and from a confinement
+							of five months, has filled my heart with the purest of enjoyments— My
+							election as a Senator of the United States for six years, has been the
+							only important incident of my political career. It has opened to me a
+							scene in some sort, though not altogether new, and will probably affect
+							very materially my future situation in life— I have already had occasion
+							to experience, what I had before the fullest reason to expect, the <hi
+								rend="italic">danger</hi> of adhering to my own principles— The
+							Country is so totally given up to the Spirit of party, that not to
+							follow blind-fold the one or the other is an inexpiable offence— The
+							worst of these parties has the popular torrent in its favour, and uses
+							its triumph with all the unprincipled fury of a faction; while the other
+							gnashes its teeth, and its waiting with all the impatience of revenge,
+							for the time when its turn may come to oppress and punish by the
+							people’s favour. Between both, I see the impossibility of pursuing the
+							dictates of my own conscience, without sacrificing every prospect not
+							merely of advancement, but even of retaining that character and
+							reputation I have enjoyed— Yet my choice is made, and if I cannot hope
+							to give satisfaction to my Country, I am at least determined to have the
+							approbation of my own reflections.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

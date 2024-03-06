@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1797-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="154" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v24-1797-02-p157.xml" mhs:volume="24">
+				<bibl n="metadata">
+					<date from="1797-01-01" to="1797-01-31"/>
+				</bibl>
+
+				<!-- D/JQA/24.797 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-01">
+					<head>1 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="154"/>
+						<dateline>
+							<hi rend="italic">January 1797.</hi>
+						</dateline>
+						<p><date>1. </date>Went round according to the custom of the Country, and
+							left cards of visitation at the houses of the <persRef
+								ref="stoffenberg-jan">President</persRef> of the National Assembly,
+							Secretary to the Committee of external relations, all the members of
+							that Committee, the other foreign Ministers, and my acquaintance in
+							general.— Took afterwards a walk towards Delft returning by the Ryswick
+							road.— <persRef ref="u">M<hi rend="superscript">r:</hi> Macqueen</persRef> here
+							after dinner. Evening at <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Cneiff’s</persRef>. A single party at whist.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-02">
+					<head>2 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-02"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>Visit this morning from <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Cneiff</persRef>— Spent the forenoon in arranging and
+							settling my accounts, a thing to which I have too long intermitted a due
+							attention. Walk in the wood. Weather remarkably moderate. Evening at
+								<persRef ref="veermansenserf-abraham">M<hi rend="superscript">r:</hi>
+								Veerman’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-03">
+					<head>3 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-03"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>At my accounts again in the forenoon.— Walk towards
+							Delft— Evening at home. Reading papers in the Rambler— A few Letters of
+								<persRef ref="cicero-marcus">Cicero</persRef> to <persRef
+								ref="atticus-titus">Atticus</persRef>—and the remainder of <persRef
+								ref="plutarch">Plutarch’s</persRef> life of Cicero. Every one of the
+							Letters needs a dissertation to be understood. The <persRef
+								ref="saintreal-cesar">Abbé de S<hi rend="superscript">t:</hi>
+								Réal’s</persRef> french Notes are useful, but often diffuse, and
+							wide from the subject. His translation is sometimes inaccurate.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-04">
+					<head>4 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-04"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Continuing the settlement of my accounts and nearly
+							finished the business.— Am to be cautious in future not to let them run
+							so long in arrear.— Walk, alone.— Evening with <persRef
+								ref="veermansenserf-abraham;veermansenserf-anna">M<hi rend="superscript"
+									>r:</hi> &amp; Madam Veerman</persRef> at the Dutch play. The
+							hermit of Formentera—and Jerome Pointu.— performance tolerable. finished
+							earlier than before.— <persRef ref="lowenhielm-fredrik">Count
+								Loewenhielm</persRef> returned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-05">
+					<head>5 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-05"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Visit this forenoon to <persRef ref="lowenhielm-fredrik"
+								>Count Loewenhielm</persRef>. Neither he nor the <persRef ref="u"
+								>Chevalier de Reuterswerd</persRef> at home. Met the latter.— Half
+							an hour at the Convention. Walk— Met <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Levsen</persRef>, and walked with him as far as
+							Ryswick.— At <persRef ref="noel-francois">M<hi rend="superscript">r:</hi>
+								Noël’s</persRef> party a short time in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-06">
+					<head>6 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-06"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>Weather cold again.— Walk in the wood. <persRef
+								ref="bourne-sylvanus">M<hi rend="superscript">r:</hi> Bourne</persRef> and
+								<persRef ref="mackay-mungo">Captain Mackay</persRef> dined with us.
+							Mackay going to Paris.— Evening at <persRef ref="veermansenserf-abraham"
+									>M<hi rend="superscript">r:</hi> Veerman’s</persRef>.— Twelfth night or
+							Jour des Rois.— Music.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-07">
+					<head>7 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-07"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Walk to Ryswick.— Evening at <persRef
+								ref="bosset-georges">M<hi rend="superscript">r:</hi> Bosset’s</persRef>.
+							Company considerably large.— Cards. Quadrill with <persRef ref="u"
+								>Madame Bosset</persRef>, <persRef ref="u">Reuterswerd</persRef> and
+								<persRef ref="u">Levsen</persRef>.— home between 10 and 11.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-08">
+					<head>8 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-08"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Cold weather.— Writing.— Walk to Ryswick.— Returning met
+								<persRef ref="veermansenserf-abraham">M<hi rend="superscript">r:</hi>
+								Veerman</persRef>; his inmate <persRef ref="u">Geervliet</persRef>,
+							and <persRef ref="u">Hache</persRef>.— Evening at his house.— Music.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-09">
+					<head>9 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-09"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Letters from London. Forenoon spent in answering them.—
+							Usual walk.— Evening at the french play. Toberne ou le Pecheur Suedois.
+							An indifferent Opera. Les deux Avares, a good thing, and an old
+							acquaintance.— <persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef> here in the forenoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-10">
+					<head>10 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-10"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. I </date>spend my days at present in such continued regularity,
+							as afford no materials for observation.— Expedited my Letters for
+							London, and all the rest of my time till dinner writing to <persRef
+								ref="pitcairn-joseph">Pitcairn</persRef>.— Evening at <persRef
+								ref="u">Madam Cneiff’s</persRef>— Small party. Cards.— Whist with
+							her and <persRef ref="u">Reuterswerd</persRef>. Found the evil
+							consequence of omitting a single day’s exercise.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-11">
+					<head>11 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-11"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>Visit in the forenoon from four <hi rend="italic"
+								>friends</hi> or Quakers, religious travellers. They wanted
+							Passports: but one of them being an Englishman I could not furnish him
+							with one.— From <persRef ref="u">Bielfeld</persRef>—and walk with him.—
+							Evening at <persRef ref="vonschubart-hermann">M: de
+							Schubart’s</persRef>, Large Company— Cards— Reversi.— Did not stay to
+							supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-12">
+					<head>12 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-12"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>Weather moderated somewhat. Busily employed in writing.—
+							Walk alone before dinner. Called in the Evening upon <persRef
+								ref="dumas-marie">Madame Dumas</persRef>, and afterwards upon her
+							daughter <persRef ref="veermansenserf-anna">Madam Veerman</persRef>—
+							Home in due Season. Finished reading the second book of <persRef
+								ref="cicero-marcus">Cicero’s</persRef> Letters of <persRef
+								ref="atticus-titus">Atticus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-13">
+					<head>13 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-13"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="155" type="ms"/>
+						<p><date>13. </date>Letters from <persRef key="adams-john">my
+								father</persRef>.— Oct<hi rend="superscript">r:</hi> 28.— Wrote to <persRef
+								ref="pitcairn-joseph">Pitcairn</persRef>— Walk to Ryswick. Visit
+							this afternoon from <persRef ref="white-w2">M<hi rend="superscript">r:</hi> W.
+								P. White</persRef> of Boston. Brought a Letter of Introduction from
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson</persRef>.— Goes to Amsterdam to morrow morning.— Evening at
+							home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-14">
+					<head>14 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-14"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Weather very moderate.— Visit from <persRef
+								ref="bosset-georges">M<hi rend="superscript">r:</hi> Bosset</persRef>.— N.B.
+							to write to <persRef ref="hall-joseph">Hall</persRef>.— Walk to Ryswick.
+							Evening at <persRef ref="u">Madam Cneiff’s</persRef>.— Cards.— Whist.
+								<persRef ref="lowenhielm-fredrik">Count Loewenhielm</persRef>,
+								<persRef ref="u">M: de Martilly</persRef> and <persRef ref="u"
+								>Reuterswerd</persRef>.— The Count studies politeness as usual.—
+							unlucky sometimes in his compliments.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-15">
+					<head>15 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-15"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Writing to <persRef key="adams-john">my
+							father</persRef>. Walk to the bridge beyond Ryswick.— <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Macqueen</persRef> here in the
+							afternoon— Evening at home— Endeavouring at self-examination,
+							self-correction and self-government.— Read some very good papers in the
+							Rambler. Read the 3<hi rend="superscript">d:</hi> book of <persRef
+								ref="cicero-marcus">Cicero</persRef> to <persRef ref="atticus-titus"
+								>Atticus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-16">
+					<head>16 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-16"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Remarkable moderate and fine day. Walk to the Bridge
+							beyond Ryswick. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Macqueen</persRef> called after dinner. Evening, at <persRef
+								ref="veermansenserf-abraham">M<hi rend="superscript">r:</hi>
+								Veerman’s</persRef>.— Went to see him at the Corps de Garde.— Walk
+							afterwards with <persRef ref="veermansenserf-anna">Madame</persRef>.
+							Home after eleven. Began reading the 4<hi rend="superscript">th:</hi> book of
+								<persRef ref="cicero-marcus">Cicero’s</persRef> Epistles to <persRef
+								ref="atticus-titus">Atticus</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-17">
+					<head>17 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-17"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Pleasant and moderate weather still.— Writing to
+								<persRef key="adams-john">my father</persRef>.— Walk to the House in
+							the wood.— <persRef key="adams-thomas">My brother</persRef> went to the
+							Ball.— Evening at home.— Reading <persRef ref="cicero-marcus"
+								>Cicero</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-18">
+					<head>18 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-18"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Visit this forenoon from <persRef ref="u"
+								>Reuterswerd</persRef>.— Walk to the Bridge towards Ryswick. Reading
+							this afternoon a few papers of the Rambler and some Letters of <persRef
+								ref="cicero-marcus">Cicero</persRef> to <persRef ref="atticus-titus"
+								>Atticus</persRef>. To go through these is a task almost desperate.—
+							Evening at <persRef ref="lowenhielm-fredrik">Count
+								Loewenhielm’s</persRef>.— Cards. Whist, with <persRef ref="u">Madame
+								Cneiff</persRef>, and Reuterswerd.— Employment of my time at present
+							very regular.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-19">
+					<head>19 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-19"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>Wrote to <persRef key="adams-abigail">my
+								mother</persRef>.— Usual walk.— Reading <persRef ref="cicero-marcus"
+								>Cicero</persRef> to <persRef ref="atticus-titus"
+							>Atticus</persRef>.— Evening at <persRef ref="noel-francois">M<hi
+									rend="superscript">r:</hi> Noël’s</persRef>.— Cards Reversi, with a
+							Lady, <persRef ref="anduaga-unknown">M. d’Anduaga</persRef>, and <persRef ref="u"
+								>General Rewbell</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-20">
+					<head>20 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-20"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date>Letter at length from the <persRef ref="wolcott-oliver"
+								>Secretary of the Treasury</persRef>. Relieves me from part of my
+							anxiety.— Forenoon answering it.— Letters to the <persRef
+								ref="willink-jan;willink-wilhem;vanstaphorst-jacob;vanstaphorst-nicolaas;hubbard-nicholas"
+								>Bankers</persRef> at Amsterdam and to <persRef
+								key="adams-louisa-catherine">my friend</persRef> at London— Finished
+							reading the 4<hi rend="superscript">th:</hi> book of <persRef
+								ref="cicero-marcus">Cicero’s</persRef> Letters to <persRef
+								ref="atticus-titus">Atticus</persRef>. Here I must stop for the
+							present.— My french translation goes no further, and I have no Edition
+							of Cicero with a commentary at hand. It is impossible to read these
+							Letters without one or the other. I know not of any Latin classick more
+							difficult to be understood.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-21">
+					<head>21 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-21"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>Weather has been for several days dull, but not very
+							cold.— Walk beyond Ryswick. Time spent as usual— <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Macqueen</persRef> in the afternoon.— Evening
+							at home.— Devote too much of my time to the drudgery of Literature.—
+							Indolence of mind— I know not whether I shall ever vanquish it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-22">
+					<head>22 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-22"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Visit this forenoon from <persRef key="monroe-james"
+									>M<hi rend="superscript">r:</hi> Monroe</persRef>. He arrived last
+							Evening from Paris. Accompanied by a french Officer.— Usual walk beyond
+							Ryswick.— Evening at <persRef ref="u">Madam Cneiff’s</persRef>— Large
+							party.— Cards. Quadrill and Whist.— Home early.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-23">
+					<head>23 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-23"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Visit this forenoon to <persRef key="monroe-james">M<hi
+									rend="superscript">r:</hi> Monroe</persRef>— <persRef
+								ref="monroe-elizabeth">His Lady</persRef> with him— Left <persRef
+								ref="hay-eliza">his daughter</persRef> at Paris.— He spends about a
+							week here, and proposes after making the tour of this Country to return
+							to Paris, before he goes home.— Went with him and <persRef ref="u">M<hi
+									rend="superscript">r:</hi> De Witt</persRef> the Minister of this
+							Republic in Switzerland to the Assembly. Debates upon the Constitution.—
+							Dined at <persRef ref="noel-francois">M<hi rend="superscript">r:</hi>
+								Noël’s</persRef>. M<hi rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+								>rs:</hi> Monroe: the french Officer who came with them and <persRef
+								ref="hahn-jacob">M<hi rend="superscript">r:</hi> Hahn</persRef>. Evening at
+								<persRef ref="u">M<hi rend="superscript">lle:</hi> Laurenzi’s</persRef>.—
+							Whist, with <persRef ref="u">Mad<hi rend="superscript">m</hi> Cneiff</persRef>,
+								<persRef ref="u">M. Chestret</persRef> and a Gentleman whose name I
+							know not. Letters this morning from the <persRef ref="wolcott-oliver"
+								>Secretary of the Treasury</persRef>, to Dec<hi rend="superscript">r:</hi>
+							6.— Gave me great relief.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-24">
+					<head>24 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-24"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="156" type="ms"/>
+						<p><date>24. </date>Fine weather.— Walk to the House in the wood. Dined at
+								<persRef ref="hahn-jacob">M<hi rend="superscript">r:</hi> Hahn’s</persRef>,
+							with <persRef ref="monroe-james;monroe-elizabeth">M<hi rend="superscript"
+									>r:</hi> &amp; M<hi rend="superscript">rs:</hi> Monroe</persRef>.
+								Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="hartog-paulus">Hartogh</persRef>, <persRef
+								ref="vaneck-lambert">Van Eck</persRef> &amp; <persRef ref="u">Van
+								Leyden</persRef>.— Evening at M<hi rend="superscript">r:</hi> Van Leyden’s.
+							Very large party.— Whist with M<hi rend="superscript">r:</hi> Van Leyden’s
+								<persRef ref="u">Mother</persRef>— M<hi rend="superscript">r:</hi> Monroe
+							&amp; <persRef ref="u">General Rewbell</persRef>.— <persRef ref="u"
+								>Bielfeld</persRef> told me that the french Newspapers arrived this
+							day announce that <persRef ref="jefferson-thomas">M<hi rend="superscript"
+									>r:</hi> Jefferson</persRef> is chosen President of the United
+							States.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-25">
+					<head>25 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-25"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Writing all the forenoon, and lost even the time for my
+							customary walk. Evening at <persRef ref="u">Madam Mersen’s</persRef>.
+							Company not very numerous. Quadrill with <persRef ref="u">Madam
+								Amman</persRef>, another Lady and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Mersen</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-26">
+					<head>26 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-26"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>A number of letters from America. Whole forenoon again
+							employed in writing. Business presses hard upon me. Dined at <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Van Leyden’s</persRef>. <persRef
+								ref="monroe-james;monroe-elizabeth">M<hi rend="superscript">r:</hi> &amp;
+									M<hi rend="superscript">rs:</hi> Monroe</persRef>. <persRef
+								ref="noel-francois">M<hi rend="superscript">r:</hi> Noel</persRef>. <persRef
+								ref="hahn-jacob;hahn-sara">M<hi rend="superscript">r:</hi> &amp; Mad<hi
+									rend="superscript">m:</hi> Hahn</persRef>. After dinner the <persRef
+								ref="dejean-jean">General De Gent</persRef> came in. Evening at M<hi
+								rend="superscript">r:</hi> Noël’s party.— Large as usual.— Visit in the
+							morning to M<hi rend="superscript">r:</hi> Monroe. Carried <persRef
+								ref="short-william">M<hi rend="superscript">r:</hi> Short’s</persRef> medal
+							to him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-27">
+					<head>27 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-27"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>Second large packet of Letters from England and
+							America.— <persRef ref="anduaga-unknown">M. d’Anduaga</persRef> called
+							on me. Dined with him. <persRef ref="monroe-james;monroe-elizabeth">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript">rs:</hi>
+								Monroe</persRef>. Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="vonschubart-hermann">Schubart</persRef> &amp; <persRef
+								ref="u">Van der Goes</persRef> and <persRef ref="schubart-jacobe;u"
+								>their Ladies</persRef>.— Evening at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Van Staphorst’s</persRef>. Reversi with
+								<persRef ref="noel-francois">M<hi rend="superscript">r:</hi> Noël</persRef>
+							&amp; <persRef ref="schimmelpenninck-rutger;schimmelpenninck-catharina"
+									>M<hi rend="superscript">r:</hi> &amp; Madam Schimmelpenninck</persRef>.
+							Did not stay to supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-28">
+					<head>28 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-28"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>Another packet of Letters English and American.— Visit
+							from <persRef key="monroe-james">M<hi rend="superscript">r:</hi>
+								Monroe</persRef>.— From <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Havart</persRef>, who brought me a number of Baltimore papers.
+							Conversation with him.— Couple of Quakers called on me again in the
+							morning. Forenoon thus slipped away. Long walk after dinner. Evening at
+								<persRef ref="veermansenserf-abraham">M<hi rend="superscript">r:</hi>
+								Veerman’s</persRef>. Backgammon with <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Loder</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-29">
+					<head>29 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-29"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>Visit this forenoon from <persRef ref="beeldemaker-jan"
+									>M<hi rend="superscript">r:</hi> Beeldemaker</persRef>.— Several more
+							Letters. Began at length to write in my turn. Found no time for walking.
+							Dined at <persRef ref="lowenhielm-fredrik">Count
+							Loewenhielm’s</persRef>. Party small but pleasant.— Evening at <persRef
+								ref="u">Madam Cneiff’s</persRef>. Company numerous. Quadrill with
+								<persRef ref="u">M<hi rend="superscript">lle:</hi> Dumoulin</persRef>,
+								<persRef ref="lowenhielm-augusta">M. de Loewenhielm</persRef> &amp;
+								<persRef ref="u">Bielfeld</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-30">
+					<head>30 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-30"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>At length have a day of respite from the flood of
+							letters, pouring from all parts.— Writing to England. Employed the whole
+							forenoon and part of the Evening. Had Engaged at a party of <persRef
+								ref="u">Mad<hi rend="superscript">me:</hi> Pallavicini’s</persRef>, but sent
+							my excuses to finish my Letter.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-31">
+					<head>31 January 1797</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01-31"/>
+						<editor role="transcription">Neal Millikan</editor>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Forenoon very busily employed in writing to <persRef
+								ref="pitcairn-joseph">Pitcairn</persRef>— <persRef
+								ref="schermerhorn-ryer">M<hi rend="superscript">r:</hi>
+								Schermerhorn</persRef> dined with us, and went in the Evening with
+								<persRef key="adams-thomas">my brother</persRef> to the ball.—
+							Evening at home myself.— Constant occupation to very little purpose.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1797-01-xx">
+					<head>Day</head>
+					<bibl>
+						<author>JQA</author>
+						<date type="creation" when="1797-01"/>
+						<editor role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Rise in the morning at about 7.
+							Translate two pages of History from <persRef ref="tacitus"
+								>Tacitus</persRef>. Breakfast at about ten.— Afterwards till 2.
+							Dressing receiving or paying visits or writing Letters. Dine between 3
+							and 4. After dinner read a few papers of the Rambler. Walk of three or
+							four miles immediately before or after dinner. Evening generally in
+							company and at cards. Seldom at home and reading a few of <persRef
+								ref="cicero-marcus">Cicero’s</persRef> Letters.— A profound anxiety
+							has taken possession of my mind. The situation of two objects the
+							nearest to my Heart; my Country and <persRef key="adams-john">my
+								Father</persRef> press continually upon my reflections— They engross
+							every thought and almost overpower every faculty.— The struggle is
+							painful indeed amid such sensations to bear a cheerful countenance to
+							the world, to stifle every apprehension and repress every rising sigh.—
+							A sullen gloom hangs upon futurity— May the merciful disposer of all
+							Events, avert the approaching terror, and dispel the threatening
+							tempest.— For myself I ask only Virtue and Fortitude.— Virtue to
+							discharge all the duties of life, and Fortitude to bear whatever destiny
+							awaits me. For my father and my Country, my supplications to Eternal
+							wisdom and goodness, comprehend the issue and result of action and pray
+							for their welfare and prosperity no less than for the means that tend to
+							procure them.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

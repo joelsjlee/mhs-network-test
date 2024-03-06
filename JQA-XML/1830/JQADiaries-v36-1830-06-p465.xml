@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v36-1830-06">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="465"
+				mhs:precedingFile="JQADiaries-v36-1830-05-p441.xml"
+				mhs:followingFile="JQADiaries-v36-1830-07-p490.xml" mhs:volume="36">
+				<bibl n="metadata"><date from="1830-06-01" to="1830-06-30"/></bibl>
+
+				<!-- Linda Thorsen/Sequoia Dooley/Nancy Bertrand -->
+
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-01">
+					<head>1 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Slavery</subject>
+						<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline>Tuesday 1. June 1830—</dateline>
+						<p><date>1. V. </date>Tuesday— From New-Brunswick to New-York— Steam-Boat
+							President—</p>
+						<list>
+							<item>Wolcott Oliver</item>
+							<item>Johnson Alexander</item>
+							<item>His Son Alexander</item>
+							<item>Vosberg.</item>
+							<item>A Teacher</item>
+							<item>Blunt Joseph.</item>
+							<item>Le Ray de Chaumont</item>
+							<item><persRef ref="chaumont-vincent">His Son</persRef></item>
+						</list>
+						<p>We embarked at six this morning in the Steamboat Thistle from
+							New-Brunswick and landed at New-York at ten. There was rain during great
+							part of the passage— At Perth-Amboy, <persRef ref="lamb-unknown">Major
+								Lamb</persRef> came onboard the boat, and came to New-York— He has
+							leased his house there to a <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Crane</persRef>, who keeps it as a Hotel. At New-York we
+							came to the Washington Hotel newly fitted up—and kept by <persRef
+								ref="hamilton-james2">Hamilton</persRef>, who heretofore kept the
+							Exchange Hotel in Boston— We only stopp’d to dine; and found that
+								<persRef ref="kirk-john">John Kirke</persRef>, with the Horses and
+							Carriage was at the City <pb n="466" type="ms"/>Hotel. At Hamilton’s I
+							received several visitors; <persRef ref="wolcott-oliver">Oliver
+								Wolcott</persRef>, a man whose condition somewhat resembles my own—
+							Having survived the age of active life, he has no fixed abode; but
+							resides chiefly with his Children. He is nearly or quite four-score
+							years of age; and until about three years past was Governor of
+							Connecticut— They then quietly dropp’d him and elected <persRef
+								ref="tomlinson-gideon">Gideon Tomlinson</persRef> in his place— M<hi
+								rend="superscript">r</hi> Wolcott appears to retain possession of
+							his faculties, and was much disposed to conversation upon the prevailing
+							politics of the time— But we were very soon interrupted, against my
+							inclination, for I should have been glad to listen long to M<hi
+								rend="superscript">r</hi> Wolcott. He views the prospects of the
+							Union, with great sagacity, and with hopes more sanguine than mine— He
+							thinks the continuance of the Union will depend upon the heavy
+							population of Pennsylvania; and that its gravitation will preserve the
+							Union— He holds the South-Carolina turbulence, rather too much in
+							contempt— The domineering Spirit, naturally springs from the institution
+							of Slavery; and when as in South-Carolina, the Slaves are more numerous
+							than their masters; the domineering Spirit, is wrought up to its highest
+							pitch of intenseness— The South-Carolinians are attempting to govern the
+							Union as they govern their Slaves, and there are too many indications
+							that abetted as they are by all the Slave-driving interest of the Union,
+							the free portion of the population will cower before them, and truckle
+							to their insolence. This is my apprehension. M<hi rend="superscript"
+								>r</hi> Wolcott considers their bullying only according to its own
+							character, and supposes it will be harmless because it is impotent—
+								<persRef ref="johnson-alexander">M<hi rend="superscript">r</hi>
+								Johnson</persRef> of Utica with <persRef ref="johnson-abigail">his
+								wife</persRef> youngest daughter of my brother <persRef
+								key="adams-charles">Charles</persRef>, is upon an excursion to the
+							South, for her health—which is suffering with rhumatism— <persRef
+								ref="johnson-alexander2">His Son</persRef> is a stout boy of
+							thirteen, whom he says he proposes sending to Cambridge— <persRef
+								ref="u">M<hi rend="superscript">r</hi> Vosberg</persRef> paid me a
+							visit of curiosity—an entire Stranger, who was disposed to give me
+							biographical anecdotes of <persRef ref="vanburen-martin">Martin Van
+								Buren</persRef>, the present Secretary of State: Vosberg says that
+							he and Van-Buren were born in the same village— <persRef
+								ref="vanburen-abraham;u">Their fathers</persRef> next door
+							neighbours, and that he has known him from childhood. The best thing
+							that he had to tell of Martin, before he became a patriot was that on
+							his father’s death, he relieved himself from responsibility for his
+							debts by pleading the Statute of Limitations— The Teacher was a young
+							man whose name he told me, but I did not retain it in Memory. <persRef
+								ref="chaumont-james">M<hi rend="superscript">r</hi> Le Ray</persRef>
+							told me that he should present his claim to Congress on account of
+								<persRef ref="chaumont-jacques">his father’s</persRef> services
+							during the War of our Revolution, if a favourable opportunity should
+							occur— He shewed me a recommendatory Letter from <persRef
+								ref="lafayette">General La Fayette</persRef> to me which he asked my
+							permission to retain, and to use if necessary, to which I consented— He
+							told me he had been totally ruined by the New-York Canals— His immense
+							Estate in Lands being distant from the Canals, and having thereby sunk
+							three fourths of their value— He lives now barely by the forbearance and
+							kindness of his creditors. <persRef ref="blunt-joseph">M<hi
+									rend="superscript">r</hi> Blunt</persRef> came into Hamilton’s
+							while we were at dinner— Told us <persRef ref="king-charles">Charles
+								King</persRef> and <persRef ref="king-eliza">his wife</persRef> were
+							gone this day to Albany, to attend the wedding of <persRef
+								ref="vanrensselaer-stephen">Gen<hi rend="superscript">l.</hi> Van
+								Rensselaer’s</persRef>
+							<persRef ref="u">daughter</persRef>. Told me also that <persRef
+								ref="hamilton-alexander">Alexander Hamilton’s</persRef> papers were
+							now in the hands of <persRef ref="baylies-francis">Francis
+								Baylies</persRef>, who is to write the biography— We embarked in the
+							Steam-boat President <persRef ref="bunker-robert">Captain R. S.
+								Bunker</persRef> and at 4. P.M. left the wharf in the North-river
+							near the Battery which the Rhode-Island Steam-boats now frequent. The
+							weather was still overcast and gloomy. Wind East. The only fellow
+							passengers whom I knew, were a <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Johnson</persRef>, and another whose name I did not
+							recollect, both of Baltimore— Our navigation was rapid, but there was no
+							favourable change in the weather— <persRef key="adams-louisa-catherine"
+								>My wife</persRef> deeply depressed in Spirits, and myself in a
+							disposition, not more cheering or cheerful—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-02">
+					<head>2 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="467" type="ms"/>
+						<p><date>2. V. </date>Wednesday.— Landed at
+							Providence— Quincy.</p>
+						<p>We passed an uncomfortable night. Before three in the morning I was
+							awakened, by the rolling of the Boat: we had passed out of the Sound at
+							the East end of Long-Island— The wind still East—a heavy swell, and many
+							of the Passengers Sea-sick— <persRef key="adams-louisa-catherine">M<hi
+								rend="superscript">rs</hi> Adams</persRef> quite ill— The <persRef ref="adams-mary4">child</persRef>
+							unwell, but not thoroughly Sea-sick— The fog so thick that for two hours
+							or more we lay to every five or ten minutes to sound— The Benjamin
+							Franklin pass’d in sight, about Sunrise, having passed the night at
+							Newport— A thick fog, which dispersed as we were reaching that harbour—
+							At nine we came to the wharf at Providence, just before which M<hi
+								rend="superscript">rs</hi> Adams had a faint turn— I hesitated
+							whether we should not all stop for the day at Providence, but she
+							recovered and urged me to proceed in the Stage; intending to come on
+							herself in the Carriage as far as Walpole this Evening— I came with
+								<persRef ref="william2">William</persRef>—the black man in the
+							Stage— It stopp’d for five minutes at Attleborough where I saw <persRef
+								ref="hatch-israel">Col<hi rend="superscript">l.</hi>
+							Hatch</persRef>— We dined at <persRef ref="fuller-stephen"
+								>Fuller’s</persRef> in Walpole— At Dedham I quitted the Stage, in
+							which I had as fellow passengers a <persRef ref="u">Major
+								Coffin</persRef>, and a <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Glover</persRef>, both apparently Officers in the
+							British Service, from Canada— From Dedham I came in an open Jersey
+							Waggon with one horse; driven by <persRef ref="u">M<hi
+									rend="superscript">r</hi> Gay</persRef> to Quincy, where I
+							arrived with William at five in the afternoon— I found in the house a
+							woman, my Son <persRef key="adams-charles2">Charles’s</persRef> Cook,
+							whom he had left here to receive us— <persRef key="adams-thomas">My
+								brother’s</persRef> Son <persRef ref="adams-joseph">Joseph
+								Harrod</persRef> soon afterwards came in— I wrote a Letter to my Son
+							Charles to be sent in to Boston, by the Milkman to-morrow morning.</p>
+					</div>
+				</div>
+				
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-03">
+					<head>3 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. V. </date>Thursday.</p>
+						<p><persRef key="adams-thomas">My brother</persRef> and his daughter,
+								<persRef ref="adams-abigail2">Abigail S.</persRef> were here this
+							morning. My Son <persRef key="adams-charles2">Charles</persRef> and
+								<persRef ref="adams-abigail4">his wife</persRef> came out from
+							Boston— I expected my family would have arrived here before dinner, and
+							had again half a day of anxious expectation, and suspense— They arrived
+							at six in the Evening having come this day the whole way from
+							Providence. They landed there yesterday shortly after I came off in the
+							Stage: and as I had advised they went to the Franklin house, to give the
+							horses and take themselves a short repose. They were at the point of
+							leaving the House to proceed to Walpole, when <persRef key="adams-john2"
+								>John’s</persRef>
+							<persRef ref="adams-mary4">child</persRef> was suddenly seized with a
+							fainting or convulsion fit— The alarm to <persRef
+								key="adams-louisa-catherine">my wife</persRef>, was
+							inexpressible—for a short time they thought the child dead— A warm bath
+							recovered her, and they sent for <persRef ref="mauran-joseph">D<hi
+									rend="superscript">r</hi> Mauran</persRef>, who attended
+							repeatedly in the course of the day. This accident was attributed to the
+							effect of the violent motion of the Steamboat on the nervous system of
+							the child. They remained over Night at Providence; and came from thence
+							this morning. And thus Providence in judgment has yet remembered mercy.
+							There is no other shelter from the storm— The child though still pale,
+							appears to be quite recovered— My brother and <persRef
+								ref="adams-elizabeth">his daughters</persRef> were again here this
+							Evening— My Son Charles and his wife returned to Boston— On arriving
+							here yesterday I resumed my daily reading of three chapters of the
+							Bible, at the 16<hi rend="superscript">th.</hi> Chapter of Matthew; and
+							this morning I took up again the Orations of <persRef
+								ref="cicero-marcus">Cicero</persRef>, and read his defence of
+								<persRef ref="rabirius-gaius">Caius Rabirius</persRef>, charged by
+							the Tribune of the People <persRef ref="labienus-titus">Titus
+								Labienus</persRef> with the crime of Perduellion—a complication of
+							murder and treason. Thirty-six years before, the factious tribune
+								<persRef ref="saturninus-lucius">Saturninus</persRef> had been
+							killed in a popular tumult excited by himself. <persRef
+								ref="labienus-quintus">Quintus Labienus</persRef> perished with him—
+							His nephew Titus Labienus, being one of the Tribunes of the People, the
+							year when Cicero was Consul, brought this accusation against <pb n="468"
+								type="ms"/>Rabirius for having killed Saturninus— It was one of
+								<persRef ref="caesar-julius">Julius Caesar’s</persRef> intrigues, to
+							put down the Senatorial party— The cause was first tried by Duumvirs,
+							drawn by lot, and Caesar was one of them— They condemned Rabirius, who
+							appealed to the People. The defence of Cicero was delivered before them,
+							but Labienus had limited the time allowed Cicero for speaking to half an
+							hour. Part even of the Oration delivered in that time is lost. The
+							finest passage of it is the turn which the Orator gave to a shout of the
+							multitude to silence him upon his declaring his regret that he could not
+							admit that Saturninus had fallen by the hand of Rabirius— He says he is
+							happy to hear the shout because it shewed how small a portion of his
+							hearers concurred in it—and that the Roman People would hardly have made
+							him their Consul, if he could have been intimidated by so feeble a
+							clamour as that— A second shout he remarks was weaker than the first,
+							and he advises the clamourers to be silent, and withhold the proof of
+							their folly and of their scarcity— It seems there was yet so much danger
+							for Rabirius, that the Praetor <persRef ref="metellusceler-quintus"
+								>Metellus Celer</persRef>, took down the standard on the Janiculum,
+							which de facto dissolved the Meeting of the People, and Rabirius thus
+							escaped condemnation.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-04">
+					<head>4 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. V. </date>Friday.</p>
+						<list>
+							<item>Adams Thomas B.</item>
+							<item>Whitney Peter</item>
+							<item>Marston John</item>
+						</list>
+						<p><persRef key="adams-thomas">My brother</persRef> was here this morning,
+							and I received visits from <persRef ref="whitney-peter">M<hi
+									rend="superscript">r</hi> Peter Whitney</persRef>, and <persRef
+								ref="marston-john">M<hi rend="superscript">r</hi> John
+										Marston</persRef>. <persRef ref="pitts-mary">M<hi rend="superscript">rs</hi>
+								Pitts</persRef>, and <persRef ref="kirk-elizabeth">M<hi
+									rend="superscript">rs</hi> Kirke</persRef> with her child
+							arrived: having come round in a coasting vessel from Alexandria where
+							they embarked on the 21<hi rend="superscript">st.</hi> of last Month—
+							This completes the portion of our family who have effected this Northern
+							Emigration for the Summer— To most families in this Country, this
+							removal would scarcely be more difficult than it would individually to
+							me— I find it of oppressive magnitude, and distressing charge— Afternoon
+							walk— Call at <persRef ref="greenleaf-john">J. Greenleaf<unclear>’s.</unclear></persRef>
+							His daughter <persRef ref="dawes-lucy">Lucy</persRef> wife of <persRef
+								ref="dawes-harrison">George Dawes</persRef>—with <persRef
+								ref="dawes-lucy2;dawes-mary2;dawes-harrison2;dawes-john">four
+								Children</persRef>, and <persRef ref="dawes-mary">Mary</persRef>,
+							wife of <persRef ref="dawes-henry">Henry Dawes</persRef>, with one Child
+							there. Called afterwards at my brother’s. I read this morning the first
+							Oration against <persRef ref="catiline">Catiline</persRef>: it is short,
+							and I think I had translated it forty years ago. But I find in <persRef
+								ref="ernesti-johann">Ernesti’s</persRef> Edition of <persRef
+								ref="cicero-marcus">Cicero</persRef>, before the Orations against
+								<persRef ref="rullus-publius">Rullus</persRef>, the fragments of the
+							two Orations for <persRef ref="cornelius-caius">Caïus
+								Cornelius</persRef>, and of one in Toga candida against his
+							competitors for the Consulship, <persRef ref="hybrida-gaius">Caïus
+								Antonius</persRef> and Catiline. These fragments are principally
+							preserved by <persRef ref="asconius-quintus">Asconius
+							Pedianus</persRef>— The two Orations for Cornelius are mentioned as
+							among the greatest of his efforts, and he cites passages from them in
+							his Orator ch. 67. and 70. I read these fragments but find nothing in
+							them very remarkable— My progress here will be much more slow, with the
+							same devotion of Time than it was at Washington. There I had nothing but
+							the text of Cicero, in the pocket volumes of the Regent’s Classics— What
+							I did not understand, I was obliged to pass over— Here I have many
+							Editions of Cicero. Translations French and English. <persRef
+								ref="prevost-antoine">Prevost’s</persRef> translation of <persRef
+								ref="middleton-conyers">Middleton’s</persRef> life of the Orator,
+							Dictionaries Commentators, Histories of Rome; and Dissertations upon
+							Roman Manners, Government and Institutions— It is the race of the dog
+							and the tortoise— Great part of this morning was absorbed in looking up
+							the works that I possess relating to Cicero— The first is an Edition in
+							nine Quarto Volumes, of <persRef ref="olivet-pierre">Joseph
+								d’Olivet</persRef>, ad usum Delphini, printed by <persRef
+								ref="manfre-giovanni">John Manfré</persRef> at Padua 1753— The
+							principal merit of this work is the large type in which it is printed.
+							The Indexes in the ninth Volume are useful, and it contains the Historia
+							Ciceronis in annals by <persRef ref="fabricius-franciscus">Francis
+								Fabricius</persRef>, perhaps the model of Middleton— 2. The second
+							Edition of John Augustus Ernesti—6 Volumes Octavo—printed at Halle 1757.
+							The second Volume containing the Orations is divided into two volumes,
+							and the last volume is the Clavis, worth more for <pb n="469" type="ms"
+							/>the illustration of Cicero, than all the other Commentaries upon
+							Cicero ever written. It is in five Indexes 1. of Laws. 2. Geographical
+							3. Historical 4. Latinity. 5 Graeco-Latin— The Regent’s Edition, omits
+							from the Clavis the Index of Latinity. 3. The Edition by <persRef
+								ref="u">Sallemand</persRef>. 14. Volumes duodecimo. of the <persRef
+								ref="barbour-francis">Barbour</persRef> collection—merely the text;
+							with Ernesti’s Arguments: very convenient for reading. 4. <persRef
+								ref="wells-william">Wells</persRef> and <persRef ref="lilly-robert"
+								>Lilly’s</persRef> Boston Edition 12. Volumes duodecimo. I left at
+							Washington. 5. The Edition of <persRef ref="godefroy-denis">Dionysius
+								Gothofredus</persRef>. one Volume Quarto, printed at Geneva, by
+								<persRef ref="chouet-peter;chouet-james">Peter and James
+								Chouet</persRef> 1632. with marginal Notes— 6. <persRef
+								ref="schrevelius-theodorus">Schrevelius</persRef>— <persRef
+								ref="elzevir">Elzevir</persRef> Edition. one Volume Quarto 1661. Two
+							copies— This has also the Historia Ciceronis of Francis Fabricius.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-05">
+					<head>5 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. V. </date>Saturday.</p>
+						<p><persRef key="adams-thomas">My brother</persRef> was here, and brought
+							two or three Newspapers— I received an invitation to attend the
+							Anniversary dinner of the Antient and Honourable Artillery Company next
+							Monday— The Card enclosed by <persRef ref="quincy-josiah">Lieut<hi
+									rend="superscript">t.</hi> Col<hi rend="superscript">l.</hi>
+								Quincy</persRef>, to whom I addressed an answer with my excuses—
+								<persRef ref="kirk-john">Kirke</persRef> went into Boston, and
+							brought out the Phaëton with the one healthy horse— The other having
+							been diseased with the glanders and expected to die— <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Baxter</persRef> brought out
+							also all the baggage we had sent round by Water. I had a Letter from
+								<persRef ref="southard-samuel">M<hi rend="superscript">r</hi> S. L.
+								Southard</persRef>, written on the Evening of the day we saw him at
+							Trenton, and giving the information which he had obtained of Kirke’s
+							going from Trenton for New-York last Saturday— I wrote in reply to this
+							Letter, but did not finish mine— A Letter also from <persRef
+								ref="vaughan-benjamin">M<hi rend="superscript">r</hi> Benjamin
+								Vaughan</persRef> of Hallowell, enclosing some newspaper notices of
+							the late <persRef ref="tudor-william2">William Tudor</persRef>— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> bound up this afternoon, some rasberry vines in the
+							garden— <persRef key="adams-charles2">Charles’s</persRef> Cook left us.
+							I read the second Oration against <persRef ref="catiline"
+								>Catiline</persRef>, and further collected my Ciceronian books—
+							Besides the several Editions of all his works, excepting the newly
+							discovered books de Republica, noted yesterday, I have <persRef
+								ref="graevius-john">John George Graevius’s</persRef> Edition of the
+							familiar Epistles, 2. Volumes Octavo— <persRef ref="elzevir"
+								>Elzevir’s</persRef> 1677— 3. Volumes duodecimo—select Orations,
+							with a French Translation of <persRef ref="villefore-joseph"
+								>Villefore</persRef>, revised by <persRef ref="wailly-noel"
+								>Wailly</persRef>— a fourth Volume, containing in Latin and French
+							four Philippics of <persRef ref="demosthenes">Demosthenes</persRef> and
+							the four Orations against Catiline; by the <persRef ref="olivet-pierre"
+								>Abbé d’Olivet</persRef>— De Natura deorum 2. Volumes with
+							translation of d’Olivet— The Tusculans 3 Volumes duodecimo— <persRef
+								ref="bouhier-jean">Bouhier</persRef> and d’Olivet— An old French
+							translation of the familiar Epistles 1687. 2. Vol<hi rend="superscript"
+								>s.</hi> duodecimo. The same with translation of the <persRef
+								ref="prevost-antoine">Abbe Prevost</persRef> 1745 two of three
+							Volumes—Friendship, Old Age—the dream of <persRef
+								ref="scipioafricanusminor">Scipio</persRef> and the political Letter
+							to <persRef ref="cicero-quintus">Quintus</persRef> in one Volume, with
+							Translation of <persRef ref="barrett-jean">De Barrett</persRef>: the
+								12<hi rend="superscript">th.</hi> Volume of the complete translation
+							of <persRef ref="u">Du Ryer</persRef>—the 4<hi rend="superscript"
+								>th.</hi> Volume of the Epistles to <persRef ref="atticus-titus"
+								>Atticus</persRef> with the translation and notes of the <persRef
+								ref="mongault-nicolas">Abbé Mongault</persRef>— These mutilated sets
+							are by losses of books at the Athenaeum— The Abbe Prevost’s translation
+							of <persRef ref="middleton-conyers">Middleton’s</persRef> life of
+								<persRef ref="cicero-marcus">Cicero</persRef>— <persRef
+								ref="duncan-william">Duncan’s</persRef> English translation of
+							select Orations 1. Volume Octavo— <persRef ref="melmoth-william"
+								>Melmoth’s</persRef> translation of the familiar Epistles 3. Volumes
+							Octavo— The History of <persRef ref="fabricius-franciscus"
+								>Fabricius</persRef>—and Schottus de Nodis Ciceronis— I have yet
+							other books containing comments and illustrations of Cicero—as
+							Fabricius, Bibliotheca Latina— <persRef ref="lipsius-justus">Justus
+								Lipsius</persRef>, <persRef ref="gronovius-johann;gronovius-jacobus"
+								>Gronovius</persRef> and others.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-06">
+					<head>6 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Religion</subject>
+						<subject>Internal Improvements</subject>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. V. </date>Sunday.</p>
+						<list>
+							<item>Dearborn H. A. S.</item>
+							<item>Degrand P. P. F.</item>
+							<item><persRef ref="adams-isaac">Adams Isaac Hull</persRef></item>
+							<item><space/><persRef ref="adams-elizabeth">Elizabeth</persRef></item>
+						</list>
+						<p><persRef key="adams-louisa-catherine">My wife</persRef> was seized just
+							before two O’Clock this Morning with an extremely violent Chill, and
+							excruciating cramps which continued all the remainder of the Night, and
+							followed by a burning fever— Soon after day-light I sent for <persRef
+								ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook</persRef>, who came soon after six, and found her still in
+							agonies of pain; which bleeding partially relieved. <pb n="470"
+								type="ms"/>Heard <persRef ref="whitney-peter">M<hi
+									rend="superscript">r</hi> Whitney</persRef> in the forenoon,
+							from 2. Corinthians 1.3.4. [“]Blessed be God, even the Father of our
+							Lord Jesus Christ, the Father of mercies, and the God of all comfort: 4.
+							Who comforteth us in all our tribulations.” a text well suited to the
+							condition of my mind. The communion was administered after the usual
+							service. A heavy rain prevented my attendance in the afternoon— <persRef
+								ref="dearborn-henry2">General Dearborn</persRef> and <persRef
+								ref="degrand-peter">M<hi rend="superscript">r</hi> Degrand</persRef>
+							took tea here— Dearborn who was removed from the Office of Collector at
+							Boston is now a member of the Senate from the County of Norfolk in the
+							State Legislature— They are now in Session, but will adjourn to-morrow,
+							or the next day— The first Session of the 21<hi rend="superscript"
+								>st.</hi> Congress, was closed last Monday. Of the four Bills of
+							internal improvement, which passed both houses of Congress on Saturday
+							the <persRef ref="jackson-andrew">President</persRef> approved only one;
+							and with that he sent a Message announcing that he signed it with the
+							Understanding that it should receive a particular Construction— As it
+							was an Appropriation for a road, the construction of the Laws will
+							depend entirely upon himself but this explanatory Message, qualifying
+							the signature of the President to an Act of Congress, is unexampled in
+							this Country, and contrary to the Spirit of the Constitution—a
+							Usurpation of the judiciary power, and susceptible of great abuse as a
+							precedent— The Appropriation for the Road from Washington to Frederick
+							he returned to the Senate with his objections, and the subsequent vote
+							upon it there was 22 for and 16 against it. His negative thus controuls
+							decided majorities in both houses of Congress— He defeated the
+							appropriation for the continuation of the Cumberland Road, and the Bill
+							authorizing the erection of several new Light-house, and directing many
+							new surveys, in a different manner. When the joint Committee of the two
+							Houses went to inform him that they were ready to adjourn, and to
+							enquire if he had any further communication to make to them; he said he
+							had nothing further, except that he retained those two Bills for further
+							consideration. The provision of the Constitution is that a Bill
+							presented to him shall become a Law, without his signature, if not
+							returned by him within ten days, Sundays excepted; unless the Congress
+							by their adjournment <hi rend="italic">prevent</hi> its return. His
+							remark to the Committee doubtless was to give warning that Congress by
+							their adjournment would prevent his returning those Bills— These are
+							remarkable Events as bringing into operation Constitutional principles—
+							The Presidential veto has hitherto been exercised with great reserve.
+							Not more than four or five acts of Congress have been thus arrested by
+							six Presidents and in forty years— He has rejected four in three days.
+							The overseer ascendency is complete.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-07">
+					<head>7 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. V:30. </date>Monday.</p>
+						<list>
+							<item>D<hi rend="superscript">r</hi> Holbrook</item>
+							<item>Spear Alpheus</item>
+						</list>
+						<p>This was the day of the Artillery Election; a sort of traditionary
+							Holiday not only in, but for many miles round Boston— My workman in the
+							Garden, <persRef ref="farrar-augustus">Augustus Farrar</persRef>, asked
+							and obtained leave of absence for the day: and <persRef
+								ref="adams-josiah2">Josiah Adams jun<hi rend="superscript"
+								>r.</hi></persRef> postponed work till to-morrow— The last time I
+							was in the State on the day of the Artillery Election was in 1809. when
+							they handled me roughly in their toasts— They now invited me to their
+							feast— Had the weather been ever so fine, I could have taken no pleasure
+							in it—but the day was showery. <persRef ref="holbrook-amos">D<hi
+									rend="superscript">r</hi> Holbrook</persRef> was here, a second
+							time last Evening, and again this Morning— <persRef
+								key="adams-louisa-catherine">My wife</persRef> has continued
+							extremely ill, with a high fever, and violent inflammation, chiefly on
+							the right side of the face— <persRef ref="spear-alpheus">Alpheus
+								Spear</persRef>, my tenant of the Mount Woolaston farm was here— I
+							took a ride after dinner with <persRef ref="hellen-mary">Mary</persRef>
+							and <persRef ref="adams-mary4">her child</persRef>; and in the Evening
+								<pb n="471" type="ms"/>walked to <persRef key="adams-thomas">my
+								brother’s</persRef>— <persRef ref="greenleaf-ezekial">M<hi
+									rend="superscript">r</hi> Price Greenleaf</persRef> overtook me,
+							and offered his services for arranging my library, or copying papers— He
+							also conversed with me upon my trees, almost all those which I raised
+							from the seed, acorn and nut, having perished— This is owing to the want
+							of continued attention—to my absences every winter, and my return so
+							late in the Season— The winter is especially the time when they most
+							require care— I am then absent and they are totally neglected. In the
+							course of the last Summer, I found also that it was too late in life for
+							me to commence labouring with the spade and hoe. It gave me several
+							sharp touches of rhumatism and lumbago— For pleasure and for advantage
+							so far as I may yet derive any, the most effective resource for me is my
+							books. I read yesterday the third, and this morning the fourth of the
+							Orations against <persRef ref="catiline">Catiline</persRef>— The whole
+							four are not so long as the single Oration for <persRef
+								ref="roscius-sextus">Roscius of Ameria</persRef>— Not one of them
+							could have taken half an hour in the delivery— There is something
+							astonishing in the Scenery of these Speeches— The apostrophe to Catiline
+							with which the first commences is a Coup de Theatre— It seems like an
+							incident purposely devised to kindle and display the Eloquence of the
+							greatest Orator that ever lived. The appearance of Catiline in the
+							Senate, after two Nights of conspiracy for the destruction of the City,
+							is an event scarcely conceivable— Yet had Catiline not been there, no
+							Oration could have been delivered— An incident equally wonderful, and of
+							the same character gave rise to the third Oration—namely the production
+							in the Senate of the intercepted Letters written by the conspirators
+							with Catiline, and the compulsion put upon them to acknowledge their own
+							handwriting. The fourth Oration is upon the same question discussed
+							between <persRef ref="cato-marcus">Cato</persRef> and <persRef
+								ref="caesar-julius">Caesar</persRef> in <persRef ref="sallust"
+								>Sallust</persRef>— The Address with which <persRef
+								ref="cicero-marcus">Cicero</persRef> favours the vote for capital
+							punishment, is the most remarkable part of this effusion.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-08">
+					<head>8 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. V. </date>Tuesday.</p>
+						<list>
+							<item>D<hi rend="superscript">r</hi> Holbrook</item>
+							<item>Spear Alpheus</item>
+						</list>
+						<p>Heavy Showers of rain through the day, with cold weather. <persRef
+								ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook</persRef> was here this morning— <persRef
+								key="adams-louisa-catherine">My wife’s</persRef> disease, though
+							still very severe begins this day to subside— It has been the most
+							terrific attack of S<hi rend="superscript">t.</hi> Anthony’s fire that I
+							ever witnessed— <persRef ref="spear-alpheus">Alpheus Spear</persRef> was
+							here and settled his Rent with me to the first of April—and gave me the
+							Deed of <persRef ref="wild-elisha">Elisha Wild</persRef>, executed the
+							first of January last, acknowledged and recorded of three Acres of
+							Salt-marsh more or less, adjoining upon the Mount Woolaston farm— He
+							likewise sent me this Evening a Cow— My chief occupation now, next to my
+							reading is, redeeming the arrearages of this Diary, with the increasing
+							difficulty of writing, and now with the distressing illness of my wife,
+							so disturbing the tranquility of the mind necessary for writing, that
+							the record partakes of its infirmities— Its progress is also slackened
+							and at the close of every day I am scarcely more advanced than at the
+							beginning— This morning I commenced reading the Oration for <persRef
+								ref="murena-lucius">Murena</persRef>, one of those which I had read
+							and studied when I was first at S<hi rend="superscript">t.</hi>
+							Petersburg in 1781— I have also read the Advertisement of the <persRef
+								ref="prevost-antoine">Abbé Prevot</persRef>; pre-fixed to his
+							Translation of <persRef ref="middleton-conyers">Middleton’s</persRef>
+							life of <persRef ref="cicero-marcus">Cicero</persRef>; and the
+							translation of Middleton’s preface— There are in both, notices of Roman
+							customs, Laws, and Manners <pb n="472" type="ms"/>necessary to be known
+							for the perfect understanding of Cicero. And I am looking into a thick
+							Quarto Volume of <persRef ref="gronovius-johann">John Frederic Gronovius
+								de Sestertiis</persRef>, which I suppose contains a full account of
+							the monies and modes of accounting of the Greeks and Romans. The Book
+							printed at Leyden 1691. is dedicated by <persRef ref="gronovius-jacobus"
+								>James Gronovius</persRef>, the authors Son, to <persRef
+								ref="william-iii">William the 3<hi rend="superscript"
+								>d.</hi></persRef> then king of Great-Britain; just 30 years after
+							the <persRef ref="elzevir">Elzevir</persRef> Cicero had been dedicated
+							to him as Prince of Orange by <persRef ref="schrevelius-theodorus"
+								>Schrevelius</persRef>. There is a complication in the Roman modes
+							of counting money, and of computing time which I never understood, and
+							which often perplexes me, in reading the Latin authors— The arrangement
+							of the days of the Month into Ides, Nones and Calends, with the custom
+							of reckoning backwards so many days before each of those periods is
+							unnatural and absurd— The forms of counting money, and of denoting the
+							rates of interest, are still more intricate; but the very looking into
+							those books, consumes too much of my time—how shall I study them? and
+							cui bono? <persRef ref="adams-abigail2">Abigail S. Adams</persRef> came
+							to spend some days with <persRef ref="hellen-mary">Mary</persRef>— I
+							took a ride with them towards Evening, and we were overtaken with a
+							drenching shower of rain and hail.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-09">
+					<head>9 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. V. </date>Wednesday.</p>
+						<p><persRef ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook</persRef> was here. <persRef key="adams-louisa-catherine"
+								>My wife’s</persRef> fever is yet very high; and the swelling and
+							inflammation, has spread almost over her whole face— <persRef
+								key="adams-charles2">Charles</persRef> and <persRef
+								ref="adams-abigail4">his wife</persRef> came out and spent the day
+							with us, but returned this Evening to Boston— I gave Charles one copy of
+								<persRef ref="wailly-noel">Wailly’s</persRef> French Translation of
+								<persRef ref="cicero-marcus">Cicero’s</persRef> select Orations,
+							with the fourth Volume containing the Philippics and Catilinaries by
+								<persRef ref="olivet-pierre">D’Olivet</persRef>— I have two complete
+							copies of the work, besides the second and third Volumes of another set—
+							Charles urged me to resume the Memoir of <persRef key="adams-john">my
+								father’s</persRef> life, which I have already too long neglected— I
+							have in truth here less time at my disposal than at Washington— This is
+							the eighth day since my arrival here; and the arrears even of this diary
+							are as great, as they were when I came into the House— I walked out this
+							Evening, intending to go to <persRef key="adams-thomas">my
+								brother’s</persRef>, but stopping at <persRef ref="whitney-peter"
+									>M<hi rend="superscript">r</hi> Whitney’s</persRef> got engaged
+							in conversation with him till it was time to come home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-10">
+					<head>10 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. V. </date>Thursday.</p>
+						<list>
+							<item>Bowditch Nathan<hi rend="superscript">l.</hi></item>
+							<item>Tredwell</item>
+						</list>
+						<p>Cold and Showery morning which still confined me to the house. After
+							dinner <persRef ref="bowditch-nathaniel">D<hi rend="superscript">r</hi>
+								Bowditch</persRef>, and <persRef ref="treadwell-daniel">M<hi
+									rend="superscript">r</hi> Tredwell</persRef>, the former and
+							present President’s of the association of Mechanics in Boston, came to
+							request me to deliver the introductory Lecture, to the course which is
+							to be given, next Winter— It is to commence in October— The introductory
+							Lectures of the preceding years have been given by <persRef
+								ref="everett-edward">Edward Everett</persRef>, <persRef
+								ref="webster-daniel">Daniel Webster</persRef> and <persRef
+								ref="story-joseph">Judge Story</persRef>. I was in hopes I should
+							have escaped this tax, which will give me much trouble and vexation,
+							without credit to myself, or I fear benefit to any one else— I told
+							them, that it would afford me great pleasure to comply with this
+							invitation, which I felt as an honour conferred upon me— That the only
+							consideration which could cause a single moment of hesitation in my
+							mind, was a deep, and sincere distrust of my own qualifications to
+							discharge the duty which I should assume— I was not acquainted with the
+							precise objects of the Mechanic Association; and so far as I had an idea
+							of the courses of Lectures which had been delivered to them; they were
+							subjects with which my mind was not familiar, and towards which not much
+							of my attention had ever been turned. M<hi rend="superscript">r</hi>
+							Tredwell said that he would furnish me with the annual Reports upon the
+								<pb n="473" type="ms"/>objects of the Institution, which had been
+							published, and they would give me the desired information— M<hi
+								rend="superscript">r</hi> Bowditch mentioned my Report upon weights
+							and Measures, as proving that I had been no stranger to the discussion
+							of scientific subjects— I finally requested a few days for
+							consideration, and assured them that I would very cheerfully undertake
+							the task, if I could bring myself to the opinion that I could say any
+							thing worthy of being heard— I planted in the Garden, five Walnuts given
+							me last Winter by <persRef ref="roberdeau-mary">Mary
+							Roberdeau</persRef>, and transplanted several Apple trees, just up from
+							seeds which I sowed last Summer. They came up in clusters, and the day
+							after I arrived, in weeding round some of them, I plucked up one of them
+							by mistake for a weed— I immediately set it out, without expecting it
+							would live, but it is now alive—and thriving. My walnuts, which are very
+							large, I fear have been kept too long— The weather cleared off this
+							afternoon, and I rode with <persRef ref="hellen-mary">Mary</persRef>,
+								<persRef ref="u">M<hi rend="superscript">rs. </hi>Nowland</persRef> and the <persRef
+								ref="adams-mary4">child</persRef> to the new Meeting-House in
+							Braintree, thence across to Weymouth and back over Penn’s Hill—
+							Returning I stop’d, to visit <persRef ref="marston-john">M<hi
+									rend="superscript">r</hi> Marston</persRef> then at <persRef
+								ref="greenleaf-john">M<hi rend="superscript">r</hi> J.
+								Greenleaf’s</persRef> with a Letter to <persRef ref="greenleaf-lucy"
+									>M<hi rend="superscript">rs</hi> Greenleaf</persRef>, from her
+							Son, <persRef ref="greenleaf-william">William</persRef>, and then at
+								<persRef key="adams-thomas">my brother’s</persRef> with a Letter
+							from <persRef ref="adams-thomas2">Lieut<hi rend="superscript">t.</hi> T.
+								B. Adams j<hi rend="superscript">r</hi></persRef> to <persRef
+								ref="adams-ann">his mother</persRef>. Returning home I saw a very
+							brilliant Northern Light; and a luminous Arch from Southeast to
+							Northwest, quite across the Heavens, like that which I had seen in
+							September 1827— The fever and inflammation with which <persRef
+								key="adams-louisa-catherine">my wife</persRef> is afflicted subsides
+							very slowly— <persRef ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook</persRef> this day intermitted his visit. I finished
+							reading the Oration for <persRef ref="murena-lucius">Murena</persRef>,
+							one of the favourites of the Translators. What versatility of Genius!
+							This Oration was delivered in the very crisis of <persRef ref="catiline"
+								>Catiline’s</persRef> conspiracy— Murena was already elected Consul
+							as one of the Successors of <persRef ref="cicero-marcus"
+								>Cicero</persRef>— Accused of Ambitus, or election bribery, by
+								<persRef ref="rufus-servius">Servius Sulpitius</persRef>, and
+								<persRef ref="cato-marcus">Cato</persRef>, and defended by Cicero
+							who had himself carried through a law, sharpening the penalties of that
+							Offence— Murena was acquitted, and served his year as Consul— The
+							management of the cause is inimitable— <persRef ref="demosthenes"
+								>Demosthenes</persRef> could not have delivered such an Oration. The
+							great struggle of the Speaker is against the weight of character of the
+							accusers; both his personal friends; men of great talents and of
+							admirable virtue— He treats them with the most respectful deference; but
+							gets the laugh upon them both— Sulpicius for his lawyer’s
+							technicalities—Cato for his Stoicism. There is a comparative estimate of
+							military service, the profession of the Law, and popular eloquence,
+							adapted to the state of the question and to Roman customs and opinions—
+							The defence of Murena, upon the facts of alleged bribery, had already
+							been made by <persRef ref="hortalus-quintus">Hortensius</persRef>; and
+							although Cicero at the request of Murena, returned to it, and replied to
+							the charges of the <persRef ref="sulpiciustheyounger">younger
+								Sulpicius</persRef> and of <persRef ref="posthumius"
+								>Posthumius</persRef>, that part of the Oration is lost. The case
+							that he made upon the facts was doubtless strong; for it is remarkable
+							of Cicero that his management of facts always carries conviction as
+							irresistible as his arguments— You can never part from him without
+							saying he was right.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-11">
+					<head>11 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. V. </date>Friday.</p>
+						<list>
+							<item>D<hi rend="superscript">r</hi> Holbrook</item>
+							<item>Brooks Peter C</item>
+							<item>Frothingham M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi></item>
+							<item>M<hi rend="superscript">rs. </hi>A. B. Adams</item>
+							<item>Beale George</item>
+							<item>M<hi rend="superscript">rs </hi>T. B.
+								Adams</item>
+						</list>
+						<p><persRef key="adams-louisa-catherine">My wife</persRef> continues slowly
+							to recover, but still is confined to her bed. <persRef
+								ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook</persRef> was again here this morning, and I consulted him
+							upon the state of my own health, which is precarious— He gave me a
+							prescription which I propose to take at my leisure. <persRef
+								ref="brooks-peter">M<hi rend="superscript">r</hi> Brooks</persRef>
+							with <persRef ref="frothingham-nathaniel;frothingham-ann">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								Frothingham</persRef>, and my Son <persRef key="adams-charles2"
+								>Charles’s</persRef>
+							<persRef ref="adams-abigail4">wife</persRef> paid us an afternoon visit—
+								<persRef key="adams-thomas">My brother’s</persRef>
+							<persRef ref="adams-ann">wife</persRef> was here in the Evening, and
+								<persRef ref="beale-george">George W. Beale</persRef> who makes very
+							inauspicious reports of the failure of business in this Town of Quincy—
+							The Stone-cutters, excepting those at the Railway have all left the
+							Town, and that branch of Industry is entirely at a stand— They have gone
+							to Sandy-Bay, where the Quarry of Stone is close upon the shore, and
+							they can ship it for Norfolk, at a very trifling expence. This has
+							reduced the business upon the Quincy Canal, so that there will be no <pb
+								n="474" type="ms"/>dividend upon the Stock; and the charges upon the
+							Neponset Bridge are so great that there will be no dividend for the
+							Stock holders to that. I took a ride this afternoon with <persRef
+								ref="hellen-mary">Mary</persRef>, and <persRef ref="adams-abigail2"
+								>Abigail S. Adams</persRef>, to Milton— Hull— Began to read <persRef
+								ref="cicero-marcus">Cicero’s</persRef> Oration for <persRef
+								ref="sulla-publius">Publius Sulla</persRef>— I received Letters
+							yesterday, from my nephew <persRef ref="adams-thomas2">T. B. Adams
+									jun<hi rend="superscript">r.</hi></persRef> Dated 27. May at
+							Fort Moultrie, from <persRef ref="meeteer-william">William
+								Meeteer</persRef> President of the Company of the Citizens
+							Canal-Line of Steam-boats between Baltimore and Philadelphia,
+							complaining that the Line had been represented to me as a Jackson Line;
+							and denying the fact— And from <persRef ref="bates-stephen">Stephen
+								Bates</persRef>, of the 8<hi rend="superscript">th.</hi> inst<hi
+								rend="superscript">t.</hi> with a Prospectus of a daily Newspaper to
+							be published in Boston, against Free masonry— These two last Letters
+							were probably both written with a view to the answers which they would
+							draw from me— It is scarcely if at all possible for me to answer them
+							with frankness and sincerity, without involving myself again in bitter
+							and frantic political controversy. If I flinch from the questions
+							involved in these Letters—what selfishness and cowardise!— If I meet
+							them, <persRef ref="ate">Atè</persRef> hot from Hell, will be let loose
+							again, not only upon me, but upon my family, upon my wife, <persRef
+								key="adams-john2">my children</persRef>, <persRef key="adams-john"
+								>my dead father</persRef>— This is and has been to them and me, the
+							Law, not only of political Life, but of taking any interest in political
+							questions— Let me take the Letters ad referendum, and reflect whether I
+							can answer them insignificantly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-12">
+					<head>12 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. V. </date>Saturday.</p>
+						<list>
+							<item>Greenleaf Daniel</item>
+							<item>Curtis, Nathaniel</item>
+							<item>Quincy Josiah</item>
+						</list>
+						<p><persRef ref="kirk-john">John Kirke</persRef> went to Boston this
+							morning, with one of my ponies, for the use of my Son <persRef
+								key="adams-charles2">Charles</persRef>, and came out at noon, with
+							the other; the best of the two, but which has been sick to the danger of
+							death with the glanders. Kirke was charged with Sundry Commissions, and
+							an experiment of a Cook came out in the Stage this afternoon— Visit from
+								<persRef ref="greenleaf-daniel">M<hi rend="superscript">r</hi>
+								Daniel Greenleaf</persRef> who is recovering from a violent
+							inflammatory fever, which he was for some days not expected to survive.
+							He speaks despondingly of the prospects of the Seasons—that is, of the
+							promised superabundance of the crops. The Hay and corn were said last
+							autumn to have been cut off by the drought, in great part of Maine and
+							New-Hampshire— Yet great importations, are now made of Hay from both
+							those States into Boston, cheaper than the same Article can be furnished
+							from this place— M<hi rend="superscript">r</hi> Greenleaf has thirty
+							tons of last years hay, with which he knows not what to do. <persRef
+								ref="curtis-nathaniel">M<hi rend="superscript">r</hi> Nathaniel
+								Curtis</persRef> was here, with a short Letter, of no significancy
+							from <persRef ref="vaughan-petty">Petty Vaughan</persRef> of 31. March—
+							We discussed the papers prepared by <persRef ref="lowell-john">J.
+								Lowell</persRef> to be executed by the Executors of <persRef
+								ref="boylston-ward">Ward N Boylston</persRef>—to <persRef
+								ref="baring-thomas;baring-john">Thomas and John Baring</persRef>,
+							and <persRef ref="bates-joshua">Joshua Bates</persRef>, to recover the
+							monies received by Petty Vaughan, from the French Government as part of
+							the Estate of <persRef ref="boylston-thomas2">Thomas Boylston</persRef>—
+							I agreed to meet M<hi rend="superscript">r</hi> Curtis at my Son
+							Charles’s Office, at 11. O’Clock next Tuesday Morning, there, with
+								<persRef ref="boylston-john">M<hi rend="superscript">r</hi>
+								Boylston</persRef> to execute the papers: I told M<hi
+								rend="superscript">r</hi> Curtis I would write a separate Letter to
+							the Barings and Bates, as Administrator upon the Estate of Thomas
+							Boylston; and I desired him to consult M<hi rend="superscript">r</hi>
+							Lowell upon the question, whether by a power of Attorney from <persRef
+								ref="gill-moses">Moses Gill</persRef> as Executor of his Uncle, a
+							suit could not be maintained in England, upon Petty Vaughan’s Bond as
+							Administrator of Thomas Boylston, for that portion of the monies
+							received from the French Government which was due to the Estate of
+								<persRef ref="gill-moses2">Lieutenant Governor Gill</persRef>; and
+							if it could, whether a power should not be obtained from Gill, as
+							Executor, for that purpose. M<hi rend="superscript">r</hi> Curtis
+							supposed it would be necessary to sell some part of the Estate of Ward
+							N. Boylston in this Country; to pay the pressing demands upon the Estate
+							for which he is already somewhat in advance— It has not been practicable
+							to sell advantageously my part of the Lands either at Princeton or at
+							Charlestown. <persRef ref="quincy-josiah2">M<hi rend="superscript"
+									>r</hi> Quincy</persRef> the President of Harvard University <pb
+								n="475" type="ms"/>called, and gave me a copy of the three Volumes
+							just published, of the Catalogue of the Library of the University— A
+							fourth Volume, containing the maps and Charts is yet to come out— The
+							Catalogue is first Alphabetical, in two Volumes, without discrimination
+							of Subject or size annexing the format, to each work— The third Volume
+							is a systematic Index, in which the works are divided into six Classes,
+							and each Class, excepting the last, works relating to America, into
+							several Sections. The Preface to the first Volume of the Catalogue,
+							contains a brief account of the formation of the Library, and notices of
+							the donors, in which my father’s name and mine are included— But M<hi
+								rend="superscript">r</hi> Quincy said there was no trace among the
+							papers in his Office of the donations; or of what books they consisted—
+							I told him I had no very distinct recollection of them; but there were
+							three books, of which I could speak with certainty—<persRef
+								ref="vanloon-gerard">Van Loon’s</persRef> Medallic History of the
+							Netherlands, <persRef ref="catrou-francois">Catrou</persRef> and
+								<persRef ref="rouille-pierre">Rouillés</persRef> Roman History, and
+							the Collection of Memoirs of the History of France— We found them all in
+							the Catalogue, but the Collection of Memoirs incomplete, and he said
+							that some years since they sold their duplicates, and the History of
+							Catron and Rouillé was one of them, which he himself purchased— It was
+							an unbound copy, mine was bound. I observed that a new Treasurer had
+							been elected— <persRef ref="ward-thomas">M<hi rend="superscript">r</hi>
+								Ward</persRef> in the place of <persRef ref="francis-ebenezer">M<hi
+									rend="superscript">r</hi> Francis</persRef>, resigned— The cause
+							of which, he said was ill health— I thought M<hi rend="superscript"
+								>r</hi> Quincy spoke in a less sanguine tone of the prospects of
+							improvement at the College, than he did last year— He asked something
+							about the annuity from W. N. Boylston’s benefactions; which I told him I
+							had spoken of to M<hi rend="superscript">r</hi> Curtis this morning. He
+							spoke also of the Account of Administration, on <persRef
+								key="adams-john">my father’s</persRef> Estate; and said he would
+							attend at the next Probate Court at Quincy. The present judge is
+								<persRef ref="leland-sherman">Sherman Leland</persRef>—<persRef
+								ref="robbins-edward">judge Robbins</persRef> having died in the
+							course of the last year. I rode this afternoon with <persRef
+								ref="hellen-mary">Mary</persRef> and <persRef ref="adams-abigail2"
+								>Abigail S. Adams</persRef>, towards Weymouth and to the Mount
+							Wollaston beach— We left Abigail at <persRef ref="brooks-peter">her
+								father’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-13">
+					<head>13 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. IV:30. </date>Sunday.</p>
+						<list>
+							<item>Pierpont.</item>
+							<item>Greenleaf Thomas</item>
+						</list>
+						<p>There was a thunder shower this morning; which roused me before the Sun—
+							Cold Rain all the Morning. Heard <persRef ref="pierpont-john">M<hi
+									rend="superscript">r.</hi> Pierpont</persRef> this morning from
+							Exodus 20.5. “For I the Lord thy God am a jealous God.”—and in the
+							afternoon from Hebrews 11.4. “he, being dead, yet speaketh.” I do not
+							remember having heard him preach before; and his reputation being very
+							high, neither of his Sermons entirely fulfilled my expectations— His
+							manner and delivery are cold; though he is an elegant Poet— His Style is
+							ornamental, but not remarkable for energy, or precision— His stamp is
+							not deep, or my mind was not in the proper state to receive its
+							impression— He dined with me, and I collected more thoughts from his
+							conversation than from his discourses— He made several remarks upon the
+							book of <persRef ref="job">Job</persRef>, which he thinks was not
+							written by <persRef ref="moses">Moses</persRef>—nor even a Hebrew Book.
+							It is Arabian— No one of the names of the actors in it, are mentioned in
+							any other part of the Scriptures; nor is there any allusion in any part
+							of the Book to the Mosaic History— M<hi rend="superscript">r</hi>
+							Pierpont believes Job to have been a descendant of <persRef
+								ref="abraham">Abraham</persRef>; but not of <persRef ref="jacob"
+								>Jacob</persRef>. He thinks that the name of <persRef ref="satan"
+								>Satan</persRef>, was borrowed by the Hebrews from the Chaldeans.
+							Upon my remarking that the first occasion upon which Satan is named is
+							in the account of <persRef ref="david">David’s</persRef> numbering the
+							People; he said it was—in the Book of Chronicles. 1.21.1. probably
+							written during or after the Babylonian captivity—but that in the other
+							account of the same event—2. Samuel 24.1. the purpose of David is said
+							to have been moved by the Lord— With regard to a future State; the ideas
+							and opinions of the Jews appear to have been cotemporaneous with those
+							of the Heathens— It was not communicated with the Law from Sinai— A dim
+							and obscure conception of it, is found in the <pb n="476" type="ms"
+							/>evocation of the shade of <persRef ref="samuel">Samuel</persRef>—
+							Something more distinct in the Book of <persRef ref="daniel"
+								>Daniel</persRef>; and still more so in the apocryphal books of the
+								<persRef ref="maccabees">Maccabees</persRef>— The same difference is
+							perceptible between the Elysian fields of <persRef ref="homer"
+								>Homer</persRef>, and those of <persRef ref="virgil"
+								>Virgil</persRef>. I spoke of the prophecies in the Old Testament,
+							the application of which is made in the New Testament to the person, and
+							mission of Christ; most particularly that of Isaiah 7.14. applied
+							Matthew 1.23. of this prophecy as first delivered to <persRef ref="ahaz"
+								>Ahaz</persRef>, and all the circumstances attending it, M<hi
+								rend="superscript">r</hi> Pierpont gave from memory a very exact
+							account, and appeared to think that there had been a fulfilment of it at
+							the time; although that is not mentioned in the narrative— The events
+							announced by the prophet, and of which the birth of the child from a
+							virgin was the miraculous sign, did happen and are recorded, and it is
+							to be presumed that the sign itself was accomplished— I asked him if he
+							thought the prophet <persRef ref="isaiah">Isaiah</persRef> himself had
+							any conception of the application which his prophesy was ultimately to
+							receive; or whether the Prophets were like <persRef ref="hamlet"
+								>Hamlet’s</persRef> flute, which he presents to his associates, and
+							tells them if they will give it breath, and govern its vantages, it
+							would discourse most excellent music— M<hi rend="superscript">r</hi>
+							Pierpont said that was a great and very difficult question— I mentioned
+							to him the strange and wonderful passage in one of <persRef ref="plato"
+								>Plato’s</persRef> dialogues where <persRef ref="socrates"
+								>Socrates</persRef> says that there must come a special messenger
+							from Heaven, to reveal the future state of the human Soul—and I noticed
+							the weakness of the argument of immortality in the Phaedon— But M<hi
+								rend="superscript">r</hi> Pierpont is not more familiar with Plato,
+							than <persRef ref="story-joseph">judge Story</persRef>— <persRef
+								key="adams-thomas">My brother</persRef> was here, in the afternoon,
+							and <persRef ref="greenleaf-thomas">M<hi rend="superscript">r</hi>
+								Thomas Greenleaf</persRef> in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-14">
+					<head>14 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. IV.30. </date>Monday.</p>
+						<p>My Son <persRef key="adams-charles2">Charles</persRef> and <persRef
+								ref="adams-abigail4">his wife</persRef> came out from Boston, upon a
+							visit to us for some days. In the Evening I called at <persRef
+								key="adams-thomas">my brother’s</persRef>, where were <persRef
+								ref="cranch-elizabeth">M<hi rend="superscript">rs</hi> Rufus
+								Dawes</persRef>, (<persRef ref="cranch-william">judge
+								Cranch’s</persRef> daughter Elizabeth[)], and <persRef
+									ref="smith-louisa">Louisa C. Smith</persRef>. I met <persRef ref="miller-edward">M<hi
+								rend="superscript">r</hi> Edward Miller</persRef>, to whom I intended to have
+							paid a visit; and afterwards I went to <persRef ref="greenleaf-daniel"
+									>M<hi rend="superscript">r</hi> Daniel Greenleaf’s</persRef>.
+							The Evening was thus consumed— I wrote this afternoon, as Administrator
+							de bonis non, of <persRef ref="boylston-thomas2">Thomas
+								Boylston</persRef> with the Will annexed, a Letter to <persRef
+								ref="baring-thomas;baring-john">Thomas and John Baring</persRef> and
+								<persRef ref="bates-joshua">Joshua Bates</persRef>, to be sent with
+							the Letter and Power, and Statement of facts of the Executors of
+								<persRef ref="boylston-ward">Ward N Boylston</persRef>— I have read
+							since Thursday the Orations for <persRef ref="sulla-publius">Publius
+								Sulla</persRef>, for <persRef ref="archias-aulus">Archias the
+								Poet</persRef>; and this morning began that for Lucius Flaccus
+							Sulla, had been together with <persRef ref="paetus-publius"
+								>Autronius</persRef> a candidate for the Consulship, two years
+							before <persRef ref="cicero-marcus">Cicero</persRef>— Their competitors,
+								<persRef ref="cotta-lucius">Lucius Cotta</persRef>, and <persRef
+								ref="torquatus-lucius">Lucius Torquatus</persRef>, had impeached
+							them for bribery, (ambitus) and both of them had been condemned—whereby
+							Cotta and Torquatus had been proclaimed Consuls. The first conspiracy of
+								<persRef ref="catiline">Catiline</persRef> immediately afterwards
+							followed, but proved abortive. After the suppression of the second
+							conspiracy of Catiline by Cicero, when Consul, and under his immediate
+							Successors, <persRef ref="silanus-deciums">Silanus</persRef> and
+								<persRef ref="murena-lucius">Murena</persRef>, Sulla was accused by
+							the Son of Torquatus, as an accomplice of Catiline in both the
+							conspiracies. With regard to the first he had been defended by <persRef
+								ref="hortalus-quintus">Hortensius</persRef>, and this Oration is the
+							defence by Cicero, not only of Sulla, but of himself upon the second;
+							for young Torquatus in his accusation of Sulla, had very rudely and
+							severely censured Cicero for undertaking the defence of Sulla. A full
+							half of the Oration is embraced therefore by the Orator’s vindication of
+							himself. Torquatus had charged him first with gross inconsistency, after
+							his extraordinary zeal for the suppression of the conspiracy, in
+							becoming the defender of Sulla—to which Cicero replies by enquiring why
+							Torquatus confines the charge to him? why he did not extend <pb n="477"
+								type="ms"/>it to Hortensius, who had also defended Sulla. He
+							declares with much solemnity his own belief of Sulla’s innocence, and
+							that no evidence had been exhibited to him of his guilt— Torquatus who
+							was of a high Patrician family, had sneered at Cicero’s birth at
+							Arpinum, and said he was the third foreign king of Rome— Cicero repels
+							the imputation very indignantly, tells Torquatus that all cannot be
+							patricians; and turns the tables upon him by shewing that his own mother
+							came from one of the municipal cities, so that upon his own principle he
+							was himself a foreigner— But Torquatus had affectedly lamented the
+							execution of the conspirators; and thereby contributed to inflame the
+							popular prejudices against Cicero for that act— Upon this point Cicero
+							replies with painfully suppressed anger, and a boast of moderation,
+							mingled with threats— Sulla was acquitted; and there was in fact no
+							substantial Evidence against him; but he was one of the bad men of the
+							age, and lived to be one of the Lieutenant Generals of <persRef
+								ref="caesar-julius">Caesar</persRef> at the Battle of Pharsalia.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-15">
+					<head>15 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. IV. </date>Tuesday.</p>
+						<p>I went to Boston with <persRef key="adams-charles2">Charles</persRef> and
+								<persRef ref="adams-abigail4">his wife</persRef>, and <persRef
+								ref="adams-abigail2">Abigail S. Adams</persRef>— Left the Ladies at
+							his house. Walking to his house, <persRef ref="hall-joseph">Judge
+								Hall</persRef> overtook us— I asked him if it was necessary to
+							return an inventory and account of Administration, when there was
+							nothing to return— He said no— But that on returning to the Probate
+							Office the Instruction to Account, it might be proper to state what
+							property of <persRef ref="boylston-thomas2">Thomas Boylston</persRef>
+							might be expected to be received hereafter, and from what source it
+							might come— At Charles’s Office, I met <persRef ref="curtis-nathaniel"
+									>M<hi rend="superscript">r</hi> Nathaniel Curtis</persRef> and
+								<persRef ref="boylston-alicia">M<hi rend="superscript">rs</hi>
+								Boylston</persRef>— We executed and acknowledged before <persRef
+								ref="welsh-thomas2">Thomas Welsh jun<hi rend="superscript"
+								>r.</hi></persRef> Justice of Peace, a Power, as Executors of
+								<persRef ref="boylston-ward">Ward N. Boylston</persRef>, and on my
+							part as Administrator of Thomas Boylston, to <persRef
+								ref="baring-thomas">Thomas Baring</persRef>
+							<persRef ref="baring-john">John Baring</persRef>, and <persRef
+								ref="bates-joshua">Joshua Bates</persRef>, a Power to recover the
+							monies in the hands of <persRef ref="vaughan-petty">Petty
+								Vaughan</persRef>, in duplicate copies; and M<hi rend="superscript"
+								>r</hi> Curtis took them, to get them authenticated by the <persRef
+								ref="lincoln-levi2">Governor</persRef> at the Office of the <persRef
+								ref="bangs-edward">Secretary of the Commonwealth</persRef>: we
+							signed also in duplicates the Letter with the Statement of facts to
+							accompany the Power, prepared by <persRef ref="lowell-john">J.
+								Lowell</persRef>— M<hi rend="superscript">r</hi> Curtis said he had
+							mentioned to M<hi rend="superscript">r</hi> Lowell the demand of
+								<persRef ref="gill-moses">Gill</persRef>, upon T. Boylston Estate,
+							on account of the sum recovered from the French Government, and M<hi
+								rend="superscript">r</hi> Lowell thought it would be proper to
+							obtain a Power from Gill— I engaged to draw one up to be taken by
+							Charles to-morrow Morning to M<hi rend="superscript">r</hi> Curtis, who
+							will go to Princeton, and get it executed by M<hi rend="superscript"
+								>r</hi> Gill. M<hi rend="superscript">rs</hi> Boylston said there
+							was a Note from Gill to her husband, of one thousand dollars, to set off
+							against the claim of his when recovered— The Power referred to an
+							Account of Petty Vaughan, acknowledging the receipt of the sum from the
+							French Government, as annexed— This account was among the papers in my
+							possession— Charles made a copy of it this evening— After my business
+							done, I called at <persRef ref="wells-william">Wells</persRef> and
+								<persRef ref="lilly-robert">Lilly’s</persRef> shop, and took the
+								84<hi rend="superscript">th.</hi> number of the English Quarterly
+							Review, and bespoke the subsequent numbers of this and of the Edinburgh
+							Review, to be delivered to me here instead of at Washington until next
+							October— I strayed also to several other shops and made purchases of
+							sundry Articles necessary for the use of the household; among which a
+							pair of house Scales and Iron weights from four pounds to 1/4 of an
+							ounce. I met in the Streets <persRef ref="hubbard-john">M<hi
+									rend="superscript">r</hi> John Hubbard</persRef>, and <persRef
+								ref="morgan-charles">Captain Morgan</persRef> of the Navy. We dined
+							with Charles— <persRef ref="gorham-julia">Miss Julia Gorham</persRef>
+							was there— We all returned to Quincy before Evening— It was the first
+							day of full Summer heat of this Season— I was unable to write— I yet
+							adhere to my Ciceronian studies, and on Sunday read the Oration for
+								<persRef ref="archias-aulus">Archias</persRef>—This is the organic
+							law of human Literature— If <persRef ref="cicero-marcus"
+								>Cicero</persRef> had never atchieved any thing else but the
+							composition of this Speech he would have been an eminent benefactor of
+							his kind. The occasion of its delivery was a captious question made by
+							some malignant dunce named <persRef ref="gratius">Gratius</persRef>
+							<pb n="478" type="ms"/>whether Archias was a Roman citizen— He was a
+							native of Antioch, and had been made a Citizen of Heraclea in Sicily— By
+							a Law of <persRef ref="silvanus-plautius">Silvanus</persRef> and
+								<persRef ref="carbo-gnaeus">Carbo</persRef>, otherwise called the
+							Law Plautia-Papiria, persons inscribed as Citizens of the confederate
+							Citizens (of which Heraclea was one[)], if when the Law was enacted they
+							had their domicil in Italy, acquired the right of Roman Citizens by
+							appearing before the Praetor, and claiming it within 60 days. All this
+							Archias had done, but the public Register of Heraclea had been burnt in
+							the Italic War; and there was a lack of evidence by the Record. It was
+							supplied by the Testimony of respectable witnesses— The facts were
+							sufficiently proved, and Cicero says not much about them: but the
+							panegyric upon Literature, the profound philosophy and the connection of
+							the arts with the progress of human virtue are original in this speech,
+							and form with it an epoch in the advancement of civilization and
+							morals.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-16">
+					<head>16 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. IV:15. </date>Wednesday.</p>
+						<list>
+							<item>Everett Alexander H.</item>
+							<item>Everett. Edward</item>
+						</list>
+						<p>I drafted a Power of Attorney, to be executed by <persRef
+								ref="gill-moses">Moses Gill</persRef>, as Executor of <persRef
+								ref="boylston-ward">his Uncle’s</persRef> Will, to me as
+							Administrator of <persRef ref="boylston-thomas2">Thomas
+								Boylston</persRef> for the recovery of the money received By
+								<persRef ref="vaughan-petty">Petty Vaughan</persRef>— <persRef
+								key="adams-charles2">Charles</persRef> took it into Boston, and gave
+							it to <persRef ref="curtis-nathaniel">M<hi rend="superscript">r</hi>
+								Curtis</persRef>, together with the copy of the Statement of account
+							to be annexed to the Power of Attorney to the <persRef
+								ref="baring-thomas;baring-john">Baring’s</persRef> and <persRef
+								ref="bates-joshua">Bates</persRef>— Charles returned here to dine;
+							and after dinner we commenced making out the Catalogue of my Library— We
+							commence according to the locality, and spent three hours upon it this
+							afternoon. <persRef ref="hellen-mary">Mary</persRef> and <persRef
+								ref="adams-abigail4">Charles’s wife</persRef> went and took tea at
+								<persRef key="adams-thomas">my brother’s</persRef>. <persRef
+								ref="everett-alexander;everett-edward">Alexander and Edward
+								Everett</persRef> were here. The morning was warm—followed by a
+							chilly East wind— Then a light thunder shower, and a sultry evening.
+								<persRef key="adams-louisa-catherine">My wife</persRef> is still
+							confined to her chamber and almost entirely to her bed. Edward Everett
+							gave me a pamphlet copy of his speech in the House of Representatives,
+							on the 19<hi rend="superscript">th.</hi> of May against the Bill for the
+							removal of the Indians, and I have received from <persRef
+								ref="treadwell-daniel">Daniel Treadwell</persRef> a Letter, and
+							several pamphlets relating to the Mechanics Institution in Boston; but
+							they give me no encouragement to undertake the delivery of the
+							Introductory Lecture next October. I finished reading the Oration for
+								<persRef ref="flaccus-lucius">Flaccus</persRef>. He had been one of
+							the Praetors, when <persRef ref="cicero-marcus">Cicero</persRef> was
+							Consul and was among the most active and efficient of his Assistants in
+							suppressing the conspiracy of <persRef ref="catiline"
+							>Catiline</persRef>; afterwards he had been three years Governor of the
+							Province of Asia, and at the expiration of that Service, was prosecuted
+							by <persRef ref="laelius-decimus">Decimus Laelius</persRef> de
+							repetundis; that is for illegal extortion upon the inhabitants of the
+							Province, which included Greece. The Law was provided to compel the
+							restitution for monies or other property taken unlawfully; but the Roman
+							Governor, had numberless modes of plundering the people— This
+							prosecution, Cicero considers, as instigated by his enemies, and
+							intended for a prelude to a direct attack upon him— He tells the judges
+							that they are trying, not the cause of a few obscure provincial
+							witnesses brought there upon compassion; but their own cause—that of
+							their wives and children, of their Country; of the whole Roman People—
+							That they are in effect trying over again the conspiracy of Catiline— A
+							considerable part of this Oration is lost— The defence consists first in
+							amplification of the previous good character of Flaccus— Secondly of his
+							most important services in overthrowing Catiline’s conspiracy— Thirdly
+							in a general impeachment of the credibility of all the witnesses against
+							him; and fourthly in a refutation of particular charges, and a scrutiny
+							of the characters of the witnesses by name. It is not the practice of
+							Cicero, to spare the characters of witnesses who testify against his
+							Clients <pb n="479" type="ms"/>and in this case he treats them with
+							great severity. There is in the fourth Section, a very remarkable
+							character given of the Greeks as a Nation— He allows them literature,
+							discipline in many arts, pleasantness of discourse, shrewdness of
+							genius—eloquence, and other indefinite merits—but denies them veracity,
+							and all credibility in testimony. He treats the Greeks of Asia Minor
+							with still greater severity, and quotes a sarcastic proverb against each
+							of the four Nations, the Phrygians, Mysians, Carians and Lydians— There
+							is a passage in the 28<hi rend="superscript">th.</hi> Section concerning
+							the Jews which is not intelligible to me— He calls their Religion a
+							barbarous superstition— Flaccus was acquitted.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-17">
+					<head>17 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. IV:30. </date>Thursday.</p>
+						<p>A very warm Night; and the weather continuing this morning at high Summer
+							heat, I took a bath at <persRef ref="greenleaf-daniel">M<hi
+									rend="superscript">r</hi> Daniel Greenleaf’s</persRef> wharf,
+							and swam from the upper to the lower wharf— It being the first time for
+							the Season—the swimming distance was almost too great, and I returned
+							well wearied— <persRef key="adams-charles2">Charles</persRef> and
+								<persRef ref="adams-abigail4">his wife</persRef> left us for a visit
+							to Medford— I planted a sixth Pennsylvanian Walnut, but they have been
+							so carelessly kept, that the germ has withered; they float upon water,
+							and the shells have split open. I likewise planted fourteen peach
+							stones, which have been kept over winter, but almost all which sunk in
+							Water— My fruit-trees, which I have attempted to raise from the stone
+							and seed, perish in two different ways—in Summer, by the heat of the
+							Sun, and in winter by the frost— From this fate are exempted, in a great
+							measure the Horse Chesnuts—the Elms—Peaches, Plums, Apples and Apricots—
+							But very few of the Oaks; and much to my surprize hitherto none of the
+							Hickory Walnuts— It is indispensable to guard the young trees the first,
+							and second Winter against the effect of the frosts, and this, not being
+							here in the winter I have never done— Very few of my trees therefore
+							survive— There is an enormous difference in the growth of trees of the
+							same kind— One of the Horse Chesnuts, planted in the Summer house cellar
+							in 1826. is now five feet high; others are 3 and 4 feet— In my Nursery
+							there are a number, but none of them more than one foot above ground.
+							The Stocks of many of the trees, after the first year become distorted—
+							The stems of the Oaks run up excessively Slender, and the leaves,
+							unnaturally large— For these and many other distempers of infancy which
+							I have observed, I know not the remedy. Some of my walnuts which had
+							died to the root, and come up again in the Summer house-cellar, have
+							been killed by the Sun—others are saved by the Sheltering leaves of the
+							Horse-chesnuts— <persRef ref="farrar-augustus">Farrar</persRef> has
+							sowed the Oaks that I purchased the last Summer, in the Nursery, and
+							they have come up, but look very thin and poor, and almost smothered
+							with weeds— I paid an Evening visit to my next door neighbour <persRef
+								ref="beale-george">George W. Beale</persRef> who is a good farmer
+							and planter of trees— But he gives formidable accounts of the insects
+							which swarm among them— The rose-bugs, are just now come to prey upon
+							the Roses which are in full bloom— They swarm also upon the leaves of
+							the Elm, which M<hi rend="superscript">r</hi> Beale says is attacked by
+							a more formidable enemy in the form of a large black worm of the
+							Caterpillar kind— He says too that the Caterpillar and the Canker worm
+							are both now very destructive to the apple orchards in this
+							neighbourhood— It would be worthy of the agricultural and horticultural
+							Societies to institute formal researches and enquiries into the natural
+							history of fruit trees, and of the insects which prey upon them. For
+							myself, I shall probably continue, as long as my life and health will
+							admit to sow and plant every Summer seeds Stones and Acorns, the Trees
+							from which will continue to perish, by frost and by Sun, by insect and
+							by disease; all for want of continued attention and systematic pursuit—
+							I am yet convinced that much useful service to the Country might thus be
+							performed, by the raising of forest trees; but it would require a
+							permanency of property, not adapted to our political Institutions and
+							Laws; with us each Generation looks only to itself.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-18">
+					<head>18 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="480" type="ms"/>
+						<p><date>18. IV:15 </date>Friday.</p>
+						<p><persRef key="adams-charles2">Charles</persRef> and <persRef
+								ref="adams-abigail4">his wife</persRef> returned from their visit to
+							Medford; and after dinner we continued taking the Catalogue of my
+							Library— It engages us from immediately after dinner till tea time:
+							three hours— <persRef key="adams-thomas">My brother’s</persRef>
+							<persRef ref="adams-abigail2;adams-elizabeth">two daughters</persRef>
+							were here. I spent an hour of the Evening at <persRef
+								ref="greenleaf-thomas">M<hi rend="superscript">r</hi> Thomas
+								Greenleaf’s</persRef>— My brother and his daughters with <persRef
+								ref="gourgas-john">M<hi rend="superscript">r</hi> Gourgas</persRef>
+							were there— <persRef ref="quincy-josiah;quincy-mary2">Col<hi
+									rend="superscript">l.</hi> and M<hi rend="superscript">rs</hi>
+								Quincy</persRef> paid us a visit while I was out this Evening— They
+							came yesterday to <persRef ref="quincy-josiah2">President
+								Quincy’s</persRef> Seat in this Town to spend the Summer. I read
+							yesterday the Oration to the Senate, and this day that to the People
+							after his return from exile— In the year of Rome 696. <persRef
+								ref="piso-lucius">Lucius Calpurnius Piso</persRef> and <persRef
+								ref="gabinius-aulus">Aulus Gabinius</persRef> being Consuls, the
+							fifth year after that of <persRef ref="cicero-marcus">Cicero’s</persRef>
+							Consulate, and the year immediately after that of <persRef
+								ref="caesar-julius">Julius Caesar</persRef> and <persRef
+								ref="bibulus-marcus">Bibulus</persRef>, <persRef
+								ref="clodius-publius">Publius Clodius</persRef> had obtained a
+							decree of the People against Cicero, interdicting him from fire and
+							water, and confiscating his Estates— The pretext for this was, that
+							Cicero had caused Roman Citizens the accomplices of <persRef
+								ref="catiline">Catiline</persRef> to be put to death without trial
+							and contrary to Law— Clodius had accomplished this by a Series of the
+							most profligate and outrageous acts—but Clodius was throughout the whole
+							transaction, merely the tool of Caesar; and could not have succeeded
+							without base connivance on the part of <persRef ref="pompey"
+								>Pompey</persRef> and <persRef ref="crassus-marcus">Crassus</persRef>— It was at the time of the first
+							Triumvirate— To effect his purpose Clodius a Patrician and Senator, had
+							got himself adopted as the Son of a Plebeian young enough to be his Son;
+							and then had got elected a tribune of the People. The decree was
+							obtained by violence in a tumultuous assembly of the people— Cicero
+							might have defended himself with the assistance of his friends, but it
+							would have made a civil War, and he preferred going into exile. He was
+							recalled about 16 months afterwards; and delivered the Oration to the
+							Senate to thank them for their exertions in his favour— In the first
+							Letter of the fourth book of his Epistles to <persRef
+								ref="atticus-titus">Atticus</persRef> he gives a very particular
+							account of his return, and mentions his oration to the Senate on the
+							Nones or 5<hi rend="superscript">th.</hi> of September, the day after he
+							arrived at Rome— It is full of thanks, and praise to the Consuls of that
+							year <persRef ref="lentulus-publius">Lentulus Spinther</persRef>, and
+								<persRef ref="metellusnepos-quintus">Metellus Nepos</persRef>; of
+							seven Praetors, of whom, especially <persRef ref="milo-titus"
+								>Milo</persRef> and <persRef ref="sextius-publius"
+							>Sextius</persRef>, and of eight tribunes of the People—but his
+							invective against the Consuls of the preceding year, is extremely
+							violent, and scurrilous. He represents Gabinius as an effeminate
+							Epicurean, and abuses Piso for the swarthiness of his complexion. The
+							Oration to the People, was delivered if at-all, two days after that to
+							the Senate— Many passages in both Orations are the same— The praise of
+							Pompey is too extravagant; and indeed his discourse concerning persons,
+							both laudatory and vituperative, is exaggerated to absurdity. Sounding
+							like dedications to kings.</p>
+					</div>
+				</div>
+				
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-19">
+					<head>19 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Elections, Presidential (1832)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. IV:15— </date>Saturday— Sun rose</p>
+						<list>
+							<item>Winthrop Thomas L</item>
+							<item>Miss Winthrop</item>
+							<item>Hall Joseph</item>
+							<item>Blake George</item>
+						</list>
+						<p><persRef key="adams-charles2">Charles</persRef> went into Boston this
+							morning; and returned to dine. <persRef ref="winthrop-thomas">Lieutenant
+								Governor Winthrop</persRef> with his daughter, and <persRef
+								ref="hall-joseph">Judge Hall</persRef>, with <persRef
+								ref="blake-george">George Blake</persRef> paid morning visits— Blake
+							said <persRef ref="webster-daniel">M<hi rend="superscript">r</hi>
+								Webster</persRef> had told him that there was a meeting of the
+							Members of Congress friendly to the last Administration a few days
+							before the close of the Session, to consider whether it would be
+							expedient to make a nomination of a Candidate for the Presidency in
+							opposition to <persRef ref="jackson-andrew">General Jackson</persRef>;
+							and it was concluded rather to let the first nomination come from a
+							State Legislature— It was confidently expected that the Administration
+							would lose its majorities in five of the State Legislatures the ensuing
+							Winter Kentucky, Ohio, Indiana, Louisiana and Maryland— The nomination,
+							it was <pb n="481" type="ms"/>expected would come from Maryland— M<hi
+								rend="superscript">r</hi> Webster is in very sanguine Spirits, and
+							considers the Administration, as almost in a state of dissolution. He
+							says there is not a person at Washington who appears to entertain the
+							least respect either for <persRef ref="calhoun-john">M<hi
+									rend="superscript">r</hi> Calhoun</persRef> or <persRef
+								ref="vanburen-martin">M<hi rend="superscript">r</hi> Van
+								Buren</persRef>. I said I thought M<hi rend="superscript">r</hi>
+							Webster had been in the habit of hearing the partizans of each of those
+							men, speak of the other and I have great doubts whether the
+							Administration will lose majorities in five of the State Legislatures so
+							soon— I continued working this afternoon with Charles upon the Catalogue
+							of my books, and towards evening walked to call at <persRef ref="miller-edward">M<hi
+								rend="superscript">r</hi> Edward Miller’s</persRef>; but he was not at home. I
+							spent an hour at <persRef key="adams-thomas">my brother’s</persRef>—
+							Charles brought me out from <persRef ref="curtis-nathaniel">M<hi
+									rend="superscript">r</hi> Curtis</persRef> the mortgage of the
+							Trustees of the Tremont Theatre to <persRef ref="boylston-ward">W. N.
+								Boylston</persRef>, for 10,000 dollars, which he has agreed to sell
+							to the Treasurer of Harvard College, and he requested that I would come
+							in to Boston next Monday to execute the Assignment with the other
+							Executors. The loan is for twenty-one years from the 1<hi
+								rend="superscript">st.</hi> of March 1827. and is at an interest of
+							five per cent a year, payable semi-annually.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-20">
+					<head>20 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. IV:30. </date>Sunday.</p>
+						<p>North-east Storm. Rain all the Morning— Heard <persRef
+								ref="crafts-eliphalet">M<hi rend="superscript">r</hi>
+								Crafts</persRef> of Bridgwater This morning from Psalm 30.5. “In his
+							favour is life.” and in the afternoon from 2. Samuel 12.7 “Thou art the
+							man.”— The texts were more impressive than the Sermons— Moral discourses
+							upon benevolence have no doubt at all times their merit. Most of the
+							preachers with whom <persRef ref="whitney-peter">M<hi rend="superscript"
+									>r</hi> Whitney</persRef> is associated, preach them all
+							together— They are apt to dispose the hearer to sleep— They are perhaps
+							easier to write than historical, doctrinal or controversial Sermons— But
+							they do not irresistibly fix the attention— Of all Sermons that I have
+							ever heard or read, those of <persRef ref="sterne-lawrence"
+								>Sterne</persRef>, have left the deepest mark upon my memory— They
+							are almost all parables— Jesus himself delivered most of his
+							Instructions in parables; and it would be a suitable enquiry for a
+							Christian Minister, whether this may not be considered as demonstrative
+							proof that it is the most effective of all modes of Instruction. There
+							are in the Scriptures numerous individual characters of whom something
+							is related sufficient to form the subject of a parable—which with a
+							little exertion of the imagination may be wrought into a
+							narrative—decorated with argument, and pointed with a moral— Without
+							persons there can be no pathos— Abstraction has no blood. Next to the
+							historical Sermons, those of argument illustrating obscurities of
+							natural or revealed religion are most agreeable to me— <persRef
+								ref="massillon-jean">Massillon</persRef> and <persRef
+								ref="tillotson-john">Tillotson</persRef> are, next to Sterne those
+							of whose Sermons I retain the most durable Memory— <persRef
+								key="adams-john">My father</persRef> warmly recommended to me those
+							of <persRef ref="butler-samuel3">Butler</persRef>, particularly the
+							Sermons upon human Nature; and upon the Character of <persRef
+								ref="balaam">Balaam</persRef>—and also his Analogy— I read them
+							about twenty years ago, but without retaining much of their contents— I
+							propose therefore to give them another perusal, and this day took up an
+							Edition of the Analogy, published at London about the year 1780— I read
+							only a long preliminary discourse, being a defence of Bishop Butler
+							against a charge which seems to have been made against him after his
+							death; that he became a convert to popery; and died in Communion with
+							the Church of Rome— His memory was first vindicated by <persRef
+								ref="secker-thomas">Archbishop Secker</persRef>, a Charge to the
+							Clergy of his diocese, dwelling earnestly on external Religion, and a
+							crucifix which he had laid in his chapel gave rise to the rumour, for
+							the truth of which no more substantial Evidence was ever produced.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-21">
+					<head>21 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="482" type="ms"/>
+						<p><date>21— IV.30. </date>Monday.</p>
+						<p>I intended to have gone in to Boston with <persRef key="adams-charles2"
+								>Charles</persRef> this morning, and the Chaise was brought for us
+							to the door, but there was a North east storm coming and it began just
+							then to rain. We both concluded to stay and employed all the morning
+							till dinner time in assorting the Books of the Library, and continuing
+							the Catalogue— We had a fire in the dining room, and the Storm continued
+							with heavy rain, and some thunder and lightening till approaching
+							Sunset— I began yesterday to read <persRef ref="cicero-marcus"
+								>Cicero’s</persRef> Oration for his house, and continued this day. I
+							brought up also the arrears of this Journal, and should henceforth be at
+							liberty to pursue the occupation which I long since determined to
+							undertake; upon which I did so little last Summer and have since
+							entirely neglected— The very magnitude of the work deters me from the
+							persevering application to it which it requires— There is a luxurious
+							idleness in the possession of a considerable Library, and which I now
+							find irresistible. While I take the Catalogue of my books; every volume
+							that I take down to have its title recorded tempts me to look into it,
+							and leads to a multitude of enquiries which waste time— I have a Letter
+							from <persRef ref="waterhouse-benjamin">D<hi rend="superscript">r</hi>
+								Waterhouse</persRef>, in which he mentions that he has sent to the
+							Printer, his essay to prove that <persRef ref="pitt-william">Lord
+								Chatham</persRef> was the author of Junius. A pertinacious attempt
+							has lately been made to prove that <persRef ref="hornetooke-john">Horne
+								Tooke</persRef> was the author of that literary prodigy— Nothing in
+							literary or political History has ever more powerfully displayed the
+							operation of Mystery upon the minds of men than the Letters of Junius.
+							He declares himself that his secret is his own, and that it shall perish
+							with him— This declaration has probably sharpened the curiosity of many
+							readers, and has produced pamphlet after pamphlet, and volume after
+							volume to fix the authorship, upon every possible person— Of the
+							internal evidence of the Letters, there are two things which render it
+							improbable that Chatham was the author— The panegyric upon himself—and
+							the positive and explicit dissent from his avowed opinions upon no less
+							a question than that between Great Britain and the American Colonies.
+							The violence, the ingratitude, the duplicity, the malignity, the moral
+							perversity, and the religious infidelity with which Junius abounds, were
+							not in the known character of Lord Chatham, who if the fact should be
+							proved upon him would lose reputation for virtue without gaining any
+							thing upon the score of talent.</p>
+					</div>
+				</div>
+				
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-22">
+					<head>22 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Elections, Presidential (1832)</subject>
+						<subject>Native Americans</subject>
+						<subject>Slavery</subject>
+						<subject>Internal Improvements</subject>
+						<subject>Anti-Masonic Party</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. IV:30. </date>Tuesday.</p>
+						<p>I went in to Boston with <persRef key="adams-charles2">Charles</persRef>,
+							this morning, and returned to dine at Quincy. I called at <persRef
+								ref="foster-james">M<hi rend="superscript">r</hi> James H.
+								Foster’s</persRef>, and at <persRef ref="everett-alexander">A. H.
+								Everett’s</persRef>. M<hi rend="superscript">r</hi> Foster is
+							recovering from sickness— I had a conversation upon subjects of
+							Literature and Politics with M<hi rend="superscript">r</hi> Everett. We
+							spoke of the proposed memoir of the Life of <persRef
+								ref="tudor-william2">William Tudor</persRef>, concerning whom he
+							mentioned several facts of which he has lately acquired information—
+							There are yet not sufficient materials upon which to commence the work—
+								M<hi rend="superscript">r</hi> Everett expressed some
+							dissatisfaction that the members of Congress friendly to the election of
+								<persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef> to the next Presidency, did not make a formal
+							nomination of him before the close of the late Session of Congress— He
+							thinks it was prevented by <persRef ref="webster-daniel">M<hi
+									rend="superscript">r</hi> Webster</persRef>, who he supposes has
+							views upon that office for himself. He says that <persRef
+								ref="johnston-josiah">M<hi rend="superscript">r</hi>
+								Johnston</persRef> of Louisiana, was very anxious for a nomination
+							which would have been made had it not been prevented by M<hi
+								rend="superscript">r</hi> Webster <pb n="483" type="ms"/>I told him
+							that if M<hi rend="superscript">r</hi> Webster had advised against a
+							nomination, under expectations of being himself a Candidate, I thought
+							he would be disappointed, but his advice against a nomination by members
+							of Congress was good— Any Congressional nomination will injure the man
+							in whose favour it will be made— I said it was impossible to foresee
+							what the fluctuations of popular opinion would be— Hitherto there were
+							symptoms of changes of opinion among the members of Congress, but none
+							among the People— These could be indicated only by the Elections, and it
+							would be unsafe policy to anticipate them— I had great doubts whether
+							the majorities in the Legislatures of five States would be changed by
+							the approaching Elections, and was far from certain that the next
+							Legislature of Kentucky would nominate M<hi rend="superscript">r</hi>
+							Clay in opposition to the re-election of <persRef ref="jackson-andrew"
+								>General Jackson</persRef>— The whole strength of the present
+							Administration rests upon his personal popularity, founded upon his
+							military services— He has surrendered the Indians to the States, within
+							the bounds of which they are located—this will confirm and strengthen
+							his popularity in those States—especially as he has burdened the Union
+							with the expence of removing and indemnifying the Indians— He has taken
+							practical ground against internal improvements and domestic
+							Industry—which will strengthen him in all the Southern States. He has as
+							might have been expected thrown his whole weight into the Slave-holding
+							scale; and that interest is so compact, so cemented and so fervent in
+							action, that there is every prospect it will overpower the discordant
+							and loosely patched policy of the free. The Cause of internal
+							improvement will sink; and that of domestic Industry will fall with or
+							after it— There is at present a great probability that this system will
+							be supported by a majority of the People— If the Presidential election
+							should be connected with this question and turn upon it M<hi
+								rend="superscript">r</hi> Clay will be the Candidate of internal
+							improvement, and of the manufactures. But it will be a minority. The
+							anti-masonick spirit will operate against him in New-York, and perhaps
+							elsewhere— Everett said that he had been solicited to publish in the
+							North-American Review an Anti-masonic Article in answer to a violent
+							masonic article in the last number of <persRef ref="walsh-robert"
+								>Walsh’s</persRef> Review; but he had declined— But he said he was
+							assured the anti-masons here would support M<hi rend="superscript"
+								>r</hi> Clay— But Clay is a Mason, and will not take any ground
+							against them— It was near one O’Clock when I left M<hi
+								rend="superscript">r</hi> Everett, and met <persRef
+								ref="curtis-nathaniel">M<hi rend="superscript">r</hi>
+								Curtis</persRef> at my Son Charles’s Office. He told me that
+								<persRef ref="francis-ebenezer">M<hi rend="superscript">r</hi>
+								Francis</persRef> the Treasurer of Harvard College, who had intended
+							to purchase the mortgage of the Trustees of the Tremont Theatre had
+							altered his mind and now declined taking it— Returned with Charles to
+							Quincy to dine; and devoted the afternoon to the Catalogue— <persRef
+								key="adams-thomas">My brother</persRef> and <persRef ref="adams-ann"
+								>his wife</persRef> were here in the Evening. I found myself again
+							with an excessive bad cold, for which I took at Night <persRef
+								ref="holbrook-amos">D<hi rend="superscript">r</hi>
+								Holbrook’s</persRef> Prescription— <persRef
+								key="adams-louisa-catherine">My wife</persRef> has so far recovered
+							that she is able to ride out— <persRef ref="sturgis-william">William
+								Sturgis</persRef> and <persRef ref="cruft-edward">E. Cruft</persRef>
+							were here this morning while I was at Boston.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-23">
+					<head>23 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. IV:30. </date>Wednesday—</p>
+						<p>I was quite unwell the whole day with my Cold, which again threatens my
+							lungs— Sore throat, hoarseness and Catarrh, are constantly returning
+							upon me; and for the last nine Months I have never been entirely free
+							from them— <persRef key="adams-charles2">Charles</persRef> went to
+							Boston and returned here to dine— From dinner till tea time we employed
+							upon the Catalogue, and I took a ride with <persRef
+								key="adams-louisa-catherine">my wife</persRef> and <persRef
+								ref="hellen-mary;adams-abigail4">two daughters in Law</persRef>, in
+							the Carriage— I yesterday finished reading <persRef ref="cicero-marcus"
+								>Cicero’s</persRef> Oration for his House, and this morning began
+							upon that concerning the answers of the Haruspices— The Oration for his
+							House, was one of those in which Cicero most prided himself— In the
+							second Epistle of the fourth Book of the Letters to <persRef
+								ref="atticus-titus">Atticus</persRef>, he relates the circumstances
+							and on which it was delivered— After he went into Exile, <persRef
+								ref="clodius-publius">Clodius</persRef> had demolished his house,
+							and to prevent the possibility that the Sand upon which it had stood
+							should ever be restored to him, had caused it to be consecrated by
+							religious solemnities, and a temple to be built upon it, consecrated to
+							Liberty. But now the friends of Cicero insisted not only that Cicero’s
+							land should be restored to him, but that his house should be rebuilt at
+							the public expense. The Senate referred the question, as to the
+							religious consecration of the place to <pb n="484" type="ms"/>the
+							College of Pontiffs, before whom this Oration was delivered. In his
+							letter to Atticus he says that if he never was eloquent upon any other
+							occasion he was upon that, and that he should send it to him soon; that
+							it might be useful to the young men of his time. It is among the
+							Orations of the French translation of <persRef ref="wailly-noel"
+								>Wailly</persRef>, but it is not one of those which I think the most
+							pleasing. The first part of it has no relation to the question upon
+							trial— It is a defence of the Senate, and of Cicero himself for having
+							conferred upon <persRef ref="pompey">Pompey</persRef>, extraordinary
+							powers to provide supplies of corn, for the people— A power for which
+							there was apparently no necessity; and which became the cause of <unclear>much</unclear>
+							after usurpation— The rest of the Oration, turns chiefly upon objections
+							to mere formalities of performance in religious ceremonies— Clodius
+							could not dedicate a Temple to Liberty, because he was not lawfully a
+							Tribune— He was no Tribune, because he had not been legally adopted:
+							because the consecration had been pronounced, not by the whole College
+							of Pontiffs but only by one; a young man, a family relation of
+							Clodius—unwillingly—and in an irregular member—finally because, no
+							private property could be lawfully consecrated, but by virtue of a
+							special edict of the People— This last reason was all sufficient, for
+							Clodius had acted without any such edict of the People; and the rest of
+							the argument appears to be superfluous— It is surprizing how the Orator
+							upon such a subject could excite any interest at-all—and whatever
+							interest there ever was, is extinguished by the abolition of the
+							Religion under which the consecration had taken place. Clodius was a
+							profligate, and unprincipled hypocrite, as well in religion as in
+							Politics— His profanation of the mysteries of the Bona Dea, proved his
+							shameless contempt of the Religion of his Country— The greater part of
+							this Oration is a continued strain of invective against him— In Section
+							35. a bitter stroke of Irony, in reply to a sneer of Clodius, charging
+							him with affecting the Power of <persRef ref="jupiter"
+							>Jupiter</persRef>— In Section 41. a beautiful philosophical Sentiment
+							upon piety to the Gods— In Section 31. he styles the Gracchi most
+							seditious men— He had spoken of them more favourably in one of the
+							Orations against the Agrarian Law of <persRef ref="rullus-publius"
+								>Rullus</persRef>— In speaking or writing of historical Events and
+							characters it is well to remember at one time what has been said or
+							written at another.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-24">
+					<head>24 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. IV:15. </date>Thursday.</p>
+						<list>
+							<item>Sergeant. John</item>
+							<item><persRef ref="u">Hunt</persRef> of Tioga—</item>
+							<item>Louisa C. Smith</item>
+							<item>Abigail S. Adams</item>
+							<item>Spear Daniel </item>
+							<item>Spear William</item>
+						</list>
+						<p>My Cold and hoarseness continues; and oppression upon the lungs— <persRef
+								key="adams-louisa-catherine">My wife</persRef>, who had much
+							recovered, was again this day quite unwell. A <persRef
+								ref="sergeant-john4">M<hi rend="superscript">r</hi>
+								Sergeant</persRef> of the City of New-York, with a person from Tioga
+							County, called to pay a visit of curiosity— The former told me that
+								<persRef ref="sergeant-john">M<hi rend="superscript">r</hi> John
+								Sergeant</persRef> of Philadelphia was his Cousin— He also announced
+							to me his design of making a tour in Europe. <persRef ref="spear-daniel"
+								>Deacon Spear</persRef> and <persRef ref="spear-william">his
+								brother</persRef> called here this afternoon. <persRef
+								ref="smith-louisa">Louisa C. Smith</persRef> and <persRef
+								ref="adams-abigail2">Abigail S. Adams</persRef> dined with us;
+							Louisa brought me two bundles of copies of <persRef key="adams-abigail"
+								>my beloved mother’s</persRef> Letters; with some manuscript
+							extracts of mine made from my youthful readings, while I was studying
+							Law at Newbury-Port. I finished reading the Oration upon the Answers of
+							the Haruspices; which is still more connected with the Religious
+							superstitions of the age than the Oration for <persRef
+								ref="cicero-marcus">his</persRef> house— A Story had been gotten up,
+							and circulated to the great dismay of the masters of the world, that
+							strange subterraneous noises, and a horrible clashing of Arms had been
+							heard in the neighbourhood of Rome— The alarm was so great that the
+							Senate referred the question to the Haruspices, what this new Wonder be
+							must be understood to portend— They consulted the Etruscan Books, and
+							answered the reference of the Senate, in writing— They declared that the
+							Gods were highly offended, and that supplications to them must
+							immediately decreed— They specified several transgressions which had
+							been committed; among which one was, that sacred and religious places
+								<pb n="485" type="ms"/>had been profaned— <persRef
+								ref="clodius-publius">Clodius</persRef> the infamous and perpetual
+							persecutor of Cicero immediately seized upon this part of the
+							declaration, and attempted to persuade the people, that it applied to
+							the restitution of Cicero’s House and Land— In this Oration, delivered
+							in the Senate, Cicero retorts the charge upon him, and by a special
+							analysis of every part of the Answers argues with great force and
+							ingenuity, that it all applies to the crimes of Clodius— We know at
+							present that all this was imaginary, but from the earnestness with which
+							he argues the case, we cannot forbear to believe that he was very
+							sincere in his convictions, and really thought that the Gods were
+							denouncing Clodius from under-ground— There appears to have been no
+							question for discussion— The object of Cicero, was immediately to
+							discredit the pretension of Clodius; and to suppress instantly the
+							attempt to enlist the religious fears of the People against him and his
+							house— He proves as clearly as possible that his house was under no
+							religious consecration, and he exposes the impudence and inconsistency
+							of Clodius in pretending any concern for religion; with the crimes under
+							which he was living. The answers of the Aruspices indicated a convulsed
+							and gloomy state of public feeling, and Cicero himself largely partakes
+							of it— The peroration is full of dejection and despondency— He despairs
+							of the Public Freedom— <persRef ref="bailey-john">M<hi
+									rend="superscript">r</hi> Bailey</persRef> was here, but I did
+							not see him; being in the garden when he came, and they thought me gone
+							out.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-25">
+					<head>25 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Native Americans</subject>
+						<subject>Elections, Presidential (1832)</subject>
+						<subject>Internal Improvements</subject>
+						<subject>Slavery</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. IV:15. </date>Friday.</p>
+						<list>
+							<item>Bailey. John</item>
+							<item>Martin Nathan C</item>
+							<item>Davis John B.</item>
+							<item>M<hi rend="superscript">rs</hi> Davis.</item>
+							<item>M<hi rend="superscript">rs</hi> R. C. Derby.</item>
+							<item>M<hi rend="superscript">rs</hi> Minot</item>
+							<item>Buel</item>
+						</list>
+						<p><persRef ref="bailey-john">M<hi rend="superscript">r</hi>
+								Bailey</persRef> was here with <persRef ref="martin-nathan">M<hi
+									rend="superscript">r</hi> Martin</persRef>, who is the
+							Postmaster at Milton; but who came as Chairman of a Committee of
+							Arrangements from a Company of Citizens of Quincy and Milton, who
+							propose on Monday the 5<hi rend="superscript">th.</hi> of July to
+							celebrate the Anniversary of Independence at the new Railway Church—
+							There is to be an Oration at 12. O’Clock, by the <persRef ref="u">Rev<hi
+									rend="superscript">d.</hi> M<hi rend="superscript">r</hi>
+								Chandler</persRef>, and a dinner at 3. at the Railway house— M<hi
+								rend="superscript">r</hi> Martin left with me a written invitation—
+							I told him, with suitable acknowledgments for the favour that I
+							apprehended the state of my health would not admit of my attendance— I
+							observed that I would send him a written answer if it was desired; but
+							that I wished to avoid all public meetings— He said my verbal answer
+							would be sufficient— <persRef ref="adams-abigail2">Abigail S.
+								Adams</persRef> came with <persRef ref="davis-john3;davis-laura"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+									>rs</hi> Davis</persRef>, and <persRef ref="derby-martha">M<hi
+									rend="superscript">rs</hi> Derby</persRef> and <persRef ref="u"
+									>M<hi rend="superscript">rs</hi> Minot</persRef> came together—
+							Davis said that <persRef ref="webster-daniel">M<hi rend="superscript"
+									>r</hi> Webster</persRef> had yesterday received a Letter from
+								<persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef>, who approved of the omission to nominate him at the
+							West as entirely satisfactory. I thought the state of public opinion
+							would be collected from the result of the elections which will commence
+							the next Month in Louisiana, and then follow successively in the other
+							Western States till the Winter— Nothing is more delusive than
+							anticipations of the event of elections, and expectations of great
+							changes in popular suffrages are almost always disappointed— I suppose
+							that the sacrifice of the Indians, and of the interest of internal
+							improvement and domestic Industry, will strengthen rather than weaken
+							the popularity of the <persRef ref="jackson-andrew">present
+								Administration</persRef>— I have cherished the principle and the
+							system of internal improvement under a conviction that it was for this
+							Nation the only path to increasing comforts and well being, to honour,
+							to glory, and finally to the general improvement of the condition of
+							mankind— This system has had its fluctuations from the time of the
+							Establishment of the present Constitution of the United States— During
+							the Administration of <persRef key="monroe-james">M<hi
+									rend="superscript">r</hi> Monroe</persRef>, it was constantly
+							acquiring strength in Congress and in the public opinion— It was then
+							favoured by <persRef ref="calhoun-john">Calhoun</persRef> and <persRef
+								ref="lowndes-william">Lowndes</persRef>, both of whom had hopes of
+							rising upon it, and with them the State of South-Carolina was devoted to
+							it— The combination in Congress, became by their means so strong that it
+							overpowered the resistance of M<hi rend="superscript">r</hi>
+							<pb n="486" type="ms"/>Monroe, and produced the Act of Congress of April
+							1824— The Slave-holders of the South have since discovered that it will
+							operate against their interests— Calhoun has turned his back upon it;
+							and Jackson who to promote his election and obtain Western votes
+							truckled to it for a time, has now taken his decided stand against it—
+							My devotion to it has sharpened all the fangs of envy and malice against
+							it, and multitudes oppose it, only because its success would contribute
+							to my reputation— The cause will no doubt survive me; and if the union
+							is destined to continue, will no doubt ultimately triumph— At present it
+							is desperate— <persRef key="adams-charles2">Charles</persRef> went to
+							Boston this morning and returned to dine— We continued the Catalogue,
+							after dinner.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-26">
+					<head>26 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. IV. </date>Saturday.</p>
+						<list>
+							<item>Greenleaf M<hi rend="superscript">r. </hi>and M<hi
+									rend="superscript">rs.</hi> J.</item>
+							<item>M<hi rend="superscript">rs</hi> Daniel Greenleaf</item>
+						</list>
+						<p><persRef key="adams-charles2">Charles</persRef> and <persRef
+								ref="adams-abigail4">his wife</persRef> left us this morning to go
+							and spend a week with <persRef ref="brooks-peter">M<hi
+									rend="superscript">r</hi> Brooks</persRef> at Medford. I
+							received a Letter from <persRef ref="williams-cumberland">Cumberland D.
+								Williams</persRef> at Baltimore, making enquiries concerning a
+							Letter which he mentions having written to me in 1810. when I was at
+								S<hi rend="superscript">t.</hi> Petersburg, upon a claim against the
+							Danish Government, for capture of a vessel of which he was Supercargo. I
+							have no recollection of this case, but answered M<hi rend="superscript"
+								>r</hi> Williams’s Letter, and wrote to my Son <persRef
+								key="adams-john2">John</persRef>, to examine my files, and
+							Letter-Books of that time, which are at Washington— Charles’s absence
+							disengages me from the continuation of my Catalogue, and leaves the
+							after part of the day unoccupied— I resumed writing the Memoir of
+								<persRef key="adams-john">my father’s</persRef> life, which has been
+							neglected since the second of last October. <persRef
+								ref="greenleaf-john;greenleaf-lucy;greenleaf-elizabeth">M<hi
+									rend="superscript">r</hi> and M<hi rend="superscript">rs</hi>
+								John and M<hi rend="superscript">rs</hi> Daniel Greenleaf</persRef>
+							were here this Evening— When I came here last Summer, I undertook to
+							labour personally in my garden with the spade and hoe. Perhaps at the
+							age of thirty, this discipline might have been found practicable— I
+							persevered in it, till repeated attacks of rhumatism and lumbago warned
+							me that these labours were not suitable for me, and I desisted— I now
+							visit my garden from time to time, but without the spade or hoe— The two
+							bearing cherry trees are just now stripped of their last fruit, before
+							it was ripe—partly by the birds; and partly for family consumption in
+							tarts. I have this day buried, in one of my old seed boxes, a handfull
+							of Stones from these cherries to ascertain if they will vegetate. My
+							Summer house cellar, is nearly full of trees two and three years old,
+							and most of them now fit for transplanting. The growth of the Oaks, Elms
+							and Horse-chesnuts chiefly demands observation. The shoot of the Oak, of
+							the present year has recently put forth in two or three of the Trees,
+							and not in the others. A twig of willow that I stuck down, two years
+							since took root, and are now so flourishing that eight or ten days since
+							I cut off its stem, say six or eight inches above the ground. I mark
+							this day three new shoots coming out upon the stump— The most remarkable
+							fact, of my young Oaks is the smallness of their Stems—and so it is of
+							the Apples, peaches, and Plums. Of Cherries, I believe there is but one
+							living which came up from the Stone.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-27">
+					<head>27 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. V. </date>Sunday.</p>
+						<list>
+							<item>Sprague Joseph E.</item>
+							<item>Degrand P. P. F.</item>
+							<item>Adams T. B.</item>
+							<item>Adams Isaac Hull</item>
+						</list>
+						<p><persRef ref="u">M<hi rend="superscript">rs.</hi> Nowland</persRef> went
+							into Boston this morning with <persRef ref="kirk-john">John
+								Kirke</persRef> to attend Mass, at the Catholic Church— Returned,
+							between two and three, afternoon. I heard <persRef ref="green-james"
+									>M<hi rend="superscript">r</hi> Green</persRef>, a young man
+							settled at Lechmere’s Point— His morning text was from John 20.29.
+							[“]Jesus saith unto him, <persRef ref="thomas2">Thomas</persRef>,
+							because thou hast seen me, thou hast believed: blessed are they that
+							have not seen, and yet have believed”— That of the afternoon was from
+							Luke 17.20. [“]And when he was demanded of the Pharisees when the
+							kingdom of God should come, he answered them and said, the kingdom of
+							God cometh not with observation: 21. Neither shall they say, lo here! or
+							lo there! for behold, the kingdom of God is, within you.”— There is much
+							to say upon this text which M<hi rend="superscript">r</hi> Green did not
+							say— He explained what he understood by the word observation—that is
+							outward <pb n="487" type="ms"/>Shew, but he did not expound the terms
+							kingdom of God—words used in the new Testament, in several different
+							senses— A copious exposition of the words, with illustrating references
+							to all the passages of the Gospels where they are used would belong to
+							the subject of a discourse upon this text— The kingdom of God, is an
+							expression, first introduced by Jesus Christ himself, and a part of the
+							prayer which he taught his disciples is that it may come— The question
+							of the Pharisees, probably alluded to that passage of his prayer; and
+							the answer is equally adapted to it— The kingdom of God, will not come
+							by the sound of a trumpet; or the shout of Victory— The kingdom of God
+							is within you. It is the purification of the heart from evil passions—
+							It is a life of Charity and Love— I read also two Sermon’s of <persRef
+								ref="barrow-isaac">Barrow</persRef> upon the Love of God— I cannot
+							discover the beauty or sublimity of this writers Style, of which I have
+							heard much—nor account for the resuscitation of his fame in the recent
+							critical Legislation of England— In these Sermons he undertakes to
+							define the Love of God; and a more clumsy, loose, parenthetical,
+							ungrammatical Sentence of English was never written— He conveys no
+							distinct idea; and gives no shadow of a reason for the power of the
+							Sentiment in the heart of man. The Love of God is in the Religion of
+								<persRef ref="moses">Moses</persRef> the first of human duties;
+							because obedience to the Will of God embraces the whole duty of Man—
+							Barrow confuses what was clear instead of elucidating what was obscure.
+							But I must pause— <persRef ref="sprague-joseph">M<hi rend="superscript"
+									>r</hi> Sprague</persRef> and <persRef ref="degrand-peter"
+								>Degrand</persRef> spent the Evening here—and <persRef
+								key="adams-thomas">my brother</persRef> and his Son <persRef
+								ref="adams-isaac">Isaac Hull</persRef>— At five this afternoon I
+							bathed and swam at the wharf— There was a corner of a thunder shower in
+							the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-28">
+					<head>28 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. IV:15. </date>Monday.</p>
+						<p>I went in to Boston this morning with <persRef ref="kirk-john">John
+								Kirke</persRef>; attended at the Probate Office, and returned the
+							Judge’s warrant for taking an Inventory of the Estate of <persRef
+								ref="boylston-thomas2">Thomas Boylston</persRef>, and also the
+							affidavit that I had given the necessary notices of my appointment as
+							Administrator de bonis non, with the Will annexed of his goods and
+							Estate— An entry was made on the back of the order for taking the
+							Inventory, that no Assets have been found within this Commonwealth— That
+							the only property of the deceased that has come to my knowledge is a sum
+							of about forty thousand dollars, received by <persRef
+								ref="vaughan-petty">Petty Vaughan</persRef> at London; and that if
+							any property of the deceased should hereafter come into my possession, I
+							would duly account for the same— <persRef ref="heard-john">M<hi rend="superscript">r</hi> Heard</persRef>
+							the Register told me that I was entitled to a copy of these papers which
+							would be ready to be delivered to me in a fortnight— I then went to my
+							Son <persRef key="adams-charles2">Charles’s</persRef> Office, and after
+							executing sundry family commissions, at the sound of the Clock at one
+							departed and returned to Quincy— I had received an invitation from the
+							Charlestown Lyceum to attend at their celebration of the second
+							centennial anniversary of the landing at that place. <persRef
+								ref="everett-edward">Edward Everett</persRef> delivered the Oration,
+							at three in the afternoon. I had also an invitation from <persRef
+								ref="u">M<hi rend="superscript">r</hi> Baldwin</persRef>, to his
+							house, after the Address—but the hours did not suit my convenience, and
+							I neglected to attend. But there is always dissipation of a day when I
+							go to Boston— I wasted the afternoon in finishing the fourth and last
+							Volume of the Correspondence of <persRef ref="deffand-marie">Madame du
+								Deffand</persRef>. Her Letters to <persRef ref="voltaire-francois"
+								>Voltaire</persRef> are far less pleasing or curious than those to
+								<persRef ref="walpole-horace">Horace Walpole</persRef>— Her
+							Portraits have no features— Her Letters to Voltaire consist of unceasing
+							complaints of ennui—the tediousness of Life—gross adulation of her
+							correspondent, and constant teizing of him to send her his writings. <pb
+								n="488" type="ms"/>I finished also the Oration of <persRef
+								ref="cicero-marcus">Cicero</persRef>, for <persRef
+								ref="sextius-publius">Publius Sextius</persRef>.— It is not among
+							the select Orations translated either into French or English: but as a
+							historical monument it is equal in interest, to any one of the whole
+							collection. It is one of the longest that have been preserved; and
+							contains a full exposition of the causes of his own exile, and of his
+							motives for submitting to it; rather than defend himself by civil War—
+							In the violent struggles for his recall Sextius had been one of the
+							principal actors in his favour; and in a riot between a party of men
+							headed by him, and the ruffian gang of <persRef ref="clodius-publius"
+								>Clodius</persRef>, he had been wounded and left for dead in the
+							Street— For this affair he was prosecuted, upon the Lutatian Law,
+							against armed violence (de vi,) and was defended by <persRef
+								ref="hortalus-quintus">Hortensius</persRef> and others as well as by
+							Cicero— His Oration is more a defence of himself than of Sextius— There
+							is much both of invective and of ridicule cast upon the two Consuls of
+							the year of exile, <persRef ref="piso-lucius">Piso</persRef> and
+								<persRef ref="gabinius-aulus">Gabinius</persRef>; a very pleasant
+							and humorous exhibition of the Epicurean Philosophy; and a very lively
+							description of the two great political parties in Rome—the populares and
+							the optimates— The duty of Patriotism, and of setting toil and danger at
+							defiance for the service of the Republic, is set forth with equal ardour
+							and beauty; and the injustice of condemning Sextius for Violence, in a
+							fray from which he had barely escaped with Life is shewn with
+							irresistible force— Evening party at <persRef ref="greenleaf-thomas">T.
+								Greenleaf’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-29">
+					<head>29 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. IV:20. </date>Tuesday.</p>
+						<p>The day passed without interruption of visitors; but was eroded by
+							trivial household concerns, always annoying to me, because I have passed
+							my life in ignorance of them. The important business of this morning was
+							to refine with the yolk’s and shells of a dozen eggs, a pipe of Madeira
+							Wine— I visited my garden—in which nothing draws my attention, but the
+							results of my experiments to raise trees from the seed, nut and stone.
+							In the Summer house-cellar there are Seven Oaks; all by the leaf
+							apparently Chesnut white Oaks— The Acorns were planted about the 1<hi
+								rend="superscript">st.</hi> of October 1826— They came up in May
+							1827. and this is the fourth year of their growth. The stems are
+							slender; the leaves very large— The height of the tallest, before this
+							years growth<space/>inches— The same tree has since I arrived here put out a
+							shoot<space/>inches long, but it is attacked by large Ants, which have eaten
+							up most of its leaves as they were unfolding; and one of which I found
+							working at the joint from which it sprouted to cut it off— The single
+							Hickory Walnut tree, of which I planted the nut in October 1804. bears
+							fruit again this year. The nuts were first perceptible some days after I
+							came, and are now rapidly growing in size— There are in the garden below
+							sixteen apple-trees from seeds which I planted last Summer, two of which
+							may possibly live. I now regret that I did not sow and plant more last
+							year— After dinner, I slept an hour, began to read <persRef
+								ref="voltaire-francois">Voltaire’s</persRef> Commentary upon
+								<persRef ref="corneille-pierre">Corneille</persRef>— Bathed and swam
+							at the wharf, and found the day gone; and nothing done— In the Morning I
+							had read the Oration against <persRef ref="vatinius-publius"
+								>Vatinius</persRef>, which consists of a Series of interrogatories—
+							A furious invective in the form of Questions. Vatinius had been produced
+							as a witness against <persRef ref="sextius-publius">Sextius</persRef>;
+							and had testified against him— <persRef ref="cicero-marcus"
+								>Ciceros</persRef> object was to discredit his testimony, and he
+							charges him in the most unqualified manner with lying—tells him that no
+							man thinks him fit to live and that he would have passed over in silence
+							his testimony as too contemptible for notice, had he not thought it best
+							to break down his impudence, and entangle him in the net of his own
+							inconsistencies, by putting to him a few questions— Vatinius had been a
+							tribune of the People when <persRef ref="caesar-julius">Caesar</persRef>
+							was Consul; and had been one of his devoted instruments— He now
+							endeavoured to sustain himself by alledging the <pb n="489" type="ms"
+							/>authority of Caesar, and the weight of this allegation in the address
+							with which Cicero encounters and evades it— One of the heaviest charges
+							against Vatinius, is that he appeared dressed in black—cum toga pulla,
+							at a public banquet given by <persRef ref="arrius-quintus">Quintus
+								Arrius</persRef>— The contrast of the black and the white
+							garment—atratus et albatus is here strongly marked, and shews how among
+							the Romans, Sentiment was connected with manners— This Vatinius and the
+								<persRef ref="gabinius-aulus">Consul Gabinius</persRef> were the men
+							with whom Cicero afterwards at the instance of <persRef ref="pompey"
+								>Pompey</persRef> and under the fear of the first triumvirate became
+							reconciled—and for which he apologises in the Letter to <persRef
+								ref="lentulus-publius">Lentulus</persRef> 1.9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-30">
+					<head>30 June 1830</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06-30"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. IV:15. </date>Wednesday.</p>
+						<list>
+							<item>Blake</item>
+							<item>Tufts Cotton</item>
+							<item>Susan Tufts</item>
+							<item>M<hi rend="superscript">rs</hi> Boylston</item>
+							<item>Sumner. William H.</item>
+							<item>Dodge</item>
+							<item>Miller Edward</item>
+							<item>Adams Thomas B.</item>
+							<item>John Quincy Adams 63</item>
+							<item><persRef key="adams-louisa-catherine">Louisa Catherine
+									Adams</persRef> 55</item>
+							<item><persRef ref="hellen-mary">Mary Catherine Adams</persRef>
+								24</item>
+							<item><persRef ref="adams-mary4">Mary Louisa Adams</persRef> 1
+								1/2</item>
+							<item><space/><persRef ref="u">Nowland</persRef> 68</item>
+							<item><persRef ref="kirk-john">John Kirke</persRef> 44</item>
+							<item><persRef ref="kirk-elizabeth">Elizabeth Kirke</persRef> 28</item>
+							<item><persRef ref="kirk-elizabeth2">Elizabeth Kirke jun<hi
+										rend="superscript">r</hi></persRef> 6</item>
+							<item><persRef ref="farrar-augustus">Augustus Farrar</persRef> 21</item>
+							<item><persRef ref="pitts-mary">Mary Ann Pitts</persRef> 34</item>
+							<item><persRef ref="walker-mehetabel">Mehetabel Walker</persRef>
+								27</item>
+							<item><persRef ref="boden-jane">Jane Boden</persRef> 24</item>
+							<item><persRef ref="taylor-william5">William Taylor</persRef> 22</item>
+						</list>
+						<p>A <persRef ref="u">M<hi rend="superscript">r</hi> Blake</persRef>, called
+							this morning an Assistant of the Marshal of the District in taking the
+							census; and took down the number of persons in the family with their
+							respective ages; I set down here below the names—13 persons. <persRef
+								ref="tufts-cotton">M<hi rend="superscript">r</hi> Tufts</persRef>
+							and his daughter <persRef ref="tufts-susannah">Susan</persRef> paid us a
+							morning visit— He asked me for the papers from <persRef key="adams-john"
+								>my father</persRef> and <persRef key="adams-abigail"
+								>mother</persRef> which he had put into my hands last year and which
+							I thought he had intended to give me— I promised to look them up and
+							return them— <persRef ref="boylston-alicia">M<hi rend="superscript"
+									>rs</hi> Boylston</persRef> brought from <persRef
+								ref="curtis-nathaniel">M<hi rend="superscript">r</hi>
+								Curtis</persRef> a duplicate of my Letter to <persRef
+								ref="baring-thomas;baring-john">Thomas and John Baring</persRef>,
+							and <persRef ref="bates-joshua">Joshua Bates</persRef>, as Administrator
+							de Bonis Non of <persRef ref="boylston-thomas2">Thomas
+								Boylston</persRef>, with the Will annexed, which I signed and she
+							took it back. She shewed me also a Note of <persRef ref="gill-moses"
+								>Moses Gill</persRef> to her dated last January on interest for 984
+							dollars 76 Cents, which I advised her to keep till something shall if
+							ever be received from <persRef ref="vaughan-petty">Petty
+								Vaughan</persRef>— <persRef ref="sumner-william">General
+								Sumner</persRef> and <persRef ref="dodge-joshua">M<hi
+									rend="superscript">r</hi> Dodge</persRef> heretofore Consul at
+							Marseilles were here— Sumner spoke much of the horticultural Society,
+							and of the prospect of improvement in the Summer fruits, to be expected
+							from them: also of the insects which destroy the fruit trees—and said
+							the Secretary of the Society thought he had discovered the worm which is
+							ravaging the Pear trees— Dodge complained of his having been removed
+							from his Office of Consul at Marseilles—thought it a peculiar hardship,
+							because he had given up his business as a merchant to attend altogether
+							to his consular official duties— But the severest part of his misfortune
+							he seemed to think was his having received information of his removal
+							upon his birth-day. Sumner reminded him of a man whom the reprobate
+								<persRef ref="lovell-james3">James Lovell</persRef> advised to go
+							over to <persRef ref="morse-jedidiah">D<hi rend="superscript">r</hi>
+								Morse</persRef> at Charlestown, and be born again— I bathed and swam
+							at the Creek this afternoon, and then called and spent an hour at
+								<persRef ref="greenleaf-daniel">M<hi rend="superscript">r</hi>
+								Daniel Greenleaf</persRef> who is yet lame, from his accident at
+							New-Bedford— After I came home <persRef key="adams-thomas">my
+								brother</persRef> and <persRef ref="miller-edward">Edward Miller</persRef> were here— I began the Oration
+							of <persRef ref="cicero-marcus">Cicero</persRef> for <persRef
+								ref="balbus-titus">Balbus</persRef>, and read some of the
+							Preliminary remarks of <persRef ref="voltaire-francois"
+								>Voltaire</persRef> to his Commentary upon <persRef
+								ref="corneille-pierre">Corneille</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v36-1830-06-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1830-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>—</date> I rise usually between four and
+							five almost always before the Sun, now just commencing his return from
+							his Northern Declination— Read three Chapters of the New Testament, and
+							then 15 Sections of an Oration of <persRef ref="cicero-marcus"
+								>Cicero</persRef>— This brings me to breakfast time between seven
+							and eight— I then waste the hours in busy trifling till 2 when we dine—
+							After dinner a nap of two hours— A ride, a walk, a bath and idle reading
+							in my library till dusk— Then with my family till ten, and to bed— Shall
+							I never do better?</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

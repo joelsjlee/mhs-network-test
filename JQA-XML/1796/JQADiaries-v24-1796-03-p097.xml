@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1796-03">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="97"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v24-1796-04-p100.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1796-03-01" to="1796-03-31"/></bibl>
+
+				<!--D/JQA/24.450  -->
+				<!-- Question for Bill: if JQA put entry for 2d before entry for 1st in the file, is that an issue? -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-02">
+					<head>2 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="97"/>
+						<dateline><hi rend="italic">March 1796.</hi></dateline>
+						<p><date>2. </date>Dined at <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef>. Younger part of <persRef
+								ref="pinckney-thomas">M<hi rend="superscript">r:</hi> Pinckney’s</persRef>
+							and <persRef ref="church-john">M<hi rend="superscript">r:</hi>
+								Church’s</persRef> families there. M<hi rend="superscript">r:</hi> Pinckney
+							himself in the Evening. <persRef ref="hall-joseph">Hall</persRef>
+							likewise. Ring from <persRef key="adams-louisa-catherine"
+								>Louisa’s</persRef> finger.— Tricks play’d. a little music and
+							dancing.— Placed in a very difficult dilemma. Know not how I shall
+							escape from it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-01">
+					<head>1 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>1. </date>(Omitted above.) A little writing in the forenoon and but
+							little. Dined alone. Evening at <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Murdoch</persRef>.— Cards. played with much
+							luck. Music. Singing.— Cause of uneasiness yet.</p>
+						<p>The regular day as objectionable as before. Very little different from
+							the last; excepting that it is still more marked with the characters of
+							indolence &amp; dissipation. Can find no time to write: none to read,
+							But much to dress &amp; dress over again. to visit and be visited; to
+							lose my home, and to find pernicious passions. O rus! quando te
+							aspiciam.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-03">
+					<head>3 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>Breakfasted at <persRef ref="boylston-ward">M<hi
+									rend="superscript">r:</hi> Boylston’s</persRef>. with <persRef
+								ref="nicholls-john">M<hi rend="superscript">r:</hi> Nicholls</persRef>, who
+							proposes to make a present to the University at Cambridge in America, of
+							a certain collection of anatomical injections in wax, prepared by
+								<persRef ref="nicholls-frank">his father</persRef>, a very eminent
+							physician, and the first as he says who introduced this kind of
+							preparations. Had a considerable conversation with him upon that and
+							various other subjects. Called at <persRef ref="pinckney-thomas">M<hi
+									rend="superscript">r:</hi> Pinckney’s</persRef>. He was not at home.
+							Some talk with <persRef ref="deas-william">M<hi rend="superscript">r:</hi>
+								Deas</persRef>. Dined alone. Then went to <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Brooks’s</persRef>. <persRef
+								ref="johnson-catherine">M<hi rend="superscript">rs:</hi> Johnson</persRef>
+							and the <persRef ref="adams-louisa-catherine;hellen-ann;frye-carolina"
+								>young Ladies</persRef> there at tea. Went from thence to <persRef
+								ref="merlin-joseph">Merlin’s</persRef> exhibition.— Swinging.— Some
+							conversation.— Did not close well.— Sullen upon our return.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-04">
+					<head>4 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>At <persRef ref="copley-john">M<hi rend="superscript">r:</hi>
+								Copley’s</persRef> all the morning sitting for my picture.
+							Conversation with him political, metaphysical, and critical. His
+							opinions not accurate, but well-meaning. Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							Company there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-05">
+					<head>5 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Again at <persRef ref="copley-john">M<hi rend="superscript"
+									>r:</hi> Copley’s</persRef> all the morning. Dined alone.
+							Evening with <persRef ref="frazier-nathan">Frazier</persRef>, <persRef ref="gardner-james">Gardner</persRef>
+							&amp;c at the London Coffee House. <persRef ref="u">Clarke</persRef> at
+							supper— Home very late. <persRef ref="cutting-john">Cutting’s</persRef>
+							inexplicable cypher:</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-06">
+					<head>6 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>Breakfasted with <persRef ref="hall-joseph"
+								>Hall</persRef>, <persRef ref="cutting-john">Cutting</persRef> and
+								<persRef ref="foster-bossenger2">Foster</persRef> at their lodgings.
+							<persRef ref="u">Clarke</persRef> &amp; <persRef ref="gardner-james">Gardner</persRef> there. Walk with
+							Gardner: and afterwards alone in Hyde Park. Dined at <persRef
+								ref="church-john">M<hi rend="superscript">r:</hi> Church’s</persRef>.
+								<persRef ref="franklin-william">M<hi rend="superscript">r:</hi> W. T.
+								Franklin</persRef>— <persRef ref="u">Marshall</persRef> &amp;
+								<persRef ref="u">his Lady</persRef>. <persRef ref="pinckney-thomas"
+									>M<hi rend="superscript">r:</hi> Pinckney</persRef> &amp;c. Away early.
+							Went with Gardner to <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef>. Rather late, but the evening
+							pleasant.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-07">
+					<head>7 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Visit from <persRef ref="hall-joseph">Hall</persRef>,
+							<persRef ref="frazier-nathan">Frazier</persRef> &amp; <persRef ref="gardner-james">Gardner</persRef>. Went
+							with <persRef ref="boylston-ward">M<hi rend="superscript">r:</hi>
+								Boylston</persRef> and Hall to dine with <persRef ref="coles-john"
+									>M<hi rend="superscript">r:</hi> Coles</persRef> at Highgate. Weather
+							extremely unpleasant, and very cold. Home at about ten. Coles a sensible
+							and candid man.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-08">
+					<head>8 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Several visits in the forenoon. Dined alone. Evening at
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Change again since the last time of my being
+							there. Spirits of the company remarkably high. Cards.— Some music; but
+							no singing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-09">
+					<head>9 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Dined at <persRef ref="pinckney-thomas">M<hi rend="superscript"
+									>r:</hi> Pinckneys</persRef>, with <persRef ref="johnson-joshua"
+									>M<hi rend="superscript">r:</hi> Johnson’s</persRef> family.— <persRef
+								ref="franklin-william">M<hi rend="superscript">r:</hi> Franklin</persRef>.
+							Some dancing. Home with the young Ladies. Conversation somewhat
+							interesting—late before I returned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-10">
+					<head>10 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="98" type="ms"/>
+						<p><date>10. </date>Went with <persRef ref="hall-joseph">Hall</persRef>.
+							dined at <persRef ref="u">M<hi rend="superscript">r:</hi> Murdoch’s</persRef>.
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef> family there. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Brooks</persRef>
+							<persRef ref="west-benjamin">M<hi rend="superscript">r:</hi> West</persRef> and
+								<persRef ref="pollard-robert">M<hi rend="superscript">r:</hi>
+								Pollard</persRef>.— Evening at Cards— Dull.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-11">
+					<head>11 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>Walk in the park with the <persRef
+								ref="adams-louisa-catherine;hellen-ann;frye-carolina">Miss
+								Johnson’s</persRef>. Returned to Cooper’s Row to dinner. Evening
+							also there. <persRef ref="hall-joseph">M<hi rend="superscript">r.</hi>
+								Hall</persRef>.— Cards— Situation still embarassing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-12">
+					<head>12 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Dined at <persRef ref="pinckney-thomas">M<hi rend="superscript"
+									>r:</hi> Pinckney’s</persRef>. <persRef ref="casairujo-carlos"
+									>M<hi rend="superscript">r:</hi> Irujo</persRef> the Spanish Minister
+							going to America. <persRef ref="burges-james">Sir Ja<hi rend="superscript"
+									>s:</hi> Burgess</persRef>. <persRef ref="hammond-george">M<hi
+									rend="superscript">r:</hi> Hammond</persRef>, <persRef
+								ref="jackson-william">M<hi rend="superscript">r:</hi> Jackson</persRef>—
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Montague</persRef>;
+								<persRef ref="church-john">M<hi rend="superscript">r:</hi> Church</persRef>
+							&amp;c. Company curiously sorted. <persRef ref="romayne-nicholas">D<hi
+									rend="superscript">r:</hi> Romayne</persRef> lent me the pamphlet of
+							Porcupine against <persRef ref="randolph-edmund">Randolph</persRef>. At
+							home in the Evening. <persRef ref="frazier-nathan">Frazier</persRef>
+							<persRef ref="gardner-james">Gardner</persRef> &amp; <persRef ref="hall-joseph">Hall</persRef> with me late.
+							The two former to leave town in the morning. Going to America with
+								<persRef ref="scott-james2">Scott</persRef>.— <persRef
+								ref="shakespeare-william">Shakespear</persRef> Gallery this
+							morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-13">
+					<head>13 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>At home all the morning. Writing. Dined at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							Went with <persRef ref="hall-joseph">Hall</persRef>. <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Murdoch</persRef> dined there too.
+							Evening. Difference with <persRef key="adams-louisa-catherine"
+								>Louisa</persRef>. repaired however.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-14">
+					<head>14 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Morning visits. Went with <persRef
+								ref="johnson-catherine">M<hi rend="superscript">rs:</hi> Johnson</persRef>
+							&amp; <persRef ref="adams-louisa-catherine;hellen-ann;frye-carolina">her
+								daughters</persRef> to the <persRef ref="shakespeare-william"
+								>Shakespear</persRef> gallery. Walk afterwards with the young Ladies
+							in the park. Partial conversation with Louisa.— Met <persRef
+								ref="pinckney-thomas">M<hi rend="superscript">r:</hi> Pinckney</persRef>.—
+							Dined again and pass’d the evening in Cooper’s Row. Cards.— Dull from
+							various causes.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-15">
+					<head>15 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date><persRef ref="hall-joseph">Hall</persRef> in the
+							forenoon. He dined with me. We went in the Evening to <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r</hi> Johnson’s</persRef> The
+								<persRef ref="forbes-john;forbes-ralph">two Forbes’s</persRef> were
+							there. <persRef ref="johnson-catherine">Madame</persRef> very grave.
+							Home earlier than usual.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-16">
+					<head>16 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Walking in the forenoon. Met <persRef
+								ref="johnson-catherine">M<hi rend="superscript">rs.</hi> Johnson</persRef>
+							and <persRef ref="adams-louisa-catherine;hellen-ann;frye-carolina">her
+								daughter’s</persRef>. Rode with them to the Park. Walk with the
+							young Ladies. Home with them to dinner, and pass’d the Evening. Some
+							music on the Harp— Madame, again very grave. I ought to be spirited.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-17">
+					<head>17 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>At home all the morning— Dined with <persRef
+								ref="bayard-samuel">M<hi rend="superscript">r:</hi> Bayard</persRef>.
+								<persRef ref="u">D<hi rend="superscript">r:</hi> Nicholl</persRef>. &amp;
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Marshall</persRef> with
+								<persRef ref="u;u">their Ladies</persRef>. <persRef
+								ref="pinckney-thomas">M<hi rend="superscript">r:</hi> Pinckney</persRef>,
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Slade</persRef>, <persRef
+								ref="u">Curnan</persRef>, <persRef ref="deas-william">Deas</persRef>
+							&amp;c. Was imprudent as usual in such companies: why cannot I stay at
+							home?— Early retired, and had a very indifferent night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-18">
+					<head>18 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Walking in the forenoon. Met young <persRef ref="u"
+								>Howard</persRef> who has just come from Paris. Met <persRef
+								ref="johnson-catherine">M<hi rend="superscript">rs:</hi> Johnson</persRef>
+							also in her carriage. Very stupid with Howard. At home, and set myself
+							to writing. What a mere slave to circumstances!— Nothing of the better
+							sort of clay about me. At <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef> in the Evening. Music. Hall there.
+							Taught <persRef key="adams-louisa-catherine">Louisa</persRef> to play
+							back-gammon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-19">
+					<head>19 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>Walk with the <persRef
+								ref="adams-louisa-catherine;hellen-ann;frye-carolina">young
+								Ladies</persRef> in the Park, by appointment last Evening. Home with
+							them as usual to dinner. Evening there likewise. Some music. Harp,
+							flute. Piano-Forte. Voice &amp;c— Wherefore must this be so
+							pleasing?</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-20">
+					<head>20 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="99" type="ms"/>
+						<p><date>20. </date>Visit from <persRef ref="white-james2">M<hi rend="superscript"
+									>r:</hi> White</persRef>. He goes to-morrow morning for Boston.
+							Wrote <persRef key="adams-abigail">my mother</persRef>. Dined and pass’d
+							the evening at <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Murdoch</persRef> there towards the close of it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-21">
+					<head>21 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>At home all the morning: writing.— Walk. Visit from
+								<persRef ref="hall-joseph">Hall</persRef>.— Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							Cards.— Dull Evening enough. Elder part of the family sick.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-22">
+					<head>22 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Day very similar to the former. Walk in the Park.—
+							Reflections far from enlivening. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Murdoch</persRef> in the Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>; by
+							desire. Cards.— No Music.— Dull therefore but in its last part much
+							preferable to the Evening before.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-23">
+					<head>23 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Walk in the park. Weather cold. Dined with <persRef
+								ref="copley-john">M<hi rend="superscript">r:</hi> Copley</persRef>. <persRef
+								ref="u">General Allen</persRef>, <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Graham</persRef>, <persRef ref="danforth-thomas">M<hi
+									rend="superscript">r:</hi> Danforth</persRef>, <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Gray</persRef> &amp;c. These refugees are
+							almost intolerable. Evening there till between 9 &amp; 10.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-24">
+					<head>24 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Jay Treaty (Anglo-American Commercial Treaty of 1795)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>Writing to <persRef key="adams-thomas">my
+								brother</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Clagett</persRef> brought me a letter from him. Visit from <persRef
+								ref="hall-joseph">Hall</persRef>. Dined at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+								<persRef ref="pinckney-thomas">M<hi rend="superscript">r:</hi>
+									Pinckney</persRef>. <persRef ref="russell-joseph2">Jos<hi rend="superscript">h:</hi> Russell</persRef>. <persRef
+								ref="u">Forbes</persRef> &amp;c. Hall in the Evening. M<hi
+								rend="superscript">r:</hi> Pinckney said <persRef ref="paine-thomas">T.
+								Paine</persRef> was now writing against <hi rend="italic">the
+							</hi>Treaty. Q. N. Music. Flute Piano Forte &amp; Voice.— Not exactly
+							right.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-25">
+					<head>25 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Good Friday.— Morning idle as customary. Walk in the
+							park, and Kensington Gardens. Very full.— Evening at <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							Cards— Time therefore dull enough.— Lesson of Backgammon better.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-26">
+					<head>26 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Party to go on board ship; from <persRef
+								ref="johnson-joshua">M<hi rend="superscript">r:</hi> Johnson’s</persRef>.
+							failed from some accident— Ride with the Ladies in the Park. Short walk
+							with <persRef key="adams-louisa-catherine">Louisa</persRef>.— Dined with
+								<persRef ref="vaughan-william">M<hi rend="superscript">r:</hi> W.
+								Vaughan</persRef>.— <persRef ref="pinckney-thomas">M<hi rend="superscript"
+									>r:</hi> Pinckney</persRef>. M<hi rend="superscript">r:</hi> Johnson.
+								<persRef ref="deas-william">M<hi rend="superscript">r:</hi> Deas</persRef>.
+								<persRef ref="u">M<hi rend="superscript">r:</hi> West</persRef>. <persRef
+								ref="vaughan-samuel">M<hi rend="superscript">r:</hi> Vaughan</persRef> the
+							elder &amp;c.— Wet clocks. enough about them. Saw a portrait of the
+								<persRef ref="washington-george">President</persRef> by <persRef
+								ref="stuart-gilbert">Stewart</persRef>; just come over. Good
+							picture. It was settled that a print might be taken from it, to
+							introduce in the new Edition of <persRef ref="lavater-johann"
+								>Lavater’s</persRef> book.— Evening at M<hi rend="superscript">r:</hi>
+							Johnson’s— Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-27">
+					<head>27 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>Snow in the morning. Cleared up quite cold. Walk <hi
+								rend="italic">to</hi> the park. Met <persRef ref="johnson-catherine"
+									>M<hi rend="superscript">rs:</hi> Johnson</persRef>. Returned home with
+							her. Dined and Evening there.— A single moment of interest. interrupted
+							for singing. <persRef ref="u">Forbes</persRef> &amp; <persRef ref="u"
+								>Murdoch</persRef> there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-28">
+					<head>28 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>At <persRef ref="copley-john">M<hi rend="superscript">r:</hi>
+								Copley’s</persRef> all the morning, sitting again for my picture.
+							Stayed there too long, gazing at his Charles, and at a portrait of the
+								<persRef ref="amelia;mary2;sophia">3 youngest princesses</persRef>.
+							A finely finished thing. Evening at <persRef ref="johnson-joshua">M<hi
+									rend="superscript">r:</hi> Johnson’s</persRef>. <persRef
+								ref="hall-joseph">Hall</persRef> &amp; <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Brooks</persRef> there. Backgammon. Cards.—
+							Have a very bad cough</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-29">
+					<head>29 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>With <persRef ref="hall-joseph">Hall</persRef> to
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef> at noon. Party on board the ship Holland. Dined
+							there. Very clever. But weather chilly &amp; damp. Back at about 5.
+							Evening at M<hi rend="superscript">r:</hi> Johnson’s. Hall too. <pb n="100"
+								type="ms"/><persRef ref="u">M<hi rend="superscript">r:</hi> Brooks
+								returned</persRef> before us.— <persRef ref="u">Murdoch</persRef>
+							and <persRef ref="u">Forbes</persRef> failed of going. Backgammon and
+							cards— Evening would have been pleasant, but very unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-30">
+					<head>30 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-30"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>Card from <persRef ref="johnson-catherine">M<hi
+									rend="superscript">rs:</hi> Johnson</persRef>— <persRef
+								key="adams-louisa-catherine">Louisa</persRef> has been very ill.—
+							Called on <persRef ref="hall-joseph">Hall</persRef>. He dined with me.
+							Evening at <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson’s</persRef>. Principally with him alone— Louisa confined to
+							her chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1796-03-31">
+					<head>31 March 1796</head>
+					<bibl><author>JQA</author><date type="creation" when="1796-03-31"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Courtship and Marriage of JQA and LCA</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Dined at <persRef ref="johnson-joshua">M<hi rend="superscript"
+									>r:</hi> Johnson’s</persRef>, and pass’d the Evening there.
+								<persRef key="adams-louisa-catherine">Louisa</persRef> recovered.
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Brooks</persRef>. <persRef
+								ref="u">Captain Barton</persRef>, a brother as I found of my old
+							acquaintance <persRef ref="u">Barton</persRef>, whose death I unluckily
+							mentioned, but the Captain had not heard of it, nor appeared to think it
+							probable. Play’d at back-gammon in the Evening, and was told I was too
+							much indulged.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

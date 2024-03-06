@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v17-1791-05">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="12"  mhs:precedingFile="JQADiaries-v17-1791-04-p001.xml" mhs:followingFile="JQADiaries-v17-1792-04-p013.xml" mhs:volume="17">
+				<bibl n="metadata"><date from="1791-05-05" to="1791-05-05"/></bibl>
+
+				<!-- DJQA 1791-05 DJQA17 May 1791 -->
+				<div type="entry" xml:id="jqadiaries-v17-1791-05-05">
+					<head>5 May 1791</head>
+					<bibl><author>JQA</author><date type="creation" when="1791-05-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						
+						<p><date><hi rend="italic">Thursday May 5th:</hi></date> Long intervals
+							occur between the days of which I give any account. It is not that my
+							pen would be at a loss for materials of narrative or description much
+							more frequently. But business, pleasure, and above all indolence often
+							wrest it from my hands.</p>
+						<p>Spent this evening at the Miss Amory’s. <persRef
+								ref="lowell-ann;lowell-sarah">Two Miss Lowell’s</persRef>, <persRef
+								ref="higginson-barbara">Miss Barbara Higginson</persRef>. Two
+								<persRef ref="u">Miss Russell’s</persRef>, Miss <persRef
+								ref="amory-betsey">Betsey Amory</persRef> were the Ladies. Two
+								<persRef ref="higginson-stephen;u">M<hi rend="superscript">r:</hi>
+								Higginson’s</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Bowen</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Deblois</persRef>, <persRef ref="crafts-thomas">M<hi rend="superscript"
+									>r</hi> Crafts</persRef>, <persRef ref="u">Capt<hi
+									rend="superscript">n:</hi> Hubbard</persRef>, <persRef
+								ref="blake-george">M<hi rend="superscript">r:</hi> Blake</persRef>, <persRef
+								ref="lowell-john">M<hi rend="superscript">r:</hi> Lowell</persRef>, <persRef
+								ref="callender-john">M<hi rend="superscript">r:</hi> Callender</persRef> the
+							gentlemen; besides <persRef ref="amory-jonathan">Jonathan
+								Amory</persRef>, who was a kind of stranger at home. The evening was
+							not very bright. Music as usual, vocal and instrumental, was the most
+							pleasing part of the entertainment.</p>
+						<p>These companies composed altogether of young people unmarried of both
+							sexes, are the most insipid of all the parties, where there is no
+							particular sentiment to make them interesting. When they are much
+							frequented it becomes absolutely necessary to make some selection and to
+							depend for the amusement of the time upon some individual. How languid
+							is indifference!</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

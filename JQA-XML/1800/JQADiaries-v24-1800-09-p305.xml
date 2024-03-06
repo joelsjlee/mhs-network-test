@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1800-09">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="305"  mhs:precedingFile="JQADiaries-v24-1800-08-p302.xml" mhs:followingFile="JQADiaries-v24-1800-10-p308.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1800-09-01" to="1800-09-30"/></bibl>
+
+				<!-- D/JQA/24.2209 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-01">
+					<head>1 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">September 1800.</hi></dateline>
+						<p><date>1. </date>Delivered a letter from <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Töpfer</persRef> of Waldenburg to <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Eichborn</persRef>— He went with <persRef
+								key="adams-louisa-catherine">us</persRef> to see the church of S<hi
+								rend="superscript">t:</hi> Elisabeth, and the <persRef
+								ref="vonrhediger-thomas">Rhediger</persRef> library— <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Scheibel</persRef> the rector of the
+							school, and librarian shew’d it us. The manuscript of <persRef
+								ref="froissart-jean">Froissart</persRef> is the principal curiosity
+							it contains— Thence to the collection of paintings belonging to the
+							Magdalen church; which were shewn us by the rector <persRef
+								ref="manso-john">M<hi rend="superscript">r:</hi> Manso</persRef>.— After
+							dinner We saw the Augustine church on the sand island; the cathedral on
+							the dome island, with the <persRef ref="hohenlohe-joseph"
+								>bishop’s</persRef> present residence and the palace he is building;
+							after which we went to Scheidnich the seat and gardens of <persRef
+								ref="hohenlohe-friedrich">Prince Hohenlohe</persRef> the governor of
+							Breslau; who last week entertained the <persRef
+								ref="frederick-william-iii">king</persRef> and <persRef
+								ref="louiseauguste">queen</persRef> there with great splendour.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-02">
+					<head>2 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>Went this forenoon to see the manufactures of turkish
+							yarn, and of needles—likewise a workman who takes likenesses in stucco—
+							Dined with <persRef ref="u">M<hi rend="superscript">r:</hi> Eichborn</persRef>
+							at the ressource, in a company of about forty persons. After dinner we
+							went to see the Jesuits church, and the Leopoldine hall— Saw the
+							observatory at the top of the building; Afterwards to the
+							sugar-refinery, and the barracks— In the evening at the play, where
+								<persRef key="adams-louisa-catherine">we</persRef> saw the
+							Apothecary and the Doctor.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-03">
+					<head>3 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>Went this morning to see the foundary of cannon; but they
+							have not work’d at it these two years; and it is only for the account of
+							the <persRef ref="frederick-william-iii">king</persRef>.— In the
+							afternoon <persRef key="adams-louisa-catherine">we</persRef> left
+							Breslau, and came four miles to Neumarckt.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-04">
+					<head>4 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Textile Industry</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Came through Liegnitz, and Goldberg, eleven miles to
+							Hirschberg, where <persRef key="adams-louisa-catherine">we</persRef>
+							arrived at ten at night. Saw at Liegnitz the Jesuit’s church, the
+							cloth-manufactory, and the academy of knights— At Goldberg, were at a
+							cloth manufacturers— Came over the Capellenberg.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-05">
+					<head>5 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date>Took a day of rest. Called upon <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Hesse</persRef> this afternoon, but he was
+							not at home— In the evening, at the play— Saw the <hi rend="italic"
+								>elopement</hi>; a comedy I had seen before at Berlin.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-06">
+					<head>6 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="u">M<hi rend="superscript">r:</hi> Hesse</persRef>
+							called upon <persRef key="adams-louisa-catherine">us</persRef>, and we
+							took leave of him— Called at <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Schäffer’s</persRef>; he was not at home— This evening between 6 and
+							7. o’clock we left Hirschberg and went five miles to Flinsberg. Rode
+							till one in the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-07">
+					<head>7 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Found no post station here, and were obliged to go on
+							with the horses <persRef key="adams-louisa-catherine">we</persRef> took
+							from Hirschberg. I could not go up either the grosse kamm, or the
+							Tafelfichte— Went in the morning just to take a distant view at
+							Mäffersdorf.— Came through Friedeberg to Greiffenberg the last Silesian
+							town; and thence to Lauban the first town in Lusace—lodg’d at Görlitz
+							where we arrived in the evening between 7. and 8. Came this day 7
+							miles.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-08">
+					<head>8 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>Took a chaise and went with <persRef ref="whitcomb-tilly"
+								>Whitcomb</persRef>, three miles to Herrnhuth, the primitive
+							settlement of the Moravian brotherhood— The roads were so bad that
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A.</persRef> could not go.— Tis the first of the Moravian
+							communities I have seen. Went over the young men’s and young women’s
+							house— The church and burying ground; the great store; the apothecary’s
+							shop, and several private tradesmen’s shops— <persRef
+								ref="vonzinzendorf-nikolaus">Count Zinzendorf</persRef> the founder
+							of the institution is buried here. <persRef ref="watteville-benigna">His
+								daughter</persRef>, and <persRef ref="watteville-johannes">her
+								husband</persRef>, a Baron de Watteville still reside here; and at
+							Bertelsdorf a village, near at hand;— We returned to Görlitz about 9
+							o’clock in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-09">
+					<head>9 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="306" type="ms"/>
+						<p><date>9. </date>Look’d at some damask table linen,
+							in a store: this is the part of Saxony where it is principally made.
+							Left Görlitz, and came through Rothkretscham six miles to Bauzen— Rainy
+							afternoon; and I got wet through. Miss’d the opportunity of going up the
+							Landeskrone at Görlitz.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-10">
+					<head>10 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Left Bauzen at 8 this morning, and came seven miles
+							through Schmiedefeld to Dresden, where <persRef
+								key="adams-louisa-catherine">we</persRef> arrived at four in the
+							afternoon. Lodge at the Hotel de Pologne; up three pair of stairs—
+							Endeavoured without success to get other lodgings.— Found <persRef
+								ref="cohen-ephraim">M<hi rend="superscript">r:</hi> Cohen’s</persRef> <persRef ref="cohen-pessel;u">family</persRef>
+							here; and he is extremely ill— Has had a putrid fever— Walked out of the
+							black gate, towards evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-11">
+					<head>11 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="whitcomb-tilly">Whitcomb</persRef> went
+							off this morning to Leipzig, at 5 o’clock— Went this forenoon to the
+							picture-gallery, and was charmed with another sight of my old
+							acquaintance there— Met the <persRef ref="u">Miss Blumenthal’s</persRef>
+							and the <persRef ref="araujo-antonio">Commandeur d’Araujo</persRef>; who
+							has given up his plan of a tour into Silesia— Called upon <persRef
+								ref="cohen-ephraim">M<hi rend="superscript">r:</hi> Cohen</persRef>.— Spent
+							the afternoon and evening at our lodgings.— A rainy day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-12">
+					<head>12 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date>Visited this forenoon <persRef ref="elliot-hugh">M<hi
+									rend="superscript">r:</hi> Elliot</persRef> and <persRef
+								ref="vonzinzendorf-friedrich">Count Zinzendorf</persRef>, neither of
+							whom I found at home— <persRef ref="fox-henry">Lord Holland</persRef> I
+							saw and the <persRef ref="araujo-antonio">Commandeur d’Araujo</persRef>—
+							Went with him and <persRef ref="u;u">M<hi rend="superscript">r:</hi> and Madame
+								Cappadoce</persRef> to see the Panorama of the city of London— The
+							same I saw in London.— Called in the afternoon upon <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Gray</persRef>, who was not at home.
+							Went to the play with <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A</persRef>— It is out of the town— We went
+							down from the bridge by water; and walk’d back.— The play was the <hi
+								rend="italic">elopement from the Seraglio</hi>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-13">
+					<head>13 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>Went this forenoon with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							to see the <persRef ref="frederickaugustus-i">elector’s</persRef>
+							collection of prints which is one of the finest in Europe— They are kept
+							in one of the rooms of the Zwinger, which is hung round with drawings
+							copied from pictures in the gallery.— We spent three hours here, in
+							which time we could only look over four or five out of some thousands of
+							volumes— The collection of <persRef ref="nanteuil-robert"
+								>Nanteuil’s</persRef> works, a french engraver in Louis 14<hi
+								rend="superscript">th:</hi> reign. That of <persRef ref="bause-johann"
+								>Bause</persRef> a german artist, yet living, a volume of <persRef
+								ref="barbieri-giovanni">Guercino’s</persRef> designs and sketches
+							engraved by <persRef ref="bartolozzi-francesco">Bartolozzi</persRef>,
+							and a series of prints from the first periods of the art to that of its
+							present perfection, amused us this forenoon; and we propose to return
+							another day, to see further— After dinner we went through the
+							Plauenschen grund to Tharandt, which has often been extoll’d to us as a
+							ride, of extraordinary beauty; but it loses much to a traveller coming
+							from Silesia— It is more than a two hours ride there— We return’d
+							between 8 and 9 in the evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-14">
+					<head>14 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Went this forenoon to hear the mass at the great
+							catholic church— Afterwards paid a visit to <persRef
+								ref="radziwill-anton;frederica-dorothea">Prince and Princess
+								Radziwill</persRef>, who lodge in the house with us— Saw there the
+							Prince’s <persRef ref="radziwill-helena">mother</persRef> and two
+							sisters. <persRef ref="werthern-johanna">Countess Werthern</persRef>, <persRef
+								ref="fox-henry;fox-elizabeth">Lord and Lady Holland</persRef>,
+								<persRef ref="elliot-hugh">M<hi rend="superscript">r:</hi> Elliot</persRef>
+							and <persRef ref="u">M<hi rend="superscript">rs:</hi> Rawdon</persRef>, an
+							english lady who travels with the princess. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							spent the evening with <persRef ref="cohen-pessel">M<hi rend="superscript"
+									>rs:</hi> Cohen</persRef>— I went to the play, and saw the red
+							cap; a comic opera. The music of <persRef ref="vonditterdorf-carl"
+								>Dittersdorf</persRef>, and very good.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-15">
+					<head>15 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>American Revolution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Went again to the electoral prints and spent the
+							forenoon in looking over a collection of portraits engraved by <persRef
+								ref="bartolozzi-francesco">Bartolozzi</persRef>, from designs of
+								<persRef ref="holbein-hans">Holbein</persRef>— They are all of
+							distinguished english characters during the reigns of <persRef
+								ref="henry-viii">Henry 8<hi rend="superscript">th:</hi></persRef> and of
+								<persRef ref="elizabeth-i;mary-i;edward-vi">his children</persRef>—
+							They are published by <persRef ref="chamberlaine-john">M<hi rend="superscript"
+									>r:</hi> Chamberlaine</persRef>— We likewise look’d over a
+							volume of engravings from <persRef ref="sanzio-raffaello"
+								>Raphael</persRef>, consisting in a great measure of grotesques and
+							arabesques from his fresco paintings. There are ten volumes of his
+							works— The collection of prints from the pictures in the gallery here,
+							is very incomplete, and in general poorly executed.— I took only three
+							of the prints— In the afternoon I pass’d a couple of hours with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							in the gallery. Afterwards I paid a visit to <persRef ref="elliot-hugh"
+									>M<hi rend="superscript">r:</hi> Elliot</persRef>— Found him confined
+							with an head ache— <persRef ref="elliot-margaret">M<hi rend="superscript"
+									>rs:</hi> Elliot</persRef> went out— Had a long conversation
+							with him— In the course of it he took occasion to speak of the robbery
+							of <persRef ref="lee-arthur">Arthur Lee’s</persRef> paper’s during the
+							American war, which has always been imputed to him— He declared solemnly
+							that he did not order it: that it was entirely the work of a servant,
+							though when the papers were brought to him he did read them. <pb n="307"
+								type="ms"/>That the only papers of consequence he found, were the
+							draught, of an unfinish’d Treaty with Spain; and a letter from <persRef
+								ref="frederick-ii">Frederic the second</persRef> or one of his
+							ministers, promising, if any other power would set the example of
+							acknowledging the independence of the United States, that he would be
+							the second to do it.— He was very much offended at this transaction, and
+								M<hi rend="superscript">r:</hi> Elliot was obliged to send the man who had
+							committed the robbery, privately out of the country.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-16">
+					<head>16 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Pass’d the forenoon at the gallery of pictures, of which
+							I have now taken leave, probably forever— At three this afternoon
+								<persRef key="adams-louisa-catherine">we</persRef> left Dresden, and
+							came three miles to Meissen, through a country which seems to be a
+							continual vineyard— At this place is the great Saxon porcelain
+							manufactory which we have not time to see.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-17">
+					<head>17 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Between 6 and 7 in the morning <persRef
+								key="adams-louisa-catherine">we</persRef> left Meissen, and came 9
+							1/2 miles to Leipzig, which we reached, at about ten at night— We dined
+							at Wärmsdorf, a village in which stands the castle of Hubertsburg;
+							famous as the place where the peace which terminated the seven year’s
+							war, was sign’d— About a mile before reaching Leipzig, we found <persRef
+								ref="whitcomb-tilly">Whitcomb</persRef> who had come out so far to
+							meet us— We came immediately to the lodgings he has taken for us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-18">
+					<head>18 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Walk’d about the town, both in the forenoon and
+							afternoon— Went in the evening with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> to the university church, where we heard perform’d
+								<persRef ref="haydn-joseph">Haydn’s</persRef> Creation, a celebrated
+							musical work, which did not answer my expectation— The music is
+							certainly fine, but perhaps it is impossible to do justice to such a
+							subject. The words are partly taken from the bible; partly from <persRef
+								ref="milton-john">Milton’s</persRef> hymn of Adam and Eve, and
+							partly put together by a Gentleman at Vienna. They would have been
+							better if the <hi rend="italic">airs</hi> had been rhym’d.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-19">
+					<head>19 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A.</persRef> took a bad cold yesterday at the concert
+							and is this day quite unwell.— Subscribed at <persRef
+								ref="beygang-johann">Beygang’s</persRef> circulating library. Took
+							this afternoon a walk round the town— It is remarkably agreeable; a hard
+							terrass with rows of trees which form a pleasant shade— Read this
+							evening part of the second volume of the Canterbury tales— The young
+							Lady’s tale, by <persRef ref="lee-sophia">Miss Sophia Lee</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-20">
+					<head>20 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>20. </date>Delivered a letter this morning from <persRef ref="u"
+									>M<hi rend="superscript">r:</hi>
+								<hi rend="strikethrough">Frege</hi> Schickler</persRef> to <persRef
+								ref="frege-christian">M<hi rend="superscript">r:</hi> Frege</persRef>, a
+							merchant and banker here of the first consideration and property. He
+							expects his nephew daily home from Philadelphia, where he has spent a
+							couple of years.— In the afternoon I went to <persRef
+								ref="beygang-johann">Beygang’s</persRef> circulating library, and
+								<hi rend="italic">museum</hi>, where are all the newspapers and
+							journals.— Reading <persRef ref="degenlis-stephanie">Mad: de
+								Genlis’s</persRef> Adele et Theodore. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>—
+							very ill indeed, this afternoon— We have a dismal month before us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-21">
+					<head>21 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— somewhat better, but could not go out— I
+							went to dine with <persRef ref="frege-christian">M<hi rend="superscript">r:</hi>
+								Frege</persRef>, at his country seat, about a german mile out of
+							town— He has a very fine house and gardens— The company consisted of
+							about twenty persons, all strangers to me— Return’d just at dark, and
+							read, in the evening to M<hi rend="superscript">rs:</hi> A.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-22">
+					<head>22 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>I have almost entirely left off writing and spend all my
+							time in reading. Call’d this afternoon at the circulating library, and
+							walk’d round the town— Read in the evening to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+							A</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-23">
+					<head>23 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Unwell with a severe cough and pain in my breast, which
+							obliges me to cease reading loud, altogether— Went this evening to the
+							play and saw <persRef ref="kotzbue-august">Kotzebue’s</persRef> Octavia,
+							a tragedy which I found better than I had expected. The character of
+								<persRef ref="cleopatra">Cleopatra</persRef> is too infamous, and
+							that of <persRef ref="octavia">Octavia</persRef> too exalted for
+							human-nature— <persRef ref="antony-mark">Antony</persRef> is too
+							favourably exhibited likewise— The house is a very good one; but the
+							company is indifferent— They act no musical pieces.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-24">
+					<head>24 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date>Finish’d reading the second volume of the Canterbury
+							tales, and likewise <persRef ref="degenlis-stephanie">Madame de
+								Genlis’s</persRef> Adele et Theodore. Being in a great measure
+							disabled to write, I read the more rapidly. There are many good ideas
+							upon education in Adele et Theodore; but in general too great a degree
+							of docility is supposed in the children; and too much of stratagem or
+							intrigue is recommended in the management of them— Walk round the town
+							this afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-25">
+					<head>25 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Read the first volume of <persRef ref="lewis-matthew"
+								>Lewis’s</persRef> Monk; a book of which I have heard much, but
+							which I had never read. It is a new edition, and the greatest
+							indelicacies which had been complained of in the first are expunged from
+							it— Went this evening to the play, and was amused with the Sorceress in
+							the wood, or the dumb knight, by <persRef ref="kotzbue-august"
+								>Kotzebue</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-26">
+					<head>26 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="308" type="ms"/>
+						<p><date>26. </date>Confined myself to the house,
+							owing to the cough and pain in my breast.— Read a little, and wrote a
+							little— Letter from <persRef ref="welsh-thomas2">M<hi rend="superscript">r:</hi>
+								Welsh</persRef>— Weather cold and rainy.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-27">
+					<head>27 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>27. </date>Still confined with my complaint, for which I consulted
+							at length <persRef ref="u">D<hi rend="superscript">r</hi> Kapp</persRef>, a
+							physician recommended to me by <persRef ref="frege-christian">M<hi
+									rend="superscript">r:</hi> Frege</persRef>.— Consulted him likewise with
+							respect to <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— but her case no physician can remedy.
+							First fire this evening— Finish’d <persRef ref="lewis-matthew"
+								>Lewis’s</persRef> Monk.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-28">
+					<head>28 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>Confined to the house all this day likewise— Cold and
+							rainy almost the whole day. Visit from the <persRef ref="u"
+								>Doctor</persRef>, this morning, and again in the afternoon— He
+							prescribed for <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> A</persRef>— T’is to no purpose— Reading <persRef
+								ref="burney-frances">Miss Burney’s</persRef> Camilla.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-29">
+					<head>29 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Travel and Touring (international)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date>Michaelmas day— From which the fair, commences— The
+							weather being fine, and as I find myself better, I took a short walk
+							about the town in the forenoon, and in the afternoon called at the
+							circulating library— The rest of the day at home— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.’s</persRef>
+							illness rapidly approaching.— She is already very unwell, and will
+							continue so untill the severe and inevitable trial has had its usual
+							end.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-30">
+					<head>30 September 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>From four in the morning, every street is full of
+							bustle, buyers, sellers and goods. The weather so bad I could not go out
+							the whole day— The <persRef ref="u">doctor</persRef> here this
+							afternoon— My cough getting better.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-09-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Since taking our lodgings here I
+							rise usually before six; read till nine; breakfast— Read or write a
+							little and dress— Dine at one— Read again untill dark— Play cards with
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								A</persRef>— till 9. Sup, and go to bed at ten— Before I was obliged
+							to confine myself to the house, I walk’d usually an hour before and as
+							much after dinner.— My illness and that of M<hi rend="superscript">rs:</hi> A.
+							make me irresistibly lazy.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

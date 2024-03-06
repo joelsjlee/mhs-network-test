@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1806-03">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="218"
+				mhs:precedingFile="JQADiaries-v27-1806-02-p207.xml"
+				mhs:followingFile="JQADiaries-v27-1806-04-p224.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1806-03-01" to="1806-03-31"/></bibl>
+
+				<!--D/JQA/27.1372-->
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-01">
+					<head>1 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">March 1806.</hi></dateline>
+						<p><date>1. </date>This was the first Saturday of leisure from the Capitol,
+							that I have been indulged with for seven weeks; and except a walk to
+							Georgetown about noon, I spent it at home very busily engaged, though in
+							an unprofitable manner— It was in preparation for the debate on my Bill,
+							the fate of which has long been decided— I shall not have time to make
+							half the preparation I should choose; but I shall spend upon it double
+							the time perhaps which I ought.— The winter has been on the whole one of
+							the mildest ever known; but this month comes in with unusual
+							severity.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-02">
+					<head>2 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>I went this morning to the methodist meeting-house at
+							Georgetown, and heard a preacher whose name I know not. He was not a
+							very good speaker, and the substance of his discourse was very flimsy
+							and superficial.— He was apparently not equal to the person I saw there
+							last Sunday— The remainder of the day and Evening I spent at home very
+							busily engaged.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-03">
+					<head>3 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-03"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Native Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>In Senate— The first subject taken up was my Bill
+							respecting foreign Ministers— To which I spoke about an hour and a half.
+								<persRef ref="smith-samuel2">M<hi rend="superscript">r:</hi>
+								Smith</persRef> of Maryland, and <persRef ref="pickering-timothy"
+									>M<hi rend="superscript">r:</hi> Pickering</persRef> objected to
+							particular parts of the Bill, but not to its material principle—
+								<persRef ref="bayard-james">M<hi rend="superscript">r:</hi>
+								Bayard</persRef> in a speech of some length opposed both the general
+							principle and many of the details.— <persRef ref="worthington-thomas"
+									>M<hi rend="superscript">r:</hi> Worthington</persRef> advocated
+							the Bill in its present shape— At length by a vote of 17 to 11 the Bill
+							pass’d to a third reading, with a view then to amend it so as to
+							accommodate it to the opinions of a majority— It is however still most
+							probable that it will not be suffered to pass in any shape— Little other
+							business was done— On Executive affairs, an Indian Treaty was
+							ratified.—and the nomination of <persRef ref="armstrong-john">M<hi
+									rend="superscript">r:</hi> Armstrong</persRef> was Committed to
+							a select Committee— M<hi rend="superscript">r:</hi> Bayard moved a
+							Resolution to ask the <persRef ref="jefferson-thomas"
+								>President</persRef> for papers respecting Armstrong’s interference
+							in the case of the ship New-Jersey; which motion was adopted. Adjourned,
+							at half past three— In the afternoon I took a walk with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> and her Sister <persRef
+								key="smith-catherine-johnson">Kitty</persRef>— Evening writing.
+								<persRef ref="mitchill-samuel">D<hi rend="superscript">r:</hi>
+								Mitchill</persRef> desired me to draw a Bill respecting the Seamen’s
+							fund; and I have also agreed to draw the Report, in the case of the
+							Georgia Land petitions— I had no reason to be satisfied with my
+							performance this day. But reason to thank Heaven that I did not more
+							grossly fail.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-04">
+					<head>4 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="219" type="ms"/>
+						<p><date>4. </date>In Senate— I was beginning to draw up the Report on the
+							Georgia-Land-petitions, but <persRef ref="greenleaf-james">M<hi
+									rend="superscript">r:</hi> Greenleaf</persRef> came to me and
+							said it would be better for them to have nothing done, than such a Bill
+							as I had drawn; without the third section; which I first drew, but which
+								<persRef ref="bradley-stephen">M<hi rend="superscript">r:</hi>
+								Bradley</persRef> insisted upon having expunged— So I desisted, and
+							Bradley is to meet with them this Evening, and see if they can agree
+							upon any thing— The Bill for making Jersey a port of Delivery, and
+							erecting a light-house on Fletcher’s Neck in Maine pass’d—after some
+							discussion— The Bill for punishing the counterfeiting of Coins also
+							pass’d. But words were introduced, as I have all along expected, exactly
+							equivalent to the fourth Section of the Bill, which was struck out as
+								<hi rend="italic">unconstitutional</hi>— <persRef
+								ref="baldwin-abraham">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef> was the man, who devised this mode of veiling the
+							violation of the Constitution, by the selection of words in which the
+							breach was disguised— It pass’d by yeas and nays 19 to 9. And the Bill
+							itself thus amended 22 to 4. This example proves to me what indeed I
+							have often seen before—that Constitutional difficulties never will stand
+							in the way of a majority— And that even in so select a Body as the
+							Senate of the United States, a mere variation of phrase will contrive a
+							loophole to creep from the most barefaced usurpation of power. <persRef
+								ref="anderson-joseph">M<hi rend="superscript">r:</hi>
+								Anderson</persRef> requested me to publish the Speech I made
+							yesterday, on my Bill, to which I assented. Evening writing at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-05">
+					<head>5 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>In Senate— A Bill authorizing the State of Tennessee to
+							perfect certain Land Titles was partly considered, and then postponed—
+							It is a subject which has consumed much time at every Session since I
+							have been in Congress, but which I do not well understand, and in which
+							I take not much interest— <persRef ref="logan-george">D<hi
+									rend="superscript">r:</hi> Logan</persRef> has brought in a Bill
+							to incorporate a National Academy, which was read a second time and
+							committed to a select Committee of three Members— The Resolution for an
+							appropriation to fortify New-York, and other Ports and Harbours was
+							taken up. <persRef ref="mitchill-samuel">D<hi rend="superscript">r:</hi>
+								Mitchill</persRef> after a learned speech proposed to fill the blank
+							for the fortification of New-York with $150,000 which by a silent vote
+							was rejected— D<hi rend="superscript">r:</hi> Mitchill was so
+							disconcerted at the decision that he proposed not to take a question on
+							the other parts of the report— <persRef ref="smith-samuel2">Gen<hi
+									rend="superscript">l:</hi> Smith</persRef> of Maryland however
+							moved to fill the blank with $100,000 which gave rise to some discussion
+							after which the subject was generally postponed. I drew a Bill for the
+							encouragement of the shipping and Navigation of the United States,
+							founded on Gen<hi rend="superscript">l:</hi> Smith’s Resolution,
+							committed to him, <persRef ref="baldwin-abraham">M<hi rend="superscript"
+									>r:</hi> Baldwin</persRef> and me— Smith himself desired me, or
+							rather as Chairman ordered me to draw the Bill— Evening at home,
+							writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-06">
+					<head>6 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date>Committee on the Georgia-land petitions. The Bill I had
+							drawn was submitted to them; and being debated, <persRef
+								ref="bradley-stephen">M<hi rend="superscript">r:</hi>
+								Bradley</persRef> proposed an Amendment which he promised to have in
+							writing for the Committee to-morrow morning.— In Senate, <persRef
+								ref="smith-samuel2">General Smith</persRef> reported the Bill I drew
+							yesterday at his request— The Bill for the relief of <persRef
+								ref="landais-pierre">Peter Landais</persRef> was debated in
+							Committee of the whole at the second reading— M<hi rend="superscript"
+								>r:</hi> Bradley moved to strike out $6000 and insert 2000 which
+							motion was rejected— On the question of its passage to a third reading,
+								<persRef ref="sumter-thomas3">Gen<hi rend="superscript">l:</hi>
+								Sumter</persRef> moved an adjournment just as the <persRef
+								ref="clinton-george">Vice-President</persRef> was stating the
+							question, which gave him Offence, and he said “Gentlemen should not move
+							an adjournment while he was stating a question[”]— The adjournment
+							however prevailed— We could scarcely keep a quorum this day; <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi> John
+								Randolph</persRef> having made in the House of Representatives a
+							Speech of three hours against <persRef ref="gregg-andrew">M<hi
+									rend="superscript">r</hi> Gregg’s</persRef> non-importation
+							Resolution, and in the course of which he uttered a very violent
+							philippic against the present Executive, and their course of policy— He
+							has been so exasperated at the attempt to take the management of the
+							House from his hands, and at his defeat on the Secret Bill, that he has
+							poured forth all the ebullitions of his resentment on this question— It
+							is said there is now very warm electioneering in the party, for the next
+							Presidential election, &amp; that M<hi rend="superscript">r:</hi>
+							Randolph’s object in his present denunciation is to prevent <persRef
+								ref="jefferson-thomas">M<hi rend="superscript">r:</hi>
+								Jefferson</persRef> from consenting to serve again, &amp; <persRef
+								ref="madison-james">M<hi rend="superscript">r:</hi>
+								Madison</persRef> from being his successor— M<hi rend="superscript"
+								>r:</hi> Randolph’s man is said to be <persRef key="monroe-james"
+									>M<hi rend="superscript">r:</hi> Monroe</persRef>— Sed Quere de
+							hoc.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-07">
+					<head>7 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="220" type="ms"/>
+						<p><date>7. </date>In Committee on the Georgia Land petitions, <persRef
+								ref="bradley-stephen">M<hi rend="superscript">r</hi>
+								Bradley</persRef> produced his amendment, which was agreed to; and I
+							undertook to draw up the Bill as amended— The Committee agreed to ask
+							leave to Report by Bill— This was accordingly done— I drew the Bill
+							while the House was in Session, and it was immediately reported— My Bill
+							at the third reading was rejected— The yeas and nays were taken on each
+							of the four Sections— The decision on the first however was on the fate
+							of the whole 17 to 11— <persRef ref="bayard-james">M<hi
+									rend="superscript">r:</hi> Bayard</persRef>, <persRef
+								ref="hillhouse-james">M<hi rend="superscript">r:</hi>
+								Hillhouse</persRef> and <persRef ref="smith-israel">M<hi
+									rend="superscript">r:</hi> Smith</persRef> of Vermont were its
+							principal opposers— The Bill for the relief of <persRef
+								ref="landais-pierre">Peter Landais</persRef> was again taken up, and
+							after further debate pass’d to a third reading: though I have great
+							fears of its final failure.— <persRef ref="gregg-andrew">M<hi
+									rend="superscript">r:</hi> Gregg’s</persRef> Resolutions were
+							again debated in the House; and <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> Randolph</persRef> in a second Speech
+							of two hours, renewed his attack on the <persRef ref="jefferson-thomas"
+								>President</persRef> and <persRef ref="madison-james">M<hi
+									rend="superscript">r:</hi> Madison</persRef>— I went into the
+							House after the Senate’s adjournment, but he was then just closing his
+							Speech and the House immediately adjourned— I pass’d the whole Evening
+							in reading over Captain Landais’s papers.— Senate adjourn’d to
+							Monday.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-08">
+					<head>8 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-08"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Democratic-Republican Party (1801–1824)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date>I was summoned to attend three Committees— On the Rules—
+							On the Philadelphia Memorial; and on the subject of impress’d Seamen—
+							While sitting on the first, the last without me agreed to recommend a
+							postponement of the subject to the next Session.— The Committee on the
+							Rules, <persRef ref="anderson-joseph">M<hi rend="superscript">r:</hi>
+								Anderson</persRef>, <persRef ref="tracy-uriah">M<hi
+									rend="superscript">r:</hi> Tracy</persRef>, and myself attending
+							agreed to some Amendments and additions; and are to meet on Monday to
+							consider the report as completed— We had much conversation with M<hi
+								rend="superscript">r:</hi> Anderson, on the late nomination of
+								<persRef ref="armstrong-john">M<hi rend="superscript">r:</hi>
+								Armstrong</persRef>, which he very much disapproves, but which must
+							be carried. After finishing our business I went into the House which
+							sits to-day; and heard part of the debate on <persRef ref="gregg-andrew"
+									>M<hi rend="superscript">r:</hi> Gregg’s</persRef> Resolution—
+								<persRef ref="williams-david2">M<hi rend="superscript">r:</hi>
+								Williams</persRef> of S. Carolina was finishing as I went in, and
+								<persRef ref="bidwell-barnabas">M<hi rend="superscript">r:</hi>
+								Bidwell</persRef> followed him in a speech of about half an hour. It
+							was a tolerably good speech, but indifferently delivered— He has
+							depreciated as an Orator since I heard him in the Senate of
+							Massachusetts— His friends appeared to be pleased with it, but as a
+							popular speaker he never can stand as the rival of <persRef
+								ref="randolph-john">John Randolph</persRef>— Evening at home— Partly
+							below, where I found <persRef ref="vancortlandt-philip">M<hi
+									rend="superscript">r:</hi> Van Cortlandt</persRef> and <persRef
+								ref="verplanck-daniel">M<hi rend="superscript">r:</hi>
+								Verplank</persRef>— The effect of M<hi rend="superscript">r:</hi>
+							Randolph’s having thus suddenly turned upon his party is violent, and
+							has thrown them into the greatest consternation— Its ultimate result can
+							as yet scarcely be foreseen.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-09">
+					<head>9 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>Walk’d to the Capitol this morning with <persRef
+								ref="pope-eliza">Eliza</persRef> and <persRef key="hellen-adelaide"
+								>Adelaide Johnson</persRef>. Heard <persRef ref="glendy-john">M<hi
+									rend="superscript">r:</hi> Glendy</persRef>, an Irish
+							presbyterian clergyman, now residing at Baltimore— His Sermon was
+							ingenious, well methodized, and brilliant in point of style. His manner
+							good, but his pronunciation strongly marked with the Irish
+							peculiarities— Coming home <persRef ref="broom-james">M<hi
+									rend="superscript">r:</hi> Broome</persRef>, member of the House
+							from Delaware walked with me— Evening at home; reading War in
+							disguise.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-10">
+					<head>10 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>In Senate— The third of the Resolutions reported by the
+							Committee was taken up— <persRef ref="smith-samuel2">M<hi
+									rend="superscript">r:</hi> Smith</persRef> of Maryland, made a
+							speech of an hour and a half in its favour; after which the question was
+							about to be taken silently and the Resolution would undoubtedly have
+							been rejected— I desired a postponement generally which was agreed to.
+							The Bill containing the Articles of War was taken up at the third
+							reading; and almost gone through; when a motion of <persRef
+								ref="anderson-joseph">M<hi rend="superscript">r:</hi>
+								Anderson</persRef> to introduce a new Article gave rise to some
+							debate and the Senate adjourned— The nomination of <persRef
+								ref="armstrong-john">M<hi rend="superscript">r:</hi>
+								Armstrong</persRef> was postponed untill to-morrow.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-11">
+					<head>11 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>The Articles of War were again taken up this day and
+							after much discussion upon <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r:</hi> Anderson’s</persRef> proposition;
+							they were finally agreed to, and the bill pass’d, with all the
+							Amendments reported by the Committee.— <persRef ref="armstrong-john"
+									>M<hi rend="superscript">r:</hi> Armstrong’s</persRef>
+							nomination was considered; and <persRef ref="white-samuel2">M<hi
+									rend="superscript">r:</hi> White</persRef> made a very able
+							speech against its confirmation— <persRef ref="smith-john6">M<hi
+									rend="superscript">r:</hi> Smith</persRef> of Ohio desired a
+							postponement untill to-morrow which was agreed to— The Act consenting to
+							an Act of South Carolina, allowing a tonnage duty at Charleston, on
+							vessels of the United States, was considered in Committee of the whole;
+							and in the midst of the discussion the Senate adjourned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-12">
+					<head>12 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Met the joint Committee, on the Library— <persRef
+								ref="mitchill-samuel">M<hi rend="superscript">r:</hi>
+								Mitchill</persRef>, <persRef ref="baldwin-abraham">M<hi
+									rend="superscript">r:</hi> Baldwin</persRef> and myself of the
+							Senate— <persRef ref="clay-joseph">M<hi rend="superscript">r:</hi> J.
+								Clay</persRef>
+							<persRef ref="dana-samuel">M<hi rend="superscript">r:</hi>
+								Dana</persRef>, and <persRef ref="randolph-thomas">M<hi
+									rend="superscript">r:</hi> T. M. Randolph</persRef> of the
+							house— All present— We pass’d two or three votes and are to meet again—
+							We sat late, and when I went into the Senate I found the S. Carolina
+							tonnage Bill had pass’d to a third reading, while I was absent— The
+							nomination of <persRef ref="armstrong-john">M<hi rend="superscript"
+									>r:</hi> Armstrong</persRef> was advocated by Mess<hi
+								rend="superscript">rs:</hi>
+							<persRef ref="maclay-samuel">Maclay</persRef>, <persRef
+								ref="moore-andrew">Moore</persRef>, and <persRef ref="smith-israel"
+								>Smith</persRef> of Vermont, and opposed by Mess<hi
+								rend="superscript">rs:</hi>
+							<persRef ref="wright-robert">Wright</persRef>, <persRef
+								ref="smith-samuel2">Smith</persRef> of Maryland, <persRef
+								ref="bayard-james">Bayard</persRef>, and <persRef
+								ref="hillhouse-james">Hillhouse</persRef>— Adjourned.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-13">
+					<head>13 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="221" type="ms"/>
+						<p><date>13. </date>The greatest part of this day was spent in Senate,
+							debating the nomination of <persRef ref="armstrong-john">M<hi
+									rend="superscript">r:</hi> Armstrong</persRef>, which was
+							supported by Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="worthington-thomas">Worthington</persRef>, <persRef
+								ref="mitchill-samuel">Mitchill</persRef>, and <persRef
+								ref="bradley-stephen">Bradley</persRef>, and opposed by Mess<hi
+								rend="superscript">rs:</hi>
+							<persRef ref="wright-robert">Wright</persRef>, <persRef
+								ref="pickering-timothy">Pickering</persRef>, <persRef
+								ref="tracy-uriah">Tracy</persRef>, and <persRef ref="smith-samuel2"
+								>Smith</persRef> of Maryland— M<hi rend="superscript">r:</hi> Wright
+							moved a postponement, to call for further papers, which was rejected by
+							a small Majority.— Adjourned without taking the question— <persRef
+								ref="bayard-james">M<hi rend="superscript">r:</hi> Bayard</persRef>
+							told me he had last Evening some conversation with <persRef
+								ref="madison-dolley">M<hi rend="superscript">rs:</hi>
+								Madison</persRef>, upon the Presidential electioneering now so
+							warmly carried on—in which she spoke very slightingly of <persRef
+								ref="monroe-james">M<hi rend="superscript">r:</hi>
+							Monroe</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-14">
+					<head>14 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>A number of Bills were pass’d at various Stages through
+							the Senate this day— But none which occasioned much debate— The
+							Tennessee land-title Bill pass’d, by yeas and nays. The <persRef
+								ref="stone-david;turner-james">Senators from
+								North-Carolina</persRef>, only voted against it— The Brig Heinrich
+							Bill was at <persRef ref="wright-robert">M<hi rend="superscript">r:</hi>
+								Wright’s</persRef> request postponed untill next week.— The S.
+							Carolina tonnage Bill was stop’d, by one of the objections which I made
+							against it, to give the members from that State time to introduce a
+							remedial provision for removing it— I am left perfectly alone in the
+							opposition against this Bill, so far as debate is concerned.— It must
+							therefore pass, though of a very pernicious tendency.— The
+							Georgia-land-Bill, pass’d to a third reading without debate, though not
+							without difficulty.— The Bill for the relief of <persRef
+								ref="landais-pierre">Peter Landais</persRef> pass’d, with a
+							reduction of the Sum, from 6 to 4000 dollars— In Executive business, the
+							nomination of <persRef ref="armstrong-john">M<hi rend="superscript"
+									>r:</hi> Armstrong</persRef> was again taken up but soon
+							postponed, on the suggestion that dispatches from him had been received
+							by the <persRef ref="jefferson-thomas">President</persRef>, which
+							perhaps might have relation to the subject— A nomination of a <persRef
+								ref="hammond-samuel">Col<hi rend="superscript">l:</hi>
+								Hammond</persRef> to a certain military command was also discussed,
+							but no question taken upon it— Adjourned over to Monday— I went into the
+							House of Representatives for a short Time where they were discussing a
+							Resolution introduced by <persRef ref="nicholson-joseph">M<hi
+									rend="superscript">r:</hi> Nicholson</persRef>; but heard
+							nothing of much interest— This afternoon Captain Landais called upon me
+							to thank me for the part I have taken in his favour; but to declare that
+							he would not accept the sum of 4000 dollars to which the Senate have
+							reduced the Bill in his favour— I reasoned with him as well as I could
+							to induce a change of his determination, but to no purpose— <persRef
+								ref="turreau-louis">Gen<hi rend="superscript">l:</hi>
+								Turreau</persRef> spent the Evening here— He is a very skilful
+							performer on the violin; and accompanied <persRef key="hellen-ann">M<hi
+									rend="superscript">rs:</hi> Hellen’s</persRef> Piano-forte, much
+							to our entertainment— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A.</persRef> and the <persRef
+								ref="smith-catherine-johnson;pope-eliza;hellen-adelaide;frye-carolina"
+								>other Ladies</persRef> pass’d the Evening with their Sister
+								<persRef key="boyd-harriet">M<hi rend="superscript">rs:</hi>
+								Boyd</persRef>— I was of course detained from my occupations.—
+							General Turreau told me that he had been this day in the House of
+							Representatives to hear the debates; but that as <persRef
+								ref="randolph-john">M<hi rend="superscript">r:</hi> J.
+								Randolph</persRef> rose to speak, he was afraid of hearing things
+							disagreeable said of his <persRef ref="bonaparte-napoleon"
+								>Emperor</persRef>, and therefore immediately retired.— He thought
+							that a degree of respect for the Chiefs of other Governments ought to be
+							observed by every speaker in a Legislative Assembly— He also told me
+							that the claim of the heirs of <persRef ref="beaumarchais-pierre"
+								>Beaumarchais</persRef> was a just claim; which would be established
+							in any Court of Justice upon Earth— And it was singular that in this
+							Country there was no Court of Justice where its merits could be tried— I
+							note these things for future remembrance</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-15">
+					<head>15 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>I went up to the Office of the Department of State to
+							return <persRef ref="martens-georg">Marten’s</persRef> Summary, which I
+							some time since borrowed there— Saw <persRef ref="landais-pierre"
+								>Captain Landais</persRef> there, who was making application for a
+							certificate of the proceedings of Congress on his claim with which he
+							intends to demand the interference of France in his favour— The
+							remainder of the day I pass’d, at home, chiefly in writing.— <persRef
+								ref="lee-c">M<hi rend="superscript">r:</hi> C. Lee</persRef> of
+							Alexandria called on me to propose some alteration in the Laws of this
+							District.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-16">
+					<head>16 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>I went this morning to the Treasury Office, with the
+							expectation of hearing <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Laurie</persRef>, but found there was
+							no preaching there— In the Evening I went with all the <persRef
+								ref="smith-catherine-johnson;pope-eliza;hellen-adelaide;frye-carolina"
+								>young Ladies</persRef> to the Methodist Meeting in Georgetown,
+							where we heard <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Parrott</persRef>. His Sermon was extemporaneous, and he is
+							apparently quite illiterate— But he had that vehemence of manner which
+							is so attractive to the more ignorant part of the community, and which
+							so greatly multiplies the followers of these sects— Great is the power
+							of a speaker’s earnestness in the cause which he advocates— <persRef
+								ref="peter-r">M<hi rend="superscript">r:</hi> R. Peter</persRef>,
+							and <persRef ref="u">M<hi rend="superscript">r:</hi> Johns</persRef>
+							were there, and came home with us— We found at home <persRef
+								ref="boyd-george;boyd-harriet">M<hi rend="superscript">r:</hi> &amp;
+									M<hi rend="superscript">rs:</hi> Boyd</persRef>— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> was very unwell all day, and particularly At
+							Night.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-17">
+					<head>17 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>The most important business done this day in Senate was
+							the appointment of <persRef ref="armstrong-john">M<hi rend="superscript"
+									>r:</hi> Armstrong</persRef>, which finally prevailed. There was
+							nothing said this day in his favour— The Speakers against him were
+								<persRef ref="smith-samuel2">M<hi rend="superscript">r:</hi>
+								Smith</persRef> of Maryland, <persRef ref="pickering-timothy">M<hi
+									rend="superscript">r:</hi> Pickering</persRef>, <pb n="222"
+								type="ms"/><persRef ref="wright-robert">M<hi rend="superscript"
+									>r:</hi> Wright</persRef> and myself; who closed the debate. The
+							votes were 15 to 15— And the <persRef ref="clinton-george"
+								>Vice-President</persRef> decided in favour of the appointment—
+								<persRef ref="adair-john">M<hi rend="superscript">r:</hi>
+								Adair</persRef> of Kentuckey left his seat to avoid voting— He was
+							averse to the appointment, but had not the courage to vote against it;
+							and by his weakness, this shameful transaction was accomplished. Of the
+							15 members who voted for this nomination two thirds at least answered
+							with faltering voices— I consider it as one of the most disgraceful acts
+							of <persRef ref="jefferson-thomas">M<hi rend="superscript">r:</hi>
+								Jefferson’s</persRef> Administration— A nomination of several new
+							Officers was also this day received— Among others a <persRef
+								ref="schenck-peter">Surveyor at New-York</persRef> in the room of
+								<persRef ref="smith-william">Col<hi rend="superscript">l:</hi>
+								Smith</persRef> who is removed.— The Vice-President gave notice that
+							he should not make his appearance after this day, during the remainder
+							of the Session.— <persRef ref="boyd-george;boyd-harriet">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Boyd</persRef>, dined and pass’d the Evening at
+								<persRef key="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen’s</persRef>— <persRef ref="turreau-louis">Gen<hi
+									rend="superscript">l:</hi> Turreau</persRef> also spent the
+							Evening here, and accompanied <persRef key="hellen-ann">M<hi
+									rend="superscript">rs:</hi> Hellen’s</persRef> Piano-forte with
+							the violin— My Evening was accordingly diverted from my usual
+							employments.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-18">
+					<head>18 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>In Senate— <persRef ref="smith-samuel2">General
+								Smith</persRef> of Maryland was chosen President pro Tempore.— The
+							report of the Committee on the Senate’s Rules was discussed and adopted—
+								<persRef ref="tracy-uriah">M<hi rend="superscript">r:</hi>
+								Tracy</persRef> proposed an additional Rule whereby, the Senate
+							might go into Committee of the whole, and the President might appoint a
+							chairman— This however was strenuously opposed, and after much debate
+							rejected— A Bill for incorporating the presbyterian Congregation at
+							Georgetown pass’d after a powerful struggle, and yeas and nays taken 16
+							to 10.— The terror of ecclesiastical Corporations is like <persRef
+								ref="falstaff-john">Falstaff’s</persRef> terror of the gun-powder
+								<persRef ref="percy-thomas">Percy</persRef>, though he be dead.— One
+							of the great difficulties in our Legislation for the district of
+							Columbia, is that every member of Congress brings with him the
+							principles of his own State System, and these are so different that
+							there is scarcely any common doctrine to which appeal in argument can be
+							made.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-19">
+					<head>19 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-19"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef ref="jackson-james2">M<hi rend="superscript"
+									>r:</hi> Jackson</persRef>, one of the Senators from the State
+							of Georgia died this morning about four O’Clock— His disorder was the
+							dropsy. Immediately on the meeting of the Senate this morning, his
+							Colleague <persRef ref="baldwin-abraham">M<hi rend="superscript">r:</hi>
+								Baldwin</persRef>, with tears in his eyes! gave notice of this
+							Event, and express’d his hope that the Senate would take the orders
+							usual on such occasions— <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r:</hi> Anderson</persRef> then moved two
+							Resolutions— One that the Senate would attend the funeral, and that a
+							Committee be appointed to superintend the funeral, and communicate the
+							occurrence to the House of Representatives; and the other that the
+							Senators would wear crape for a month, in honour of the deceased— Both
+							Resolutions pass’d unanimously, and the Senate immediately adjourned—
+							The Committee chosen, are M<hi rend="superscript">r:</hi> Anderson,
+								<persRef ref="sumter-thomas3">M<hi rend="superscript">r:</hi>
+								Sumter</persRef> and <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>.— I pass’d the
+							Evening at home, in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-20">
+					<head>20 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>The badness of the weather obliged me to ride to the
+							Capitol— The Senate barely met—received a Message from the <persRef
+								ref="jefferson-thomas">President</persRef>, respecting some trifling
+							affair on the Spanish frontier— And a Message from the House
+							communicating a Resolution of theirs to attend <persRef
+								ref="jackson-james2">M<hi rend="superscript">r:</hi>
+								Jackson’s</persRef> funeral, and wear crape for a Month— The funeral
+							procession which was large started soon after 12 O’Clock, and reached
+							the Rock Creek Church about 4— The distance is between 5 and 6 Miles—
+							The Marine Corps attended in a body, and fired three rounds, after the
+							interment, at the grave— I rode with the <persRef ref="macon-nathaniel"
+								>Speaker</persRef>, and <persRef ref="masters-josiah">M<hi
+									rend="superscript">r:</hi> Masters</persRef> and <persRef
+								ref="russell-john6">M<hi rend="superscript">r:</hi>
+								Russell</persRef> two members of the House of Representatives— It
+							was five O’Clock before I reached home— Wrote as usual in the
+							Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-21">
+					<head>21 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>In Senate— The Bill respecting the Brig Heinrich, and
+							the claim against the Danish Government was rejected— My efforts in its
+							favour were vain— The Charleston S.C. Tonnage Bill pass’d— My endeavours
+							against it were fruitless— And in both cases, on the argument I stood
+							alone. The New-York nominations were approved— And the Yazoo Bill was
+							taken up.— <persRef ref="baldwin-abraham">M<hi rend="superscript"
+									>r:</hi> Baldwin</persRef> made a speech against it; and the
+							Senate adjourned over to Monday— <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r:</hi> Anderson</persRef> came to me and
+							called upon me to support this Bill on the ground of the compact— In the
+							moment of irritation from what had just pass’d I answered him with too
+							much warmth, that I cared nothing for the Bill, and was not obliged to
+							take its defence— It was not my Bill, and its proper fathers must take
+							charge of it— He only replied that he saw I was not in good humour and
+							left me— The Carolina Bill had vexed me, because I consider it as aiming
+							a direct stroke at Massachusetts.— But I am convinced that the most
+							effectual aid I can give to the Georgia-Land Bill, is by remaining
+							silent at least untill the members of the majority have come forward in
+							its favour— In the Evening <persRef ref="tracy-uriah">M<hi
+									rend="superscript">r:</hi> Tracy</persRef> and <persRef
+								ref="pitkin-timothy">M<hi rend="superscript">r:</hi>
+								Pitken</persRef> were here.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-22">
+					<head>22 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-22"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="223" type="ms"/>
+						<p><date>22. </date><persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> was very suddenly
+							taken ill, and with great violence about 1. O’Clock this morning.— We
+							were up with her about two hours after which she was better though much
+							exhausted: she continued very weak this whole day— Except a Walk into
+							Georgetown, I spent the whole day in my chamber, writing</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-23">
+					<head>23 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-23"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Napoleonic Wars</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Laurie</persRef>, at the Treasury,
+							and pass’d the remainder of the day, reading, and writing, in my
+							chamber— First news of the Peace of Presburg between France and Austria—
+							And of <persRef ref="pitt-william2">M<hi rend="superscript">r:</hi>
+								Pitt’s</persRef> death in England.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-24">
+					<head>24 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>U.S. Constitution</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>In Senate— A Letter from <persRef key="monroe-james"
+									>M<hi rend="superscript">r:</hi> Monroe</persRef> to the
+								<persRef ref="madison-james">Secretary of State</persRef> was
+							confidentially communicated by the <persRef ref="jefferson-thomas"
+								>President</persRef> to both Houses of Congress, with a request to
+							have it returned, which was done— Much business was dispatched because
+							totally unattended to— An Amendment to the Constitution proposed at the
+							instigation of the State of Pennsylvania, was on the point of passing
+							without a word of discussion, after a formal speech of <persRef
+								ref="maclay-samuel">M<hi rend="superscript">r:</hi> Maclay</persRef>
+							in its favour, for want of a word said against it— I arrested the
+							question barely by asking whether it had <hi rend="italic">been
+								printed</hi>— <persRef ref="bayard-james">M<hi rend="superscript"
+									>r:</hi> Bayard</persRef> then made some observations against
+							it, and the discussion was made the order of the day for next Monday— A
+							Bill to incorporate a National Academy, was as near passing—the question
+							was again stop’d by <hi rend="italic">me</hi>; only by enquiring whether
+							a blank was fill’d— It would have pass’d with the blank unfill’d— The
+							question however, and the filling of the blank raised a discussion upon
+							the bill, which was in substance rejected, by an Amendment changing its
+							whole aspect— It was then however Committed— The Yazoo Bill was at my
+							request postponed, <persRef ref="pickering-timothy">M<hi
+									rend="superscript">r:</hi> Pickering</persRef> and <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracy</persRef> on
+							both whose votes I rely, being absent— The question would have been
+							taken as in the other cases without a word of discussion, and the bill
+							probably would have failed.— I dined at <persRef key="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd’s</persRef>; and as in almost
+							every instance when I dine abroad, lost my Evening by it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-25">
+					<head>25 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date><persRef ref="tracy-uriah">M<hi rend="superscript"
+									>r:</hi> Tracy</persRef> being in Senate this day, we had a bill
+							considered which occasioned some debate— A Bill for repealing the Law by
+							which the public Stocks are receivable in payment for the public Lands—
+							It came from the House of Representatives, and has been long before a
+							Committee of the Senate, who reported several Amendments— It pass’d with
+							all the Amendments to a third reading; against the opposition of
+								<persRef ref="adair-john">M<hi rend="superscript">r:</hi>
+								Adair</persRef>, and <persRef ref="hillhouse-james">M<hi
+									rend="superscript">r:</hi> Hillhouse</persRef>— Evening at home—
+							Letter from <persRef ref="smith-william">Col<hi rend="superscript"
+									>l:</hi> Smith</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-26">
+					<head>26 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Met <persRef ref="anderson-joseph">M<hi
+									rend="superscript">r:</hi> Anderson</persRef>, and <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracy</persRef>
+							upon two Committees— One upon the Bill relating to foreign Coins; on
+							which the Committee agreed to the report and amendments to the Bill,
+							drawn up by M<hi rend="superscript">r:</hi> Tracy— And the other, upon
+							the petition of <persRef ref="russell-gilbert2">Gilbert C.
+								Russell</persRef>, on which the papers were examined, but we had not
+							time to agree on a report. In Senate the principal debate was on the
+							bill yesterday discuss’d, which was again debated at the third reading—
+								<persRef ref="worthington-thomas">M<hi rend="superscript">r:</hi>
+								Worthington</persRef> had yesterday offered a Resolution for
+							stopping all credit upon the sales of the public Lands— This was also
+							much debated this day— Adjourned without coming to a decision.— I
+							yesterday moved for a Committee, on the Laws of this District, for the
+							purpose of introducing <persRef ref="lee-c">M<hi rend="superscript"
+									>r:</hi> Lee’s</persRef> projected Bill— The Committee was this
+							day appointed— <persRef ref="baldwin-abraham">M<hi rend="superscript"
+									>r:</hi> Baldwin</persRef> and <persRef ref="wright-robert">M<hi
+									rend="superscript">r:</hi> Wright</persRef>, with myself—
+								<persRef ref="boyd-george;boyd-harriet">M<hi rend="superscript"
+									>r:</hi> &amp; M<hi rend="superscript">rs:</hi> Boyd</persRef>—
+								M<hi rend="superscript">r:</hi> Tracy, <persRef ref="pitkin-timothy"
+									>M<hi rend="superscript">r:</hi> Pitken</persRef>, and <persRef
+								ref="stedman-william">M<hi rend="superscript">r:</hi>
+								Stedman</persRef> pass’d the Evening with us at <persRef
+								key="hellen-walter">M<hi rend="superscript">r:</hi>
+								Hellen’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-27">
+					<head>27 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>Met the Committee on the District Laws— But <persRef
+								ref="wright-robert">M<hi rend="superscript">r:</hi> Wright</persRef>
+							had objections against <persRef ref="lee-c">M<hi rend="superscript"
+									>r:</hi> Lee’s</persRef> Bill— I asked him to draw up a Bill to
+							his own taste— And he agreed to draw one up for to-morrow Morning— The
+							day was spent in Senate, debating a Bill to provide defence for the
+							territory of Orleans; by giving away lands to settlers on condition of
+							Militia Service. It finally pass’d to the third reading 13 to 13. by the
+							casting vote of the President— I moved that the Georgia-Land-Bill should
+							be made the order of the day to-morrow, which was agreed to— Evening at
+							home untill 9. when I went to <persRef key="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd’s</persRef>; where <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> had been the afternoon and Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-28">
+					<head>28 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>The appropriation Bill came from the House of
+							Representatives, and pass’d to the second reading.— I reported a Bill,
+							partly drawn by <persRef ref="wright-robert">M<hi rend="superscript"
+									>r:</hi> Wright</persRef>, and partly <persRef ref="lee-c">M<hi
+									rend="superscript">r:</hi> Lee’s</persRef>—respecting the fees,
+							and some other judicial affairs in the District. <persRef
+								ref="tracy-uriah">M<hi rend="superscript">r:</hi> Tracy’s</persRef>
+							new Coin Bill was read the second time, and committed to a select
+							Committee— At 12 precisely the Georgia Land Bill was taken up, and I
+							opened the debate with some remarks in support of it— It was then
+							opposed by Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="baldwin-abraham">Baldwin</persRef>, &amp; <persRef
+								ref="maclay-samuel">Maclay</persRef>, <pb n="224" type="ms"/>and
+							supported by Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="bradley-stephen">Bradley</persRef>, <persRef
+								ref="smith-israel">Smith</persRef> of Vermont, <persRef
+								ref="bayard-james">Bayard</persRef>, <persRef
+								ref="pickering-timothy">Pickering</persRef> and Wright untill half
+							past three— The discussion was perfectly cool and temperate— <persRef
+								ref="turner-james">M<hi rend="superscript">r:</hi> Turner</persRef>
+							called for the yeas and nays— Just before the question was taken
+								<persRef ref="sumter-thomas3">M<hi rend="superscript">r:</hi>
+								Sumter</persRef> moved a postponement untill Monday, which however
+							did not obtain— The Bill pass’d—19 yeas and 11. Nays. M<hi
+								rend="superscript">r:</hi> Tracy moved an adjournment untill Monday;
+							but this was denied on Account of the Appropriation Bill— We are to meet
+							to-morrow— At 10 I had met the Committee on <persRef
+								ref="russell-gilbert2">G. C. Russell’s</persRef> petition and we
+							agreed that <persRef ref="anderson-joseph">M<hi rend="superscript"
+									>r:</hi> Anderson</persRef>, the chairman should report <hi
+								rend="strikethrough">the</hi> a Bill in his favour.— I went with
+								Mess<hi rend="superscript">rs:</hi> Pickering, Tracy and <persRef
+								ref="smith-john16">J. C. Smith</persRef> to <persRef
+								ref="duval-gabriel">M<hi rend="superscript">r:</hi>
+								Duvall’s</persRef>; where we dined, and spent the Evening— We met
+							there M<hi rend="superscript">r:</hi> Bayard, and Mess<hi
+								rend="superscript">rs:</hi>
+							<persRef ref="dana-samuel">Dana</persRef>, <persRef ref="campbell-john6"
+								>J. Campbell</persRef>, <persRef ref="goldsborough-charles2"
+								>Goldsborough</persRef>, and <persRef ref="kelly-james"
+								>Kelly</persRef>, of the House of Representatives— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, and <persRef ref="goldsborough-sarah">M<hi
+									rend="superscript">rs:</hi> Goldsborough</persRef> dined also
+							there; and a <persRef ref="u">Miss Young</persRef>— The Company in the
+							Evening was numerous, and we had cards— Late Home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-29">
+					<head>29 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>The Senate was thinly attended; and did very little
+							business, except referring to a select Committee the Appropriation Bill—
+							Adjourned between 12. and 1. I went into the lobby of the House of
+							Representatives, where I found them engaged on a Question to <hi
+								rend="italic">reject</hi> the Georgia-Land Bill at the first
+							reading— After a warm Speech of <persRef ref="randolph-john">M<hi
+									rend="superscript">r:</hi> John Randolph</persRef>, it was
+							rejected 62 to 54.— I spent the remainder of the day at home reading and
+							writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-30">
+					<head>30 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Heard <persRef ref="laurie-james">M<hi
+									rend="superscript">r:</hi> Laurie</persRef> at the Treasury— The
+							Ladies went to the Capitol and heard a <persRef ref="hargrove-john">M<hi
+									rend="superscript">r:</hi> Hargrove</persRef> of the Swedenborg
+							Church preach a Sermon on the Mosaic Account of the Creation— I spent
+							the day and Evening principally in writing— Called at <persRef
+								key="boyd-george">M<hi rend="superscript">r:</hi> Boyd’s</persRef>
+							for <persRef key="hellen-ann">M<hi rend="superscript">rs:</hi>
+								Hellen</persRef> and <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> who had been there
+							to tea.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-31">
+					<head>31 March 1806</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>Met the Joint Committee on the Library; and we made some
+							further progress in our business— We agreed that the principal part of
+							the fund appropriated for this year should be expended by <persRef
+								ref="mitchill-samuel">D<hi rend="superscript">r:</hi>
+								Mitchell</persRef>, <persRef ref="clay-joseph">M<hi
+									rend="superscript">r:</hi> Clay</persRef> and myself during the
+							recess in collecting Books in Boston, New-York and Philadelphia, as the
+							occasion may offer— We are to meet again— In Senate, the Amendment to
+							the Constitution proposed by <persRef ref="maclay-samuel">M<hi
+									rend="superscript">r:</hi> Maclay</persRef>, was after some
+							discussion postponed to the first Monday in December next. The Bill in
+							favour of <persRef ref="caramelli-hamet">Hamet Caramelli</persRef> was
+							read the third time, and the blank filled— I opened the debate upon it,
+							by calling on the Committee for the reasons on which they reported it—
+							After some remarks from Mess<hi rend="superscript">rs:</hi>
+							<persRef ref="bradley-stephen">Bradley</persRef>, <persRef
+								ref="wright-robert">Wright</persRef>, and <persRef
+								ref="baldwin-abraham">Baldwin</persRef>, the Senate adjourn’d
+							without decision— Dined at <persRef key="boyd-george">M<hi
+									rend="superscript">r:</hi> Boyd’s</persRef>, with <persRef
+								key="hellen-walter">M<hi rend="superscript">r:</hi>
+							Hellen</persRef>, <persRef ref="johnson-catherine">M<hi
+									rend="superscript">rs:</hi> Johnson</persRef> and <persRef
+								key="frye-carolina">Caroline</persRef>— Spent the Evening also
+							there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1806-03-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1806-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> Very little variation since the
+							beginning of the year— The only exception is a less frequent attendance
+							upon Committees— That preparatory part of the public business being
+							chiefly accomplished. But the business in the Senate itself has become
+							proportionally more urgent— My attention is not more intermitted.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v28-1812-12">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="433"
+				mhs:precedingFile="JQADiaries-v28-1812-11-p427.xml"
+				mhs:followingFile="JQADiaries-v28-1813-01-p444.xml" mhs:volume="28">
+				<bibl n="metadata"><date from="1812-12-01" to="1812-12-31"/></bibl>
+
+				<!--D/JQA/28.2150-->
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-01">
+					<head>1 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-01"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">December 1812.</hi></dateline>
+						<p><date>1. </date>Rose by Candle light and took a long walk before
+							breakfast— Walked again before dinner— I intended to have written two or
+							three hours; but the days are now so short that unless the precise
+							moment is seized they are gone— My walks and <persRef
+								ref="adams-charles2">Charles’s</persRef> lessons took up all the
+							hours of day-light, and my writing was postponed untill to-morrow. We
+							had a visit in the Evening from <persRef ref="proud-john">M<hi
+									rend="superscript">r</hi> Proud</persRef>, and <persRef
+								ref="plumer-ernestus">M<hi rend="superscript">r</hi>
+								Plummer</persRef>—they had intelligence from America to 3. October—
+							Nothing important— Charles became sufficiently Master of the first
+							lesson of <persRef ref="stquentin-dominique">S<hi rend="superscript"
+									>t:</hi> Quentin’s</persRef> Grammar— The <persRef
+								ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef> were to have gone to the Theatre, at which a
+							French Opera had been announced— It was changed however for a Russian
+							play— Great efforts have been made to obtain the dismissal of all the
+							French players, and it has been repeatedly said that the <persRef
+								ref="alexander-i">Emperor</persRef> had determined to dismiss them—
+							The Russian public have manifested some uneasiness at their continuance
+							here, and every thing french, even the language has become an object of
+							their abhorrence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-02">
+					<head>2 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-02"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>I omitted my walk before breakfast for the sake of having
+							time to write; but I walked before dinner— <persRef ref="u">D<hi
+									rend="superscript">r:</hi> Galloway</persRef> came and sat half
+							an hour with me; conversing upon subjects of Natural History and
+							Philosophy.— Cards in the Evening after tea— The rest of the day I was
+							engaged with <persRef ref="adams-charles2">Charles</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-03">
+					<head>3 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-03"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Napoleonic Wars</subject>
+						<subject>Elections, Presidential (1812)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>3. </date>This forenoon I called at <persRef ref="raimbert-francois">M<hi
+									rend="superscript">r:</hi> Raimbert’s</persRef>, in order to
+							settle an account with <persRef ref="montreal-f">M<hi rend="superscript"
+									>r</hi> Montreal</persRef>, but neither of them was at home. I
+							then paid a visit at <persRef ref="dimon-john">M<hi rend="superscript"
+									>r</hi> Dimond’s</persRef> lodgings, but he was absent from
+							them— <persRef ref="u">Captain Guedes</persRef> I found— He has been
+							confined three weeks to his chamber, and part of the time to his bed,
+							with a nervous fever, which has exceedingly reduced him, but from which
+							he is now convalescent— He had some English Newspapers, which he sent me
+							in the Evening. I dined at <persRef ref="rumiantsev-nikolai">Count
+								Romanzoff’s</persRef> with a Company of about forty persons; among
+							whom were the Ladies of the celebrated Generals, who are now dispelling
+							as <persRef ref="litta-ekaterina">Count Litta</persRef> remarked, like a
+							fog before the Sun, the immense armies of the <persRef
+								ref="bonaparte-napoleon">Emperor Napoleon</persRef>, and levelling
+							with the dust his Colossal Military Reputation— <persRef
+								ref="kutuzova-yekaterina">Princess
+								Kutuzoff—Smolenski</persRef>—<persRef ref="wittgenstein-antonia"
+								>Countess Wittgenstein</persRef>, <persRef ref="bennigsen-maria"
+								>Baronesses Benigsen</persRef>, and <persRef
+								ref="winzingerode-ferdinand">Winzingerode</persRef>, and several
+							others. The day was rendered peculiarly joyous to them, by the news of a
+							fresh <pb n="434" type="ms"/>splendid victory over the Corps of the
+							French Marshals <persRef ref="victor-claude">Victor</persRef> and
+								<persRef ref="oudinot-charles">Oudinot</persRef>, by <persRef
+								ref="wittgenstein-peter">Count Wittgenstein</persRef>, which arrived
+							this morning. Within the compass of ten days the Russian armies have
+							taken between forty and fifty-thousand prisoners—with Cannon, baggage
+							and ammunition in proportion— There is nothing like it in History since
+							the days of <persRef ref="xerxes">Xerxes</persRef>— I sat at table next
+							to <persRef ref="u">Admiral Kutuzoff</persRef>, a nephew of the <persRef
+								ref="kutuzov-mikhail">Prince of Smolensk</persRef>; le vainqueur du
+							vainqueur de la Terre; who entered into conversation with me, and told
+							me some anecdotes of his uncle; who he says is as good as he is great.
+							He has been more than fifty years in the service—employed in important
+							military and diplomatic stations, successively by the <persRef
+								ref="catherinethegreat">Empress Catherine</persRef>, and the
+							Emperors <persRef ref="paul-i">Paul</persRef> and <persRef
+								ref="alexander-i">Alexander</persRef>.— He said that just before the
+							Prince went away on this last appointment, he the Admiral was
+							enumerating the multitude of military commands and important embassies,
+							upon which he had been for so long a series employed; when the old
+							Prince, with a grave countenance told him that he had forgotten one of
+							his high Offices— what was that?— Director of the German Theatre— It was
+							remarkable, the Admiral observed, that Napoleon’s present disasters were
+							owing to his having despised his enemy, and Prince Kutuzoff’s success,
+							might be due to the opposite cause—for he was an enthusiastic admirer of
+							Napoleon’s military genius, and on going away last Summer told him, that
+							when he considered whom he was going to oppose, he felt overpowered by
+							the magnitude of the responsibility he was taking upon himself— And he
+							had lately written him, that notwithstanding he had now the pleasure of
+							beating day after day, the first Captain of the Age; and notwithstanding
+							the honours that were heaping upon him, he longed for the time when he
+							could return here, to his friends.— The Admiral told me that there had
+							been here an <persRef ref="bentinck-william"
+								>English Admiral named Bentinck</persRef>, a vain glorious bragging sort of man, and he
+							and <persRef ref="stael-anne">Madame de Stael</persRef> one day said
+							to him that Prince Kutuzoff was destined to be a second <persRef
+								ref="wellington-arthur">Wellington</persRef>— But they were much
+							mistaken in supposing he should take it as a Compliment— If his uncle
+							had done nothing more than Wellington; he would sink low indeed from the
+							summit of his merited fame— I said that the English, were apt to make
+							much of small successes by land; but I thought they might be allowed a
+							little pride upon the Battle of Salamanca— Thanks, said he to the random
+							shot that carried away <persRef ref="demarmont-auguste"
+								>Marmont’s</persRef> arm, just before the battle began— But here is
+							Wellington, with his whole Army stop’d for weeks before a paltry little
+							fort at Burgos, with a garrison of 2000 men, which he cannot take— And
+							if it were not for our Victories in the North I would lay a wager the
+							French would be now again in Madrid— The Admiral was equally severe in
+							his remarks upon the Spaniards, and was peculiarly sarcastic upon
+								<persRef ref="zeabermudez-donfrancisco">M<hi rend="superscript">r</hi>
+								Zea</persRef>, who sat opposite to us at table— He first asked me
+							who he was— I said M<hi rend="superscript">r</hi> Zea, the Spanish
+							Minister— Spanish Minister? what?—<persRef ref="bonaparte-joseph">Joseph
+								Bonaparte’s</persRef>— “No—<persRef ref="ferdinand-vii">Ferdinand
+								the Seventh’s</persRef>— The Minister of the Cortes; who had signed
+							a Treaty with <persRef ref="rumiantsev-nikolai">Count
+								Romanzoff</persRef>—” “Oh! Yes! the Garçon de Comtoir of Colombi,
+							the merchant— Why, what a Diplomatic tone he assumes!— You smile I see—
+							But I am no diplomatic man. I say just what comes into my head[”]— I
+							said that M<hi rend="superscript">r</hi> Zea had been connected with the
+							House of Colombi; but that I believed he had been a diplomatic character
+							sub rosa, even then; as <persRef ref="colombi-antonio">M<hi
+									rend="superscript">r</hi> Colombi</persRef> himself had been
+							while he lived.— That his <persRef ref="colombi-maria">widow</persRef>
+							had since his death been made a Countess by the regency, for his
+							services— Upon all which the Admiral spoke with as little respect for
+							Ferdinand 7. and the Cortes, as he had of the English and of Lord
+							Wellington. I told him that I had witnessed, with interest and
+							admiration the Spirit manifested by all Classes of people, in this
+							Nation; under the struggle, from which they are issuing with such
+							triumphant glory— That I had never entertained a low idea, of Russia;
+							but that the conduct of the Nation upon this severe trial, had far
+							exceeded my expectations— He said, Monsieur—La Russie, bien gouvernée,
+							est faite pour commander à l’Europe—I think she will not lose the
+							opportunity— I observed however that the circumstance which appeared
+							most to gratify the Admiral in speaking of the conduct of the Nation,
+							was that the peasants had not shewn the least disposition to avail
+							themselves of the occasion to obtain their freedom— I see that this is
+							what most touches the feelings of all the Russians with whom I have
+							conversed on this subject— This was the point upon which their fears
+							were the greatest, and that upon which they are most delighted to see
+							the danger past— The Admiral, whose name I did not know untill upon
+							enquiry after dinner I ascertained it, professed to be so pleased with
+							my remarks, that he told me he hoped to have the opportunity of
+							introducing me personally to his uncle when he should come home— Count
+							Romanzoff told me that he had sent the last letter I wrote him to the
+							Emperor, who had been well pleased with it.— I asked him if he had
+							received any answer from England, on the proposal of Mediation— He said
+							it had not been rejected, but they had intimated an opinion, that it
+							would not be acceptable to the American Government— That they expected
+							something might be done after the new Election in America; by which the
+							Count said he understood them to mean that <persRef ref="madison-james"
+									>M<hi rend="superscript">r</hi> Madison</persRef> after being
+							re-elected would be more pacifically inclined than he is at present— I
+							said the English Government were much misinformed concerning American
+							Affairs— I believed the Emperor’s <pb n="435" type="ms"/>proposal would
+							be very acceptable, whatever the Event of our election might be.—
+								<persRef ref="cathcart-william">Lord Cathcart</persRef> also said to
+							me that the Elections for the new Parliament in England were now over;
+							but said he they are more anxious there I believe about <hi
+								rend="italic">your</hi> Elections than about our own— I said that
+							our Election was of a different description from their’s; it being not
+							only of members of the Legislature but also of the head of the Executive
+							Department— He said he was glad to observe that there did not appear to
+							have been any thing to excite rancour on either side— I told him, from
+							the complexion of the Newspapers, I thought there was more of that in
+							England than in America— I came home early, and employed the Evening
+							with <persRef ref="adams-charles2">Charles</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-04">
+					<head>4 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>War of 1812</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>At length I received this day, from <persRef
+								ref="monroe-james">M<hi rend="superscript">r</hi> Monroe</persRef>,
+							Secretary of State, a letter, dated 1. July last announcing the
+							Declaration of War, against Great-Britain, and enclosing the <persRef
+								ref="madison-james">President’s</persRef> Message to Congress, the
+							Report of the Committee recommending the Declaration, and the
+							President’s Proclamation founded upon it. I also received from <persRef
+								ref="harris-john">M<hi rend="superscript">r</hi> J. L.
+								Harris</persRef> a letter, dated Stockholm 18 November.— <persRef
+								ref="harris-levett">M<hi rend="superscript">r</hi> Harris</persRef>
+							the Consul spent part of the Evening with us— He has some apprehensions
+							of the ill-effects of English influence here at the present time; and is
+							much mortified, at the airs and tone which the English here assume at
+							this moment of boundless exultation over their most dreaded enemy— That
+							there is danger cannot be denied; but I think their indiscretions will
+							operate more against them than in their favour.— <persRef
+								ref="adams-charles2">Charles</persRef> was sent to dine at <persRef
+								ref="colombi-maria">Madame Colombi’s</persRef>, and was consequently
+							indisposed for his ordinary evening’s amusement— <persRef
+								ref="montreal-f">M<hi rend="superscript">r</hi> Montreal</persRef>
+							was here this morning, and I finally settled with him on account of
+								<persRef ref="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef>— His situation and that of his relations here is
+							painful and uncomfortable— They appear to think it not without danger;
+							but I hope this apprehension will soon be removed— The very triumphs of
+							the Russians will insensibly moderate their resentments— The dismissal
+							of all the French actors and actresses, of both the Theatres at S<hi
+								rend="superscript">t:</hi> Petersburg and Moscow, from the <persRef
+								ref="alexander-i">Emperor’s</persRef> service is this day officially
+							announced in the Gazette— The funds applied heretofore to the payment of
+							their Salaries, are to be appropriated to assist the sufferers by the
+							War.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-05">
+					<head>5 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-05"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>Napoleonic Wars</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef ref="smith-john14">M<hi rend="superscript"
+									>r</hi> J. W. Smith</persRef> and <persRef ref="u">M<hi
+									rend="superscript">r</hi> Forrester</persRef> called upon me
+							this morning— The latter is going soon with <persRef ref="u">M<hi
+									rend="superscript">r</hi> Andrew</persRef> to England, on their
+							way to America. I offered to procure for them a Courier’s Passport.—
+								<persRef ref="bode-frederica">Miss Frederica Bode</persRef>, dined
+							and spent the Evening with <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> and <persRef
+								ref="smith-catherine-johnson">Catherine</persRef>— I played a game
+							of Chess with her.— Received notice of a Te Deum at the Imperial Chapel
+							to-morrow, for fresh Victories gained by <persRef
+								ref="wittgenstein-peter">Count Wittgenstein</persRef>.— The weather
+							has again become severely cold and <persRef ref="reaumur-rene"
+								>Reaumur’s</persRef> thermometer last Night was at -20.3 degrees.
+							The effect of this and other circumstances upon my hand is such that I
+							can scarcely discharge my indispensable duties in writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-06">
+					<head>6 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-06"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>I finished reading in course this morning the French
+							Bible with <persRef ref="osterwald-jean">Ostervald’s</persRef>
+							reflections— And began the second time upon <persRef ref="luther-martin"
+								>Luther’s</persRef> German Bible. At the head of which there are
+							some useful remarks upon the temper and disposition with which the
+							Scriptures should be read—these I also perused. At noon I went with
+								<persRef ref="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef>, and attended the Te Deum at the Imperial Chapel— I
+							asked <persRef ref="rumiantsev-nikolai">Count Romanzoff</persRef> for an
+							interview to have some Conversation, and he appointed to-morrow Evening
+							at 7 O’Clock, at his own house upon the Quay. <persRef
+								ref="betancourt-august">General Betancourt</persRef> asked me if I
+							had received the answer on the application from <persRef
+								ref="fulton-robert">M<hi rend="superscript">r</hi> Fulton</persRef>—
+							I told him I had; and from his mentioning it I concluded he had been
+							consulted upon it— He said he had; and that he had almost drawn up the
+							answer— I thanked him on M<hi rend="superscript">r</hi> Fulton’s
+							Account, and said I hoped when he should come the General would be
+							pleased with his Invention— He said he was already acquainted with it,
+							and knew M<hi rend="superscript">r</hi> Fulton very well; and was his
+							friend— I told him I was happy M<hi rend="superscript">r</hi> Fulton had
+							chanced to have so good a friend at Court.— The Te Deum was attended by
+							all the Diplomatic Corps— There was no Court, although it was <persRef
+								ref="stcatherineofalexandria">S<hi rend="superscript">t:</hi>
+								Catherine’s</persRef> day— After returning home I read prayers, and
+								<persRef ref="sterne-lawrence">Sterne’s</persRef> Sermon 10. upon
+								<persRef ref="job">Job’s</persRef> complaint of the shortness and
+							miseries of human life.— Walked on the Quay—the weather severely cold—
+								M<hi rend="superscript">r</hi> Smith dined at <persRef ref="u">M<hi
+									rend="superscript">r</hi> Krehmer’s</persRef>. In the Evening I
+							read <persRef ref="mayhew-jonathan">Mayhew’s</persRef> Sermons 4 and 5.
+							on sober-mindedness; and having had a sleepless Night, the last I was
+							much fatigued and retired very early to bed.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-07">
+					<head>7 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-07"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>War of 1812</subject>
+						<subject>Napoleonic Wars</subject>
+						<subject>Orders in Council (British)</subject>
+						<subject>Impressment</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>On returning this morning from my walk, I found a Note
+							from <persRef ref="rumiantsev-nikolai">Count Romanzoff</persRef>,
+							proposing a change of the time and place which he had fixed for seeing
+							me; and asking me to call upon him between one and two O’Clock this
+							afternoon at the Hotel of foreign Affairs; which I accordingly did. I
+							told him that my motive for asking this Conversation with him was, that
+							since I saw him last, I had received from my Government official notice
+							of the Declaration of War by the United States against Great-Britain,
+							together with a letter from the <persRef ref="monroe-james">Secretary of
+								State</persRef> dated the first of July—that I had not received any
+							instruction to make an official communication on the subject to this
+							Government; but the Secretary of State had explicitly expressed the
+							views of the American Government at that juncture, on several points,
+							which I thought it important to communicate to him— The first was the
+							desire of the United-States, that this War might be confined to them,
+							and Great-Britain; that no other power might be involved in it— That the
+							United States wished to preserve unimpaired their relations of Amity
+							with all other powers, and that <pb n="436" type="ms"/>this wish was
+							declared in a particular manner with regard to Russia.— That the War
+							between Russia and France, though it could not then be known in America,
+							to have commenced was anticipated as inevitable, and was a subject of
+							great regret to the American Government.— That the state of our Affairs
+							with France was said to be in an unsettled Condition, and there was not
+							much expectation of any speedy settlement of them satisfactory to us—
+							But that whatever course they might take, the American Government did
+							not contemplate any more intimate connection with France; nor was it
+							aware of any occurrence whatsoever, which could induce them to enter
+							into any such connection— This sentiment I said was expressed in terms
+							as strong as language could employ, and the desire of the United-States
+							to maintain in their full extent the friendly and commercial relations
+							with Russia, was in terms of equal earnestness— The Count said he was
+							obliged to me for the Communication, which he was sure would be
+							peculiarly agreeable to the Emperor, before whom he should lay the
+							substance of it— That the <persRef ref="alexander-i">Emperor’s</persRef>
+							desire to maintain the friendly and commercial relations with the
+							United-States were entirely reciprocal to those of the American
+							Government; and it was the apprehension that they might be interrupted
+							by the English, which had made him wish so sincerely the termination of
+							this War— That we might be assured that no circumstance whatsoever could
+							induce the Emperor to interrupt the friendly relations of Russia with
+							the United States; even if he were prepared to enter into more intimate
+							engagements than he is at present inclined to form with any power
+							whatsoever— And with regard to the assurance that the intention of the
+							American Government was not to form any more intimate connection with
+							France, as it would afford particular gratification to the Emperor, he
+							wished to ascertain precisely whether he had understood what I stated as
+							having been expressed to me in the Communication from my Government.— He
+							then repeated over in substance, and correctly, what I had said; and I
+							assured him that he had perfectly understood me— He asked me whether I
+							had any objection to his communicating to the <persRef ref="cathcart-william">British Ambassador Lord Cathcart</persRef> this part of
+							what I had said to him— I answered that far from having any objection, I
+							thought it might do good, and could not believe it would produce any
+							unfavourable effect— That in the discussion of our differences with
+							Great-Britain previous to the War, the British Ministers had frequently
+							believed or professed to believe that the American Government were
+							partial in favour of France, and were actuated by a French influence in
+							opposition to England— If they really entertained such a prejudice, this
+							frank and explicit declaration of my Government’s intentions, after the
+							declaration of War against them, and precisely at that time, must if
+							they were capable of giving it a candid consideration, tend to remove a
+							prejudice, and to produce a more pacific disposition— The Count replied
+							that he did not mean to say he thought this the only obstacle to the
+							restoration of a good understanding between the United-States, and
+							England; but he thought it a great one, and that it would be a
+							favourable Circumstance to have it removed— He then asked me whether I
+							had any late Intelligence from America, indicating the determination of
+							the American Government, after the revocation of the orders in Council
+							was known— I said I had not; but that although I was satisfied if that
+							Revocation had been known the Declaration of War would not have been
+							made, yet War being once declared there were other points of collision
+							upon which an accommodation became essential, for the restoration of
+							Peace; and upon the chief of these; the impressment of Seamen from our
+							merchant vessels, it appeared the British Government would listen to
+							nothing— I then explained to the Count the Nature and character of this
+							practice, as exercised by the British naval Officers—the impossibility
+							that any Nation having a sense of independence, and of the protection
+							due to its own citizens should submit to it—or endure it without
+							indignation; and I told him that two several proposals had been made by
+							our Government to the British for a suspension of hostilities— The
+							orders in Council to stand revoked; and they stipulating to discontinue
+							the practice of impressment from American Vessels; the United States
+							prohibiting by Law the employment of British Subjects either in their
+							public ships or in private Merchant service— He said he thought the
+							latter part of the stipulation could not easily be carried into
+							Execution— I told him I did not think it could meet with much
+							difficulty; but that at any rate the American Government having made the
+							proposal would have been responsible for its execution.— The British
+							Ministers however had rejected it; and untill they should be willing to
+							come to some accommodation upon this point I saw no prospect of a Peace—
+							I was aware, and did not wish to disguise that there was an inherent
+							difficulty, which made the British adverse to a compromise— The Count
+							asked if they did not complain that they lost great numbers of their
+							Seamen, by their becoming naturalized as Americans— I said it was not
+							exactly that— There were very few British Sailors who ever were or could
+							be naturalized as Americans; and I mentioned to him the Conditions of
+							naturalization by our Laws, and the character of them, which makes it
+							sure that few foreign seamen can avail themselves of them— But I said
+							the American Sea-service, public and private was more attractive than
+							the British.— For our common Seamen were better fed, better paid, and
+							better treated than English <pb n="437" type="ms"/>English seamen are
+							wont to be in their own service— It was natural therefore for English
+							Sailors, to prefer our service to their own, and to seize every
+							opportunity they could of entering it— This the English Government
+							consider and complain of as seduction, and they have no other remedy
+							against it than that violent and tyrannical practice of their naval
+							Officers of stealing men from our merchant-vessels. I did not know that
+							it would be possible ever to come to a compromise with them upon it; but
+							I hoped if we could not hit upon any expedient for arranging it, he, the
+							Count would furnish us with one— He said “il faudra travailler à
+							cela”—and concluded by promising to give the Emperor an account of this
+							Conversation, after which he said he would see me again.— After leaving
+							him I called upon <persRef ref="u">Captain Guedes</persRef>, whom I
+							found recovering from his illness, and looking much better than when I
+							saw him last— <persRef ref="lewis-john">M<hi rend="superscript">r</hi>
+								Lewis</persRef> spent the Evening with <persRef
+								ref="adams-louisa-catherine">us</persRef>— I received this morning
+							an Official Note from <persRef ref="saltykov-aleksandr">Count
+								Soltykoff</persRef>, with two printed Copies of the Treaty with
+							Spain (<persRef ref="zeabermudez-donfrancisco">M<hi rend="superscript">r</hi>
+								Zea’s</persRef>) The Count still calls himself a privy Counsellor,
+							directing the Department of foreign Affairs.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-08">
+					<head>8 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-08"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Napoleonic Wars</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>8. </date><persRef ref="montreal-f">M<hi rend="superscript">r</hi>
+								Montreal</persRef> called upon me this morning— He told me there was
+							a report circulating in the City that <persRef ref="bonaparte-napoleon"
+								>Bonaparte</persRef> (he is now nothing more than plain Bonaparte)
+							was killed— We afterwards in the course of the day heard the same report
+							from two other quarter’s; and even that his body had been found after a
+							battle; that a Courier brought the news last Night; and that the
+							fortress guns were fired for it, in the Night— There is said to be a
+							Bulletin on the other hand from <persRef ref="chichagov-pavel">Admiral
+								Tchichagoff</persRef>, admitting that Bonaparte with seventy
+							thousand men had passed beyond him— The weather is now so cold that it
+							makes me more idle even than usual— I teach <persRef
+								ref="adams-charles2">Charles</persRef>, morning and Evening— He has
+							learnt the version of the twenty-third Psalm; and continues learning
+								<persRef ref="stquentin-dominique">S<hi rend="superscript">t:</hi>
+								Quentin’s</persRef> grammatical play— We closed this Evening with
+							Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-09">
+					<head>9 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-09"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>Napoleonic Wars</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>The thermometer is again at 15 and 16 degrees below 0.
+							but I walk before breakfast and before dinner— I this day was abroad
+							both at the rising and setting of the Sun— <persRef ref="harris-levett"
+									>M<hi rend="superscript">r</hi> Harris</persRef>, and Mess<hi
+								rend="superscript">rs:</hi>
+							<persRef ref="lewis-john">Lewis</persRef>, <persRef
+								ref="willing-richard">Willing</persRef>, <persRef ref="fisher-miers"
+								>Fisher</persRef>, <persRef ref="u">Redwood</persRef>, <persRef
+								ref="u">Andrew</persRef>, and <persRef ref="gair-samuel2"
+								>Gair</persRef> dined with us— <persRef ref="dimon-john">M<hi
+									rend="superscript">r</hi> Dimond</persRef>, and <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Forrester</persRef> were
+							invited, but sent apologies.— The news of the <persRef
+								ref="bonaparte-napoleon">Emperor Napoleon’s</persRef> being killed
+							is not authenticated—that of his having effected his escape becomes more
+							credited, though if true his situation must still be extremely perilous
+							and almost desperate. The disappointment here at the belief of his
+							escape is very great, and has given rise to various rumours that one and
+							even two of the Russian armies have been defeated; of which there is
+							probably no foundation— Some of the Gentlemen passed the Evening with
+							us; and we had Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-10">
+					<head>10 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-10"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>War of 1812</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>Commerce</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>On returning this morning from my walk I received a Note
+							from the Chancellor <persRef ref="rumiantsev-nikolai">Count
+								Romanzoff</persRef>, requesting me to call upon him at 12 O’Clock,
+							at Noon, which I did— He said he had sent for me to shew me the draught
+							of a despatch to <persRef ref="lieven-christopher">Count
+								Lieven</persRef>, the Russian Ambassador in England; which he had
+							prepared to lay before the <persRef ref="alexander-i">Emperor</persRef>
+							for his approbation; and as its object was to communicate to Count
+							Lieven the substance of what I had said to him in our last Conversation,
+							he wished me to peruse it, and to point out any inaccuracy or variation
+							from what I had said, and that he would immediately correct it— I found
+							there were several passages differing from the ideas I had intended to
+							convey to him, which he immediately struck out of the draught inserting
+							others in their stead exactly conformable to what I now repeated and
+							explained as having said or intended to say before—the Count observing
+							that he was desirous of not using one expression either stronger or
+							weaker than I had meant to use— The first variance was that he had
+							written Count Lieven that I had called upon him <hi rend="italic">by
+								order of my Government</hi>, to communicate to him the Declaration
+							of War by the United-States against Great-Britain— I had on the contrary
+							said to him, that my Government had not ordered me to make any Official
+							Communication here of this Declaration; but that having just received
+							it, together with a despatch from the <persRef ref="monroe-james"
+								>Secretary of State</persRef> indicating the views of my Government
+							on this occasion, in relation to other powers, and particularly to
+							Russia, I had felt a duty to communicate the substance of it to him.—
+							The second difference was that in reporting what I had mentioned of the
+							state of our affairs with France, he had used expressions of resentment
+							and reproach; such as that France used us as ill as Great-Britain—that
+							she gave us nothing but “de belles paroles,” which I told him might be
+							very just inferences from the facts, and might even express my own
+							sentiments, but which I had not intended to use because my object had
+							been merely to state the purport of the despatch I had received, in
+							which no such expression of asperity, no sentiment even of irritation
+							was to be found— It simply said that the principal subjects in
+							discussion with France remained unsettled, and that there was little
+							reason to expect a settlement of them satisfactory to us. On the third
+							point I observed that the Count’s expressions were not so strong as
+							those I had repeated from the Secretary of States letter— He had
+							accurately noted the determination of the American Government, not to
+							enter into more intimate connections with France, even if a satisfactory
+							adjustment of those differences should be obtained; but he had omitted
+							the additional assurance that they did not foresee any Event whatever,
+							that could produce such a result. The Count immediately struck out every
+							one of the passages which I noticed, as inaccurate, and inserted others
+							in their stead exactly conformable to my present repetition and
+							explanation of what I had said to him in our last <pb n="438" type="ms"
+							/>Conversation— I then told him that in consenting to the making of this
+							Communication, to the British Government I was aware that it might
+							possibly produce an effect different from that which he intended, and
+							which I desired— That supposing the British Ministers should be actuated
+							by dispositions, which might without any breach of candour be imputed to
+							them, the certainty that the American Government would in no Event seek
+							or accept a community of Cause with their most dreaded enemy, might
+							render them more careless or indifferent to a pacification with us, as
+							leading them to think less formidably of our hostility— That I believed
+							however, the operation of this intelligence upon their minds, would be
+							of an opposite kind—that its tendency would be to promote the Spirit of
+							conciliation, and that I was in this respect happy to have the
+							concurrence of his judgment— The Count said there was a possibility that
+							the effect might be contrary to his wishes and intentions; but he
+							trusted it would not— That his instruction to Count Lieven was to inform
+								<persRef ref="castlereagh-robert">Lord Castlereagh</persRef> of this
+							Conversation with me, with the purpose of removing the prejudices
+							entertained by the British Government; and of promoting the peace which
+							he, Count Lieven knew the Emperor had much at heart; as believing it
+							most for the interest of both powers, as well as of his own Empire— That
+							he had not told Count Lieven that he was authorized by me to repeat this
+							Conversation, but appeared to relate it altogether without my privity—
+							That as the Affairs of the British in Spain were now not so prosperous
+							as they had lately been, they would probably be under the necessity of
+							making further efforts there, and might therefore be more disposed to
+							accommodation in another quarter— He was quite anxious he said to hear
+							from England— He had no accounts from thence later than 3 November, and
+							now the only course of information even with regard to the internal
+							state of France, was through England— I asked him if there was no
+							communication through Sweden and Denmark— He said there was but very
+							precarious and dilatory, for even before the war between Russia and
+							France, the usual course of the Post between Paris and Copenhagen was
+							through Moscow. I spoke to the Count of the answer the English
+							Government had given to the Emperor’s proposed Mediation— He said they
+							had neither accepted nor rejected it; but had hinted that it would not
+							be acceptable in America—that they thought the time was not yet come—
+							But it appeared they had sent out <persRef ref="warren-john2">Admiral
+								Warren</persRef>, with powers to negotiate—did I know what the
+							result had been of this?— I said I did not; but I augured very little
+							from this mode of Negotiation— Admiral Warren had been known here, in a
+							mere diplomatic capacity, and I had heard his personal character spoken
+							of as amiable and conciliatory— But there he went also as commander in
+							chief of a hostile squadron of ships, a character in itself far from
+							portending conciliation— If we were vanquished indeed, an Admiral might
+							signify to us the terms to which we must subscribe as well as any other;
+							but untill then it was no good aspect for judging favourably of the
+							proposals; to be offered from an Admiral making his first appearance in
+							hostile array, with ships of the line and frigates— The Count replied
+							that was true; but that to the amiable and conciliatory disposition of
+							Sir John Borlase Warren he could bear ample and willing testimony— He
+							was as free from pride, and from prejudices both personal and National
+							as any Englishman he had ever known. At an early period of his Embassy,
+							here, he, Count Romanzoff had told him that the commercial relations
+							between Russia and England might be continued on a foundation of mutual
+							advantage to both Nations; but not upon the basis of former times—not by
+							viewing things under the varnish of the English factory— Not on the
+							scale of maintaining here a dominion something like that they had in
+							India— Supposing the Russian Commerce upon the Black Sea, were to become
+							important? was the English factory to say that there must be none but at
+							Petersburg?— It could not be endured— It was absolutely necessary to
+							remember that times and things had changed— Sir John did not say any
+							thing in answer to this at the time; but afterwards when he was going
+							away, he told the Count that he had remembered that conversation, and
+							was fully satisfied of the correctness of his opinion.— From the general
+							tenor of the Count’s remarks I conjecture that he does not now very
+							cordially harmonize with the <persRef ref="cathcart-william">English
+								Ambassador</persRef>, or fall into the present commercial or
+							political views of the English Government— He said that he was happy to
+							find that the British Ministers did full Justice to the Sentiments of
+							the Emperor Alexander— More Justice indeed said he to the Emperor, than
+							they do to his Chancellor— He told me that <persRef
+								ref="zeabermudez-donfrancisco">M<hi rend="superscript">r</hi>
+								Zea</persRef> had lately sent him a despatch of an old date, from
+								<persRef ref="dashkov-andrei">M<hi rend="superscript">r</hi>
+								Daschkoff</persRef>, and asked me whether I knew how it came to M<hi
+								rend="superscript">r</hi> Zea’s hands— I suppose M<hi
+								rend="superscript">r</hi> Daschkoff sent it through the Spanish
+							Minister by a Cartel-ship to England, from whence it was transmitted to
+								M<hi rend="superscript">r</hi> Zea, by a Courier.— After returning
+							from Count Romanzoff’s I took a ride with <persRef
+								ref="smith-catherine-johnson">Catherine</persRef> and <persRef
+								ref="adams-charles2">Charles</persRef>— The cold continues
+							inflexibly severe; and this Evening had penetrated into my Cabinet so
+							that I could neither write nor read.— Abed before 8.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-11">
+					<head>11 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-11"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>I had this day the fire kindled a second time in my
+							Cabinet, which I had not needed through the whole of last Winter— My
+							external thermometer, <persRef ref="reaumur-rene">Reaumur’s</persRef>,
+							was at 15 degrees below 0. That of the Academy’s Register was at -20:3
+							Mine is placed in a Southern exposure, sheltered by the buildings in the
+							yard— In cold weather it always shews from 3 to 6 degrees less of
+							intenseness <pb n="439" type="ms"/>than the Academy’s Register, and the
+							thermometers on the Quay.— <persRef ref="smith-william-steuben">M<hi
+									rend="superscript">r</hi> Smith</persRef> dined abroad, at
+								<persRef ref="lewis-john">M<hi rend="superscript">r</hi>
+								Lewis’s</persRef>— I employed part of the Evening with <persRef
+								ref="adams-charles2">Charles</persRef>, and the rest at Ombre with
+							the <persRef ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef>— Wrote to the <persRef ref="monroe-james"
+								>Secretary of State</persRef>; and a Note to <persRef
+								ref="rumiantsev-nikolai">Count Romanzoff</persRef>, requesting a
+							Courier’s Passport for <persRef ref="u">M<hi rend="superscript">r</hi>
+								Andrew</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-12">
+					<head>12 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>I had another entirely sleepless Night; of which I know
+							no other cause than the severity of the Cold, which shakes my nervous
+							system very roughly— I brave it more than some of my friends think wise,
+							and have constantly taken my usual walk of nearly six miles, before
+							breakfast— The weather as in all the coldest weather here, is clear; and
+							as I rise before full day-light, I have got so much into the habit of
+							walking immediately afterwards, that I find it irksome to stay within
+							doors— <persRef ref="smith-catherine-johnson">Catherine
+								Johnson</persRef> was also unwell in the Night, and has been all
+							this day confined to her bed— <persRef ref="adams-charles2"
+								>Charles</persRef> has learnt <persRef ref="addison-joseph"
+								>Addison’s</persRef> versions of the 19<hi rend="superscript"
+								>th:</hi> and 23<hi rend="superscript">d:</hi> Psalms— The first of
+							them I think the best.— The second of <persRef ref="rousseau-john">J. B.
+								Rousseau’s</persRef> sacred Odes is a paraphrase of the same 19<hi
+								rend="superscript">th:</hi> Psalm; or rather of the first part of
+							it.— The French and English Poetry are beautiful; but there is a sublime
+							simplicity in the original Psalm itself, more energetic than any thing
+							in either of the imitations— Addison says that there is no real voice or
+							sound in the firmament, and stars— I am not sure that the Psalm says so—
+								<persRef ref="plato">Plato’s</persRef> idea, of the music of the
+							Spheres does not appear to have struck the Psalmist— But the Psalmists
+							idea that they declare the glory and handy-work of God, was above the
+							reach of Plato— <persRef ref="shakespeare-william"
+								>Shakespear’s</persRef> idea that they sing choiring to the
+							young-eyed Cherubims is almost inspiration.— Addison’s Astronomy is
+							adapted perhaps to the age when the Psalm was composed, and may pass for
+							poetical Astronomy in any age; but the Psalm does not say that the stars
+							and planets move round the Earth. In the 23<hi rend="superscript"
+								>d:</hi> Psalm, Addison’s introduction of the Crook displeases
+							me—fainting in the sultry glebe, is aukwardly expressed; and faint will
+							not rhyme with pant either to the ear or to the eye— In both the
+							versions the thoughts are weakened by expansion and by repetition— Yet
+							the twenty-third Psalm in Addison’s poetry is delightful by its rural
+							imagery, and the 19<hi rend="superscript">th:</hi> is elevating by its
+							grandeur</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-13">
+					<head>13 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date><persRef ref="smith-catherine-johnson">Catherine
+								Johnson</persRef> is still confined to her chamber, and almost
+							entirely to her bed— The weather moderates occasionally three or four
+							degrees, and as I have sometimes before observed in the severest weather
+							here it moderates in the Night, and becomes colder after Sunrise— The
+							Night produces a westerly wind, and cloudy sky, and the thermometer
+							rises— The Sun dispels the clouds, and it sinks.— I read prayers for the
+							third Sunday in Advent and <persRef ref="sterne-lawrence"
+								>Sterne’s</persRef> Sermon 11. On Evil Speaking— Sterne’s own moral
+							character was so equivocal to say the least, and from the allusions to
+							it in his writings was so indiscreet withal, that he must have had his
+							share of evil-speaking, which was not in his case, all slander— There is
+							something in this Discourse that indicates particular references to
+							himself and his own history, and his suggestion that <persRef
+								ref="james">S<hi rend="superscript">t:</hi> James’s</persRef> strong
+							reprobation of Calumny might have been stimulated by his having been
+							himself the object of it, leads naturally to the supposition that he
+							conceived the idea by comparing his own case with the strong censures of
+							the Saint.— There are passages in the Sermon keenly satirical; but not
+							much levity— I also read <persRef ref="mayhew-jonathan"
+								>Mayhew’s</persRef> Sermons 6 and 7 on sober-mindedness— They
+							conclude the first volume— It seems to be a course of ethics for young
+							men; all derived from the exhortation to young men to be sober minded.—
+								<persRef ref="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef> dined abroad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-14">
+					<head>14 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14 </date>I had a morning visit from <persRef ref="raimbert-francois">M<hi
+									rend="superscript">r</hi> Raimbert</persRef>— His situation is
+							still precarious and full of anxiety— I received a note from <persRef
+								ref="rumiantsev-nikolai">Count Romanzoff</persRef> requesting me to
+							delay for one day the departure of <persRef ref="u">M<hi
+									rend="superscript">r</hi> Andrew</persRef>, that he might have
+							time to prepare his dispatches for America. I employed the day in
+							settling my Monthly Accounts.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-15">
+					<head>15 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>My thermometer this morning was at 16 degrees below 0.
+							The Academy Register was at -19:6 It moderated in the course of the day—
+							I called upon <persRef ref="lowenhielm-gustaf">Count
+								Löwenhielm</persRef>, and asked him for a Courier’s Passport for
+								<persRef ref="u">M<hi rend="superscript">r</hi> Andrew</persRef>;
+							which he promised me— I had a various conversation with him, on the
+							politics of the day; the triumphant career of the Russians, and the
+							continual and still aggravated disasters of the French army—on the
+							future prospects of Europe—on the Swedish and American Constitutions;
+							and on the probable Restoration of the House of Bourbon in France.— The
+							Count is highly gratified by the present course of Events, to which the
+							policy adopted by Sweden has no doubt eminently contributed. M<hi
+								rend="superscript">r</hi> Andrew and <persRef ref="plumer-ernestus">M<hi
+									rend="superscript">r</hi> Plummer</persRef> called upon me in
+							the Evening, and <persRef ref="u">Miss Bode</persRef> paid a visit to
+								<persRef ref="smith-catherine-johnson">Catherine Johnson</persRef>,
+							who is still confined to her chamber.— I read a few pages in <persRef
+								ref="durand-david">Durand’s</persRef> translation of <persRef
+								ref="cicero-marcus">Cicero’s</persRef> Academics.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-16">
+					<head>16 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-16"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Napoleonic Wars</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Received this morning from <persRef
+								ref="rumiantsev-nikolai">Count Romanzoff</persRef>, the Courier’s
+							Passport for <persRef ref="u">M<hi rend="superscript">r</hi>
+								Andrew</persRef>, and two packets for <persRef ref="dashkov-andrei"
+									>M<hi rend="superscript">r:</hi> Daschkoff</persRef>; to send by
+							him— <persRef ref="u">M<hi rend="superscript">r</hi> Brandel</persRef>
+							also called upon me, and brought me a Passport for him from <persRef
+								ref="lowenhielm-gustaf">Count Löwenhielm</persRef>— He told me that
+							the <persRef ref="lowenhielm-carl">Count’s brother</persRef>, had
+							arrived last Night from Stockholm upon a special mission; and had
+							brought papers from England to 20 November— There were none before later
+							than 3 Nov<hi rend="superscript">r.</hi>— Dined at Count Romanzoff’s
+							with a company of about 30 persons— It was a dinner to the new Spanish
+							Minister the <persRef ref="bardaji-eusebio">Chevalier Bardaxi y
+								Azara</persRef>, to whom <persRef ref="zeabermudez-donfrancisco">M<hi
+									rend="superscript">r</hi> Zea</persRef> introduced me— The two
+							Count Löwenhielm’s were likewise there; and the Minister introduced me
+							to his brother; he neither resembles him nor the old Count, the <persRef
+								ref="lowenhielm-fredrik">father</persRef> with whom I was acquainted
+							at the Hague— The day was again rendered festive by joyful tidings from
+							the armies— The retaking of Willna by the Russians was the pleasant
+							intelligence of this day. Count Romanzoff told me he had seen the
+							English papers to the 20. Nov<hi rend="superscript">r:</hi> and that the
+							French had retaken Madrid— <persRef ref="cathcart-william">Lord
+								Cathcart</persRef> was not at the dinner— He was confined at home
+							with the gout— His <persRef ref="cathcart-frederick;cathcart-george">two
+								sons</persRef> were there— The Count received while at table a
+							message from the <persRef ref="alexander-i">Emperor</persRef>, <pb
+								n="440" type="ms"/>requiring his attendance at half past six this
+							Evening; which of course abridged a little the hour after dinner, of the
+							company. I sat between <persRef ref="saltykov-aleksandr">Count
+								Soltykoff</persRef> and <persRef ref="vonblome-otto">Baron
+								Blome</persRef> at dinner— After returning home I read a few pages
+							of the Academics— <persRef ref="u">D<hi rend="superscript">r</hi>
+								Galloway</persRef> was here, to see <persRef
+								ref="smith-catherine-johnson">Catherine Johnson</persRef>, who this
+							day first left her chamber since her illness.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-17">
+					<head>17 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-17"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date>Received a Notification for a Te Deum to morrow, for the
+							retaking of Wilna— It being also the Russian festival of <persRef
+								ref="stnicholas">S<hi rend="superscript">t:</hi> Nicolas</persRef>;
+							and the name day of <persRef ref="nicholas-i">one of the young Grand
+								Dukes</persRef>— I have continued walking in the morning untill this
+							day, but I find myself again with one of those Colds which have proved
+							so troublesome to me in this Country. the severe weather continues; my
+							thermometer was this Evening again down at 15 below 0. the Academy’s
+							Register at -21:3. I attended this day at a sale of books in the
+							Perspective.— In the Evening we had Cards— Finished preparing my letters
+							to be sent by <persRef ref="u">M<hi rend="superscript">r</hi>
+								Andrew</persRef>— I saw <persRef ref="harris-levett">M<hi
+									rend="superscript">r</hi> Harris</persRef> at the auction and
+							mentioned to him the Te Deum to be performed to morrow.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-18">
+					<head>18 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-18"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date><persRef ref="montreal-f">M<hi rend="superscript">r</hi>
+								Montreal</persRef> called upon me this morning, but finding me
+							dressed to go out, made a short visit. <persRef ref="u">M<hi
+									rend="superscript">r</hi> Andrew</persRef> likewise came with
+							<persRef ref="plumer-ernestus">M<hi rend="superscript">r:</hi>
+								Plummer</persRef> I gave him my despatches and letters, together
+							with <persRef ref="rumiantsev-nikolai">Count Romanzoff’s</persRef> two
+							Packets for <persRef ref="dashkov-andrei">M<hi rend="superscript">r</hi>
+								Daschkoff</persRef>— About one O’Clock afternoon I went with
+								<persRef ref="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef> and attended the Te Deum— <persRef
+								ref="cathcart-william">Lord Cathcart</persRef>, the new <persRef
+								ref="bardaji-eusebio">Spanish Minister</persRef>, and both the
+								<persRef ref="lowenhielm-carl;lowenhielm-gustaf">Counts
+								Löwenhielm</persRef> were there— After returning home, I took my
+							ordinary daily walk; but that of the morning I was obliged to omit; the
+							cold having affected my feet in such a degree as to make me lame— It had
+							the same effect last Winter— I passed the Evening at home; read part of
+							the Academics and a few pages of <persRef ref="gisborne-thomas2">D<hi
+									rend="superscript">r</hi> Gisborne’s</persRef> Duties of Men—
+							But I was unwell; and the long continuance of the severe cold makes it
+							impossible to be comfortable any where— This series of weather commenced
+							precisely with the new Moon; which is this day Full— There has been no
+							such a rigorous and constant succession of cold for so long a term
+							without interruption since we have been here before— It affects my
+							health; and I am alike unsuccessful whether I attempt to brave it, or to
+							escape from it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-19">
+					<head>19 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-19"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>The <persRef ref="alexander-i">Emperor
+								Alexander</persRef> left this City early this morning to go to the
+							army. There have been for some days rumours of his departure, but they
+							were so much contradicted that it was finally quite unexpected— I rose
+							between 5 and 6 this morning; but was so lame that I could not walk
+							before breakfast. Attended the auction of Books, where I only consumed
+							two hours of the day— Afterwards I rode in the Carriage with <persRef
+								ref="adams-charles2">Charles</persRef>.— In the Evening I was quite
+							unwell.— <persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> was very ill; and <persRef
+								ref="smith-catherine-johnson">Catherine</persRef> has not recovered
+							entirely from her illness— The rigour and continuance of the cold
+							severely shakes the Constitutions of Strangers, accustomed to milder
+							climates; and particularly affects us all— I joined in Charles’s sports
+							this morning to give him exercise, and in the Evening for his
+							instruction.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-20">
+					<head>20 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Having procured an additional protection for my feet
+							from the cold, I walked again this morning with the Thermometer at -20:9
+							degrees. I took also a second walk before dinner— Read prayers for the
+							fourth Sunday in Advent, and <persRef ref="sterne-lawrence"
+								>Sterne’s</persRef> Sermon 12. on the forgiveness of injuries,
+							illustrated by the history of <persRef ref="joseph3">Joseph</persRef>
+							and his brethren— He has hardly made so much of this subject as it
+							deserved— The Story itself is so affecting that Sterne’s powers of
+							Pathos should have exhibited it to more advantage— I likewise read
+								<persRef ref="mayhew-jonathan">Mayhew’s</persRef> Sermons 8 &amp; 9
+							the first two of the second Volume, upon sober-mindedness— D<hi
+								rend="superscript">r</hi> Mayhew was a clergyman of Boston with whom
+								<persRef ref="adams-abigail;adams-john">my Parents</persRef> were
+							intimately acquainted; and the father of <persRef
+								ref="wainwright-elizabeth">M<hi rend="superscript">rs</hi>
+								Wainwright</persRef>— He was an eminent man in his life-time; but of
+							these Sermons I never saw any other copy than my own; and I never heard
+							them mentioned in America— As they were printed in London, I have always
+							supposed that they were the work of some English clergyman of the same
+							name— But upon perusing them I find so many internal marks of the
+							author’s character as I have always heard it spoken of, and so many
+							sentiments peculiar to the region where the Doctor lived and died, that
+							I have no doubt that they were written by him— They are very good
+							discourses; in a plain, unornamented style, abounding with strong sense,
+							and virtuous principle— Earnest, even to harshness in their manner;
+							interspersed with occasional strokes of severe Satire; too blunt for
+							wit; and too serious for sarcasm— The popular right of resistance
+							against tyranny is introduced and asserted with a spirit which I
+							consider as one of the proofs of the place where the sermons were
+							delivered— The author is more bitter in his censures upon the quakers,
+							and other fanatical sectaries, than upon the Romish Church. There is a
+							critical note on a passage from <persRef ref="paul">S<hi
+									rend="superscript">t:</hi> Paul</persRef>, which refers to the
+							idiom of the Greek language; and there are several apt quotations from
+								<persRef ref="horace">Horace</persRef>— I perceive no other very
+							strong traces of learning— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs</hi> Adams</persRef> continued quite ill
+							the whole day— <persRef ref="adams-charles2">Charles</persRef> was also
+							unwell.— I spent the Evening entirely with him, in reading and studying
+								<persRef ref="stquentin-dominique">S<hi rend="superscript">t:</hi>
+								Quentin’s</persRef> Lessons of Grammar— This Evening there was at
+							length an appearance of abatement in the rigour of the Cold— My
+							thermometer rose to -9 degrees— This is the seventeenth day that the
+							cold has continued in succession.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-21">
+					<head>21 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-21"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="441" type="ms"/>
+						<p><date>21. </date>I found this morning that six 25 Ruble bills had been
+							stolen from the draw of my table where I keep my money. It has happened
+							to me several times before, and I have within the last six Months lost
+							in this manner at least 1500 Rubles— My chamber door and my table draw
+							must both have been opened with false keys— I have two servants in the
+							house whom I know to be thieves, but whom I have not dismissed from
+							despair of procuring others more honest. I doubt whether any possible
+							vigilance can guard against these depredations— Mine at least is
+							insufficient.— I attended the Auction, and purchased a few books—
+								<persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> was very ill all day, and <persRef
+								ref="smith-catherine-johnson">Catherine Johnson</persRef> extremely
+							ill this Evening. <persRef ref="u">D<hi rend="superscript">r:</hi>
+								Galloway</persRef> was twice here— <persRef ref="adams-charles2"
+								>Charles</persRef> too is unwell— The Cold weather has at length
+							abated, and this morning we had snow. In the Evening however it grew
+							cold again, and the thermometer was at -10— I pass’d as much of the
+							Evening as I could with Charles.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-22">
+					<head>22 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>22 </date>I attended at the Auction, where various articles of
+							furniture, and of curiosity were this day sold; but no books— There were
+							a variety of Mathematical instruments, the uses of which I did not
+							sufficiently understand— I read a few pages in the second Volume of
+								<persRef ref="gisborne-thomas2">Gisborne’s</persRef> Duties of Men,
+							but was engaged almost the whole Evening with <persRef
+								ref="adams-charles2">Charles</persRef>. <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> and Catherine were both much better than yesterday;
+							but <persRef ref="smith-catherine-johnson">Catherine</persRef> is
+							confined to her chamber— We have at length reached the Winter Solstice,
+							and the days are at their shortest period; only 5 1/2 hours in the
+							twenty-four. I make but a very indifferent use, even of them.— Charles
+							took his first lesson of writing from a Master.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-23">
+					<head>23 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date>Resumed my long early morning walk, and took a second
+							before dinner— I was amusing <persRef ref="adams-charles2"
+								>Charles</persRef> with one of <persRef ref="stquentin-dominique"
+									>S<hi rend="superscript">t:</hi> Quentin’s</persRef> grammatical
+							lessons, and the descriptive Counters, when <persRef ref="harris-levett"
+									>M<hi rend="superscript">r</hi> Harris</persRef> came in and
+							passed the remainder of the Evening with <persRef
+								ref="adams-louisa-catherine">us</persRef>. <persRef
+								ref="smith-catherine-johnson">Catherine Johnson</persRef> still
+							keeps her chamber, and Charles has a cough, which always alarms me— I
+							found no time for reading, and scarcely any for writing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-24">
+					<head>24 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>War of 1812</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>The <persRef ref="alexander-i">Emperor
+								Alexander’s</persRef> birth day, which for the first time since I
+							have been here, passed over without any celebration; and almost without
+							notice— There was a petty illumination of the Streets for about two
+							hours in the Evening; and nothing more— The Country has suffered so much
+							by the last Summer’s invasion, and there have perished such great
+							multitudes of the people and armies, while other multitudes still
+							greater are reduced to ruin and beggary, that the Emperor himself has
+							determined there should be no expensive festivities this winter at his
+							Court; and he particularly forbade the customary celebration of his
+							birth-day.— After passing two hours this Evening with <persRef
+								ref="adams-charles2">Charles</persRef> at the grammatical diversion,
+							and reading about two more in <persRef ref="gisborne-thomas2">D<hi
+									rend="superscript">r</hi> Gisborne’s</persRef> Duties of Men, I
+							was playing at Ombre with the <persRef
+								ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef> when I received a Note from <persRef
+								ref="harris-levett">M<hi rend="superscript">r</hi> Harris</persRef>,
+							with a London Gazette Extraordinary of 27. November, containing the
+							official account (British) of the total defeat of the second American
+							attempt to invade Upper Canada, and the surrender of <persRef
+								ref="wadsworth-william">General Wadsworth</persRef> and 900 men.—
+							The symptoms disclosed by these repeated shameful terminations, of
+							impotent assaults, are distressing to the feelings of one who loves his
+							Country. The reliance of man in all cases can only be upon Heaven— God
+							grant, that these disasters instead of sinking, may rouse the Spirit of
+							the Nation, and that they may learn, though from adversity, the skill
+							and discipline which will be the pledges of their future
+							prosperity!—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-25">
+					<head>25 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-25"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Napoleonic Wars</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Christmas day, by the ordinary European Calendar— I had
+							morning visits from <persRef ref="harris-levett">M<hi rend="superscript"
+									>r</hi> Harris</persRef>, and <persRef ref="u">Captain
+								Guedes</persRef>— I attended the auction about half an hour; but
+							found them disposing of books of no value to me— I dined at <persRef
+								ref="rumiantsev-nikolai">Count Romanzoff’s</persRef> with a Company
+							of about sixty persons; the Corps Diplomatique, and the principal
+							Ministers of the Country. I was seated at table between <persRef
+								ref="demaistre-joseph">Count Maistre</persRef> and the <persRef
+								ref="depolignac-jules">Duke de Polignac</persRef>, with both of whom
+							I had much Conversation— The news, was the evacuation of Courland by the
+							French, and the taking of 3000 Prussians, prisoners by the <persRef
+								ref="paulucci-filippo">Marquis de Paulucci</persRef> the Governor of
+							Riga— This was so small an affair amidst the multitude of great and
+							brilliant successes of the Russian arms, that it was spoken of rather
+							contemptuously— Count Romanzoff, laughing heartily, and apologizing to
+							me for laying aside the reserve of the Chancellor, told me that the boys
+							in the Streets who sold the Bulletins, when they followed persons and
+							found them slow to take their goods, would urge them by saying Oh! take
+							it! take it!— It is not from Paulucci but from <persRef
+								ref="wittgenstein-peter">Wittgenstein</persRef>.— The new comer
+								<persRef ref="lowenhielm-carl">Count Löwenhielm</persRef> appeared
+							to be in a sort of extasy after dinner, at the band of music;
+							particularly the horns, in the chamber adjoining the dining Hall—
+								<persRef ref="bentinck-william">Admiral Bentinck</persRef>
+							complained that they smelt too strong of human nature— The Admiral told
+							me that <persRef ref="bonaparte-napoleon">Napoleon</persRef> had
+							confiscated in Holland property belonging to him, worth an hundred
+							thousand pounds Sterling.— On returning home I found <persRef
+								ref="bode-frederica">Miss F. Bode</persRef>, who had dined with the
+								<persRef ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef>— She soon left us to go to a Concert at <persRef
+								ref="cathcart-william">Lord Cathcart’s</persRef>. We finished the
+							Evening with Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-26">
+					<head>26 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-26"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>The last of the shortest days at the solstice— From this
+							day they begin to lengthen— I was at the auction and made some
+							purchases, but as often happens, not of the articles for which I went.
+							Walk afterwards— In the Evening I went with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef>, <persRef ref="adams-charles2">Charles</persRef> and
+								<persRef ref="smith-william-steuben">M<hi rend="superscript">r</hi>
+								Smith</persRef> to the German theatre— <persRef
+								ref="smith-catherine-johnson">Catherine</persRef> was not
+							sufficiently recovered to go out— The performance was Das Neue Sonntags
+							Kind, a ridiculous Opera with very good music; and a Ballet called the
+							goldene hochzeit.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-27">
+					<head>27 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="442" type="ms"/>
+						<p><date>27. </date>I read prayers for the Sunday after Christmas, and
+								<persRef ref="sterne-lawrence">Sterne’s</persRef> Sermon 13. on the
+							duty of setting bounds to our desires. The Story of <persRef
+								ref="elisha">Elisha</persRef> and the Shunemite— Like many others of
+							these discourses it finishes abruptly. He usually draws a large outline,
+							and often fills up only a part of it— He says they were all hastily
+							composed, and they strongly bear the marks of it— But they have always a
+							good practical moral, and they have the art of fastening upon the
+							attention of the reader beyond any sermons that I ever read— They are of
+							very different lengths, but all appear to be short— This is one of the
+							reasons why the end always comes upon one unawares— I also read <persRef
+								ref="mayhew-jonathan">Mayhew’s</persRef> 10<hi rend="superscript"
+								>th:</hi> Sermon upon sober-mindedness; with which the hortatory
+							part of the work commences. <persRef ref="smith-william-steuben">M<hi
+									rend="superscript">r</hi> Smith</persRef> dined at <persRef
+								ref="u">M<hi rend="superscript">r</hi> Krehmer’s</persRef>— I have
+							for some days omitted my early morning walk— I still have a Cold hanging
+							upon me; but <persRef ref="adams-charles2">Charles’s</persRef> has
+							become quite severe— I gave up the whole Evening to him—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-28">
+					<head>28 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-28"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>28. </date>Walked again this morning before Breakfast— And as the
+							Evening twilight came on; that is, about 3. O’Clock in the afternoon I
+							went to the Bookseller <persRef ref="u">Höwert’s</persRef> to look at
+							some German school-books; for the purpose of teaching <persRef
+								ref="adams-charles2">Charles</persRef> to read German— I did not
+							however find any to my satisfaction; and I believe I shall postpone at
+							least for some months longer the commencement of his German lessons. He
+							is now occupied as large a portion of his time, and with as great a
+							variety of studies, as I think at his age can be pursued to advantage—
+							His reading both in French and English is yet so imperfect that I cannot
+							venture to intermit his daily exercise in each of them. His English
+							Spelling-Book, occasionally employs him another hour, under <persRef
+								ref="adams-louisa-catherine">his mother’s</persRef> tuition— He is
+							not yet satiated with the grammatical amusement of <persRef
+								ref="stquentin-dominique">S<hi rend="superscript">t:</hi>
+								Quentin’s</persRef> descriptive Counters and Cards of exercises at
+							which we had this Evening two hours of close study.— I am endeavouring
+							to fix his attention imperceptibly to himself upon numbers; preparatory
+							to the first lessons of arithmetic.— His writing and Russian master now
+							attends him twice a week, and he daily scrawls cyphered figures upon his
+							Slate— On the whole, without being subjected to the regularity of
+							school-hours (which I regret) he has not less than six hours of
+							assiduous instruction every day— May the blessing of God rest upon it,
+							for [“]Except the Lord build the house: their labour is but lost that
+							build it. Except the Lord keep the City, the watchman waketh but in
+							vain!”— I employed also about two hours of this day in writing; my
+							neglect of which is a continual occasion of self-reproach; of no use,
+							because not followed by amendment— We closed the Evening with Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-29">
+					<head>29 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-29"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>29. </date><persRef ref="adams-charles2">Charles</persRef> has a
+							cold, cough, and bleeding at the nose, precisely like that which alarmed
+							us so much towards the close of the last Winter— This day <persRef
+								ref="u">D<hi rend="superscript">r</hi> Galloway</persRef> came and
+							prescribed for him— I attended at the auction and purchased a few Books—
+							Heard there of the death of <persRef ref="peter-friedrich">Prince George
+								of Oldenburg</persRef> the <persRef ref="catherinepavlovna">Grand
+								Duchess Catherine’s</persRef> husband— The theatres were shut upon
+							this occasion— Charles this day finished reading the Psalter, in the
+							Evening he made cyphers upon his slate; read one of <persRef
+								ref="bouilly-jean">Bouilly’s</persRef> tales to his <persRef ref="u"
+								>daughter</persRef>, and played with the descriptive Counter’s. He
+							has a thirst for learning, beyond his years, and at the same time a
+							singular aversion at being taught. He chuses to learn every thing in his
+							own way. With the <persRef
+								ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef> and <persRef ref="smith-william-steuben">M<hi
+									rend="superscript">r</hi> Smith</persRef> we finished the
+							Evening by a rubber of whist.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-30">
+					<head>30 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-30"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>30. </date>Received notice from the Grand-Master of the Ceremonies,
+								<persRef ref="naryshkin-alexander">Narishkin</persRef>, of a Court
+							Mourning, to commence this day for <persRef ref="peter-friedrich">Prince
+								George of Holstein-Oldenburg</persRef>— Its duration and divisions
+							into full and half-mourning, are to be notified hereafter— Probably they
+							must be fixed by the orders of the <persRef ref="alexander-i"
+								>Emperor</persRef>.— The Messenger who brought me the notification
+							also informed me that the Master of the Ceremonies the <persRef
+								ref="demaisonneuve-joseph">Commandeur de Maisonneuve</persRef> died
+							this morning at 3 O’Clock, of an Apoplectic stroke— He had been
+							complaining nearly these two years; but attended at the last Te Deum—
+							The Messenger told me he had been two or three days; but was seized with
+							the Apoplexy about nine O’Clock last Evening— My first acquaintance with
+								M<hi rend="superscript">r</hi> de Maisonneuve at Berlin; where I
+							found him in 1797. Minister, from the Order of Malta— When the <persRef
+								ref="paul-i">Emperor Paul</persRef> assumed the character of
+							Grand-Master of that order; he sent to Berlin for M<hi
+								rend="superscript">r</hi> Maisonneuve; who has been ever since then
+							here— When the present Emperor reformed the Maltese Establishment, he
+							gave the Commandeur the Office of Master of the Ceremonies— He was a man
+							of mild temper and amiable manners; extremely well-bred; well versed in
+							French and Italian Literature, and a lover and Connoisseur of the Fine
+							Arts— His Office here was not at-all suited to his disposition, though
+							he understood thoroughly the Science of courtly Etiquette. An indolent
+							and luxurious life, which he had probably long led, brought on him their
+							ordinary consequences; at first nervous and hypocondriac disorders;
+							which have now thus terminated. He was not much turned of 50. and
+							originally of a strong and healthy Constitution— I had this day only one
+							walk; and that before dinner— Began reading the New Testament with
+								<persRef ref="adams-charles2">Charles</persRef>— But as his
+							indisposition continues, with symptoms of increasing severity, and as he
+							appeared disinclined to his usual Evening sport and employment, I <pb
+								n="443" type="ms"/>I left him to pursue his own taste, and finished
+							reading <persRef ref="gisborne-thomas2">D<hi rend="superscript">r:</hi>
+								Gisborne’s</persRef> Work on the Duties of Men— This author without
+							having the acuteness of intellect which distinguishes <persRef
+								ref="paley-william">D<hi rend="superscript">r</hi> Paley</persRef>,
+							has more of that clear plain common sense which constitutes a sound
+							judgment. I think his principles of Morality preferable to those of
+							Paley; but his works are far from being so popular as Paley’s. In this
+							work his plan is more specific and particular than comports with a
+							general Treatise of Moral Philosophy— It applies to men, in the higher
+							and middle classes of Society in Great-Britain— The Sovereign—the
+							Peerage—Parliament—The Clergy—the Bar—the Faculty—Persons engaged in
+							trade and business; and finally Private Gentlemen—concluding with a few
+							Reflections addressed to infidels. The parts of the Book relating to
+							Magistrates—to members of the Legislature—to Professional men; and to
+							private Gentlemen, are in a great measure applicable to Americans as
+							well as to Englishmen— I have found in them many remarks which I ought
+							to turn to my own improvement.— We closed the Evening again at
+							Whist.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-31">
+					<head>31 December 1812</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12-31"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Rose at five O’Clock; and after my regular morning
+							reading and writing, and commencing a letter to <persRef
+								ref="adams-abigail">my Mother</persRef>, I took my five Miles Walk,
+							with my Thermometer at 15 degrees below 0 and the Academy’s Register at
+							-<space/>I received an invitation to attend the funeral Ceremony for
+								<persRef ref="demaisonneuve-joseph">M<hi rend="superscript">r</hi>
+								Maisonneuve</persRef>, at the Maltese Chapel to-morrow morning at
+							ten O’Clock— Went to the Auction and continued my purchases— <persRef
+								ref="adams-charles2">Charles</persRef> continues so unwell that he
+							was this day confined to the warm chambers— This Evening he appeared
+							better— I played with him at his Counters and his nine-pins; and
+							released him from all the studies that are irksome to him— We spent a
+							couple of hours of the Evening at Cards.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v28-1812-12-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1812-12"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.</date> I have risen every morning this
+							month, before day light— Usually between 6 and 7— The state of Health in
+							my family has effectually prevented me from establishing and observing
+							the rule which I should wish to follow, of rising every morning at five—
+							The severity of the Season presents another obstacle; for my chamber is
+							too cold in the morning, for writing or reading with comfort— This
+							difficulty however would not be insuperable without the other— I begin
+							the day by reading five Chapters in the Bible— Write the Journal of the
+							preceding day— Each of which occupations employs from half an hour to an
+							hour— Walk five or six Miles— This however I sometimes omit— Breakfast
+							about ten— Hear <persRef ref="adams-charles2">Charles</persRef> read
+							English, and learn to recite—and sometimes teach him to write cyphers
+							upon his slate— This engages two full hours— Read or write, or arrange
+							household concerns untill dark; which is now before 3 in the afternoon—
+							Walk another hour— Return and read or write untill 5. dine— From 6 to 9.
+							I bestow again upon Charles;—and chiefly to his amusement— Nine is the
+							hour of the <persRef
+								ref="adams-louisa-catherine;smith-catherine-johnson"
+								>Ladies</persRef> for tea— After which we sometimes pass an hour or
+							two at Cards, and sometimes I retire immediately to bed— I scarcely ever
+							visit or dine abroad; and am very seldom interrupted by visitors or have
+							Company at home.</p>
+						<p>I offer to a merciful God at the close of this year, my humble tribute of
+							Gratitude, for the blessings with which he has in the course of it
+							favoured me, and those who are dear to me— And I pray for a continuance
+							of his Goodness— Above all I pray that He who worketh in us both to will
+							and to do, may grant to me and mine that temper of Heart and that
+							firmness of soul, which are best adapted duly to receive all His
+							dispensations whether joyous or afflictive— It has pleased him in the
+							course of this year to lay his chastening hand upon me, and to try me
+							with bitter sorrow. My endeavours to quell the rebellion of the Heart,
+							have been sincere; and have been assisted with the blessing from above—
+							As I advance in life; its evils multiply. the instances of mortality
+							become more frequent, and approach nearer to myself— The greater is the
+							need of fortitude to encounter the woes that flesh is heir to, and of
+							religion to support pains, for which there is no other remedy— Religious
+							Sentiments become from day to day more constantly habitual to my mind—
+							They are perhaps too often seen in this Journal— God alone can make even
+							Religion a Virtue; and to him I look for aid that mine may degenerate
+							into no vicious excess. For the future time may the favour of God, which
+							passeth all Understanding rest upon <persRef
+								ref="adams-abigail;adams-john">my Parents</persRef>, my Wife and
+								<persRef ref="adams-john2;adams-george">all my Children</persRef>;
+							my kindred, friends and Country; nor at this moment can I forbear to
+							include in my petitions the welfare of all Human Kind.— For myself, may
+							the divine Energies be granted to perform fully all my duties to God, to
+							my fellow mortals in all the relations of life, and to my own Soul—</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v44-1843-11">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="119" 
+				mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v44-1843-12-p149.xml"
+				mhs:volume="44">
+				<bibl n="metadata"><date from="1843-11-01" to="1843-11-30"/></bibl>
+
+				<!-- D/JQA/44 November 1843 Cli McCarry -->
+
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-01">
+					<head>1 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Canals</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="119"/>
+						<dateline>Cleveland, Wednesday 1. November 1843. Canal Boat Rob
+							Roy.</dateline>
+						<p><date>1. IV:30. </date>Wednesday— From</p>
+						<table>
+							<row>
+								<cell role="name">Cleveland to</cell>
+							</row>
+							<row>
+								<cell role="name">Mill creek</cell>
+								<cell role="num">9.</cell>
+							</row>
+							<row>
+								<cell role="name">Tinker’s creek</cell>
+								<cell role="num">13</cell>
+							</row>
+							<row>
+								<cell role="name">Boston</cell>
+								<cell role="num">21</cell>
+							</row>
+							<row>
+								<cell role="name">Peninsula</cell>
+								<cell role="num">24</cell>
+							</row>
+							<row>
+								<cell role="name">Old Portage</cell>
+								<cell role="num">32</cell>
+							</row>
+							<row>
+								<cell role="name">Coal house</cell>
+								<cell role="num">35</cell>
+							</row>
+							<row>
+								<cell role="name">Akron</cell>
+								<cell role="num">38</cell>
+							</row>
+							<row>
+								<cell role="name">New Portage</cell>
+								<cell role="num">44</cell>
+							</row>
+							<row>
+								<cell role="name">Clinton</cell>
+								<cell role="num">52</cell>
+							</row>
+							<row>
+								<cell role="name">Fulton</cell>
+								<cell role="num">56</cell>
+							</row>
+							<row>
+								<cell role="name">Massillon</cell>
+								<cell role="num">65</cell>
+							</row>
+							<row>
+								<cell role="name">Bethlehem</cell>
+								<cell role="num">71.</cell>
+							</row>
+							<row>
+								<cell role="name">Bolivar</cell>
+								<cell role="num">80</cell>
+							</row>
+							<row>
+								<cell role="name">Zoar</cell>
+								<cell role="num">83</cell>
+							</row>
+							<row>
+								<cell role="name">Jenning’s bridge</cell>
+								<cell role="num">86</cell>
+							</row>
+							<row>
+								<cell role="name">Dover</cell>
+								<cell role="num">93</cell>
+							</row>
+							<row>
+								<cell role="name">Lockport</cell>
+								<cell role="num">97</cell>
+							</row>
+							<row>
+								<cell role="name">Newcastle</cell>
+								<cell role="num">99</cell>
+							</row>
+							<row>
+								<cell role="name">Trenton</cell>
+								<cell role="num">103</cell>
+							</row>
+							<row>
+								<cell role="name">Eastport</cell>
+								<cell role="num">107</cell>
+							</row>
+							<row>
+								<cell role="name">Gnadenhutten</cell>
+								<cell role="num">108</cell>
+							</row>
+							<row>
+								<cell role="name">Port Washington</cell>
+								<cell role="num">112</cell>
+							</row>
+							<row>
+								<cell role="name">Newcomerstown</cell>
+								<cell role="num">118.</cell>
+							</row>
+							<row>
+								<cell role="name">Evansburg</cell>
+								<cell role="num">122</cell>
+							</row>
+							<row>
+								<cell role="name">Newport, Lewisville</cell>
+								<cell role="num">132</cell>
+							</row>
+							<row>
+								<cell role="name">Roscoe</cell>
+								<cell role="num">135</cell>
+							</row>
+							<row>
+								<cell role="name">Adam’s Mills</cell>
+								<cell role="num">145</cell>
+							</row>
+							<row>
+								<cell role="name">Webbsport</cell>
+								<cell role="num">149</cell>
+							</row>
+							<row>
+								<cell role="name">Dresden</cell>
+								<cell role="num">151</cell>
+							</row>
+							<row>
+								<cell role="name">Frazeysburg</cell>
+								<cell role="num">155</cell>
+							</row>
+							<row>
+								<cell role="name">Nashport</cell>
+								<cell role="num">161.</cell>
+							</row>
+							<row>
+								<cell role="name">Licking T</cell>
+								<cell role="num">170.</cell>
+							</row>
+							<row>
+								<cell role="name">Newark</cell>
+								<cell role="num">176</cell>
+							</row>
+							<row>
+								<cell role="name">N. end of Licking Summit</cell>
+								<cell role="num">181</cell>
+							</row>
+							<row>
+								<cell role="name">Granville</cell>
+								<cell role="num">187</cell>
+							</row>
+							<row>
+								<cell role="name">Hebron.</cell>
+								<cell role="num">189</cell>
+							</row>
+							<row>
+								<cell role="name">Millersport (D.C.)</cell>
+								<cell role="num">191</cell>
+							</row>
+							<row>
+								<cell role="name">Baltimore</cell>
+								<cell role="num">196</cell>
+							</row>
+							<row>
+								<cell role="name">Havensport</cell>
+								<cell role="num">202</cell>
+							</row>
+							<row>
+								<cell role="name">Carroll</cell>
+								<cell role="num">204</cell>
+							</row>
+							<row>
+								<cell role="name">Winchester</cell>
+								<cell role="num">210</cell>
+							</row>
+							<row>
+								<cell role="name">Rarey’s Bridge</cell>
+								<cell role="num">214</cell>
+							</row>
+							<row>
+								<cell role="name">Lockburn</cell>
+								<cell role="num">221.</cell>
+							</row>
+							<row>
+								<cell role="name">Columbus.</cell>
+								<cell role="num">232</cell>
+							</row>
+						</table>
+						<p>We landed at Cleveland at 7 this morning, and here parted from <persRef
+								ref="u">M<hi rend="superscript">r</hi> Standart</persRef>, one of
+							our fellow passengers from Buffalo, by whose advice we had come on with
+							out stoping at Ashtabula— From this place there are two modes of
+							proceeding to Columbus, distant 232 miles—one by land stages traveling
+							night and day with excessive bad, and very dangerous roads— The other by
+							canal boat on the Ohio canal which will take us four days to reach
+							Columbus, by the places enumerated in the margin— We were advised by all
+							means to take the latter mode which we concluded to do, and took passage
+							in the packet canal boat Rob Roy <persRef ref="u">Captain
+								Phillips</persRef>— She was to depart at 2. O’Clock P.M. and in the
+							meantime I was to undergo a reception— I was first recognized at the
+							Barber’s shop, while being shaved, before breakfast. And immediately
+							after breakfast a crowd of people thronged my chamber at the American
+							hotel to be introduced and to shake hands with me. <persRef
+								ref="allen-john3">M<hi rend="superscript">r</hi> John W.
+								Allen</persRef> and <persRef ref="andrews-sherlock">M<hi
+									rend="superscript">r</hi> Sherlock J. Andrews</persRef>,
+							heretofore members of Congress from the district and the <persRef
+								ref="hayward-nelson">mayor</persRef> of the city, with multitudes of
+							the citizens of all classes pressed into my chamber till M<hi
+								rend="superscript">r</hi> Allen with two other members of the
+							Committee of arrangements took me to ride round the City; after which we
+							called at the house of <persRef ref="beattie-william">M<hi
+									rend="superscript">r</hi> Beattie</persRef>, who married a
+								<persRef ref="beattie-sarah">daughter</persRef> of my old and true
+							friend <persRef ref="taylor-john">John W. Taylor</persRef>, and at whose
+							house he now resides, a helpless cripple with the numb palsy. A nephew
+							of <persRef ref="briggs-george">M<hi rend="superscript">r</hi> George N.
+								Briggs</persRef> was among the most active persons of the day, and a
+								<persRef ref="u">brother</persRef> of <persRef ref="bradburn-george"
+								>George Bradburn</persRef> told me that I should find him
+							convalescent at Cincinnati— The reception was in a Church. M<hi
+								rend="superscript">r.</hi> Andrews made the Address to me, which I
+							answered as usual and shook hands with the men, women and children;
+							after which we dined at the American hotel, and embarked in the
+							Canal-boat Rob Roy for Hebron— A Snow-storm <unclear>pa</unclear>ttering upon the
+							<unclear>ground</unclear> <unclear>. . .</unclear></p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-02">
+					<head>2 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="120" type="ms"/>
+						<dateline>Akron. Thursday 2. November. Steamer Rob Roy. Ohio
+							Canal</dateline>
+						<p><date>2. IV— VI.30. </date>Thursday</p>
+						<list>
+							<item><persRef ref="u">Phillips Captain</persRef></item>
+							<item>Russell</item>
+							<item>Macy John B. Cincinnati</item>
+							<item>Macy Francis of Portsmouth</item>
+							<item>Miss Langdon of Buffalo.</item>
+							<item>Miss Charlotte Macy</item>
+							<item>Chamberlin of Akron</item>
+						</list>
+						<p>I came on board of the Canal Packet boat Rob-Roy, yesterday very unwell
+							with my catarrh hoarseness and sore-throat, and some fever. this boat is
+							83 feet long, 15 feet wide, and has besides the persons here named about
+							20. other passengers— It is divided into 6 compartments; the first in
+							the bow with two settee beds for the ladies, separated by a curtain from
+							a parlors bedchamber, with an iron stove in the centre and side settees,
+							on which four of us slept feet to feet.— then a bulging stable for four
+							horses two and two by turns and a narrow passage with a side settee for
+							one passenger to sleep on, leading to the third compartment a dining
+							hall and dormitory for 30 persons; and lastly a kitchen and cooking
+							apparatus with sleeping room for cook, steward and crew, and necessary
+							conveniences. So much humanity crowded into such a compass was a trial
+							such as I had never before experienced, and my heart sunk within me,
+							when squeezing into this pillory I reflected that I am to pass 3 nights
+							and 4 days in it.— We came on board the boat at 2. O’Clock the time when
+							she was to depart, but it was 4. before she left the wharf.— We were
+							obliged to keep windows of the cabins closed against the driving snow,
+							and the stoves heated with billets of wood made the rooms uncomfortably
+							warm. It was a comfortless evening, but before its close I found that
+							our fellow travellers who shared the after cabin with us were well bred
+							persons, and pleasant companions— <persRef ref="macy-john">M<hi
+									rend="superscript">r</hi> John B. Macy</persRef> resides at
+							Cincinnati. His brother <persRef ref="macy-francis">Francis</persRef> at
+							Portsmouth Ohio. His daughter <persRef ref="macy-charlotte"
+								>Charlotte</persRef>, a handsome and amiable young woman from 17 to
+							20, and <persRef ref="u">Miss Langdon</persRef> of Buffalo, from 25 to
+							30. with fascinating manners substitutes for beauty relieved the
+							tediousness of the evening. <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Russell</persRef>, grandfather of Charlotte Macy was
+							also of the company, and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Chamberlin</persRef> a young man who had met me at Cleveland with an
+							invitation from the inhabitants of Akron to me to visit that place—
+							About 11. O’Clock I took to my settee bed, with a head ache, feverish
+							chills, hoarseness, and a sore throat and my tussis senilis in full
+							force. After a restless, sleepless night, I rose twice; first at 4 and
+							again at half past 6.— As soon as day-light came I was taken in a
+							carriage to a hotel, where we had a plentiful breakfast. I was then
+							taken again in a carriage to the town hall, where I was addressed, and
+							answered by a short speech after which I shook hands with the men, women
+							and children. Among the women, a very pretty one, as I took her hand
+							kissed me on the cheek. I returned the salute on the lip, and kissed
+							every woman that followed; at which some made faces, but none refused.—
+							We returned to the boat, and continued all day our progress through the
+							canal at the rate of about 2 miles and a half an hour— I was able to
+							occupy part of the day morning and afternoon with writing in this diary—
+							There was snow great part of the day—no enc<unclear>ou</unclear>ragement to open the
+							windows or to view the country through which we pass.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-03">
+					<head>3 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-03"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Canals</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="121" type="ms"/>
+						<dateline>Packet Rob Roy. Ohio Canal Friday. 3. November 1843.</dateline>
+						<p><date>3. VI. </date>Friday</p>
+						<p>In the course of yesterday and this day we passed through the places
+							named in the margin of Wednesday’s page. We reached Massillon last
+							evening after dark, and it being a considerable place, there were
+							symptoms of a desire on the part of its inhabitants to give me a
+							reception— Several of them came on board the boat. Two or three were
+							introduced to me, but I could not retain their names—we finally
+							persuaded them to let us pass on quietly— As acquaintance became
+							familiar with my fellow passengers; time slip’d away more cheerily. They
+							are all kind and obliging.— The <persRef ref="macy-charlotte;u">young
+								Ladies</persRef> very lively and good humoured. The weather has been
+							so harsh and churlish that we have not been tempted to open our windows
+							or to stand on the deck of the boat to see the country around us.— The
+							banks of the canal are so muddy that there is no comfort in walking. We
+							see we are in a beautiful country, with a deep, rich soil; but much of
+							it along the borders of the canal is woodland, and much with the wood
+							cut down, and the stumps standing like the pins of a bowling green, and
+							presenting an aspect rather of desolation than of plenty. In the common
+							dining room and dormitory I made out with no small trouble and
+							inconvenience to write for about two hours in the forenoon of yesterday
+							and this day, and one hour of each afternoon, to write in this diary,
+							but without fully keeping up with the flight of time. We beguile some of
+							our supernumerary hours, with card parties at whist and Eucre a game of
+							which I had never heard before.— I write amidst perpetual interruptions,
+							in the presence of half a dozen strangers, who seem to think me a
+							strange sulky person to spend so much time in writing— The most
+							uncomfortable part of our navigation is caused by the careless and
+							unskilful steering of the boat into and through the locks, which seem to
+							be numberless, upwards of two hundred of them on the canal.— The boat
+							scarcely escapes a heavy thump at entering every one of them— She
+							strikes and grazes along against their sides; and staggers along like a
+							stumbling nag. We passed in the course of last Night through a
+							settlement of Germans called Zoar, a community under an absolute ruler;
+							and this day through Gnadenhutten, originally a Moravian Settlement, but
+							now fallen into the ordinary track of breeding towns— This afternoon the
+							sky cleared off and on approaching a placed called Roscoe, several of us
+							landed and walked about a mile, when we were obliged to return to the
+							boat. <persRef ref="johnson-william4">W. C. Johnson</persRef> despatched
+							through the Post-Office a Letter which at my request he had written to
+								<persRef key="adams-louisa-catherine">my wife</persRef>, and
+							addressed to her at Washington, advising her of our progress: I find
+							myself utterly unable to write— About 8 this Evening, on taking a
+							momentary look out, I saw a large circle round the moon whence I
+							predicted foul weather for to-morrow morning— Spent the Evening at
+							Eucre, and at 10 retired to my settee.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-04">
+					<head>4 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>African Americans</subject>
+						<subject>Canals</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="122" type="ms"/>
+						<dateline>Newark, Hebron Saturday 4. November 1843. Columbus</dateline>
+						<p><date>4. VI. </date>Saturday—</p>
+						<list>
+							<item>Mathiot J</item>
+							<item>M<hi rend="superscript">rs</hi> Mathiot</item>
+							<item>Green William</item>
+							<item><persRef ref="jones-john11">Jones, John D.</persRef></item>
+							<item><persRef ref="stevenson-william">Stephenson W<hi
+										rend="superscript">m.</hi></persRef></item>
+							<item><persRef ref="mccoy-rw">M’Coy R. W.</persRef></item>
+							<item><persRef ref="thomas-jesse">Thomas Jesse B</persRef></item>
+							<item><persRef ref="u">Ridgway</persRef>.</item>
+							<item><persRef ref="adams-daniel2">Adams Daniel</persRef></item>
+							<item><persRef ref="sloane-john">Sloan John</persRef>.</item>
+							<item>and the many</item>
+						</list>
+						<p>About one O’Clock this morning <persRef ref="grinnell-joseph">M<hi
+									rend="superscript">r</hi> Grinnell</persRef> came to my settee,
+							and awoke me to communicate to me a Letter, just received from <persRef
+								ref="mathiot-joshua">M<hi rend="superscript">r</hi> John
+								Mathiot</persRef>, late Representative from his Congressional
+							District in that body, residing at Newark, earnestly inviting me to
+							visit him and that place, where we were to arrive about Sunrise.— The
+							messenger was despatched with an affirmative answer, and I thought I
+							slept no more for the remainder of the night— On reaching Newark we
+							landed and walked to M<hi rend="superscript">r</hi> Mathiot’s house;
+							where he and <persRef ref="mathiot-mary">M<hi rend="superscript">rs</hi>
+								Mathiot</persRef> received us with great cordiality. Here I was
+							shaved by an eloquent Mulatto barber; numerous visitors came in who were
+							introduced to me, all highly respectable looking men, but of whose names
+							or faces my memory can give no account— After breakfast, we went to the
+							town hall I believe crowded with good looking persons of both sexes, and
+							there a gentleman welcomed me with a complimentary address which I
+							answered as well as I could; after which I shook hands with them, men,
+							women and children. we returned to the boat, and proceeded to terminate
+							our navigation at Hebron. Here we took leave of the <persRef
+								ref="macy-john;macy-francis;macy-charlotte">Macy family</persRef>,
+								<persRef ref="u">M<hi rend="superscript">r</hi> Russell</persRef>
+							and <persRef ref="u">Miss Langdon</persRef> whom we had found charming
+							traveling companions—they proceed in the boat to Portsmouth where the
+							canal reaches the Ohio river.— We are henceforth to go by Land stages to
+							Cincinnati— There was a stage ready to start as we landed and a crowd of
+							People at the door of the house— As I passed a gentleman in the midst of
+							that crowd, addressed me by name, and with a very few complimentary
+							words, gave me in the name of the inhabitants of Hebron a hearty
+							welcome, for which I returned in words as bri<unclear>ef</unclear> assuring the Speaker,
+							that of all the addresses with which I had been honoured by my fellow
+							citizens, there was not one more gratifying to my feelings than which he
+							had just uttered most acceptable to them. 8 miles from Hebron we came to
+							Kirkerville, where we dined; and just as we were sitting down, in came
+								<persRef ref="greene-william">M<hi rend="superscript">r</hi> William
+								Greene</persRef>, one of the Committee of 3. sent by the
+							Astronomical Society, to Cleveland, to accompany me to Cincinnati— They
+							arrived at Cleveland Wednesday evening, after we had left that place—
+							They returned by land to Columbus, whence M<hi rend="superscript">r</hi>
+							Greene came out with a somewhat more representative Stage Coach to meet
+							us. To this we were transferred, and in it made our ent<unclear>ry</unclear> into
+							Columbus about 4 in the afternoon. Crowds of people in the street, and
+							the door of <persRef ref="neil-william">Neil’s</persRef> hotel where we
+							lodge. At 8 in the Evening at <persRef ref="hoge-james">D<hi
+									rend="superscript">r</hi> Hogue’s</persRef> presbyterian Church,
+							the <persRef ref="wright-smithson">Mayor of Columbus</persRef> welcomed
+							me in the name of the inhabitants— I answered as usual—shook hands with
+							the People, and returned to Neil’s hotel.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-05">
+					<head>5 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Religion</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="123" type="ms"/>
+						<dateline>Columbus Sunday 5. November 1843.</dateline>
+						<p><date>5. III.45 </date>Sunday.</p>
+						<list>
+							<item>Greene William</item>
+							<item><persRef ref="jones-john11">Jones John D.</persRef></item>
+							<item><persRef ref="stephenson-william">Stephenson
+								William</persRef></item>
+							<item>M’Coy R. W</item>
+							<item>Wright</item>
+							<item>Sloan John</item>
+							<item>Thomas Jesse B.</item>
+							<item>Ridgway</item>
+							<item>Many Strangers</item>
+						</list>
+						<p><persRef ref="sloane-john">M<hi rend="superscript">r</hi>
+								Sloane</persRef> called on me this morning, and two or three others
+							with whom I walked round the city and they pointed out to me, the public
+							buildings— The hospitals for the sick—the blind, the deaf and dumb—and
+							the penitentiary. We had also a fair view of the City, and surrounding
+							country from the top of the <persRef ref="neil-william">Neil</persRef>
+							hotel. At 11. O’Clock <persRef ref="mccoy-rw">M<hi rend="superscript"
+									>r</hi> R. W. M’Coy</persRef> called and accompanied us to the
+							Presbyterian church where <persRef ref="hoge-james">D<hi
+									rend="superscript">r</hi> Hogue</persRef> discoursed as I
+							thought I heard him say from Psalm 21.1.2. but on recurring to the bible
+							I find that was not the text.— Of the sermon I have no recollection—
+							There was nothing memorable in it— The house was heated by a furnace,
+							and the atmosphere produced upon me a state of apathy and drowsiness,
+							which suspended my attention and memory in somnolency. D<hi
+								rend="superscript">r</hi> Hogue is a presbyterian preacher of the
+							last century; has been settled here 35 years, and is more acceptable to
+							his people the older he grows.— After dinner I attended at the episcopal
+							church and heard <persRef ref="dobb-alexander">M<hi rend="superscript"
+									>r</hi> Dobb</persRef> from 2. Timothy 4–7. [“]I have fought a
+							good fight; I have finished my course; I have kept the faith. 8
+							henceforth there is laid up for me a crown of righteousness, which the
+							Lord, the righteous judge shall give me at that day: and not to me only,
+							but unto all then also that love his appearing.” M<hi rend="superscript"
+								>r</hi> Dobb is quite a young man and his style of preaching bears
+							the episcopal stamp— His sermon was a panegyric of <persRef ref="paul"
+									>S<hi rend="superscript">t.</hi> Paul</persRef>— He had read the
+							Evening service for the 21<hi rend="superscript">st.</hi> Sunday after
+							Trinity.— From the close of the afternoon public worship, until 11 this
+							evening a succession of visitors disposed of my time— My catarrhal cough
+							is returning upon me severely. The three members of the Astronomical
+							Society of Cincinnati, who went to meet us at Cleveland and came back to
+							meet us here are persons of great respectability, and in their
+							attentions to me, full of kindness. <persRef ref="greene-william">M<hi
+									rend="superscript">r</hi> Greene</persRef> is a lawyer of
+							Cincinnati; a native of Rhode-Island, son of <persRef ref="greene-ray"
+								>Ray Greene</persRef> heretofore a Senator of the United States,
+							from that State—appointed by <persRef key="adams-john">my
+								father</persRef> judge of the U.S. District Court, in Rhode-Island,
+							and disappointed by <persRef ref="jefferson-thomas">Jefferson</persRef>
+							who withheld his Commission and appointed another man. Among our
+							visitors, one of the most attentive is <persRef ref="thomas-jesse">M<hi
+									rend="superscript">r</hi> Jesse B. Thomas</persRef>, heretofore
+							U.S. Senator from the State of Illinois, but now a Citizen of the State
+							of Ohio, residing about 20 miles distant from Columbus, whence he came
+							for the sole purpose of meeting me— M<hi rend="superscript">r</hi>
+							Sloane and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Ridgway</persRef> are<space/>unremitting in their good offices.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-06">
+					<head>6 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>African Americans</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="124" type="ms"/>
+						<dateline>Columbus. Monday 6. November 1843. Dayton—</dateline>
+						<p><date>6. II— III.45. </date>Monday.</p>
+						<list>
+							<item>Jenkins David</item>
+							<item>Shannon.</item>
+							<item>Odlin</item>
+							<item><persRef ref="u">Phillips</persRef>.</item>
+						</list>
+						<p>I awoke about two O’Clock this morning, and arose, but it was cold, and
+							the fire in my chamber was extinguished— I returned to bed, and rose
+							again at a quarter before 4— There was a remnant of fire in the
+							adjoining parlour, and I wrote by that. A mulatto by the name of
+								<persRef ref="jenkins-david">David Jenkins</persRef> came to see me
+							just after daylight: the only time he said when he could expect to
+							obtain access to me: to return the thanks of the coloured people of this
+							city for my exertions in defence of their rights— He referred to a
+							correspondence which he had had with me on this subject with me, and
+							which I remembered.— We were to have left Columbus at 8 this morning;
+							but there were two military companies of Germans, from whom I had
+							received a message requesting leave to escort me out of the city, which
+							I could not reject— It delayed our departure about an hour during which
+							numerous visitors thronged the house; among whom was the governor of the
+							State <persRef ref="shannon-wilson">Shannon</persRef>. The German
+							companies, with a band of martial music, escorted us to the Scioto river
+							and over it—and <persRef ref="neil-william">M<hi rend="superscript"
+									>r</hi> Neil</persRef> accompanied us in person— Our first stage
+							was 14 miles to Jefferson where there was a gathering of the people;
+							with whom I exchanged greetings and shook hands— Then 14 miles to
+							Springfield where we dined and a similar intercourse took place— Then 14
+							miles to Dayton, on our approach to which we were met by a cavalcade,
+							and a gentleman by the name of <persRef ref="u">Odlin</persRef>, with an
+							elegant open barouche in which I took a seat, and thus in triumphal
+							procession we entered the City of Dayton. as we reached the hotel where
+							we were to lodge we found a vast multitude of the people assembled—and
+							the mayor of the city from a stage erected in front of the house
+							welcomed me in a complimentary speech, which I answered, standing in the
+							open barouche— I then passed into the house between a dense mass of
+							population on both sides; but as there was no general shaking of hands
+							as usual immediately after the addresses, I was beset the whole evening
+							by a succession of visitors in squads, to be introduced and shake hands,
+							to every one of whom I was a total stranger, and the name of not one of
+							whom can I remember— My friends <persRef ref="grinnell-joseph"
+								>Grinnell</persRef> and <persRef ref="johnson-william4">W. C
+								Johnson</persRef> give me all possible aid and encouragement in
+							getting along, but the strangeness of these proceedings increases like a
+							ball of snow. I cannot realize that these demonstrations are made for
+							me, and the only comfort I have is that they are intended to manifest
+							respect and not hatred My cough has returned and annoys me continually—
+							It disables me also much for the labour of writing— This was the day
+							when I should have arrived at Cincinnati—but the Committee of the
+							Astronomical Society have made the arrangements so that we are to arrive
+							Wednesday Noon.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-07">
+					<head>7 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="125" type="ms"/>
+						<dateline>Dayton Tuesday 7. November 1843. Lebanon.</dateline>
+						<p><date>7. II. IV:45 </date>Tuesday</p>
+						<list>
+							<item>Corwin Thomas.</item>
+							<item>Burnet Jacob</item>
+							<item>Wright John C.</item>
+							<item>Storer Bellamy</item>
+							<item>Phillips</item>
+							<item>Odlin</item>
+							<item>Multitudes</item>
+						</list>
+						<p>My Catarrh allows me little sleep in the Night. I was up at two in the
+							morning, and again at a quarter before 5— All the morning there was
+							again a succession of visitors to shake hands; with the interval for
+							breakfast, a walk round the city, and two calls at the house of <persRef
+								ref="u">M<hi rend="superscript">r</hi> Phillips</persRef>, a wealthy
+							citizen of the place, who together with <persRef ref="u">M<hi
+									rend="superscript">rs</hi> Phillips</persRef>, and their Son in
+							Law, <persRef ref="u">M<hi rend="superscript">r</hi> Odlin</persRef>
+							entertained us with the most cordial hospitality. Many Ladies called at
+								M<hi rend="superscript">r</hi> Phillips’s while we were there, with
+							whom we shook hands.— At 11. O’Clock we left Dayton, and rode 22 miles
+							to Lebanon; before reaching which we were met by a large deputation from
+							the Astronomical Society of Cincinnati—consisting of <persRef
+								ref="burnet-jacob">judge Burnet</persRef>, <persRef
+								ref="wright-john">M<hi rend="superscript">r</hi> John C.
+								Wright</persRef> and others— Also by a carriage and escort with
+							which we entered Lebanon in procession, where <persRef
+								ref="corwin-thomas">M<hi rend="superscript">r</hi> Thomas
+								Corwin</persRef>, heretofore a distinguished member of the house of
+							Representatives of the United States, and late Governor of the State of
+							Ohio, welcomed me, at the Presbyterian church; by an address of splendid
+							eloquence— These premeditated addresses by men of the most consummate
+							ability, and which I am required to answer off hand without an instant
+							for reflection, are distressing beyond measure, and humiliating to
+							agony— After these ceremonies, we walked in procession to the hotel,
+							where crowds met and followed us— <persRef ref="storer-bellamy">M<hi
+									rend="superscript">r</hi> Bellamy Storer</persRef> came in from
+							Cincinnati, and sundry others.— Through the whole evening there came a
+							succession of visitors, among whom many Ladies— Supper—from which I
+							retired early worn out with fatigue— Judge Burnet gave me a copy of the
+							address which he proposes to make to me in the name of the Astronomical
+							Society.— <persRef ref="johnson-william4">W. C Johnson</persRef> read to
+							me the part of my manuscript Oration which I propose to deliver— A young
+							Quaker limner of 19 or 20., took an egregious caricature likeness of me
+							in pencil and told me that he took it for the bold, and intrepid manner
+							in which I had defended and sustained the right of petition; for which I
+							thanked him.— Afterwards he said another idea had occurred to him; which
+							was, that if I would adhere with patience and perseverance to the
+							principles that I have asserted and maintained, all would ultimately be
+							well.— I told him I thanked him for his advice and hoped to profit by
+							it— This dialogue was exceedingly diverting to <persRef
+								ref="greene-william">M<hi rend="superscript">r</hi> Green</persRef>,
+							who was present— The activity and unceang attentions of this gentleman
+							since he joined us, have alleviated much my anxiety; but my catarrh, and
+							excessive kindness drive me to despair.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-08">
+					<head>8 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-08"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="126" type="ms"/>
+						<dateline>Lebanon. Wednesday 8. November 1843. Cincinnati.</dateline>
+						<p><date>8. IV— V:45. </date>Wednesday.—</p>
+						<p>I awoke and rose at four—but returned to bed and lay without sleeping
+							till a quarter before six. We breakfasted at Lebanon, and proceeded 22
+							miles to Cincinnati— We had now with us a numerous committee from the
+							astronomical Society and on approaching the City met a large Cavalcade,
+							with several Carriages, the <persRef ref="spencer-henry">Mayor of
+								Cincinnati</persRef> and <persRef ref="mitchel-ormsby">professor O.
+								M. Mitchel</persRef>. I descended from the Stage and was conducted
+							to an elegant open Barouche with four horses, in which I took a seat
+							with <persRef ref="burnet-jacob">judge Burnet</persRef> the Mayor of the
+							City and professor Mitchel— The day was fine, and the Sun shone bright,
+							but Cincinnati is embosomed in a circle of steep and lofty hills, at the
+							turn of a corner in descending one of which the pole of our carriage
+							snap’d short off and we were obliged to pass into an ordinary barouche
+							and pair— An immense crowd of people followed us through the Streets, to
+							the Henrie house in third Street, kept by <persRef ref="u">Major
+								Henry</persRef> where lodgings were provided for us. In front of
+							this house there is a large balcony overlooking the street upon which
+								M<hi rend="superscript">r</hi> Spencer the Mayor, delivered a
+							complimentary address—welcomed me to the City, and introduced me to the
+							assembled multitude, who answered by deafening shouts of applause— My
+							answer was flat, stale and unprofitable, without a spark of eloquence or
+							a flash of oratory—confused—incoherent—muddy, and yet received with new
+							shouts of welcome— The crowd then dispersed; but a continual succession
+							of visitors beset my chamber till late in the evening leaving scarcely
+							an interval for dinner and tea— The arrangements for laying the corner
+							stone of the Observatory, and for the delivery of my Oration to-morrow
+							were concerted, with Professor Mitchel, judge Burnet, and <persRef
+								ref="greene-william">M<hi rend="superscript">r</hi>
+							Greene</persRef>—but the address on the spot, in the act of laying the
+							corner stone, was not yet prepared— Worn down with fatigue anxiety and
+							shame as I was, and with the oppression of a catarrhal load upon my
+							lungs, I sat up till one in the morning writing the address, which from
+							utter exhaustion I left unfinished and retired to a sleepless bed. I
+							fear I am not duly grateful to divine Providence for the blessing of
+							these demonstrations of kindness and honour from my Countrymen, but I
+							dread still more the danger of being pampered and elated into vanity by
+							them.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-09">
+					<head>9 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Temperance Movement</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="127" type="ms"/>
+						<dateline>Cincinnati Thursday 9. November 1843.</dateline>
+						<p><date>9. IV. </date>Thursday</p>
+						<p>I rose again at four, and before breakfast, finished the address to be
+							delivered at the laying of the corner stone— A succession of visitors,
+							invitations and deputations ensued till ten O’Clock when a dense crowd
+							of people gathered in the Street fronting the Henry house, and the
+							procession of the members of the Astronomical Society was formed— An
+							open Barouche with four horses was at the door; into which I entered
+							with <persRef ref="burnet-jacob">judge Burnet</persRef> the President of
+							the Society, <persRef ref="mitchel-ormsby">Professor O. M.
+								Mitchel</persRef>, and<space/>. This was followed by other Carriages, an
+							escort of Military companies with a band of music, and an innumerable
+							crowd of people. As we entered the Carriage it began to rain, and we
+							were obliged to raise the sides over our heads for shelter, and exclude
+							the sight of me from the people and of the people from me— The
+							procession marched round sundry streets, the rain increasing till it
+							poured down in torrents. Yet the throng in the Streets seemed not at all
+							to diminish— It looked like a sea of mud— The ascent of the hill was
+							steep and slippery for the horses, and not without difficulty attained—
+							The summit of the hill was a circular plain of which the corner stone
+							was the centre. At the circumference, a stage was erected from which my
+							discourse was to have been delivered; but the whole plain was covered
+							with an auditory of Umbrella’s instead of faces. It was then determined
+							that the discourse should be delivered to morrow morning in the
+							Westleyan Methodist chapel, and the corner stone now laid; which
+							ceremony I performed; and read the address which I had written last
+							evening and this morning, to which the circle of hearers gathered around
+							responded by three hearty cheers— My manuscript was so defaced by the
+							rain, that it was scarcely illegible— The procession then dispersed and
+							the Barouche returned and landed me at the Henrie house, leaving the
+							only part of the ceremony important to me still to be performed— In the
+							evening there was a temperance tea-party given by the Ladies of
+							Cincinnati, and to which I had been invited by <persRef
+								ref="burnet-rebecca">M<hi rend="superscript">rs</hi>
+								Burnet</persRef>, <persRef ref="staughton-louisa">M<hi
+									rend="superscript">rs</hi> Staughton</persRef> and <persRef
+								ref="beecher-lydia">M<hi rend="superscript">rs.</hi>
+								Beecher</persRef>.— It was held in a large theatre into which an old
+							dwelling house of judge Burnet had been turned. I walked to it with
+							judge Burnet, between a double line of a torch light procession of
+							firemen— <persRef ref="wright-john">M<hi rend="superscript">r</hi> John
+								C. Wright</persRef> addressed me and presented me to the assembled
+							Ladies— I answered.— <persRef ref="storer-bellamy">M<hi
+									rend="superscript">r</hi> Bellamy Storer</persRef> made a
+							flowery speech, and <persRef ref="beecher-lyman">D<hi rend="superscript">r.</hi>
+								Beecher</persRef> closed with a benediction. There was a sort of
+							subterranean conveyance to the supper room which was crowded. I walked
+							home with M<hi rend="superscript">r</hi> Wright.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-10">
+					<head>10 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>African Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="128" type="ms"/>
+						<dateline>Cincinnati Friday 10— November 1843.</dateline>
+						<p><date>10. III— IV:30. </date>Friday</p>
+						<p>Breakfasted with <persRef ref="jones-john11">M<hi rend="superscript"
+									>r</hi> John D. Jones</persRef>, one of the members of the
+							Committee of the Astronomical Society who went to meet me at Cleveland
+							and returned to Columbus where we met— <persRef ref="greene-william"
+									>M<hi rend="superscript">r</hi> Greene</persRef> walked with me
+							to his house, which is handsome and furnished with elegance without
+							ostentation— <persRef ref="greene-abby">His wife</persRef> is a
+							handsome, middle aged woman of plain unaffected manners, and they have a
+							graduation of seven fine boys, with a very likely prospect of having
+							seven more—a party of ten or 12 of M<hi rend="superscript">r</hi>
+							Jones’s friends partook with us of the breakfast— I returned to the
+							Henrie house whence at 10. O’Clock the procession of the Astronomical
+							Society went to the Westleyan Methodist chapel, the largest church in
+							the City— There, after a fervent prayer by <persRef ref="wilson-james6"
+									>D<hi rend="superscript">r</hi> Wilson</persRef>, <persRef
+								ref="burnet-jacob">judge Burnet</persRef> delivered an address of
+							about half an hour’s duration; with some enlargement of the copy which
+							he communicated to me at Lebanon— After a very brief action of thanks to
+							him and to the Society for this address, I delivered about one half of
+							the Oration which I had written, and it was well received. The house was
+							full and overflowing— I spoke nearly two hours, without a symptom of
+							impatience or inattention of the Auditory.— Resolutions of thanks to me
+							and to judge Burnet were adopted by the Astronomical Society with
+							requests of copies for publication—and a Resolution that the Observatory
+							hill should henceforth be called Mount Adams.— I then shook hands with
+							the members of the Astronomical Society, and all others in the church
+							who desired it and returned to the Henrie house— A crowd of visitors
+							followed— <persRef ref="morehead-james">Governor Moorhead</persRef> and
+								<persRef ref="southgate-william">M<hi rend="superscript">r</hi>
+								Southgate</persRef>, gave me urgent invitations to visit Covington,
+							which I promised to do next Monday morning— <persRef ref="rariden-james"
+									>M<hi rend="superscript">r</hi> Rariden</persRef> with a large
+							deputation from Wayne County Indiana, personally and in writing gave me
+							an earnest invitation on there. <persRef ref="hendricks-william"
+								>Governor Hendricks</persRef> gave me a separate call— Deputations
+							from Louisville and Lexington Kentucky came also. A Sub-committee from a
+							Committee of 15 of the coloured people came and enquired when I would
+							receive them and I appointed to morrow at 10. We dined at <persRef
+								ref="pendleton-nathanael">M<hi rend="superscript">r</hi> John G.
+								Pendleton’s</persRef> with a party of about 20. A splendid
+							entertainment in the highest style— M<hi rend="superscript">r</hi>
+							Pendleton lives in princely State He has <persRef
+								ref="bowler-susan;dandridge-martha">two daughters</persRef> married,
+							and <persRef
+								ref="pendleton-george;pendleton-elliott;pendleton-nathaniel2;pendleton-edmund3"
+								>several Sons</persRef>— <persRef ref="pendleton-anne">M<hi
+									rend="superscript">rs</hi> Pendleton</persRef> is a second wife;
+							very handsome, and many years younger than he. At 7 in the evening we
+							returned again to the Henrie house and thence, with <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Walker</persRef>, an impromptu
+							acquaintance, to the Theatre in the midst of the performance of the
+							Comedy of London Assurance— After hearing part of two acts without
+							understanding the plot of the play, we retired and went to a Ball at
+								<persRef ref="springer-reuben">M<hi rend="superscript">r</hi>
+								Springer’s</persRef> an opulent Citizen of Cincinnati— The Ball was
+							splendid—the banquet sumptuous and temperate and the company genteel and
+							lovely— Thus closes, blessed be God one memorable day of my life</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-11">
+					<head>11 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>African Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="129" type="ms"/>
+						<dateline>Cincinnati Saturday 11. November 1843—</dateline>
+						<p><date>11. IV:30: </date>Saturday.</p>
+						<p>We breakfasted this morning with <persRef ref="mitchel-ormsby">Professor
+								O. M Mitchel</persRef>— <persRef ref="mitchel-louisa">M<hi
+									rend="superscript">rs</hi> Mitchel</persRef> entertained us with
+							great Courtesy. They have seven children; 5 sons and 2 daughters The
+							party at breakfast was 15 and numerous visitors, chiefly ladies came to
+							meet us there— Professor Mitchel shewed me a Volume just received of the
+							observations at the imperial Observatory at Vienna— Also a large
+							transparency on a paste-board tablet, representing the planet Saturn, as
+							seen magnified through a large telescope— He said he had a number of
+							these transparent tables and called them his telescope— That he had
+							exhibited them at his astronomical Lectures to the great delight of
+							crowded auditories, and that they were the exciting causes of the
+							enthusiasm which led to the formation of the Society, and to their
+							undertaking to erect the Observatory here— Returning to the Henry house
+							at 10. O’Clock I received the large Committee of 15 of the coloured
+							people of Cincinnati— A <persRef ref="quarles-gideon">young
+								mulatto</persRef>, son of a <persRef ref="quarles-ralph">wealthy
+								Virginia planter</persRef>, but bearing the name of his negress
+							mother <persRef ref="langston-lucy">Langston</persRef>, addressed me in
+							their name in a speech of about 15 minutes, which I answered in 8. or
+							10.— My answer was unpremeditated but <persRef ref="cranch-edward"
+								>Edward Cranch</persRef> who was present reported it in substance
+							correctly for the Cincinnati Atlas, a daily Newspaper— This over I went
+							to the exhibition of the horticultural Society accompanied by their
+							President <persRef ref="buchanan-robert2">M<hi rend="superscript">r</hi>
+								Buchanan</persRef>. The Show of Apples was very fine—that of pears
+							good, but with little variety—grapes next to nothing— Shagbark nuts
+							indifferent— No others— Native wines, much like <persRef
+								ref="adlum-john">Adlum’s</persRef>, though I was told that <persRef
+								ref="burnet-jacob">judge Burnet</persRef> makes a thousand barrels
+							of wine a year— The exhibition of flowers was dreary. Our next movement
+							was to the house of <persRef ref="longworth-nicholas">M<hi
+									rend="superscript">r</hi> Longworth</persRef>, the wealthy
+							patron of the Arts—of <persRef ref="powers-hiram">Powers</persRef> and
+								<persRef ref="clevenger-shobal">Clevenger</persRef>, and of the
+							projected Observatory, any deficiency of the funds for the establishment
+							of which by the contributions of others he has promised to supply. We
+							saw at his house a marble bust of <persRef ref="ginevra"
+								>Genevra</persRef> by Powers—a large picture of <persRef
+								ref="laertes">Laertes</persRef> with the dead body of <persRef
+								ref="ophelia">Ophelia</persRef>, by <persRef ref="west-benjamin"
+								>West</persRef>. A copy of the Matron of the chair, and sundry other
+							pictures— A bouquet of flowers was presented to me by a Lady at the
+							horticultural exhibition, and an assortment of fine apples with some
+							nuts were sent to me by the President M<hi rend="superscript">r</hi>
+							Buchanan— At 12 I attended a meeting of the Bar of Hamilton County, at
+							which <persRef ref="este-david">judge Este</persRef> delivered a highly
+							complimentary address which I answered off hand as desparation dictated—
+								<persRef ref="southgate-william">M<hi rend="superscript">r</hi>
+								Southgate</persRef> of Covington was there— Dinner given by the
+							members of the bar at 3. <persRef ref="wright-john">judge John C.
+								Wright</persRef> presided— Toasts— Speech by judge Burnet— My
+							Answer— <persRef ref="storer-bellamy">Bellamy Storer</persRef>— Retired
+							early— Gave professor Mitchel my two manuscripts of the oration.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-12">
+					<head>12 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>African Americans</subject>
+						<subject>Unitarianism</subject>
+						<subject>Religion</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="130" type="ms"/>
+						<dateline>Cincinnati, Sunday 12. November 1843.</dateline>
+						<p><date>12. II.45— IV:30. </date>Sunday</p>
+						<p>When we arrived here last Wednesday, the house was so full that there was
+							neither chamber nor bed for <persRef ref="benjamin2">Benjamin</persRef>,
+							and he passed the night in a chair. Thursday Night he asked leave to
+							sleep on a Settee in my Bed chamber, to which I readily assented Friday,
+							they gave him a chamber and a bed, but he was taken suddenly very ill in
+							the Night— When I went out to Breakfast he had not come into my chamber
+							but I knew not he was sick, till on returning to receive the deputation
+							from the coloured people, I found him lying on the settee, and on
+							enquiry, he told me he was very sick— I requested that a physician might
+							immediately be sent for, which was by the care of <persRef
+								ref="grinnell-joseph">M<hi rend="superscript">r</hi>
+								Grinnell</persRef> and <persRef ref="johnson-william4">W. C.
+								Johnson</persRef>, done; and the Doctor ordered him to bed and
+							blistered him— This morning I went to his chamber to see him, but he was
+							asleep, and this afternoon he was out again, convalescent— It was a
+							slight attack of Cholera morbus— We had been invited to breakfast this
+							morning with <persRef ref="u">M<hi rend="superscript">r</hi>
+								Guilford</persRef> a respectable merchant who has <persRef ref="u;u"
+								>two beautiful daughters</persRef>— We declined the invitation, but
+							visited him on our way with <persRef ref="greene-william">M<hi
+									rend="superscript">r</hi> Greene</persRef> to the Unitarian
+							Church— This can indeed scarcely be called a church— The person
+							officiating is a young man names <persRef ref="perkins-james3">James H.
+								Perkins</persRef>, a son of <persRef ref="perkins-samuel">Samuel G.
+								Perkins</persRef> of Boston He had neither the dress nor the
+							deportment of a Minister of the gospel. He read a few of the prayers of
+							the Boston Stone chapel liturgy— Gave out to be sung two hymns of
+								<persRef ref="greenwood-francis">Greenwood’s</persRef> collection,
+							and without naming a text, delivered a short extemporaneous discourse on
+							the Reverence due to great men.— He was very short, and announced that
+							he would this evening deliver a discourse on the character of <persRef
+								ref="michelangelo">Michaël Angelo</persRef>— From the church we went
+							immediately to a cold dinner at <persRef ref="burnet-jacob">judge
+								Burnet’s</persRef>— <persRef ref="burnet-rebecca">M<hi
+									rend="superscript">rs</hi> Burnet</persRef> is an elderly Lady,
+							very intelligent and evidently an excellent housewife— They have several
+							children, all grown up and live in a Style of elegance without
+							ostentation— One married son, lives with them. A beautiful marble bust
+							of him—by <persRef ref="powers-hiram">Powers</persRef> is in the
+							parlour. After dinner we walked round and viewed the rising marble walls
+							of a Roman catholic cathedral.— We then went to the Presbyterian Church
+							and heard <persRef ref="beecher-lyman">D<hi rend="superscript">r</hi>
+								Lyman Beecher</persRef> preach from Psalm 17.19.— We went home, and
+							soon out again to tea, at <persRef ref="cranch-edward">M<hi
+									rend="superscript">r</hi> Edward Cranch’s</persRef>— Here we met
+								<persRef ref="u">M<hi rend="superscript">r</hi> Wood</persRef>,
+								<persRef ref="cranch-bertha">his wife’s</persRef>
+							<persRef ref="u">mother</persRef>, his wife’s sister, and several other
+							Ladies, and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Walker</persRef>. After tea, we went again to the unitarian church,
+							and heard M<hi rend="superscript">r</hi> Perkins’s discourse on the
+							character of Michael Angelo; who he said was a protestant Saint— And he
+							announced that the Lecture next Sunday Evening would be on the character
+							of <persRef ref="more-thomas">Sir Thomas More</persRef>. The other
+							services of the evening were like those of the morning.— Edward Cranch
+							sent me the numbers of the Cincinnati Atlas for the week— He has
+							reported in them all my ex tempore’s; a precious collection of nothing.—
+							The last English Steamer arrived at Boston, brings <persRef
+								ref="oconnell-daniel">Daniel O’Connell’s</persRef> answer to a
+							Slavish Address of Irish repealers at Cincinnati.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-13">
+					<head>13 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>American Revolution</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="131" type="ms"/>
+						<dateline>Cincinnati Monday 13. November 1843. Covington. Ohio
+							River</dateline>
+						<p><date>13. III.15.— IV:45. </date>Monday.</p>
+						<p>With <persRef ref="greene-william">M<hi rend="superscript">r</hi>
+								Greene</persRef>, and <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Foote</persRef>, I visited one of the Common schools of
+							the city, for children from 4 to 16 years of age— There are 450 children
+							at this school, and there are nine such in the City— Returning we stop’d
+							to visit the houses of M<hi rend="superscript">r</hi> Greene and M<hi
+								rend="superscript">r</hi> Foote called the twinhouses— A deputation
+							from the inhabitants of Covington, of which <persRef
+								ref="morehead-james">Governor Moorhead</persRef> and <persRef
+								ref="southgate-william">M<hi rend="superscript">r</hi>
+								Southgate</persRef> were members came at 10 O’Clock, took me into an
+							open barouche and 4, and took me in the ferry boat over the river Ohio
+							to Covington in Kentucky. We were received at the landing by an immense
+							crowd which immediately formed a procession and marched with a military
+							company and martial music to the episcopal church, where I was addressed
+							with eloquent panegyric by Governor Moorhead; and answered to the best
+							of my ability— The address was preceded by a fervent prayer from the
+							Minister of the Church— The shaking of hands with men, women and
+							children followed— A very pretty woman as she took my hand whispered—
+							The first kiss in Kentucky; which I did not refuse.— Returning to
+							Cincinnati I stop’d to visit <persRef ref="bedinger-george">Col<hi
+									rend="superscript">l</hi> Bedinger</persRef> an Officer of the
+							Revolutionary Army in the War for Independence, who told me he had been
+							at the battle of Bunker’s hill, and with <persRef
+								ref="washington-george">Washington</persRef> at Dorchester heights—
+							He lives with his Son <persRef ref="bedinger-benjamin">D<hi
+									rend="superscript">r</hi> Bedinger</persRef>, but is much
+							disabled. Returning to Cincinnati, I rode with <persRef
+								ref="burnet-jacob">judge Burnet</persRef> and <persRef
+								ref="mitchel-ormsby">professor Mitchel</persRef> to the summit of
+							Mount Adams, the spot where I laid last Thursday the corner Stone of the
+							Astronomical Observatory.— The prospect from it now, of the city in the
+							valley, and of the surrounding hills, with the windings of the Ohio
+							river, is eminently beautiful— It is 450 feet above the river, and no
+							better site could have been selected for the building to be erected
+							there— Before returning to the Henrie house we stop’d at a Daguerrotype
+							Office where three attempts were made to take my likeness— I believe
+							neither of them— Our friends dined with us and we took leave of them—
+							About 4. p.m. we embarked in the Steamer Benjamin Franklin N. 6.
+								<persRef ref="simmons-blair">Captain Blair Simmons</persRef> for
+							Pittsburgh, Pennsylvania. A vast concourse followed us to the vessel—
+							The crowd at the landing was great; and just as the Sun sank behind the
+							hills the boat parted from the wharf, and I addressed a few words of
+							final thanks and parting blessing to the people, to which they responded
+							by repeated shouts of farewell— My duty has thus been performed, and I
+							am now upon my return to my home, and to the discharge of other high
+							obligations— There was a splendid evening and a magnificent display of
+							the canopy of Heaven— <persRef ref="u">Col<hi rend="superscript">l.</hi>
+								Anderson</persRef> goes with us part of the way under a charge from
+							the Astronomical Society of which he is a member to direct the movements
+							of the boat— We have many fellow passengers; among whom a <persRef
+								ref="u">Son</persRef> of <persRef ref="sturgis-russell">Russell
+								Sturges</persRef> of Boston— Several Ladies, and we are not excluded
+							from their cabin. Professor Mitchel promised to include in the
+							publication the close of my Speech at Dedham—</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-14">
+					<head>14 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Steam Power</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="132" type="ms"/>
+						<dateline>Ohio river. Maysville. Portsmouth. Tuesday 14. November
+							1843—</dateline>
+						<p><date>14. IV.30. </date>Tuesday.</p>
+						<p>I have one of the State rooms in the Lady’s cabin for my bed chamber; but
+							it is scarcely ten feet square in size, and has two beds, one of which
+							is occupied by <persRef ref="benjamin2">Benjamin</persRef>.— The Night
+							was nearly sleepless, and I was of course unfitted through this day for
+							reading. I had received warm invitations from Maysville Kentucky, and
+							from Portsmouth Ohio to visit them and receive a welcome.— Immediately
+							after breakfast this morning, we reached Maysville 65 miles from
+							Cincinnati— On landing, we proceeded with a dense crowd of people to a
+							hotel where we breakfasted again, and then repaired with the Mayor and a
+							large deputation of the citizens to the Methodist Church. There, I was
+							welcomed to the city and introduced to the people in a highly
+							complimentary address by the Mayor, which I answered, and as I had done
+							at Covington, included in my remarks a just tribute of respect to
+								<persRef key="clay-henry">M<hi rend="superscript">r</hi>
+								Clay</persRef>. And here I solemnly declared that the charges of
+							corrupt bargaining which had been trump<unclear>ed</unclear> up against him and me were
+							utterly without foundation. There has been a cordiality in my reception
+							at Covington, and here, not surpassed even at Cincinnati But the impulse
+							is from the friends of M<hi rend="superscript">r</hi> Clay, and all the
+							affectionate part of these caresses are meant for him— The mayor thanked
+							me warmly for my answer and requested me at my leisure to furnish him
+							with a copy of it for publication— I met here <persRef
+								ref="andrews-landaff">M<hi rend="superscript">r</hi> Landaff W.
+								Andrews</persRef>, a member of the last Congress from this District
+							but who failed to obtain a re-election— Also <persRef
+								ref="russell-william">M<hi rend="superscript">r</hi> William
+								Russell</persRef>, late member from the Portsmouth District, Ohio;
+							who came with a deputation from Portsmouth to accompany me thither.— I
+							reimbarked, after shaking hands with all the People at the Church, and
+							parted from Maysville, with firing of guns, ringing of bells, waving of
+							handkerchiefs and huzza’s. Idle morning.— I sought an hour of repose on
+							my bed, during which a Steamer from Pittsburgh passed by us, and saluted
+							with 3 cheers— At 1/2 past 3. p.m. we reached Portsmouth 55 miles from
+							Maysville, and went again through the same ceremony— A procession to a
+							market house, where the women were within the house and the men without,
+							where on a Platform between the two, <persRef ref="peck-william2">M<hi
+									rend="superscript">r</hi> Peck</persRef> read me an address of
+							three long pages, to which I gave a short answer.— After the shaking of
+							hands we returned in procession to the Steamer. Here <persRef ref="u"
+									>Col<hi rend="superscript">l.</hi> Anderson</persRef>, <persRef
+								ref="macy-john">M<hi rend="superscript">r</hi> J. P. Macy</persRef>,
+								M<hi rend="superscript">r</hi> William Russell, and the deputation
+							left us— We have numerous fellow passengers, men and women— I passed
+							great part of the day in the Lady’s cabin to which men are here
+							admitted. Of the passengers in the Lady’s cabin, are <persRef ref="u;u"
+									>M<hi rend="superscript">r</hi> and M<hi rend="superscript"
+									>rs</hi> Hamilton</persRef>, of hanging rock— <persRef ref="u"
+									>M<hi rend="superscript">rs</hi> Stillwell</persRef> from
+							Vicksburg where <persRef ref="u">her husband</persRef> remains— She is
+							going to Philadelphia— <persRef ref="rhey-mary">Miss Mary Emma
+								Rhey</persRef> of Pittsburgh, with <persRef ref="u">her
+								brother</persRef> and <persRef ref="mceleavey-amanda">Miss Amanda
+								M’Eleavey</persRef> of Newcastle Pennsylvania 25 miles from
+							Pittsburgh— With these Ladies, <persRef ref="johnson-william4">M<hi
+									rend="superscript">r</hi> Johnson</persRef> soon made us
+							familiar by whist parties, and Miss M’Eleavy, a beautiful girl of about
+							20, observing me dispirited, came and sat down by me at my request and
+							cheered me with several delightful songs—</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-15">
+					<head>15 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Westward Exploration and Expansion/Westward Migration/Manifest Destiny</subject>
+						<subject>Native Americans</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="133" type="ms"/>
+						<dateline>Ohio River. Wednesday 15. November 1843. Marietta.</dateline>
+						<p><date>15. I— IV. VI. </date>Wednesday</p>
+						<p>My cough, disables me for sleeping, almost the whole night— I had retired
+							to bed at 1/2 past 9 last evening— At one this morning I awoke, and had
+							no prospect of further sleep till day-light—nor then— So I rose—dressed
+							myself and found in the Lady’s cabin, a table and candles, which enabled
+							me to write—and I wrote accordingly till 4— I have fallen in spite of
+							every possible exertion eight days in arrear upon this journal, and must
+							recover them by short minutes kept from day to day— At 4 I returned to
+							bed, and lay without sleeping till six— They breakfast on board the boat
+							at seven— It rained almost the whole of this day—confining us to the
+							cabin, and depriving us of the sight of most of the views on the river—
+							Our course up the river is as follows—</p>
+						<table>
+							<head>From Cincinati to</head>
+							<row>
+								<cell>Maysville</cell>
+								<cell>65 miles</cell>
+								<cell></cell>
+								
+							</row>
+							<row>
+								<cell>Portsmouth</cell>
+								<cell>50 —</cell>
+								<cell>115</cell>
+								
+							</row>
+							<row>
+								<cell>Galiopolis</cell>
+								<cell>85 —</cell>
+								<cell>200</cell>
+								
+							</row>
+							<row>
+								<cell>Marietta</cell>
+								<cell>100</cell>
+								<cell>300</cell>
+								
+							</row>
+							<row>
+								<cell>Wheeling</cell>
+								<cell>90</cell>
+								<cell>390</cell>
+								
+							</row>
+							<row>
+								<cell>Pittsburgh</cell>
+								<cell>90</cell>
+								<cell>480</cell>
+								
+							</row>
+						</table>
+						<p>We passed by Galiopolis about 4 this morning, without seeing it, and
+							reached Marietta, at half past 3 this afternoon. I had received
+							invitations to visit Marietta, and landed there with the usual
+							demonstrations of welcome, a great crowd of people—guns fired; bells
+							rung and a procession to the presbyterian church, where an address of
+							welcome was read by <persRef ref="u">judge Putnam</persRef> a son of
+								<persRef ref="putnam-rufus">General Rufus Putnam</persRef>— In my
+							answer, referring to the interest I had always taken in the city of
+							Marietta, I related the incident of my visit to the <persRef
+								ref="cutler-manasseh">Rev<hi rend="superscript">d.</hi> Manasseh
+								Cutler</persRef> at his house in Ipswich hamlet, after his return
+							from his visit to Marietta in 1788. and of my conversation with him
+							concerning the Western Country at that time. And I said that from the
+							time of that conversation, I had taken a deep interest in the whole West
+							and watched its progress step by step to its present great and
+							flourishing condition— These remarks were received apparently with
+							lively satisfaction, and the shaking of hands, was with a heartier
+							squeeze than almost anywhere else. After this ceremony, I took a short
+							ride round the city, to visit the remarkable Indian Mounds in this
+							place— There is no tradition indicating when, or by whom or for what
+							purpose they were constructed, but they are very extensive and the
+							central mound is about forty feet high, two hundred feet square at the
+							base, and one hundred at the top, perfectly formal in its symmetry—
+							There is an Article upon these works, by D<hi rend="superscript">r</hi>
+							Manasseh Cutler, in the first volume of the transactions of the American
+							Academy of Arts and Sciences. When we returned to the Steamer, a
+							committee of 3 members, <persRef ref="cutler-ephraim">Ephraim
+								Cutler</persRef>
+							<persRef ref="emerson-caleb">Caleb Emerson</persRef>, and <persRef
+								ref="barker-joseph3">Joseph Barker</persRef> embarked with us to
+							accompany us to Pittsburgh.— We became acquainted with more of our
+							fellow passengers— <persRef ref="u;u">M<hi rend="superscript">r</hi> and
+									M<hi rend="superscript">rs</hi> Rogers</persRef> with a boy of
+							10 or 12 years, and <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Harper</persRef> of Baltimore— Cards— Whist— I left the table to
+							converse with the Committeemen from Marietta. Lines to <persRef
+								ref="mceleavey-amanda">Miss Amanda M’Eleevy</persRef>. <persRef
+								ref="u">M<hi rend="superscript">rs</hi> Stillwell</persRef> takes
+							leave to land at Wheeling with a first and a last kiss.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-16">
+					<head>16 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Temperance Movement</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="134" type="ms"/>
+						<dateline>Ohio river Thursday 16. November 1843. Pittsburgh.</dateline>
+						<p><date>16. II.50. </date>Thursday.</p>
+						<list>
+							<item>Denny Harmar</item>
+							<item>Bakewell</item>
+							<item>Eichbaum</item>
+							<item>Darragh</item>
+							<item>Stevens</item>
+							<item>Brentlinger William</item>
+							<item>Hay Alexander</item>
+							<item><persRef ref="bakewell-thomas">Bakewell</persRef>—the Son</item>
+							<item><persRef ref="forward-walter">Forward Walter</persRef></item>
+							<item><persRef ref="u">Austin</persRef></item>
+							<item><persRef ref="u">Howard Captain</persRef></item>
+							<item><persRef ref="u">M<hi rend="superscript">rs</hi>
+								Howard</persRef></item>
+							<item><persRef ref="u">Taylor</persRef></item>
+						</list>
+						<p>Between 2 and 3 this morning we passed by Wheeling in Virginia, where
+							many of our fellow passengers left us, and the deputation from
+							Pittsburgh, Mess<hi rend="superscript">rs.</hi>
+							<persRef ref="denny-harmar">Denny</persRef>, <persRef
+								ref="bakewell-benjamin">Bakewell</persRef>, <persRef ref="u"
+								>Eichbaum</persRef>, <persRef ref="darragh-cornelius"
+								>Darragh</persRef> and <persRef ref="u">Stevens</persRef> came, on
+							board to meet us.— As we passed by Wheeling a gun was fired from our
+							boat, and returned from the shore— There had been talk at Wheeling of
+							inviting me to the place and giving me a reception— Many persons wished
+							it and many thought an invitation had been sent to me but there was
+							none— We passed equally by Steubenville in Ohio, and Beaver in
+							Pennsylvania without notice.— The deputation from Pittsburgh had
+							expected our arrival there to morrow morning, and all the arrangements
+							had been made for a magnificent reception at that time Among the rest
+							all the fire company association had held meetings and passed sundry
+							Resolutions for having a grand display of their own; and <persRef
+								ref="brentlinger-william">M<hi rend="superscript">r</hi>
+								Brentlinger</persRef>, as a deputation a copy of their Resolutions
+							one of which was that I should be conducted to some public building
+							where I was to be addressed in their name, and should be requested to
+							deliver an Oration— And a temperance association, not to be behind hand
+							with the firemen, had held meetings, and chosen a deputation to invite
+							me to deliver an Oration upon Temperance— I delivered to M<hi
+								rend="superscript">r</hi> Brentlinger an answer declining to
+							pronounce the Oration to the Firemen. I shall take the same course with
+							the Temperance association— The Pittsburgh deputation were sadly
+							disconcerted at our arrival before the time, and seriously proposed that
+							we should land at Rapps settlement of Economy, pass the night there, and
+							proceed to Pittsburgh to morrow in another Steamer to be sent down for
+							us. But this project was abandoned, and at half past 3 in the afternoon
+							we landed at Pittsburgh There was a considerable crowd of People
+							assembled on the wharf to whom from the Steamer M<hi rend="superscript"
+								>r</hi> Harmar Denny introduced me by name, and who received me with
+							3 cheers.— The Mayor of the City <persRef ref="hay-alexander">M<hi
+									rend="superscript">r</hi> Alexander Hay</persRef> came on board
+							to meet me, and at my own request, walked with me to the Exchange Hotel,
+							followed by the crowd who were notified that the Procession and
+							Reception would take place, to morrow morning, as it was regulated by
+							the programme published in the newspapers of this day.— The multitude
+							then after three cheers dispersed; but individuals were pressing in the
+							whole evening. We had pressing Letters from <persRef
+								ref="mckennan-thomas">M<hi rend="superscript">r</hi>
+								M’Kennon</persRef> of Washington Pennsylvania, and from <persRef
+								ref="stewart-andrew">M<hi rend="superscript">r</hi> Andrew
+								Stewart</persRef> of Uniontown, to know the precise moment when we
+							shall arrive at those places. We first determined to go on Saturday to
+							Washington; and on Monday to Uniontown; but on remonstrances from M<hi
+								rend="superscript">r</hi> Denny we concluded to remain over the
+							Sunday at Pittsburgh, and to go on Monday to Washington, on Tuesday to
+							Uniontown, and we wrote accordingly— Wednesday to Cumberland— Thursday
+							home.</p>
+						<p/>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-17">
+					<head>17 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="135" type="ms"/>
+						<dateline>Pittsburgh Friday 17. November 1843.</dateline>
+						<p><date>17. IV— V.15. </date>Friday.</p>
+						<list>
+							<item>M’Candless</item>
+							<item>Deputations.</item>
+							<item><persRef ref="wilkins-william">Wilkins William</persRef></item>
+							<item><persRef ref="forward-walter">Forward Walter</persRef></item>
+							<item>Biddle Richard</item>
+							<item>Denny Harmar</item>
+							<item><persRef ref="wilson-james6">Wilson D<hi rend="superscript"
+									>r</hi></persRef></item>
+							<item>Multitudes</item>
+						</list>
+						<p>Debellare superbos— There is a special Providence in the fall of a
+							Sparrow; and were it not itself arrogant self-sufficiency in me to
+							believe, I should believe that this special Providence comes to pass for
+							the chastisement of my pride and Vanity— The Scene of laying the corner
+							Stone of the Astronomical observatory last week at Cincinnati, has been
+							repeated with still more mortifying circumstances this day at
+							Pittsburgh.— That Pageant was intended to promote the cause of Science
+							in the minds of the People— It had a moral purpose—an important end to
+							the attainment of which I heartily concurred— Had the day passed off
+							successfully and without accident, the impression left on the minds of
+							the Spectators and hearers would have been favourable to the
+							accomplishment of the undertaking and honorary to me— The inexorable
+							rain was literally a flood of cold water poured out on the whole
+							ceremony. All was disappointment— But my duty and the purpose of the
+							Society in their invitation to me were performed.— The Corner Stone of
+							the Astronomical Observatory was laid, with supplication by me to the
+							throne of Heaven that the erection of the building may be conducive to
+							the improvement of the condition of man upon Earth— It is not for man to
+							exult, even in his good intentions— It is his duty to bear
+							disappointment, even of the best purposes with resignation and
+							equanimity— The pageant of this day was of no earthly importance. It was
+							ostensibly all honorary to me.— I had been invited by the city
+							authorities to visit the city on my way to or from Cincinnati, and it
+							was a reception— A large procession, at the head of which I was
+							exhibited in a barouche with four handsome horses, accompanied by the
+							Mayor of the City <persRef ref="hay-alexander">M<hi rend="superscript"
+									>r</hi> Hay</persRef>. <persRef ref="denny-harmar">M<hi
+									rend="superscript">r</hi> Harmar Denny</persRef> and <persRef
+								ref="biddle-richard">M<hi rend="superscript">r</hi> Richard
+								Biddle</persRef>, started from the Exchange Hotel where we lodge,
+							with military companies, martial music, and all the companies of the
+							fireman’s association, in their respective showy and variegated
+							uniforms, traversed through the abundant mud streams all the principal
+							Streets of the City, with an heavy drenching rain pouring down all the
+							time— We returned to the same Exchange, whence from an open balcony,
+								<persRef ref="mccandless-wilson">M<hi rend="superscript">r</hi>
+								M’Candless</persRef> delivered by heart the welcoming address of
+							which he had sent me a copy. My answer was very short, apologizing for
+							having come before the time, and declaring my unwillingness to detain
+							them in the rain.— The procession then terminated; the crowd dispersed;
+							but came up in squads to my chamber to shake hands with me through the
+							whole day.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-18">
+					<head>18 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Temperance Movement</subject>
+						<subject>Slavery</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="136" type="ms"/>
+						<dateline>Pittsburgh Saturday 18. November 1843.</dateline>
+						<p><date>18. IV.45 </date>Saturday.</p>
+						<list>
+							<item>Denny Harmar</item>
+							<item>Biddle Richard</item>
+							<item>Grinnell Joseph</item>
+							<item>Bakewell</item>
+							<item>Lorenz</item>
+							<item>Howard Captain</item>
+							<item>Harding Captain</item>
+							<item>Ladies—visitors</item>
+							<item><persRef ref="u">Rhey M<hi rend="superscript">r</hi></persRef> and
+								family</item>
+							<item><persRef ref="campbell-archibald">Campbell
+								Archibald</persRef></item>
+							<item><persRef ref="harrod-mary2">M<hi rend="superscript">rs</hi>
+										Arch<hi rend="superscript">d.</hi> Campbell</persRef></item>
+							<item><persRef ref="hay-alexander">Hay Alexander</persRef></item>
+						</list>
+						<p>I had renewed applications yesterday from the fireman’s association, who
+							had determined at all events to have their torch light procession, and
+							equally resolved to have an Oration from me; but I again declined— I did
+							the same with the Temperance association, at the head of whose
+							deputation <persRef ref="wilkins-william">judge Wilkins</persRef> made
+							the application to me. Judge Wilkins is a member of the approaching
+							Congress elect, and told me he would leave home on Monday for
+							Washington, and offered me a seat in his carriage which I declined for
+							the engaments to visit <persRef ref="mckennan-thomas">M<hi
+									rend="superscript">r</hi> M’Kennon</persRef> and <persRef
+								ref="stewart-andrew">M<hi rend="superscript">r</hi>
+								Stewart</persRef>. I also received yesterday a large deputation from
+							the Liberty party with an address and a request that I would meet, and
+							address them.— This I declined on the ground of having been invited
+							here, by the concurrence of all parties, I am interdicted from
+							discoursing upon topics of deep party feeling—but in a speech of about
+							20 minutes, I gave my opinions without reserve on all the Slavery
+							questions now in agitation— One of the members of the deputation brought
+							me this day, a meagre and most imperfect abstract of part of my speech
+							which he proposes to publish as a report of the speech. I reminded him
+							of several most important omissions; and there were others which I did
+							not notice— I received yesterday and this day, Letters informing me of
+							my election as an honorary member of the Webster and Tilghman Literary
+							Societies; to which I answered by Letters of acceptance— We had last
+							evening a very elegant party and supper at <persRef ref="denny-harmar"
+									>M<hi rend="superscript">r</hi> Harmar Denny’s</persRef>— This
+							morning I wrote from the time of rising until 8. upon my journal; and
+							immediately after, with M<hi rend="superscript">r</hi> Denny, <persRef
+								ref="biddle-richard">M<hi rend="superscript">r</hi> Biddle</persRef>
+							and <persRef ref="grinnell-joseph">M<hi rend="superscript">r</hi>
+								Grinnell</persRef> I crossed the Monongahela, in the ferry boat, and
+							visited <persRef ref="lorenz-frederick">M<hi rend="superscript">r</hi>
+								Lorenz’s</persRef> Ironworks, and another establishment, where we
+							saw the process of rolling and hammering iron—and the work of the red
+							hot ball, hammered into a bloom, and the blast— Thence recrossing the
+							river we ascended to the top of the Court house whence beautiful
+							prospects were in view. The junction of the Monongahela and Allegany
+							rivers—the Allegany city itself, and the hills all around Our next visit
+							was to <persRef ref="u">Captain Howard</persRef> and the Iron ship on
+							the Stocks which he is building for the Government— We saw one of the
+							ribs of the ship fashioned from the Anvil— Thence we rode out to the
+							U.S. Arsenal, about 3 miles from the City where we were received and
+							temperately entertained by <persRef ref="harding-edward;harding-nancy"
+								>Captain and M<hi rend="superscript">rs</hi> Harding</persRef> The
+							River Allegany flows beautifully in front of the building, and there is
+							Washington’s Island.— I thought of my lamented nephew, <persRef
+								ref="adams-thomas2">Lieut<hi rend="superscript">t.</hi> T. B.
+								Adams</persRef> who was stationed three years. Returning to
+							Pittsburgh, we visited the cotton factory of <persRef
+								ref="bakewell-benjamin">M<hi rend="superscript">r</hi>
+								Bakewell</persRef>, and saw the spinning jennies, and heard the
+							rattling of the spindes and the looms— Returned to the Exchange hotel at
+							three.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-19">
+					<head>19 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Texas Annexation (1845)</subject>
+						<subject>Religion</subject>
+						<subject>Temperance Movement</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="137" type="ms"/>
+						<dateline>Pittsburgh Sunday. 19. November 1843.</dateline>
+						<p><date>19. IV— V.15. </date>Sunday.</p>
+						<list>
+							<item>Heron. Rev<hi rend="superscript">d</hi></item>
+							<item>Robinson Col<hi rend="superscript">l.</hi></item>
+							<item>M’Candless</item>
+							<item>Denny Harmar</item>
+							<item>Upfold Rev<hi rend="superscript">d.</hi></item>
+						</list>
+						<p>After returning to the Exchange Hotel at 3. p.m yesterday, I received the
+							visits of Ladies and gentlemen indiscriminately, and shook hands with
+							them all. Among the persons who have been the most kindly attentive to
+							me here has been <persRef ref="forward-walter">M<hi rend="superscript"
+									>r</hi> Walter Forward</persRef>, the late Secretary of the
+							Treasury. He has two or three times mentioned to me that there would be
+							some movement of Memorial here against the annexation of Texas to this
+							Union. But I did not trust myself to speak freely with him— M<hi
+								rend="superscript">r</hi> Forward is a worthy well-meaning man, of
+							considerable talent, and too pliable disposition— Not the Man of Iron
+							mould that the Times require— Last evening after dark I went with
+								<persRef ref="grinnell-joseph">M<hi rend="superscript">r</hi>
+								Grinnell</persRef> and <persRef ref="johnson-william4">M<hi
+									rend="superscript">r</hi> Johnson</persRef> to visit <persRef
+								ref="rhey-mary">Miss Rhey</persRef> one of our traveling companions
+							from Cincinnati, who had sent me a beautiful bouquet of flowers, and had
+							invited us, for last or this evening.— We saw <persRef ref="u">her
+								father</persRef>
+							<persRef ref="u">mother</persRef>, <persRef ref="u">brothers</persRef>
+							and sisters, a respectable family in private life. She was not at home,
+							when we called, but came in as we were taking leave.— We were followed
+							in the dark by a number of persons from the exchange Hotel to M<hi
+								rend="superscript">r</hi> Rhey’s door.— We went to the Monongahela
+							house to visit <persRef ref="harrod-mary2">M<hi rend="superscript"
+									>rs</hi> Campbell</persRef>, and had not been there ten minutes,
+							before <persRef ref="hay-alexander">M<hi rend="superscript">r</hi>
+								Hay</persRef> the Mayor of the City, rushed in, and said that the
+							fireman’s Association torch light procession were coming having
+							collected and exhibited themselves in front of the Exchange hotel and
+							finding me not there had followed me down. I went out upon the balcony
+							and the Mayor announced me to the company.— I addressed them in a few
+							words of thanks for the honour done me by them, and of excuse from
+							physical disability, for declining a large discourse—after which they
+							let me off with three bouncing cheers, while I heard a single voice
+								saying—M<hi rend="superscript">r</hi> Adams give us a speech— They
+							then strolled off to <persRef ref="mccandless-wilson">M<hi
+									rend="superscript">r</hi> M’Candless’s</persRef> house, where
+							they called him out and exacted from him, a speech which he gave them
+							and they dispersed— This morning <persRef ref="denny-harmar">M<hi
+									rend="superscript">r</hi> Denny</persRef> came in his carriage,
+							and took me to the Presbyterian Church, where <persRef
+								ref="herron-francis">M<hi rend="superscript">r</hi> Heron</persRef>
+							preached from Matthew 5.14. “Ye are the light of the world.” We dined in
+							the city of Allegany, with <persRef ref="robinson-william4">Col<hi
+									rend="superscript">l.</hi> Robinson</persRef> late an Agent of
+							the U.S. Government to contract a loan in Europe, which did not succeed—
+							We had a temperance dinner— No wine— And saw <persRef
+								ref="robinson-mary">his wife</persRef>—<persRef
+								ref="robinson-francis;robinson-alexander;robinson-william5;u">four
+								grown sons</persRef> and <persRef
+								ref="robinson-annie;robinson-mary2;u">three daughters</persRef>.—
+							one son married—his wife and child. and M<hi rend="superscript">r</hi>
+							M’Candless.— Afternoon at the Exchange Hotel— <persRef
+								ref="moorhead-james2">James G. Moorhead</persRef>, old antimason,
+							and abolitionist editor of the Indiana, Pennsylvania—gave me a Letter to
+								<persRef ref="u">his son</persRef>, a Clerk in the 4<hi
+								rend="superscript">th.</hi> Auditor’s Office— Visit from <persRef
+								ref="baldwin-henry">judge Henry Baldwin</persRef>. Evening with M<hi
+								rend="superscript">r</hi> M’Candless, at the high episcopal church.
+								<persRef ref="upfold-george">Rev<hi rend="superscript">d</hi> M<hi
+									rend="superscript">r</hi> Uphold</persRef> a <persRef
+								ref="pusey-edward">Puseyite</persRef>, read the Evening service for
+							the 23<hi rend="superscript">d.</hi> Sunday after Trinity and preached
+							from Hebrews 12.25.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-20">
+					<head>20 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="138" type="ms"/>
+						<dateline>Pittsburgh. Monday 20. November 1843. Canonsburg. Washington
+								Penns<hi rend="superscript">a</hi></dateline>
+						<p><date>20. IV. </date>Monday</p>
+						<list>
+							<item>M’Kennon Thomas M. T.</item>
+							<item>Lee Richard Henry</item>
+						</list>
+						<p>We left Pittsburgh at 8 O’Clock this morning, for Washington
+							Pennsylvania— My stay at Pittsburgh from Thursday last when we reached
+							it has been tumultuary, honorary, and inexpressibly irksome. I had
+							received from Pittsburgh at various times testimonials of sympathy which
+							had already bound me in gratitude to the city; and I was pleased with an
+							invitation which gave me the opportunity of expressing in person my
+							gratitude to the People; but these mass meetings at which I find myself
+							held up as a show, where the most fulsome adulation is addressed to me
+							face to face in the presence of thousands, and where long premeditated
+							written discourses are read to me, to be answered without a moment of
+							reflection, all this is so adverse to my nature, that it has in a great
+							measure solved the continuity of my existence, and I am like one coming
+							out of a trance or a fainting fit unconscious of what has been passing
+							around me. This morning <persRef ref="u">M<hi rend="superscript">r</hi>
+								Ewing</persRef> and <persRef ref="u">M<hi rend="superscript">r</hi>
+								Reed</persRef> the disputation who came to meet us at Pittsburgh,
+							from Washington Pennsylvania, had provided for us an excellent Stage
+							coach and travelled with us in it, with <persRef ref="u">M<hi
+									rend="superscript">r</hi> Baird</persRef>, <persRef
+								ref="hay-alexander">M<hi rend="superscript">r</hi> Hay</persRef> the
+							Mayor of Pittsburgh, and <persRef ref="denny-harmar">M<hi
+									rend="superscript">r</hi> Harmar Denny</persRef> accompanied us
+							over the Monongahela ferry, to the summit of the heights opposite the
+							city, and there took leave of us.— To the unremitting kindness and
+							attentions of these gentlemen during the whole of our visit here I have
+							been under the greatest obligations— I answered last Evening a very
+							earnest invitation from Somerset Pennsylvania with an enclosure
+								from<space/><persRef ref="pearson-samuel">Pearson</persRef>, which
+							required a special Letter though M<hi rend="superscript">r</hi> Pearson
+							is a total stranger to me. I received also a Letter of invitation from
+							the <persRef ref="shriver-thomas">Mayor of Cumberland,
+								Maryland</persRef> through which we are to pass.— Our stage travel
+							this day was the first we have had on this expedition— Tis only 25 miles
+							from Pittsburgh to Washington; but it took us the whole day to travel
+							them. Our first stage was to the halfway house— But nine miles short of
+							Washington was Canonsburg and Jefferson College.— Here we met <persRef
+								ref="mckennan-thomas">M<hi rend="superscript">r</hi>
+								M’Kennon</persRef>, and a cavalcade from Washington, but <persRef
+								ref="brown-matthew">D<hi rend="superscript">r</hi> Brown</persRef>
+							the President of Jefferson College insisted upon my going to it; and
+							there addressed me extemporaneously, and welcomed me in the name of the
+							Officers and students to whom he introduced me— I answered the address
+							and shook hands with the Students and others— Then returned to the
+							Stage, and proceeded to Washington followed by the increasing files of
+							horsemen coming out to meet us— Military company— Committee of
+							reception. Exchange Hotel— Dinner—rain and mud.— Walk to the Court
+							house—dense crowd of people— Address of welcome to me from the President
+							of Washington College— My answer. Shake hands with the multitude— Walk
+							to M<hi rend="superscript">r</hi> M’Kennon’s house— <persRef
+								ref="lee-richard3">Richard H Lee</persRef>— Tea— Visit to the female
+							Seminary— Address of <persRef ref="foster-sarah">Miss Foster</persRef>,
+							the principal teacher to me, my answer. Return to M<hi
+								rend="superscript">r</hi> M’Kennon’s. Party and Supper.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-21">
+					<head>21 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="139" type="ms"/>
+						<dateline>Washington Pennsylvania Tuesday 21. November 1843—
+							Uniontown—</dateline>
+						<p><date>21— III— IV. </date>Tuesday.</p>
+						<p>The Stamina of my Constitution, are sinking under the hardships, and
+							exposures of traveling at this Season and at my time of life, aggravated
+							by the continual overwhelming kindness of my political friends, and the
+							empty honours, showered upon me ostensibly by the People as I pass
+							along, but embracing only a part of the People, and carrying with it no
+							solid permanent opinion.— They bring to my heart no feeling of Pride—to
+							my mind no new or useful truth— Momentary joy, at the experience of kind
+							treatment from my fellow men, and Vanitas vanitatum as spoke the
+							inspired preacher.— O! Curas, hominum! o, quantum est in rebus inane! as
+							spoke the <persRef ref="persius">Roman Poet</persRef>; bring me to the
+							only just conclusion, humble submission to divine Providence— My racking
+							cough all last Night, left me scarce an hour of sleep, and no repose— I
+							was up at 3 and again at 4. and wrote on the arrears of this Diary, from
+							that time till 7 We breakfasted at <persRef ref="mckennan-thomas">M<hi
+									rend="superscript">r</hi> M’Kennon’s</persRef>, and left his
+							house in Stages at 8. in the midst of a heavy squall of thunder,
+							lightning and snow.— We were accompanied by <persRef
+								ref="stewart-andrew">M<hi rend="superscript">r</hi> Andrew
+								Stewart</persRef>, member elect to Congress from the District who
+							came in last evening from Wheeling, and by two gentlemen, who also came
+							last evening, with an invitation onto me to stop at Brownsville. I took
+							leave of M<hi rend="superscript">r</hi> M’Kennon, <persRef
+								ref="mckennan-matilda">his wife</persRef>, <persRef
+								ref="mckennan-william;mckennan-jacob;mckennan-thomas2;u">four
+								sons</persRef> and <persRef ref="mckennan-matilda2;u">two
+								daughters</persRef> all of full age, or verging close upon it, and
+							of <persRef ref="lee-richard3">Professor Richard Henry Lee</persRef>,
+								<persRef ref="u;u">his two sons</persRef> fine boys and <persRef
+								ref="u">daughter</persRef> of about 15. M<hi rend="superscript"
+								>r</hi> M’Kennon’s supper party last evening consisted of about 30
+							gentlemen, professors and teachers at the College and inhabitants of the
+							vicinity, all well bred intelligent men.— He proposed to them in a
+							temperate glass of wine the health and happiness of his guest, which
+							they drank, and to which I responded by my thanks, and by giving the
+							County of Washington, the town of Washington, and the College of
+							Washington Pennsylvania. Success, Prosperity and happiness to all who
+							belong to them. He then let me off to bed— This day we came 25 miles to
+							Brownsville; where we dined; stopping ten minutes at Centreville on the
+							way.— At Brownsville I was transferred to a Barouche— Procession— Dinner
+							with a Roman Catholic Priest at the head of the table. The church,
+							building, Procession to the Presbyterian church.— Address of welcome, by
+							a young clergy man named <persRef ref="u">Adams</persRef>—a Cousin,
+							descended from <persRef ref="adams-william8">William Adams</persRef> of
+							Ipswich, son of the first <persRef ref="adams-henry">Henry</persRef>.—
+							My Answer— Hand shaking—proceed 12 miles onto Uniontown— Transfer to a
+							Barouche— Cavalcade escort— Military Company. Band of Music. Mud Ancle
+							deep. Procession in Barouche and 4 to Presbyterian Church. Address of
+							welcome excellent, by<space/>My Answer— Take affectionate leave of
+							Pennsylvania—political remarks— Shake hands— <persRef ref="u"
+								>M’Lelland’s</persRef> Hotel. Andrew Stewart takes leave of us—
+							Spend the Evening in my chamber, alone, coughing and writing a day of
+							this Diary.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-22">
+					<head>22 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="140" type="ms"/>
+						<dateline>Uniontown Pennsylvania. Wednesday 22. November 1843.
+							Cumberland.</dateline>
+						<p><date>22 I— III— V. </date>Wednesday.</p>
+						<list>
+							<item>M<hi rend="superscript">rs</hi> M’Alister</item>
+							<item>Johnson Cave</item>
+							<item>His wife and infant</item>
+							<item>Miss Dabney</item>
+							<item>Jamison.</item>
+							<item>Brown Aaron Vail.</item>
+						</list>
+						<p>I passed a Night of torture, with a hacking and racking cough, and
+							feverish head-ache— I went to bed at 9. and was up with fits of coughing
+							at 11 at 1. at 3. and at 5 this morning, and finally lay till near 6.
+							totally dispirited before I rose for the day.— We had 62 miles of hard
+							stage riding over the National road to reach Cumberland. My expedient to
+							husband my strength till I can get home, is abstinence— I took a
+							Seidlitz powder; and ate nothing the whole day. <persRef
+								ref="johnson-cave">M<hi rend="superscript">r</hi> Cave
+								Johnson</persRef>, member-elect from Tennessee to the 28<hi
+								rend="superscript">th.</hi> Congress, with <persRef
+								ref="johnson-elizabeth4">his wife</persRef> and an infant boy 2
+							years old, whom he called <persRef ref="johnson-tom">Tom
+								Tucker</persRef>, a <persRef ref="u">Miss Dabney</persRef>, <persRef
+								ref="brown-aaron">Aaron Vail Brown</persRef>, another re-elected
+							member from Tennessee, <persRef ref="jameson-john2">M<hi
+									rend="superscript">r</hi> Jamison</persRef> a member-elect from
+							Missouri, and two other men came in last evening from Wheeling, and
+							proceed with us this day, though in separate Stages to Cumberland We
+							were confined to our own Stage. 62 miles over a rode frozen as hard as a
+							granite rock—for the change from rain to hard frost, took place in the
+							course of the last night, and this day we had January weather and a
+							clear sky.— <persRef ref="u">M<hi rend="superscript">rs</hi> M
+								Alister</persRef> was traveling alone I had no acquaintance with
+							her, but she accosted me with great civility and kindness. Said <persRef
+								ref="u">her husband</persRef> and her father had both been warm
+							friends and admirers of mine and of <persRef key="adams-john">my
+								father</persRef>— We rode 32 miles to Keizers ridge, the highest
+							peak of the Allegany Mountain 2500 feet above the level of the
+							Monongahela river.— The cold was here so intense that I estimated
+							<persRef ref="fahrenheit-daniel">Fahrenheit’s</persRef> Thermometer at 20— Our company of the three stages dined
+							here, but I fasted; and derived from it the benefit of relief from the
+							headache, and lighter suffering from my other complaints— The country
+							through which we travel is chiefly covered with wood— Oak and Chesnut
+							principally, with very little of the evergreens or needle wood— Many of
+							the trees are strait and disproportionately lofty to their size— None
+							remarkably large— None equal in diameter to the old elm on Boston
+							Common— The forests have the ragged appearance which defaces all the
+							woodlands throughout this whole Country—lofty dead, blasted trees,
+							standing as stumps the image of desolation Others half uprooted and half
+							fallen, lying across the living trees adjoining them and marring their
+							beauty— Others <unclear>agroun</unclear>, prostrate stretched along the ground, and
+							entangling the way.— The woods are solitary too. Scarce a beast or a
+							bird to be seen— Not even a Crow or a Rook— Our after dinner ride of 26.
+							Miles to Cumberland was all descending; and about halfway, the Stage
+							driver pointed out to us the dividing line, between Pennsylvania, and
+							Maryland.— We reached Cumberland about 7. O’Clock. It was dark. There
+							was a small gathering of People at the door of the hotel, who readily
+							accepted the proposal to defer the reception till to-morrow morning</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-23">
+					<head>23 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Railroads</subject>
+						<subject>Canals</subject>
+						<subject>African Americans</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="141" type="ms"/>
+						<dateline>Cumberland. Thursday 23 November 1843. Harpers Ferry.
+							Washington.</dateline>
+						<p><date>23. II— III. V. </date>Thursday.</p>
+						<list>
+							<item>Tappan Benjamin</item>
+							<item>Wilkins William</item>
+						</list>
+						<p><persRef ref="benjamin2">Benjamin</persRef> slept in my chamber. The
+							night was not so distressing, as that in Uniontown, but still much
+							afflicted— I went to bed soon after nine, and was awakened and roused by
+							coughing fits at eleven, at two and at four this morning, with no
+							conscious sleep in the intervals.— At four I rose, dressed and wrote
+							till 7.— We travelled this day on the Railways from Cumberland to
+							Washington city.— There was breakfast, of which I took a single cup of
+							Coffee— Neither Mayor, nor committee of reception made their
+							appearance—a number not large, perhaps a hundred of respectable looking
+							men, and half as many boys, gathered at the hotel or followed me to the
+							railway depot, and shook hands with me as I was seated in the Car— Just
+							after Sun rise, at half past seven we started, and rode<space/>Miles to
+							Harper’s ferry to dinner— <persRef ref="breese-sidney">M<hi
+									rend="superscript">r</hi> Sidney Breese</persRef> U.S. Senator
+							from the State of Illinois was in the same Car with me; and spoke to
+							me.— I did not recognize his person though I have seen him before, and
+							have had some correspondence with him. Most of the country we came
+							through this day was within the bounds of Virginia— A plain open
+							champaign country, covered with alternate fields of pasture, and of
+							green winter wheat just out of the ground— At Harpers ferry where we
+							arrived about 2. p.m the offal of a train of Cars from Baltimore, was
+							left for our party to dine upon— I found myself at table by the side of
+								<persRef ref="tappan-benjamin2">Benjamin Tappan</persRef> U.S.
+							Senator from Ohio, and <persRef ref="wilkins-william">M<hi
+									rend="superscript">r</hi> Wilkins</persRef> member of the house
+							elect, from Pittsburgh, spoke to me, and said I might have come with him
+							in his carriage as he had offered me, but for my engagements on the
+							road— Harper’s ferry I remember with pleasing and sad recollections of
+							the Congress party from Georgetown, in the Iron canal boat on the
+							Chesapeake and Ohio Canal, in June 1834.— It looks much now as it did
+							then— We now proceed on the Baltimore and Ohio rail-way, pass <persRef
+								ref="u">Ellicott’s</persRef> Mills with other reminiscences, and at
+							the dusk of evening 5 p.m. reach the relay house and Thomas’s viaduct,
+							nine miles from Baltimore— Here we land with our baggage from the Cars,
+							which proceed forthwith to the monumental city. We wait half an hour for
+							the Cars coming thence for Washington City—take our seats in them, and
+							at half past 7. land safe at the foot of Capitol hill— <persRef
+								ref="stevens-james2">James Stevens</persRef> our mulatto waiter, was
+							there in waiting with my Carriage— We went immediately to the Capitol,
+							and <persRef ref="grinnell-joseph">M<hi rend="superscript">r</hi>
+								Grinnell</persRef> marked his seat in the house of Representatives
+							We went to <persRef ref="u">M<hi rend="superscript">rs</hi>
+								Whitwell’s</persRef>, but the house was shut, and no answer to bell
+							or knocker— We came to my house in F. Street, where Benjamin Andrews had
+							already arrived with our baggage. Found <persRef
+								key="adams-louisa-catherine">my wife</persRef> and <persRef
+								ref="hellen-mary;adams-mary4">family</persRef> well [symbols] and
+								<persRef ref="hellen-walter2">Walter Hellen</persRef> with them—
+							After tea, M<hi rend="superscript">r</hi> Grinnell left us and went to
+							lodge at <persRef ref="gadsby-john">Gadsby’s</persRef>, and start at 6
+							to-morrow morning for New-Bedford.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-24">
+					<head>24 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Science and Technology</subject>
+						<subject>Health and Illness</subject>
+						<subject>Adams Family Relations</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="142" type="ms"/>
+						<dateline>Washington Friday 24. November 1843.</dateline>
+						<p><date>24. III— IV.45 </date>Friday.</p>
+						<list>
+							<item>Thomas D<hi rend="superscript">r</hi> John M.</item>
+							<item>Hellen Walter</item>
+							<item>Frye Nathaniel.</item>
+							<item>Mary E. E. Cutts</item>
+						</list>
+						<p>[symbols]— I have performed my task </p>
+						<p>I have executed my undertaking, and am returned safe to <persRef
+								ref="adams-louisa-catherine;hellen-mary;adams-mary4">my
+								family</persRef> and my home— It is not much in itself— It is
+							nothing in the estimation of the world In my motives and my hopes it is
+							considerable. The people of this Country do not sufficiently estimate
+							the importance of patronizing and promoting Science as a principle of
+							political action and the Slave oligarchy systematically struggle to
+							suppress all public patronage or countenance to the progress of the
+							mind— Astronomy has been specially neglected and scornfully treated—
+							This invitation had a gloss of showy representation about it, that
+							wrought more on the public mind than many volumes of dissertation or
+							argument. I hoped to draw a lively and active attention to it among the
+							people, and to put in motion a propelling power of intellect which will
+							no longer stagnate into rottenness.— I indulge dreams of future
+							improvement to result from this proclamation of popular homage to the
+							advancement of Science, and am willing even to see my name perhaps
+							ostentateously connected with a movement to which I so long and so
+							anxiously strove to give an impulse in vain— For whatever of vain-glory
+							there may be in this self approving reflection I pray to be forgiven—
+							But I return to my home with the symptoms of speedy dissolution upon me—
+							I had no conception of the extent to which I have been weakened by this
+							Tussis Senilis—or Pneumonia Notha, or Old Mans cough— My strength is
+							prostrated beyond any thing that I ever experienced before—even to total
+							impotence— I have little life left in me, but it is my duty to cherish
+							that which God has given me till it shall be his pleasure to take it
+							back.— <persRef key="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye</persRef> was here this morning, with papers relating to
+								<persRef ref="johnson-thomas-baker">M<hi rend="superscript">r</hi>
+								Thomas Baker Johnson’s</persRef> estate, and the Execution of his
+							Will— M<hi rend="superscript">r</hi> Johnson died on the 14<hi
+								rend="superscript">th.</hi> of October last— He had constituted me
+							by his last Will his sole Executor.— On receiving information at Quincy
+							of his decease I wrote to M<hi rend="superscript">r</hi> Frye enclosing
+							a copy of the Will and requesting him to take all necessary measures
+							with regard to the property here, till I should come— This morning I
+							rode to the City Hall and presented the Will to the judge of the
+							Orphan’s Court, <persRef ref="causin-nathaniel">Cassin</persRef> for the
+							probate. <persRef ref="cranch-william">Judge Willam Cranch</persRef> one
+							of the witnesses to the Will, attested it and judge Cassin approved it—
+							The Register <persRef ref="roach-edward">Rotch</persRef> made out a bond
+							with two sureties, in a penalty of 1600 dollars, for the faithful
+							execution of the Will— The bond to be executed by me, before Letters
+							testamentary would be granted. The judge said he would then appoint two
+							appraisers to be named by me to appraise the personal Estate— <persRef
+								ref="thomas-john7">D<hi rend="superscript">r</hi> Thomas</persRef>
+							was here, and prescribes for me pills and drops— <persRef
+								ref="hellen-walter2">Walter Hellen</persRef> dined with us, and
+								<persRef ref="cutts-mary">Mary Cutts</persRef> was here this
+							Evening. Despondency—but no Despair.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-25">
+					<head>25 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Emancipation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="143" type="ms"/>
+						<dateline>Washington Saturday 25. November 1843.</dateline>
+						<p><date>25. IV:30. </date>Saturday.</p>
+						<list>
+							<item>Thomas D<hi rend="superscript">r</hi> John M.</item>
+							<item>Frye Nathaniel</item>
+							<item>Frye D<hi rend="superscript">r.</hi> Thomas B. J.</item>
+							<item><persRef ref="hellen-walter2">Hellen Walter</persRef>.</item>
+						</list>
+						<p>A tolerable night— More undisturbed sleep, than I have had for many days
+							before; but I never felt the prostration of strength more than this
+							morning from my rising hour till breakfast.— I took a Seidlitz powder,
+							and lay on the Sopha, all but lifeless— <persRef ref="thomas-john7">D<hi
+									rend="superscript">r</hi> Thomas</persRef> was here morning and
+							evening—prescribed potions and pills; and confined me to my chamber the
+							whole day; a severer infliction than all his other remedies. <persRef
+								key="frye-nathaniel">M<hi rend="superscript">r</hi> Frye</persRef>
+							and his son <persRef ref="frye-thomas">D<hi rend="superscript">r</hi>
+								Thomas Baker Johnson Frye</persRef>, were here, and executed as
+							sureties with me the Executor’s bond for the execution of <persRef
+								ref="johnson-thomas-baker">M<hi rend="superscript">r</hi> T. B.
+								Johnson’s</persRef> will given me yesterday by the Register of the
+							Orphan’s Court, <persRef ref="roach-edward">Rotch</persRef>— <persRef
+								ref="hellen-mary">M<hi rend="superscript">rs</hi> Mary C.
+								Adams</persRef>, and <persRef ref="benjamin2">Benjamin F.
+								Andrews</persRef> are the witnesses.— <persRef
+								ref="moseley-william3">M<hi rend="superscript">r</hi>
+								Mosely</persRef> the member elect from the New-York Buffalo
+							District, visited me by card.— I wrote my two days of diary arrear. the
+								17<hi rend="superscript">th.</hi> and 18<hi rend="superscript"
+								>th.</hi> made the minutes for this day; and gave up the rest of the
+							time to Idleness.— On the 2<hi rend="superscript">d.</hi> day of last
+							May I left the house where I now write for my home at Quincy,
+							Massachusetts.— I had been since the close of the 27<hi
+								rend="superscript">th.</hi> Congress on the preceding 3<hi
+								rend="superscript">d.</hi> of March, afflicted with this grave-yard
+							cough— It had however subsided; but returned upon me for a fortnight,
+							two days after my arrival at <persRef key="adams-charles2">my
+								sons</persRef> house in Boston, on the 6<hi rend="superscript"
+								>th.</hi> of May. On the 16<hi rend="superscript">th.</hi> of that
+							month I went out with his family to Quincy, where in the course of a
+							week of quiet, the cough disappeared— On the 29<hi rend="superscript"
+								>th.</hi> of May I delivered before the Massachusetts historical
+							Society in Boston, a discourse on the New-England confederacy of 1643.
+							which I had written since leaving Washington. On the 4<hi
+								rend="superscript">th.</hi> of July, 50 years after me, my son
+							Charles Francis, delivered the Boston city Oration on the anniversary of
+							our National Independence. I dated on this day, my Letter to the
+							Committee at Bangor who had invited me to join them in celebrating the
+							anniversary of the 1<hi rend="superscript">st.</hi> of August, the day
+							of emancipation of the British West-India Negroes. On the 6<hi
+								rend="superscript">th.</hi> of July, I left my home at Quincy, and
+							returned to it on the 5<hi rend="superscript">th.</hi> of August, after
+							an absence of one calendar month on a tour to Lebanon and Saratoga
+							Springs Montreal, Quebec, Niagara Falls, and Western New-York— On the
+								24<hi rend="superscript">th.</hi> of October, I met and addressed my
+							Constituents of the 8<hi rend="superscript">th</hi> Congressional
+							District of Massachusetts, and in the Evening received the visit of
+								<persRef ref="u">Marshal Bertrand</persRef>.— The Meeting with my
+							Constituents was at Dedham. On the 25<hi rend="superscript">th.</hi> of
+							October, I left my home at Quincy to lay the corner stone of an
+							Astronomical Observatory at Cincinati, Ohio.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-26">
+					<head>26 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Religion</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="144" type="ms"/>
+						<dateline>Washington. Sunday 26. November 1843.</dateline>
+						<p><date>26. II.45. IV.15. </date>Sunday.</p>
+						<list>
+							<item>Frye Nathaniel</item>
+							<item>Frye D<hi rend="superscript">r</hi> Thomas B. J</item>
+							<item>Hellen Walter</item>
+							<item>Thomas D<hi rend="superscript">r</hi> John M</item>
+						</list>
+						<p>My cough presses with renewed aggravation, and brought me up between two
+							and three of the morning—and though I returned to bed, I enjoyed no
+							further sleep— I went with my Granddaughter <persRef ref="adams-mary4"
+								>Mary Louisa</persRef>, and <persRef ref="johnson-william4">William
+								C. Johnson</persRef> to the second presbyterian church and heard the
+								<persRef ref="knox-james">Rev<hi rend="superscript">d.</hi> M<hi
+									rend="superscript">r</hi> Knox</persRef> preach from Psalm 51.14
+							[“]Deliver me from blood-guiltiness O God, thou God of my salvation; and
+							my tongue shall sing aloud of thy righteousness.” He began by an
+							exposition of the object of this Psalm, penitential and expiatory for
+							the murder of <persRef ref="uriahthehittite">Uriah</persRef>— He dwelt
+							with laudable vehemence on the atrocious nature of the crime, and
+							supposed the contrition of <persRef ref="david">David</persRef> for
+							having committed it deep and agonizing and gave the account of the
+							transaction in all its horrid and disgusting details, and with a weight
+							of censure upon David equally severe and uncompromising he turned upon
+							his auditory, and charged us all with having blood guiltiness upon our
+							souls; and then such fervent appeals to our consciences, such solemn
+							expostulations, such terrific comminations, such awful forebodings, for
+							the salvation of our souls, that I could scarcely account for my own
+							insensibility— For our blood guiltiness consisted not in our own
+							infidelity or indifference to the duties of religion, but in our
+							remissness in our exertions to convert the impenitent sinners of our own
+							families and firesides. We are responsible for their unrighteousness,
+							and in suffering them to perish in their sins we are guilty of their
+							blood, to all eternity— There is a fallacy in this reasoning so gross
+							that it is inconceivable to me how it can make an impression upon <hi
+								rend="italic">any</hi> mind— This M<hi rend="superscript">r</hi>
+							Knox has been very recently setled here as the Pastor of this
+							Presbyterian Church— The negotiation, with the <persRef ref="ely-ezra"
+									>Rev<hi rend="superscript">d.</hi> Ezra Styles Ely</persRef>,
+							D.D. pending when I left this city last May, terminated unsuccessfully.—
+							I did not attend the afternoon service— There was none at S<hi
+								rend="superscript">t.</hi> John’s Church, which is yet under repair,
+							and <persRef ref="hawley-william">M<hi rend="superscript">r</hi>
+								Hawley</persRef> the rector is much indisposed.— <persRef
+								key="frye-nathaniel">M<hi rend="superscript">r</hi> Frye</persRef>
+							was here. <persRef ref="frye-thomas">His son, the Doctor</persRef> and
+								<persRef ref="hellen-walter2">Walter Hellen</persRef> dined with us.
+								<persRef ref="thomas-john7">D<hi rend="superscript">r</hi>
+								Thomas</persRef> prescribed new potions added to the old— A mixture
+							of boneset herb and snakeroot, infused in a pint of boiling water two
+							hours—a tablespoonful to be taken warm three to four times a day. I
+							received a Letter from <persRef key="adams-charles2">my son</persRef>,
+							enclosing a deed to be executed by me and <persRef
+								key="adams-louisa-catherine">my wife</persRef> to-morrow.— Also a
+							Letter from <persRef ref="curtis-nathaniel">Nathaniel Curtis</persRef>,
+							enclosing one of 3. Nov<hi rend="superscript">r.</hi> 1843. from
+								<persRef ref="vaughan-petty">Petty Vaughan</persRef>, London, and 3
+							sets of Bills of Exchange for £600, £500 and £400. dated 20. Nov<hi
+								rend="superscript">r</hi> 1843 on Petty Vaughan at 30 days sight in
+							favour of——— I signed the bills, and enclosed them back to M<hi
+								rend="superscript">r</hi> Curtis— Received Letters also from
+								<persRef key="clay-henry">H. Clay</persRef> and <persRef
+								ref="sears-david2">D. Sears</persRef>.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-27">
+					<head>27 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="145" type="ms"/>
+						<dateline>Washington Monday 27. November 1843.</dateline>
+						<p><date>27. III.— IV.45. </date>Monday.</p>
+						<list>
+							<item>Frye Nathaniel</item>
+							<item>Ladd John G.</item>
+							<item>Allen John W.</item>
+							<item>Ellsworth Henry L</item>
+							<item>Pierson Hamilton W.</item>
+							<item>Sewall D<hi rend="superscript">r</hi> Joseph</item>
+							<item>Hall David A.</item>
+							<item><persRef ref="u">Elliot</persRef></item>
+							<item><persRef ref="johnson-william4">Johnson William
+								Cost</persRef></item>
+							<item>Thomas D<hi rend="superscript">r</hi> John M.</item>
+						</list>
+						<p>My cough continues to excruciate me, Night and day. <persRef
+								ref="thomas-john7">D<hi rend="superscript">r</hi> Thomas</persRef>
+							visits me every day and prescribes a variety of slops and drops pills
+							and pastes, lotions and potions, to all which hitherto the cough bids
+							defiance I have Pease’s and other horehound candy jujube paste, molasses
+							candy, and numerous other infallible remedies, and take them all, but
+							the cough holds on— <persRef key="frye-nathaniel">M<hi
+									rend="superscript">r</hi> Frye</persRef> brought me the papers
+							relating to the personal Estate of <persRef ref="johnson-thomas-baker"
+									>M<hi rend="superscript">r</hi> Thomas B. Johnson</persRef>, of
+							which after his decease at my request he took possession and undertook
+							the management, till I should come and take out the Letters
+							Testamentary, which I did this day, and paid the Register, <persRef
+								ref="roach-edward">Rotch</persRef> a bill for the papers hitherto
+							issued— I named for Appraisers, <persRef ref="clarke-mathew">Matthew
+									S<hi rend="superscript">t.</hi> Clair Clark</persRef> and
+								<persRef ref="force-peter">Peter Force</persRef> and they were
+							appointed— A notice of my having obtained Letters Testamentary, of the
+							Orphan’s Court was given me, to be published 3 weeks in the National
+							Intelligencer. I took it to that Office, and left it with <persRef
+								ref="gales-joseph">M<hi rend="superscript">r</hi> Gales</persRef>. I
+							had executed with <persRef key="adams-louisa-catherine">my
+								wife</persRef> the deed yesterday received from <persRef
+								key="adams-charles2">my Son</persRef> of South <unclear>cove</unclear> houselot,
+							Boston to<space/><persRef ref="u">Swift</persRef>, and it was to be
+							acknowledged before <persRef ref="hall-david">David A. Hall</persRef>,
+							Commissioner of the Commonwealth of Massachusetts for taking the
+							acknowledgment of Deeds—and Justice of Peace— Fruitless search for him
+							at the Courthouse, and thrice at his office. He finally came while we
+							were at dinner and took our acknowledgments, and I enclosed the Deed to
+							my Son. <persRef ref="ladd-john">John G. Ladd</persRef>, <persRef
+								ref="boylston-ward">Boylston</persRef> prize declaimer at Cambridge,
+							the day after last Commencement— Visitor at Natick in November 1842—boy
+							at Rossburg in 1828. came and solicited my influence to obtain for him
+							employment as a clerk by some Committee of the house— A desperate
+							adventure. He said he wanted to become a great man. <persRef
+								ref="allen-john3">M<hi rend="superscript">r</hi> John W.
+								Allen</persRef>, heretofore a member of the house from Ohio, and
+							whom on the first of this month we met at Cleveland was here with
+								<persRef ref="ellsworth-henry">M<hi rend="superscript">r</hi> Henry
+								L. Ellsworth</persRef> the Commissioner of Patents. M<hi
+								rend="superscript">r</hi> Allen is here but for a day or two—
+								<persRef ref="pierson-hamilton">M<hi rend="superscript">r</hi>
+								Hamilton W. Pierson</persRef> a Tract Society agent and home
+							missionary, informed me, that there would be next Tuesday evening a
+							meeting of the friends of this cause, which he invited me to attend, and
+							to address a few remarks to the company which I declined. <persRef
+								ref="sewall-joseph2">D<hi rend="superscript">r</hi> Joseph
+								Sewall</persRef> was here, recently returned from his medical tour
+							to England, Scotland, Ireland, France, Italy, Switzerland, Germany,
+							Belgium, Holland, all since last April— Note from <persRef
+								ref="almonte-juan">Gen<hi rend="superscript">l.</hi>
+								Almonte</persRef>—asking an interview.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-28">
+					<head>28 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-28"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+						<subject>Adams Family Relations</subject>
+						<subject>Foreign Relations</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="146" type="ms"/>
+						<dateline>Washington. Tuesday 28. Nov<hi rend="superscript">r</hi>
+							1843.</dateline>
+						<p><date>28 II.45— IV.45 </date>Tuesday</p>
+						<list>
+							<item><persRef ref="thomas-john7">Thomas D<hi rend="superscript">r</hi>
+									John M.</persRef></item>
+							<item>Cutts Richard M</item>
+							<item>Hellen Walter</item>
+							<item>Almonte General.</item>
+						</list>
+						<p>Up again in the Night. My Cough is more urgent <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+								Adams</persRef> prepared an obituary incription for the gravestone
+							of her brother <persRef ref="johnson-thomas-baker">Thomas Baker
+								Johnson</persRef>, Son of <persRef
+								ref="johnson-joshua;johnson-catherine">Joshua and Catherine
+								Johnson</persRef> born at Nantes in France 7. Sept<hi
+								rend="superscript">r</hi> 1779. died at Washington D.C. 14 Oct<hi
+								rend="superscript">r</hi> 1843, aged 64 years, loved and lamented by
+							his family.— The burial is to be in the Rock creek churchyard— I rode to
+								<persRef ref="clarke-mathew">M<hi rend="superscript">r</hi> Matthew
+									S<hi rend="superscript">t.</hi> Clair Clark’s</persRef> house,
+							but he was at the Capitol and I followed him there— I presented to him
+							the warrant of appraisement to him and <persRef ref="force-peter">M<hi
+									rend="superscript">r</hi> Force</persRef>, which he said they
+							would execute at 10 O’Clock to morrow morning. I bespoke of <persRef
+								ref="mccormick-william">M<hi rend="superscript">r</hi>
+								M’Cormick</persRef> the Postmaster some Letter paper and other
+							Stationary.— Returning from the Capitol, I stop’d at <persRef
+								ref="polk-ann">Miss Polk’s</persRef> and paid a visit to <persRef
+								ref="moseley-william3">M<hi rend="superscript">r</hi>
+								Mosely</persRef> the member elect from the Buffalo, District
+							New-York, who gave me some dutch Lozenges, and talked about the election
+							of Speaker of the House. He said he was informed there was yesterday a
+							long interview between <persRef ref="wilkins-william">William
+								Wilkins</persRef>, and <persRef ref="rhett-robert">Robert Barnwell
+								Rhett</persRef> of South Carolina, at which M<hi rend="superscript"
+								>r</hi> Wilkins was offered the Speakers Chair, upon condition that
+							he shall organize the Committees to the taste of the Slavemonger’s— This
+							is the desperation of <persRef ref="calhoun-john">Calhounism</persRef>—
+							Rhett is the man who oiled the palm of <persRef ref="cushing-caleb"
+								>Cushing</persRef> to make him chairman of the Committee of Foreign
+							Affairs in my place. On my way home I stop’d at M<hi rend="superscript"
+								>r</hi> Peter Force’s Office, and informed him of his appointment as
+							the second Appraiser of M<hi rend="superscript">r</hi> Thomas B.
+							Johnson’s effects, and he promised to meet M<hi rend="superscript"
+								>r</hi> Clark at 10 O’Clock to-morrow morning at the house and make
+							the appraisement— Walk home— Evening visit from <persRef
+								ref="cutts-richard">M<hi rend="superscript">r</hi> Richard M.
+								Cutts</persRef>— And from <persRef ref="hellen-walter2">Walter
+								Hellen</persRef>. <persRef ref="almonte-juan">General Don Juan N.
+								Almonte</persRef>, the Mexican Minister Plenipotentiary had
+							requested of me by note a personal interview to make to me a
+							communication as he had been ordered. I appointed between 6 and 7.
+							O’Clock this Evening, which time he had suggested, to receive him— He
+							came and delivered to me a copy of a Letter of Instructions from
+								<persRef ref="bocanegra-jose">M<hi rend="superscript">r</hi>
+								Bocanegra</persRef>, the Mexican Minister of foreign Affairs, dated
+							18. March 1843 ordering General Almonte, in an official visit to me, to
+							tender to me the thanks of the Mexican Government and Nation, for the
+							candour, generosity of my conduct towards Mexico, both in the Congress
+							of the United States, and at Meetings of the People— I said I was happy
+							to receive this testimonial of the approbation of the Mexican Government
+							of my endeavours to promote peace and harmony, between the two
+							countries, and to observe the Law of Justice, on the part of my Country
+							towards Mexico, and all other Nations.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-29">
+					<head>29 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-29"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Relations</subject>
+						<subject>Slavery</subject>
+						<subject>Texas Annexation (1845)</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="147" type="ms"/>
+						<dateline>Washington Wednesday 29. November 1843.</dateline>
+						<p><date>29. IV.45. </date>Wednesday.</p>
+						<list>
+							<item>Cassin</item>
+							<item>Frye Nathaniel</item>
+							<item>Frye Thomas B. J.</item>
+							<item>Hellen Walter</item>
+							<item>Clark Matthew S<hi rend="superscript">t.</hi> Clair</item>
+							<item>Force Peter.</item>
+						</list>
+						<p>I made this morning the draught of a Resolution, which I propose to offer
+							to the House of Representatives at the approaching Session of Congress—
+							A Session at which a trial of character more severe than I ever before
+							experienced awaits me; and from which may the Mercy of God deliver me to
+							the judgment of the after age, pure and unsullied. Clouds and darkness
+							are before me— <persRef ref="causin-nathaniel">Doctor Cassin</persRef>
+							the judge of the Orphan’s Court called on me and spoke of <persRef
+								ref="johnson-thomas-baker">M<hi rend="superscript">r</hi> Thomas B.
+								Johnson’s</persRef> Will, which he said was a very good one— He said
+							he had not required a bond of me, for double the amount of the fund of
+							45000 dollars bequeathed to <persRef key="adams-charles2">my
+								Son</persRef>, at Boston, to be disposed of according to the
+							provisions of the Will, because the property being in the State of
+							Massachusetts was out of his jurisdiction, and being bequeathed in
+							special trust to my Son, he did not see that the Executor had anything
+							to do with it— If controversy should arise, it was a case for chancery
+							jurisdiction in Massachusetts, but perhaps it might be proper to deposit
+							a copy of the Will, in the Registry of Probate at Boston— I went to the
+							House where M<hi rend="superscript">r</hi> T. B. Johnson last resided
+							and in which he died; and found <persRef ref="clarke-mathew">M<hi
+									rend="superscript">r</hi> Clark</persRef> and <persRef
+								ref="force-peter">M<hi rend="superscript">r</hi> Force</persRef>
+							engaged in appraising the household furniture horses and carriages—
+								<persRef key="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye</persRef> was with them. M<hi rend="superscript">r</hi> Frye
+							had taken a complete inventory of the Articles, and the Appraisers were
+							using it to make their return.— After staying there some time I came
+							home They finished their appraisement at 2. P.M. and M<hi
+								rend="superscript">r</hi> Frye was afterwards here— Likewise
+								<persRef ref="frye-thomas">his Son the Doctor</persRef> and <persRef
+								ref="hellen-walter2">Walter Hellen</persRef>.— I received a Letter
+							from <persRef ref="grinnell-joseph">M<hi rend="superscript">r</hi>
+								Grinnell</persRef>, who reached his home at New-Bedford Sunday
+							Morning at half past 7.— He has been a most kind and faithful friend to
+							me on my late expedition— My Resolution is for the appointment of a
+							Committee to ascertain the number of Slave owners throughout the Union,
+							and the value of the property represented by<space/>members in the house and
+							a proportional number in the electoral Colleges. <persRef
+								ref="almonte-juan">General Almonte</persRef> sent me a number of
+							Newspapers— He told me that on the third of this month he had addressed
+							a note to the <persRef ref="upshur-abel">Secretary of State</persRef> a
+							protest against the annexation of Texas to the United States, and that
+							the correspondence which ensued, closed about ten days since— The
+							Madisonian is full of premonitory symptoms of the proposition for the
+							annexation of Texas. <persRef ref="johnson-william4">M<hi
+									rend="superscript">r.</hi> W. C. Johnson</persRef> made a copy
+							of the Will of T. B. Johnson, for <persRef ref="pope-john">M<hi
+									rend="superscript">r</hi> John Pope</persRef>.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-30">
+					<head>30 November 1843</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11-30"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Adams Family Relations</subject>
+						<subject>Texas Annexation (1845)</subject>
+						<subject>Press</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="148" type="ms"/>
+						<dateline>Washington Thursday 30. November 1843.</dateline>
+						<p><date>30. II— IV:45. </date>Thursday</p>
+						<list>
+							<item>Potter Elisha R.</item>
+							<item>M<hi rend="superscript">rs</hi> Thornton</item>
+							<item>Parker Gen<hi rend="superscript">l</hi> Daniel</item>
+							<item>Giddings Joshua R</item>
+							<item>Dickey John</item>
+							<item>Johnson Pearly B.</item>
+						</list>
+						<p>I received the key of <persRef ref="johnson-thomas-baker">M<hi
+									rend="superscript">r</hi> T. B. Johnson’s</persRef> house, and
+								<persRef key="frye-nathaniel">M<hi rend="superscript">r</hi>
+								Frye</persRef> sent me a small hair trunk, of which he gave me the
+							key, and which contains the silver plate, and also sundry miniatures and
+							other trinkets not to be included in the sale— Morning visit from
+								<persRef ref="potter-elisha2">Elisha R. Potter</persRef> one of the
+							members of the house from the State of Rhode-Island— I received at the
+							Washington Bank 60. for one quarter’s interest due 1. Oct<hi
+								rend="superscript">r.</hi> last on 4000 dollars, Washington City
+							Corporation 6 per Cents, and at the City hall 52.50 for interest due 1.
+							July last on 3500 dollars.— And at the Franklin Insurance company, the
+							half yearly dividend on my Stock in that company, due on the 1<hi
+								rend="superscript">st.</hi> of November. <persRef ref="hellen-mary"
+									>M<hi rend="superscript">rs</hi> John Adams</persRef>, and her
+							daughter <persRef ref="adams-mary4">Mary Louisa</persRef>, with <persRef
+								ref="johnson-william4">William C. Johnson</persRef>, dined and spent
+							the Evening with <persRef ref="frye-thomas">Doctor Frye</persRef>, at
+							his father’s house— <persRef ref="thornton-anna">M<hi rend="superscript"
+									>rs</hi> Thornton</persRef> was here in the Evening, and
+								<persRef ref="parker-daniel">General Daniel Parker</persRef>, who
+							told me, that among the Documents to be produced in justification of the
+							message proposing the annexation of Texas to the United States was a
+							correspondence of <persRef ref="jackson-andrew">Andrew
+							Jackson</persRef>, written in a better than his ordinary Style,
+							referring to communications made to him in 1831 or 1832 by <persRef
+								ref="erving-george">George W. Erving</persRef>, implicating me for
+							the transfer of the Negotiation of the Florida Treaty from Madrid to
+							Washington, in 1818— This is another Mississippi Navigation
+							conspiracy—and George W. Erving is to be the <persRef
+								ref="russell-jonathan">Jonathan Russell</persRef> of that
+							Negotiation— <persRef ref="giddings-joshua">M<hi rend="superscript"
+									>r</hi> Giddings</persRef> of Ohio came, and introduced <persRef
+								ref="johnson-perley">Perley B. Johnson</persRef>, a new member from
+							Ohio, and <persRef ref="dickey-john">John Dickey</persRef> also a member
+							new, from Pennsylvania— We had much conversation upon the projected
+							annexation of Texas— M<hi rend="superscript">r</hi> Giddings said he
+							hoped <persRef ref="tyler-john">Tyler</persRef> would recommend it in
+							the Message, for that would be the surest way to render it universally
+							odious. In the Madisonian of last Monday, the Bull of <persRef
+								ref="gregory-xvi">Pope Gregory the 16<hi rend="superscript"
+								>th.</hi></persRef> of 3. December 1839. is published in Latin, with
+							an English Translation, and with an introduction signed <persRef ref="u"
+								>Roane</persRef> descanting upon the transcendant importance of the
+							paper, and promising an examination, of every part of it.— This idea is
+							infectious— The quarter from which it comes is passing strange; but an
+							analytical review of the Bull, might be made of vast benefit to the
+							cause of Liberty.</p>
+
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v44-1843-11-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1843-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>—</date> Several months have passed away,
+							without any summary record at their close of the regular manner of
+							passing my time during their progress— Two months of daily travel, and
+							two elaborate Orations, have cut up my Summer into driblets— But I have
+							risen the whole Season through between 4 and 5. and after an hour or
+							hour and a half of dressing, have written till breakfast— The incidents
+							of travel occupied the remainder of the day for the two months; and in
+							the intervals when I have been at home the composition of my discourses
+							has absorbed all my hours— Since my return here, my disease has not
+							disabled me for my usual employments, but they have been confined to the
+							recovery of the arrears of this Diary; nine days of which had crept
+							in—now redeemed.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

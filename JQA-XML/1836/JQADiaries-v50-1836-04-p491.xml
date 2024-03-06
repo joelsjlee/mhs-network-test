@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v50-1836-04">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="491" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v48-1836-04-p527.xml" mhs:volume="50">
+				<bibl n="metadata"><date from="1836-04-01" to="1836-04-01"/></bibl>
+
+				<!-- D/JQA/50 April 1836 Lindsey Woolcock -->
+				<!-- NB: the list in columns on p. 492 will need to be hand encoded -->
+
+				<div type="entry" xml:id="jqadiaries-v50-1836-04-01">
+					<head>1 April 1836</head>
+					<bibl><author>JQA</author><date type="creation" when="1836-04-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="491"/>
+						<dateline>Friday 1. April 1836.</dateline>
+						<p><date>1. V:30. </date>Friday.</p>
+						<list>
+							<item>Everett Alex<hi rend="superscript">r</hi> H</item>
+							<item>M<hi rend="superscript">rs</hi> John Brown</item>
+						</list>
+						<p>This morning I finished reading the Memoir of the Life, Writings and
+							Speeches of <persRef ref="mackintosh-james">Sir James
+								Mackintosh</persRef> in front of his History of the Revolution of
+							1688.— Two thirds or three fourths of it consists of extracts from the
+							Speeches and writings—with some criticism, not favourably partial to him
+								<persRef ref="u">M<hi rend="superscript">rs</hi> Brown</persRef> and
+								<persRef ref="brown-john11">her husband</persRef>, are wandering
+							Mendicants from Boston— <persRef ref="everett-alexander">M<hi
+									rend="superscript">r</hi> A. H. Everett</persRef> came and took
+							leave— Going at four O’Clock this afternoon—returning to Boston— At the
+							House the first hour was consumed in receiving Reports from standing
+							Committees— <persRef ref="mercer-charles">Mercer</persRef> asked and
+							obtained leave to offer a Resolution which was adopted for the
+							appointment of a Select Committee of one member from each State to
+							prepare and report a system of regulations respecting contested
+							Elections. <persRef ref="shepard-william">W. B. Sheppard</persRef>
+							Chairman of the Committee on the District of Columbia, succeeded at last
+							in making two reports— At noon sundry Bills from the Senate were twice
+							read and referred to Committees—after which private business was taken
+							up, and the house was deserted, save by the straggling debaters who
+							consumed the time of the House till near four O’Clock when after an
+							unsuccessful effort of <persRef ref="vanderpoel-aaron"
+								>Vanderpoel</persRef> to adjourn over to Monday, the house
+							adjourned.</p>
+						<p>I dined with <persRef ref="cass-lewis">M<hi rend="superscript">r</hi>
+								Cass</persRef>, the Secretary of War— His family consists of
+								<persRef ref="cass-elizabeth">M<hi rend="superscript">rs</hi>
+								Cass</persRef>, <persRef
+								ref="cass-isabella;cass-isabella;cass-matilda">three grown up
+								daughters</persRef> and <persRef ref="cass-lewis2">one
+							Son</persRef>. The company besides were the <persRef ref="forsyth-john"
+								>Secretaries Forsyth</persRef>
+							<persRef ref="woodbury-levi">Woodbury</persRef> and <persRef
+								ref="dickerson-mahlon">Dickerson</persRef>, the <persRef
+								ref="jackson-andrew">President’s</persRef>
+							<persRef ref="donelson-andrew">Secretary Donelson</persRef>, <persRef
+								ref="stevenson-andrew">Andrew Stevenson</persRef>, Minister to
+							England, <persRef ref="fox-henry3">M<hi rend="superscript">r</hi>
+								Fox</persRef>, the Minister from England just arrived, with <persRef
+								ref="buchanan-andrew2">Buchanan</persRef> and <persRef ref="u"
+								>Murray</persRef>, <persRef ref="calderon-angel">Calderon de la
+								Barca</persRef> Spanish Minister with two Attachés—<persRef
+								ref="gorostiza-manuel">Gorotiza</persRef> Mexican Minister with two
+							others, and <persRef ref="u;u">M<hi rend="superscript">r</hi> and M<hi
+									rend="superscript">rs</hi> Cruger</persRef> (once Douglas—)
+							After dinner <persRef ref="u">Miss Bache</persRef> came in; a daughter
+							of <persRef ref="bache-richard">Richard Bache</persRef>— It was near 11.
+							P.M. when I came home.</p>
+						<pb n="492" type="ms"/>
+						<list>
+							<item><persRef ref="bouldin-james">Bouldin James W</persRef></item>
+							<item><persRef ref="chapman-reuben">Chapman Reuben</persRef></item>
+							<item><persRef ref="connor-henry">Connor Henry W</persRef></item>
+							<item><persRef ref="hannegan-edward">Hannegan Edward A.</persRef>
+							</item>
+							<item><persRef ref="harrison-samuel">Harrison Samuel S.</persRef>
+							</item>
+							<item><persRef ref="henderson-joseph">Henderson Joseph</persRef></item>
+							<item><persRef ref="hopkins-george">Hopkins George W</persRef></item>
+							<item><persRef ref="jarvis-leonard">Jarvis Leonard</persRef></item>
+							<item><persRef ref="loyall-george">Loyall George</persRef></item>
+							<item><persRef ref="lucas-edward">Lucas Edward C.</persRef></item>
+							<item><persRef ref="manning-richard">Manning Richard I.</persRef></item>
+							<item><persRef ref="mckay-james">M’Kay James I</persRef></item>
+							<item><persRef ref="schenck-ferdinand">Schenk Ferdinand
+								S.</persRef></item>
+							<item><persRef ref="webster-taylor">Webster Taylor</persRef></item>
+							<item><persRef ref="banks-john">Banks John</persRef>
+							</item>
+							<item><persRef ref="beardsley-samuel">Beardsley Samuel</persRef></item>
+							<item><persRef ref="beaumont-andrew">Beaumont Andrew</persRef></item>
+							<item><persRef ref="claiborne-john">Claiborne John F</persRef></item>
+							<item><persRef ref="dickson-david">Dickson David</persRef></item>
+							<item><persRef ref="dunlap-william">Dunlap William C</persRef></item>
+							<item><persRef ref="fowler-samuel">Fowler Samuel</persRef></item>
+							<item><persRef ref="fry-jacob">Fry Jacob j<hi rend="superscript"
+									>r</hi></persRef></item>
+							<item><persRef ref="glascock-thomas">Glascock Thomas</persRef></item>
+							<item><persRef ref="graham-james4">Graham James</persRef></item>
+							<item><persRef ref="hammond-james">Hammond James H</persRef></item>
+							<item><persRef ref="harper-james2">Harper James</persRef></item>
+							<item><persRef ref="hiester-william">Heister William</persRef></item>
+							<item><persRef ref="hunt-hiram">Hunt Hiram P.</persRef>
+							</item>
+							<item><persRef ref="jackson-william2">Jackson William</persRef></item>
+							<item><persRef ref="jenifer-daniel">Jennifer Daniel</persRef></item>
+							<item><persRef ref="johnson-henry">Johnson Henry</persRef></item>
+							<item><persRef ref="judson-andrew">Judson Andrew T.</persRef>
+							</item>
+							<item><persRef ref="laporte-john">La Porte John</persRef>
+							</item>
+							<cb/>
+							<item><persRef ref="mann-abijah">Mann Abijah j<hi rend="superscript"
+										>r</hi></persRef></item>
+							<item><persRef ref="may-william">May William L.</persRef>
+							</item>
+							<item><persRef ref="moore-ely">Moore Ely</persRef>. </item>
+							<item><persRef ref="morgan-william4">Morgan William S.</persRef>
+							</item>
+							<item><persRef ref="pearce-james">Pearce James A</persRef></item>
+							<item><persRef ref="phillips-stephen">Phillips Stephen
+								C.</persRef></item>
+							<item><persRef ref="pickens-francis">Pickens Francis</persRef></item>
+							<item><persRef ref="pinckney-henry">Pinckney Henry L.</persRef>
+							</item>
+							<item><persRef ref="potts-david">Potts David</persRef></item>
+							<item>Shepperd William B.</item>
+							<item><persRef ref="shields-ebenezer">Shields Ebenezer</persRef></item>
+							<item><persRef ref="sloane-jonathan">Sloane Jonathan</persRef></item>
+							<item>Sprague William</item>
+							<item><persRef ref="sutherland-joel">Sutherland Joel B.</persRef>
+							</item>
+							<item><persRef ref="taylor-william7">Taylor William</persRef></item>
+							<item><persRef ref="toucey-isaac">Toucey Isaac</persRef></item>
+							<item><persRef ref="turner-james2">Turner James</persRef>
+							</item>
+							<item><persRef ref="washington-george2">Washington George C.</persRef>
+							</item>
+						</list>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

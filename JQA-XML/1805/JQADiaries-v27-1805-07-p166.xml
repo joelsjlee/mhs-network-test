@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v27-1805-07">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="166"
+				mhs:precedingFile="JQADiaries-v27-1805-06-p162.xml"
+				mhs:followingFile="JQADiaries-v27-1805-08-p170.xml" mhs:volume="27">
+				<bibl n="metadata"><date from="1805-07-01" to="1805-07-31"/></bibl>
+
+				<!--D/JQA/27.1063-->
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-01">
+					<head>1 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">July 1805.</hi></dateline>
+						<p><date>1. </date>Employed in domestic concerns most of the morning— After
+							dinner I went to <persRef key="adams-john">my father’s</persRef>.
+							Transplanted to the nursery there several peach-trees from the stones I
+							planted last September— But I apprehend it is almost too late in the
+							Season for transplanting trees this year from the Stone— At least I find
+							that those I transplanted earliest, both last Spring and the preceding
+							one, have succeeded much the best.— Of the last Summer’s budding, I find
+							that the peaches &amp;c inoculated on plum-stocks, and the cherries on
+							wild cherry Stocks have all failed— But Apples, Peaches and one pear
+							inoculated on their respective Stocks have succeeded very well.— Read
+								<persRef ref="martyn-john">Martyn’s</persRef> 19<hi
+								rend="superscript">th:</hi> Letter— And the french abregé de
+							Rhetorique.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-02">
+					<head>2 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2 </date>I went to <persRef key="adams-john">my father’s</persRef>
+							this morning, and resumed the perusal of <persRef ref="aristotle"
+								>Aristotle’s</persRef> Rhetorics, which I began last Summer, but did
+							not go through— Wrote also a little— Dined there— <persRef
+								ref="smith-hannah">M<hi rend="superscript">rs:</hi> W.
+								Smith</persRef> and <persRef ref="cruft-elizabeth">her daughter
+								Eliza</persRef> were there— At 4 in the afternoon I went to Neponsit
+							Bridge, to attend the meeting of the Directors. We could not make a
+							Quorum, <persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy</persRef> and <persRef ref="greenleaf-thomas">M<hi
+									rend="superscript">r:</hi> T. Greenleaf</persRef> being the only
+							members who attended. <persRef ref="foster-james">M<hi
+									rend="superscript">r:</hi> Foster</persRef>, and <persRef
+								ref="shaw-william">M<hi rend="superscript">r:</hi> Shaw</persRef>
+							were there— We stayed untill past 6. and then adjourned to meet at M<hi
+								rend="superscript">r:</hi> Quincy’s, next Tuesday at 4 P.M.—
+							Returned home just at dusk.— I read a letter of <persRef
+								ref="martyn-john">Martyn</persRef> on Botany.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-03">
+					<head>3 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>At the brook. Found some new flowers— Two hours in the
+							forenoon at <persRef key="adams-john">my fathers</persRef>— Home to
+							dinner— Expected <persRef ref="otis-harrison;otis-sally">M<hi
+									rend="superscript">r:</hi> and M<hi rend="superscript">rs:</hi>
+								H. Otis</persRef>, with <persRef ref="johnson-thomas-baker">T.
+								Johnson</persRef> in the afternoon, from Boston, but they did not
+							come— Went with <persRef ref="adams-louisa-catherine;pope-eliza">the
+								Ladies</persRef> botanizing just before dark in the Evening— Heat
+							and Drought very great— I read a Chapter of <persRef ref="aristotle"
+								>Aristotle</persRef>, and wrote a little in the morning— Read
+								<persRef ref="woodward-david">Captain Woodward’s</persRef>
+							Narrative, and a letter of <persRef ref="martyn-john">Martyn</persRef>
+							in the afternoon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-04">
+					<head>4 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-04"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date>Independence Day. Bathed at <persRef ref="black-moses"
+									>M<hi rend="superscript">r:</hi> Black’s</persRef> wharf— Spent
+							the day at <persRef key="adams-john">my father’s</persRef>— The heat
+							somewhat affected my studies— Pass’d most of the forenoon under the
+							Cherry-trees shooting Robins and other small birds, &amp; one pigeon.
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> and <persRef ref="pope-eliza"
+								>Eliza</persRef> came in the afternoon, we return’d home together— I
+							began to learn by heart Les Racines Grecques— Wrote— And finished
+							reading the French Abrègé de Rhetorique.</p>
+						<p><persRef key="adams-john2">John</persRef>—2. f. 7. i.— <persRef
+								key="adams-george">George</persRef> 3 f. 3 1/2 i.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-05">
+					<head>5 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-05"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="167" type="ms"/>
+						<p><date>5. </date>Bathed at Bracket’s landing early this morning.— The
+							creek has very much filled up since the time when I was wont to bathe
+							there, as a Child— <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef> and <persRef
+								ref="pope-eliza">Eliza</persRef> went over to Milton this forenoon.
+							I expected <persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi>
+								Quincy</persRef> to have called on me to go to Boston; but he did
+							not come— We again expected <persRef ref="otis-harrison;otis-sally">M<hi
+									rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+									>rs:</hi> Otis</persRef>, but they did not make their
+							appearance. I gathered some flowers in the morning alone; and in the
+							Evening with the Ladies. M<hi rend="superscript">rs:</hi> Adams in the
+							Evening was unwell— I finished reading <persRef ref="woodward-david"
+								>Woodard’s</persRef> Narrative; read also a couple of <persRef
+								ref="martyn-john">Martyn’s</persRef> letters, and some pages of
+								<persRef ref="burns-robert">Burns</persRef> the Scottish Poet.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-06">
+					<head>6 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef key="adams-thomas">My brother</persRef> called
+							here this morning— I went with him to <persRef key="adams-john">my
+								father’s</persRef> at about 12. o’clock. We dined at <persRef
+								ref="black-moses">M<hi rend="superscript">r:</hi> Black’s</persRef>,
+							with the Club. <persRef ref="holbrook-amos">D<hi rend="superscript"
+									>r:</hi> Holbrook</persRef>, and two Gentlemen from Boston,
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Lamb’s</persRef>,
+							were of the Company. I left them early in the afternoon, but came home
+							somewhat late.— Read nothing.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-07">
+					<head>7 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>Heard a <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Mellen</persRef>— A preacher of the days that are past. In the
+							afternoon I went to <persRef key="adams-john">my father’s</persRef>; and
+								<persRef
+								ref="adams-louisa-catherine;pope-eliza;adams-john2;adams-george">my
+								family</persRef> were all there— Return’d home late in the Evening—
+							This day completes four weeks without rain— The Season suffers severely
+							by the drought— I resumed the Racines Grecques. and read <persRef
+								ref="tillotson-john">Tillotson’s</persRef> Sermons 79 and 80.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-08">
+					<head>8 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Morning at home— Read a couple of <persRef
+								ref="martyn-john">Martyn’s</persRef> letters— Afternoon at <persRef
+								key="adams-john">my father’s</persRef>, with <persRef
+								ref="aristotle">Aristotle</persRef>— Les Racines Grecques, and
+							writing. I returned home early in the evening— We had one of the most
+							violent thunder storms, I ever witness’d— It Struck a fence between me
+							and <persRef ref="phipps-thomas2">D<hi rend="superscript">r:</hi>
+								Phipps</persRef>; not forty rods distant from my house— It was
+							however short, and the sky soon cleared away again.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-09">
+					<head>9 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>I went this morning to <persRef key="adams-john">my
+								father’s</persRef> and dined there; at 4 this afternoon I went to
+								<persRef ref="quincy-josiah2">M<hi rend="superscript">r</hi>
+								Quincy’s</persRef> and attended the adjourned meeting of the
+							Directors of Neponsit Bridge— <persRef ref="greenleaf-thomas">M<hi
+									rend="superscript">r:</hi> Greenleaf</persRef> &amp; <persRef
+								ref="beale-benjamin">M<hi rend="superscript">r:</hi> Beale</persRef>
+							overtook me, and took me with them in the chaise. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Rogers</persRef> &amp; his family
+							were at M<hi rend="superscript">r:</hi> Quincy’s— On my return M<hi
+								rend="superscript">r:</hi> Quincy walk’d with me to my father’s—
+							Came home with <persRef ref="cranch-mary2">M<hi rend="superscript"
+									>rs:</hi> Cranch</persRef>— Read <persRef ref="aristotle"
+								>Aristotle</persRef> &amp; Les Racines Grecques.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-10">
+					<head>10 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>At <persRef key="adams-john">my father’s</persRef> this
+							forenoon— A Chapter of <persRef ref="aristotle">Aristotle</persRef>, and
+							writing— <persRef ref="tufts-cotton2">D<hi rend="superscript">r:</hi>
+								Tufts</persRef> &amp; <persRef ref="tufts-susanna">his
+								Lady</persRef>, with <persRef ref="u">Miss Jenks</persRef>, <persRef
+								ref="quincy-josiah2">M<hi rend="superscript">r</hi> Quincy</persRef>
+							and his family, <persRef ref="adams-hannah2">Miss H. Adams</persRef>, and <persRef key="adams-abigail">my mother</persRef> were here at tea this
+							afternoon. In the evening <persRef ref="u">M<hi rend="superscript">r:</hi> Townsend</persRef>, and
+							<persRef ref="greenleaf-daniel">M<hi rend="superscript">r:</hi> D. Greenleaf</persRef> called, and spent an
+							hour with <persRef ref="adams-louisa-catherine;pope-eliza">us</persRef>— I read the last two letters of <persRef ref="martyn-john">Martyn’s</persRef> Botany.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-11">
+					<head>11 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="u">M<hi rend="superscript">r:</hi> Townsend</persRef> called on me
+							this morning, and I went with him to <persRef key="adams-john">my father’s</persRef>— <persRef key="adams-thomas">My brother</persRef> was there,
+							and after spending an hour with him we return’d together— They had
+							company there to dinner, <persRef ref="u">Miss Breck</persRef> &amp; <persRef ref="u">Miss Wilson</persRef>—<persRef ref="hall-joseph">M<hi
+								rend="superscript">r:</hi> Hall</persRef>, &amp; <persRef ref="sumner-william">M<hi rend="superscript"
+								>r:</hi> Sumner</persRef>—<persRef ref="u">M<hi rend="superscript">r:</hi> Whitwell</persRef> and <persRef ref="shaw-william">M<hi
+								rend="superscript">r:</hi> Shaw</persRef>— I went there again in the
+							afternoon; <persRef ref="adams-louisa-catherine;pope-eliza">the ladies</persRef> also— We came home early in the Evening— Read
+							little or Nothing— I enter this day upon my thirty-ninth year—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-12">
+					<head>12 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12 </date>The extremity of the weather kept me confined the
+							greatest part of the day to my own house: which is a painful
+							interruption of my studies. I wrote a little— Continued my application
+							to the Racine’s Grecques— Read part of the first Volume of <persRef ref="hayley-william">Hayley’s</persRef> life
+							of <persRef ref="cowper-william">Cowper</persRef>— In the afternoon I stroll’d o’er the grounds behind my house—
+							In the Evening the <persRef ref="greenleaf-daniel;greenleaf-thomas">two M<hi rend="superscript">r:</hi> Greenleaf’s</persRef> and
+							<persRef ref="greenleaf-elizabeth;greenleaf-mary">their Ladies</persRef> paid us a visit; and <persRef ref="otis-harrison;otis-sally">M<hi rend="superscript">r:</hi> &amp;
+								M<hi rend="superscript">rs:</hi> H. G. Otis</persRef>, with <persRef ref="lyman-elizabeth;thorndike-sally">their two
+							daughters</persRef>, one still shorter.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-13">
+					<head>13 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="168" type="ms"/>
+						<p><date>13. </date>The extremity of the heat again kept me at home all the
+							morning. But we dined with the club at <persRef key="adams-john">my father’s</persRef>— <persRef key="adams-louisa-catherine">M<hi
+								rend="superscript">rs:</hi> Adams</persRef> not being very well did not go—
+							Read further in the first volume of <persRef ref="cowper-william">Cowper’s</persRef> life, and continued the
+							Racines Grecques— My proper application continues still interrupted, by
+							the overpowering heat.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-14">
+					<head>14 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-14"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> Adams</persRef> very unwell— Bled
+							by <persRef ref="phipps-thomas2">D<hi rend="superscript">r:</hi> Phipps</persRef>— I heard <persRef ref="fiske-thaddeus">M<hi
+								rend="superscript">r:</hi> Fiske</persRef> of Cambridge— <persRef key="adams-abigail">My Mother</persRef> was here in
+							the Evening. Our boy <persRef ref="adams-micajah2">Newell</persRef> went home sick— Read <persRef ref="tillotson-john">Tillotson’s</persRef> Sermons 81.
+							and 82. On worshipping dead, and persecuting living Saints— And on Zeal
+							without knowledge— His attacks on the Catholic Religion are incessant,
+							and at this day would appear illiberal— Read also in <persRef ref="hayley-william">Hayley’s</persRef> Life of
+							<persRef ref="cowper-william">Cowper</persRef>.— The book principally consists of Cowper’s Correspondence.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-15">
+					<head>15 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>After a day of intermission the heat again returned with
+							great excess.— My thermometer has never risen higher than 87.—but those
+							of other Gentlemen have been at 95 and 97.— Mine is in the coolest room
+							of the house; and most distant from the Sun— <persRef key="adams-thomas">My brother</persRef> called here this
+							afternoon— I was going with him to <persRef key="adams-john">my fathers</persRef>, but was detained by <persRef ref="johnson-thomas-baker">M<hi
+								rend="superscript">r:</hi> T. B. Johnson</persRef>, who came out from Boston
+							with <persRef ref="u">M<hi rend="superscript">r:</hi> Gordon</persRef>— They returned this Evening—
+							<persRef ref="apthorp-g;apthorp-anna">M<hi rend="superscript">r:</hi> &amp; M<hi rend="superscript"
+								>rs:</hi> Apthorp</persRef> also called upon us— <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+								>rs:</hi> Adams</persRef> continues unwell.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-16">
+					<head>16 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date><persRef key="adams-abigail">My Mother</persRef> called this morning— And I went down with her—
+							Spent the day in the Office at <persRef key="adams-john">my father’s</persRef>, reading and writing.— All
+							the family but himself went in the afternoon to <persRef ref="quincy-josiah2">M<hi rend="superscript"
+								>r:</hi> Quincy’s</persRef>— <persRef ref="adams-hannah2">Miss H. Adams</persRef> went there to dinner— I walk’d home
+							this Evening— Heat continues excessive— Read a little of <persRef ref="aristotle">Aristotle</persRef> and
+							<persRef ref="quintilian-marcus">Quinctilian</persRef>, and wrote also a little</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-17">
+					<head>17 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>At the Brook this morning with <persRef key="adams-george">George</persRef>— <persRef key="adams-louisa-catherine">M<hi
+								rend="superscript">rs:</hi> Adams</persRef> again quite unwell. Heat of the
+							weather still so great that I could not leave home— In the Evening we
+							had the outer skirt of a thunder-cloud, and a bare sprinkling of rain—
+							Wrote a little— Racines Grecques— Read, Life of <persRef ref="cowper-william">Cowper</persRef>, and <persRef ref="blair-hugh">Blair’s</persRef>
+							Lectures.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-18">
+					<head>18 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Heat not so extreme as for some days past, but still
+							violent. I have not known for many years, if ever, so long a succession
+							of great heat in this climate. Towards Evening I went to <persRef key="adams-john">my father’s</persRef>,
+							spent an hour there and then return’d— <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> yet unwell— Read <persRef ref="cowper-william">Cowper’s</persRef> posthumous Poems— <persRef ref="blair-hugh">Blair’s</persRef> Lectures, and
+							wrote— Racines Grecques.—these give me a steady occupation about two
+							hours each day. I learn by heart three Stanza’s, exactly like a School
+							boy— I shall see whether to any use—for I find that my memory never
+							retains the yesterday’s lesson.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-19">
+					<head>19 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>I spent the morning, and part of the afternoon, in the
+							regular occupations I have lately assumed.— Wrote—and read <persRef ref="blair-hugh">Blair’s</persRef>
+							Lectures— We all went to tea at <persRef key="adams-john">my father’s</persRef>, where we found a Company of
+							Ladies. <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> Adams</persRef> was very unwell again in
+							the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-20">
+					<head>20 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date><persRef ref="pope-eliza">Eliza Johnson</persRef>, went to Boston this morning with <persRef key="adams-thomas">my
+							brother</persRef>; intending to spend some days there. Dined with the Club at <hi
+								rend="strikethrough">Boston— M</hi><hi
+								rend="superscript strikethrough">r:</hi><hi rend="strikethrough"> D.
+									Greenleafy br</hi> <persRef ref="greenleaf-daniel">M<hi rend="superscript">r:</hi> D. Greenleaf’s</persRef>—
+							My brother return’d from Boston and was there— At a tea-party this
+							Evening at <persRef ref="u">M<hi rend="superscript">r:</hi> Millar’s</persRef>; with a company of
+							Ladies.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-21">
+					<head>21 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date>The meeting house is undergoing repairs and a process of
+							enlargement; which prevent any performance of public worship there this
+							day— I heard <persRef ref="u">M<hi rend="superscript">r:</hi> Blackburn</persRef> at Church— <persRef ref="smith-catharine">My
+								Aunt Smith</persRef> dined with <persRef ref="adams-louisa-catherine;pope-eliza">us</persRef>— In the afternoon I went to <persRef key="adams-john">my father’s</persRef>; and
+							with him paid a visit at <persRef ref="quincy-josiah2">M<hi rend="superscript">r:</hi> Quincy’s</persRef>; we
+							found nobody at home— My father came home with me— I read the 83<hi
+								rend="superscript">d:</hi> and 84<hi rend="superscript">th:</hi>
+							Sermons of <persRef ref="tillotson-john">Tillotson</persRef>; and the preface to the <persRef ref="gedoyn-nicolas">Abbé Gedoyn’s</persRef> french
+							translation of <persRef ref="quintilian-marcus">Quinctilian</persRef>— Explanation at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-22">
+					<head>22 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-22"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="169" type="ms"/>
+						<p><date>22. </date>Somewhat unwell the former part of the day— Afternoon
+							went with <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> Adams</persRef> to <persRef ref="quincy-josiah2">M<hi
+								rend="superscript">r:</hi> Quincy’s</persRef>; <persRef ref="u">Miss Wilson</persRef> was there; and <persRef ref="shaw-william">M<hi
+								rend="superscript">r:</hi> Shaw</persRef>. We came home early in the Evening.—
+							Read the first Book of <persRef ref="quintilian-marcus">Quinctilian</persRef>, in the <persRef ref="gedoyn-nicolas">Abbé Gedoyn’s</persRef> french
+							translation— It contains many valuable observations, but consists
+							chiefly of grammatical criticisms, on the use of certain words— Made
+							some extracts from Juvenal.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-23">
+					<head>23 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>23. </date><persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> Adams</persRef> went to Boston
+							this morning with <persRef ref="greenleaf-daniel">M<hi rend="superscript">r:</hi> D. Greenleaf</persRef>; but
+							finding herself much fatigued, did not return at Night— She sent me word
+							by M<hi rend="superscript">r:</hi> Greenleaf to come for her to-morrow—
+							Took <persRef key="adams-john2">my youngest child</persRef> with me to <persRef key="adams-john">my father’s</persRef>, where we dined— <persRef ref="storer-susan">Miss S.
+								Storer</persRef> was there. <persRef key="adams-thomas">My brother</persRef> brought me to <persRef ref="cranch-richard">M<hi rend="superscript"
+								>r:</hi> Cranch’s</persRef> on the way home— I walk’d the remainder of the
+							way— I continue my exercises in learning the Racines Grecques— 3.
+							Stanza’s a day. It seems to me that in continuing the practice, I
+							acquire some facility; and I can now dispatch my task in an hour, which
+							sometimes at first took me nearly double that time— But I still
+							invariably forget every lesson, but that of the day— As a school-boy I
+							should pass muster— But as to the <hi rend="italic">use</hi> of my
+							learning it is very doubtful— Read the Second Book of <persRef ref="quintilian-marcus">Quintilian</persRef>— And
+							miscellaneously this afternoon, at my father’s— <persRef ref="laharpe-jean">La Harpe</persRef>— A Chapter of
+							<persRef ref="aristotle">Aristotle</persRef>— The preface to the Port-Royal Greek Grammar— <persRef ref="gibbon-edward">Gibbon’s</persRef> Memoirs
+							&amp;c— In the Evening at home two Chapters of the Greek Testament—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-24">
+					<head>24 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-24"/><editor
+							role="transcription">Neal Millikan</editor>
+						<subject>Adams Family Finances</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>I went into Boston this morning for <persRef key="adams-louisa-catherine">M<hi
+								rend="superscript">rs:</hi> Adams</persRef>, and brought her home this
+							Evening. Dined at <persRef ref="whitcomb-tilly">Whitcomb’s</persRef>. Before I left <persRef key="adams-john">my father’s</persRef>, he gave me a
+							letter, received last Evening from <persRef ref="bird-robert">R. Bird</persRef>, enclosing <persRef ref="swan-james">M<hi
+								rend="superscript">r:</hi> Swan’s</persRef> note, endorsed by <persRef ref="jackson-henry2">Genl. Jackson</persRef>— I
+							called twice on this Gentleman to demand payment of the note; which he
+							refused— He urged me not to sue it, and begg’d for time— Untill M<hi
+								rend="superscript">r:</hi> Swan should arrive—or untill he could
+							consult a lawyer, to know how soon he would be compell’d by law to pay
+							the money. This was obviously trifling with me— I sued the note, to the
+							next Circuit Court. I drew on <persRef ref="williams-samuel2">M<hi rend="superscript">r:</hi> Williams</persRef>,
+							for £450, and purchased 20 Shares in the New-England, Marine Insurance
+							Company.— Could of course read nothing this day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-25">
+					<head>25 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>Spent the whole day at home, excepting a solitary walk,
+							which I took towards Evening— Read the third Book of <persRef ref="quintilian-marcus">Quinctilian</persRef>—
+							<persRef ref="gedoyn-nicolas">Gedoyn’s</persRef> Translation— <persRef ref="blair-hugh">Blairs</persRef> Lectures 10–13.— <persRef ref="juvenal">Juvenal</persRef> Sat: 3. in part,
+							&amp; made Extracts. 2. Chapters in the Greek Testament— I write nothing
+							yet.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-26">
+					<head>26 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-26"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>26. </date>Day at home industriously employed—towards Evening went
+							to <persRef key="adams-john">my father’s</persRef>— Found <persRef ref="adams-louisa-catherine;pope-eliza">the ladies</persRef> were gone to <persRef ref="adams-peter">my uncle’s</persRef> to tea, and
+							went to them. Thunder shower came up— I walk’d home in the midst of it—
+							Very little rain— The drought is greater, than I have ever known— I read
+							<persRef ref="quintilian-marcus">Quintilian</persRef> Book 4 and began Book 5— <persRef ref="blair-hugh">Blair’s</persRef> Lectures 14–17. Greek
+							Testament, 2 Chapters— <persRef ref="juvenal">Juvenal</persRef> Sat: 4. and Racines Grecques— <persRef key="adams-abigail">My Mother</persRef>
+							informed me that the Overseers of the University had yesterday confirmed
+							the choice of the Corporations for the professorship of Oratory.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-27">
+					<head>27 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date>We dined at <persRef key="adams-john">my father’s</persRef> in company with the Trustees of
+							the Agricultural Society. Home early this Evening— Read the remainder of
+							<persRef ref="quintilian-marcus">Quinctilian</persRef> Book 5.— Greek Testament 2 Chapters— Extract from part of
+							Juvenal Sat: 5. and in the Evening, <persRef ref="flechier-esprit">Flechier</persRef> Oraison funebre, on the
+							<persRef ref="dangennes-julie">Duchess of Montausier</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-28">
+					<head>28 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="170" type="ms"/>
+						<p><date>28. </date>The Meeting-House still under repairs, and no service
+							there. Heard <persRef ref="u">M<hi rend="superscript">r:</hi> Gardner</persRef> at Church— In the
+							Evening <persRef ref="harrod-charles">M<hi rend="superscript">r:</hi> Charles Harrod</persRef> called upon us
+							with <persRef ref="adams-ann">his sister, M<hi rend="superscript">rs:</hi> T. B. Adams</persRef>— <persRef ref="smith-hannah">M<hi
+								rend="superscript">rs:</hi> Smith</persRef> also was here. I read the 85<hi
+									rend="superscript">th:</hi> Sermon of <persRef ref="tillotson-john">Tillotson</persRef>, which closes the
+								4<hi rend="superscript">th:</hi> volume, and now find myself as I
+							have been several times before, obliged to suspend further reading him
+							in course, not having the subsequent volume at hand— Read also
+							<persRef ref="flechier-esprit">Fléchier’s</persRef> Oraison funébre on the <persRef ref="dewignerod-marie">duchess d’Aiguillon</persRef>; and the preface
+							to this volume of his works.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-29">
+					<head>29 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>This afternoon I went to tea at <persRef ref="black-moses">M<hi rend="superscript"
+								>r:</hi> Black’s</persRef>— <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> Adams</persRef> was not
+							well enough to go out. There was the usual company of ladies and
+							Gentlemen— I came home later than usual in the Evening— Read <persRef ref="quintilian-marcus">Quinctilian</persRef>
+							Book 6.—and <persRef ref="blair-hugh">Blair’s</persRef> Lectures 18–22.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-30">
+					<head>30 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date><persRef ref="pope-eliza">Eliza Johnson</persRef> return’d this afternoon from Boston— <persRef ref="johnson-thomas-baker">Her
+							brother</persRef> came with her and went back this Evening.— Tea at <persRef ref="apthorp-g">M<hi
+								rend="superscript">r:</hi> Apthorp’s</persRef>; but <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> did not go— I called afterwards at <persRef ref="cranch-richard">M<hi
+								rend="superscript">r:</hi> Cranch’s</persRef>, but found no letters there—
+							Read <persRef ref="quintilian-marcus">Quinctilian</persRef> Book 7. and <persRef ref="blair-hugh">Blair’s</persRef> Lectures 23–26. <persRef ref="juvenal">Juvenal</persRef> Sat: 5. and
+							begun Sat: 6.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-31">
+					<head>31 July 1805</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. </date>I received this morning from <persRef ref="shaw-william">M<hi rend="superscript"
+								>r:</hi> Shaw</persRef>, the rules and Statutes respecting the Professorship
+							of Rhetoric, and notice that a Committee of the Corporation and
+							Overseers, would come out to-morrow morning— This afternoon, we went
+							down to <persRef key="adams-john">my father’s</persRef>, and pass’d the Evening there. <persRef ref="greenleaf-thomas;greenleaf-elizabeth">M<hi
+								rend="superscript">r:</hi> &amp; M<hi rend="superscript">rs:</hi> T.
+								Greenleaf</persRef> and <persRef ref="u">Miss Saltonstall</persRef> were there— Read <persRef ref="quintilian-marcus">Quinctilian</persRef> Book 8—
+							<persRef ref="blair-hugh">Blair’s</persRef> Lectures 27–29.—and <persRef ref="juvenal">Juvenal</persRef> Sat: 6.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v27-1805-07-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1805-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>—</date> Rise usually about 6— Employed
+							one hour in learning by heart Three Stanza’s of the Racines Grecques.
+							And another in reading two Chapters of the Greek Testament— I have thus
+							gone through 71. of the first, and 16. Chapters of Matthew in the last—
+							Breakfast— Journalize— Extract from <persRef ref="juvenal">Juvenal</persRef>, and read a Book of
+							<persRef ref="quintilian-marcus">Quinctilian</persRef> in the french Translation— This with occasional family
+							avocations brings me to the hour of dinner, between 1 and 2.— Dine— Rest
+							an hour and sometimes two— Read three or four of <persRef ref="blair-hugh">Blair’s</persRef> lectures; then
+							walk or ride to <persRef key="adams-john">my father’s</persRef>, or into company for the Evening untill 9.—
+							Then sup, and between 10 and 11 retire for the Night— I have thus
+							resumed a course of very assiduous, and to me very pleasing occupation.
+							I never have had one more agreeable to me— But the prospect of labour
+							before me is so boundless, and that of utility to be derived from it so
+							obscure that I am almost appall’d and discouraged— Yet with the blessing
+							of Heaven, and especially, if my health can be indulged me, I will not
+							despair— For health of body and perseverance of mind, I must implore the
+							being from whom alone every good and perfect gift descends.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

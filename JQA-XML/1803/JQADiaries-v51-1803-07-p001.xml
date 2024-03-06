@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v51-1803-07">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- M/CFA/15.1 — JQA’s Senate Diary -->
+
+            <div type="month" mhs:startingPage="1" mhs:precedingFile="JQADiaries-v51-1803-03-p001.xml" mhs:followingFile="JQADiaries-v51-1803-08-p001.xml"
+                mhs:volume="51">
+                <bibl n="metadata"><date from="1803-07-16" to="1803-07-16"/></bibl>
+
+                <div type="entry" xml:id="jqadiaries-v51-1803-07-16">
+                    <head>16 July 1803</head>
+                    <bibl><author>JQA</author><date type="creation" when="1803-07-16"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>16. July 1803.</date> The President of the United States issued a
+                            proclamation, calling Congress to meet, before the time to which they
+                            had adjourned— The day fixed by the proclamation, is monday 17.
+                            October.</p>
+                    
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

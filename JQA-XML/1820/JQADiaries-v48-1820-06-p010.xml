@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v48-1820-06">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>John Quincy Adams Diary Digital Project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>DJQA SOURCE DESCRIPTION</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="month" mhs:startingPage="010" mhs:precedingFile=""
+                mhs:followingFile="JQADiaries-v48-1820-07-p012.xml" mhs:volume="48">
+                <bibl n="metadata"><date from="1820-06-01" to="1820-06-30"/></bibl>
+
+                <!--DJQA 1820-06 DJQA48  -->
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-01">
+                    <head>1 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-01"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="10"/>
+                        <dateline>1820.</dateline>
+                        <p><date>1. June.</date></p>
+                        <p>At Treas<hi rend="superscript">y.</hi></p>
+                        <p>Bulfinch</p>
+                        <p>O’Brien</p>
+                        <p>Seaton</p>
+                        <p>Forbes.</p>
+                        <p>Calhoun—</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-05">
+                    <head>5 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-05"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>5—</date> The Collegians bound to Rome</p>
+                        <p>Stackelberg.</p>
+                        <p>Poletica— 2 despatches</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-06">
+                    <head>6 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-06"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>6.</date> C. Freeman— x Judah Lord—</p>
+                        <p>Foxhall— For John Emery</p>
+                        <p>Vives— for Answers.</p>
+                        <p>Tayloe</p>
+                        <p>Poletica. Nesselrode. P. d. B— The Porte &amp; Persia.</p>
+                        <p>Morton.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-07">
+                    <head>7 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-07"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>7.</date> E. J. Lee</p>
+                        <p>Mariano.</p>
+                        <p>Stackelberg.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-08">
+                    <head>8 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-08"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>8—</date> Thornton—</p>
+                        <p>Messenger to P.U.S.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-09">
+                    <head>9 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-09"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>9.</date> Roth and Menou</p>
+                        <p>Sec<hi rend="superscript">y.</hi> Treas<hi rend="superscript">y</hi> and
+                            War</p>
+                        <p>Seaton and Weightman</p>
+                        <p>Hickey.</p>
+                        <cb/>
+                        <p><hi rend="italic">For Memory</hi> [symbols]</p>
+                        <p rend="strikethrough">Census.</p>
+                        <p rend="strikethrough">P.U.S.</p>
+                        <p><hi rend="strikethrough">Vivés</hi>. [symbols]</p>
+                        <p>Hickey. [symbols]</p>
+                        <p>10 [symbols][June] <hi rend="strikethrough">Middleton</hi> [symbols]</p>
+                        <p>Forbes.</p>
+                        <p rend="strikethrough">Prevost.</p>
+                        <p>Stackelberg</p>
+                        <p>Antrobus</p>
+                        <p>Gallatin.</p>
+                        <p>Rush.</p>
+                        <p rend="strikethrough">Mullowny.</p>
+                        <p>Riley</p>
+                        <p rend="strikethrough">Simpson</p>
+                        <p rend="strikethrough">Stith.</p>
+                        <p>Correa. 2.</p>
+                        <p>Todd— Forsyth.</p>
+                        <p rend="strikethrough">Mariano.</p>
+                        <p>Stuart. Manilla.</p>
+                        <p>Clarke’s papers.</p>
+                        <p>R. Clintock [symbols]</p>
+                        <p><hi rend="strikethrough">Alexandria</hi> [symbols]</p>
+                        <p>17 [symbols][June] <hi rend="strikethrough">Warrant.</hi></p>
+                        <p>19. <hi rend="strikethrough">Journals</hi> of Congress.</p>
+                        <p>24 Porter P. B. &amp; R. King.</p>
+                        <p>26. Todd— Forsyth.</p>
+                        <p>19 [symbols][July] Levy.</p>
+
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-13">
+                    <head>13 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-13"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <pb n="11" type="ms"/>
+                        <p><date>13. June—</date> Tuesday.</p>
+                        <p>J. L. Edwards.</p>
+                        <p>J. Middleton.</p>
+                        <p>Vivés.</p>
+                        <p>Sec<hi rend="superscript">y</hi> Treas<hi rend="superscript">y.</hi></p>
+                        <p>Lamb.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-14">
+                    <head>14 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-14"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>14.</date> Freeman—for Lord.</p>
+                        <p>Morton—for Jason Chamberlin [symbols]</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-15">
+                    <head>15 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-15"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>15.—</date> Col<hi rend="superscript">l.</hi> Lane.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-19">
+                    <head>19 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-19"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>19.</date> Middleton’s— A. &amp; J.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-20">
+                    <head>20 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-20"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>20.</date> Gales.</p>
+                        <p>Frye</p>
+                        <p>Thornton.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-21">
+                    <head>21 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-21"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>21.</date> W. Lee.</p>
+                        <p>Roberdeau Maj<hi rend="superscript">r.</hi> P. B. P.</p>
+                        <p>Poletica— P. d. B—1. Tuyll.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-22">
+                    <head>22 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-22"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>22—</date> Rogers—Moses</p>
+                        <p>Captain O’Brien.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-23">
+                    <head>23 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-23"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>23.</date> Rogers— M.</p>
+                        <p>Meigs—Josiah.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-24">
+                    <head>24 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-24"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>24—</date> Bennett— Alex<hi rend="superscript">a.</hi></p>
+                        <p>Bailey. Asael—with Elliot. Pat<hi rend="superscript">t.</hi></p>
+                        <p>Middleton. A— Russian Ordinance.</p>
+                        <p>O’Brien.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-26">
+                    <head>26 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-26"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>26.</date> Howell.</p>
+                        <cb/>
+                        <p rend="italic">Pro Memoria.</p>
+                        <p>For <hi rend="italic">P.U.S.</hi></p>
+                        <p><hi rend="strikethrough">Stackelburg</hi>— Seamen</p>
+                        <p><hi rend="strikethrough">Correa</hi>— Pirates</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-27">
+                    <head>27 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-27"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>27.</date> [symbols][June] O’Brien</p>
+                        <p>B. L. Lear—</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-28">
+                    <head>28 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-28"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>28.</date> R. Dickey. A. Middleton.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-29">
+                    <head>29 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-29"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>29.</date> Bennett.</p>
+                    </div>
+                </div>
+                <div type="entry" xml:id="jqadiaries-v48-1820-06-30">
+                    <head>30 June 1820</head>
+                    <bibl><author>JQA</author><date type="creation" when="1820-06-30"/><editor
+                            role="transcription">Neal Millikan</editor></bibl>
+                    <div type="docbody">
+                        <p><date>30.</date> Le Gris.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v20-1795-01">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="13"  mhs:precedingFile="" mhs:followingFile="JQADiaries-v20-1795-02-p030.xml" mhs:volume="20">
+				<bibl n="metadata"><date from="1795-01-01" to="1795-01-31"/></bibl>
+
+				<!-- D/JQA/20.19 -->
+
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-01">
+					<head>1 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-01"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="13"/>
+						<dateline><hi rend="italic">January 1795</hi></dateline>
+						<p><date>1. </date>Visited in compliance with the Custom, The President of
+							the States General: the First noble of Holland (<persRef
+								ref="vanwassanaer-willem">Count Wassenaar Starrenburg</persRef>) The
+							Councillor Pensionary of Holland, <persRef ref="vanderspiegel-laurens"
+								>Van der Spiegel</persRef>, and in the absence of the greffier
+								<persRef ref="fagel-hendrik">Fagel</persRef>, M<hi rend="superscript"
+								>r:</hi> van Lelyveld commis of the States General. The President
+							and <persRef ref="vanlelyveld-b">M<hi rend="superscript">r:</hi>
+								Lelyveld</persRef> were not at home, whereupon I left cards.— The
+							Latter immediately after returned my visit by a card. Between 2 and 3.
+							Went to Court, and soon had Audience of the <persRef ref="wiliam-v"
+								>Prince Stadtholder</persRef>. I have reason to be satisfied with
+							the reception I have hitherto met with <hi rend="italic">there</hi>. At
+							about 10. this Evening. Had a visit by card from <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Plenti</persRef> Chargé d’Affairs of
+							Sardinia.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-02">
+					<head>2 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>2. </date>Returned <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Plenti’s</persRef> visit by card. Saw <persRef ref="dumas-charles"
+									>M<hi rend="superscript">r:</hi> Dumas</persRef> at his chamber.
+							Received Duplicate of Letter from <persRef ref="randolph-edmund">Sec<hi
+									rend="superscript">y:</hi> of State</persRef>,—Nov<hi rend="superscript">r:</hi>
+							8. and Letter from <persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson</persRef> Consul at London. Visited <persRef ref="u">M<hi
+									rend="superscript">r</hi> Mersen</persRef> towards evening. Conversation
+							with him respecting men &amp; measures. Visit by card from <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Pelser</persRef> Chargé d’Affaires
+							of the Emperor.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-03">
+					<head>3 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="14" type="ms"/>
+						<p><date>3. </date>Returned <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Pelser’s</persRef> visit by card. Received one from <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Plenti</persRef> in person. For his
+							proposals and my answers. V: Letter to <persRef ref="randolph-edmund"
+									>Sec<hi rend="superscript">y:</hi> of State</persRef>. N. 17. <persRef
+								ref="bourne-sylvanus">M<hi rend="superscript">r:</hi> Bourne</persRef> came
+							from Amsterdam &amp; past the Eve<hi rend="superscript">g:</hi> with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-04">
+					<head>4 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Returned <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Plenti’s</persRef> visit. found him under the greatest
+							apprehensions. Visit to <persRef ref="bourne-sylvanus">M<hi rend="superscript"
+									>r:</hi> Bourne</persRef>. cold still severe. Coming out of the
+							Heeren Logement saw two travelling Court Carriages without baggage,
+							window blinds up, one Servant by the side of the coachman, going out of
+							town. M<hi rend="superscript">r:</hi> Bourne dined with us. <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Mersen</persRef> came in after dinner.
+							Mentioned the Princesses were to go on Tuesday to Soesdyk; to meet the
+								<persRef ref="caroline-brunswick">Princess of Brunswick</persRef>
+							the destined bride to the <persRef ref="george-iv">Prince of
+								Wales</persRef>. Perhaps the <persRef ref="wiliam-v">Prince
+								Stadtholder</persRef> might go with them. Perhaps they may go this
+							night. These things shew the danger apprehended at the present moment.
+							Letter from <persRef ref="delius-arnold">M<hi rend="superscript">r:</hi>
+								Delius</persRef> Bremen &amp; from <persRef ref="vaughan-benjamin"
+									>M<hi rend="superscript">r:</hi> B. V.</persRef> Basle.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-05">
+					<head>5 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date>Letter to <persRef ref="vaughan-benjamin">M<hi rend="superscript"
+									>r:</hi> B. V.</persRef> to <persRef ref="hubbard-nicholas">M<hi
+									rend="superscript">r:</hi> Hubbard</persRef>. Part of the Evening at
+								M<hi rend="superscript">r:</hi> <unclear>. . .</unclear>man’s. Letter enclosed from <persRef
+								ref="vaughan-william">M<hi rend="superscript">r:</hi> W. V.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-06">
+					<head>6 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>6. </date><persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef> returned from Rotterdam. Weather moderates: an
+							important circumstance. Dined at <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Mersen’s</persRef>. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Scholten</persRef>. an Admiral—a Colonel.— A Gentleman
+							of Zeeland. <persRef ref="u">M<hi rend="superscript">r:</hi> Amman</persRef>.
+								M<hi rend="superscript">r:</hi> Bourne. Fears of the <pb n="15" type="ms"
+							/>french great. Letter from <persRef ref="crafts-thomas"
+								>Crafts</persRef>: answered.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-07">
+					<head>7 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-07"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>7. </date>N. 18 to <persRef ref="randolph-edmund">Secretary of
+								State</persRef>. Evening at <persRef ref="veermansenserf-abraham"
+									>M<hi rend="superscript">r:</hi> Veerman’s</persRef>. <persRef
+								ref="dumas-marie">Madame Dumas</persRef>. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Loder</persRef>. Thaw continues till this
+							Evening. then grows cold again.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-08">
+					<head>8 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Visit at <persRef ref="dumas-marie">Madame
+								Dumas’s</persRef>. proposals declined with reluctance. Walk.
+							Billet’s to and from <persRef ref="vanlelyveld-b">M<hi rend="superscript"
+									>r:</hi> Lelyveld</persRef>. Send him packets for <persRef
+								ref="pinckney-thomas">M<hi rend="superscript">r:</hi> Pinckney</persRef>.
+							Visit from <persRef ref="u">M<hi rend="superscript">r:</hi> Scholten</persRef>.
+							deposit of <persRef ref="greenleaf-james">M<hi rend="superscript">r:</hi>
+								Greenleaf’s</persRef> property. Visit to <persRef
+								ref="vonschubart-hermann">M<hi rend="superscript">r:</hi>
+							Schubart</persRef>, the Danish minister. not at home. take <persRef
+								ref="u">Madame Scholten</persRef> at <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Mersen’s</persRef>. Rumours and reports
+							indicative of popular fermentation. Weather cold. Terror of the french
+							increasing.— Letter to <persRef ref="dickason-thomas2">M<hi rend="superscript"
+									>r</hi> Dickason</persRef>. to <persRef ref="bourne-sylvanus"
+									>M<hi rend="superscript">r</hi> Bourne</persRef>. to <persRef
+								ref="delius-arnold">M<hi rend="superscript">r:</hi> Delius</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-09">
+					<head>9 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-09"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>9. </date>Warm &amp; rain.— not out.— Reports of battles. Letters
+								<persRef ref="u">M<hi rend="superscript">r:</hi> M’Evers</persRef>, letter
+							from <persRef ref="jay-john">M<hi rend="superscript">r:</hi> Jay</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-10">
+					<head>10 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-10"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>10. </date>Visit to <persRef ref="dumas-charles">M<hi rend="superscript"
+									>r:</hi> Dumas</persRef>. to <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> M’Evers</persRef>, who dined with us. Gave him letter
+							of recommendation to <persRef ref="bourne-sylvanus">M<hi rend="superscript"
+									>r:</hi> Bourne</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-11">
+					<head>11 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-11"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>11. </date>Visit from M: le Comte de<space/>and M.<space/>Emigrants from
+							Brabant. conversation political. at home— Dissatisfied.—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-12">
+					<head>12 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>12. </date>Dined at <persRef ref="vonschubart-hermann">Baron
+								Schubart’s</persRef>, the Danish Minister. <persRef ref="u;u">M<hi
+									rend="superscript">r:</hi> &amp; Mad<hi rend="superscript">e:</hi>
+								Scholten</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Mersen</persRef>. <persRef ref="araujo-antonio">M<hi rend="superscript"
+									>r:</hi> D’Araujo</persRef> minister from Portugal. <persRef
+								ref="u">Comte de Kalbes</persRef>, from Prussia. <persRef ref="u"
+									>M<hi rend="superscript">r</hi> Pelser</persRef> Chargé d’Affaires of
+							the Emperor.— <persRef ref="u">Baron Bielefeld</persRef> Sec<hi
+								rend="superscript">y:</hi> Legation of Prussia. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Levsen</persRef> of Denmark, <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Ehrensverd</persRef> Swedish Officer;
+							and others whom I did not know. fears of French.</p>
+						<p><pb n="16" type="ms"/>Just before dinner, visit from <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Plenti</persRef>. spoke of bad news.
+							French at Worcum. Does not believe however they will get there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-13">
+					<head>13 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>Hear nothing additional. Letters to <persRef
+								ref="randolph-edmund">Sec<hi rend="superscript">y:</hi> of State</persRef>
+							19. to <persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef> to <persRef ref="willink-jan;willink-wilhem"
+									>Mess<hi rend="superscript">rs:</hi> Willink</persRef>. call for
+							volunteers to march against the french. fruitless.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-14">
+					<head>14 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Very cold. Walk towards Delft. News from the
+							Commissioners at Paris, unsatisfactory. Second Commission. <persRef
+								ref="u">Royer</persRef> &amp; <persRef ref="u">Boetzelaer</persRef>.
+							to the <persRef ref="pichegru-charles">french General</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-15">
+					<head>15 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date>Colder.— Walk. Visit to <persRef ref="dumas-charles"
+									>M<hi rend="superscript">r.</hi> Dumas</persRef>. <persRef ref="u">M<hi
+									rend="superscript">r</hi> Plenti</persRef>, not at home. <hi
+								rend="italic">No</hi> report from Commissioners at Paris. <persRef
+								ref="u">M<hi rend="superscript">r</hi> Potts</persRef>. Sent Letters by him
+							to England. Evening at <persRef ref="veermansenserf-abraham">M.
+								Veerman’s</persRef>. <persRef ref="dumas-marie">Mad<hi rend="superscript"
+									>m:</hi> Dumas</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-16">
+					<head>16 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>Extreme cold. Walk round the City. endeavoured to see
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Plenti</persRef> &amp;
+								<persRef ref="u">M. Mersen</persRef> in vain. Letters from and to
+								<persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef>. <persRef ref="willink-jan;willink-wilhem">Mess<hi
+									rend="superscript">rs:</hi> Willink</persRef> &amp;c. Evening at
+								<persRef ref="veermansenserf-abraham">M<hi rend="superscript">r:</hi>
+								Veerman’s</persRef>. <persRef ref="u">M. Loder</persRef>. play’d at
+							chess with him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-17">
+					<head>17 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Saw <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Plenti</persRef>. He has pack’d up, and went away this afternoon.
+							Visit at <persRef ref="vonschubart-hermann">M<hi rend="superscript">r:</hi> de
+								Schubart’s</persRef>. not at home. At <persRef ref="u">M<hi
+									rend="superscript">r</hi> Mersen’s</persRef>. found him Letter to
+								<persRef ref="barker-joseph">M<hi rend="superscript">r:</hi>
+								Barker</persRef>. Rotterdam.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-18">
+					<head>18 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>To Amsterdam with the Post-Waggon at 9 in the morning.
+							Arrived at Amsterdam about 4. P.M. found it a moment of crisis. Saw
+								<persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef> several times in the Evening. <persRef ref="u">M<hi rend="superscript"
+								>r:</hi> Willink</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								M’Evers</persRef>. <persRef ref="hubbard-nicholas">M<hi rend="superscript"
+									>r:</hi> Hubbard</persRef>. <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Plenti</persRef> <pb n="17" type="ms"/>who appears very much embarassed how to get away,
+							and afraid of being stopped. Some symptoms of agitation among the
+							people. <persRef ref="u">General Golofkin</persRef> commander of the
+							Garrison here, received this morning from <persRef
+								ref="daendels-hermann">General Daandels</persRef>, commander of the
+							Batavian Corps, an <hi rend="italic">order</hi> to surrender and lay
+							down their arms. A Batavian by the name of <persRef
+								ref="krayenhoff-cornelius">Krayenhoff</persRef>, who fled lately
+							from this City, and is cited to appear on Tuesday next before the Court
+							of Schepens, came this afternoon exhibited to the Regency a Commission
+							constituting him Commander of this City. He demands of the magistrates
+							to abdicate their authority.— In the evening the three coloured cockade
+							began to make its appearance in the Streets: they were noisy through the
+							night. The carmagnole song, &amp; Marseilloise hymn, were every where
+							singing. But no mischief of any kind took place.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-19">
+					<head>19 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-19"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>19. </date>A noisy and tumultuous day; but witness to no violence,
+							as was apprehended. At about 10 in the morning, a detachment of 25 or 30
+							french hussars appeared before the Stad-House, the tree of liberty was
+							planted. The national flag displayed from its summit. A provisional
+							municipality of twenty persons, appointed by the revolutionary Committee
+							commenced their operations by dismissing the regency. In the afternoon
+							the State prisoners lately confined, were released, and <persRef
+								ref="visscher-carel">M<hi rend="superscript">r</hi> Visscher</persRef>,
+							appointed Grand Baillif of the provisional administration. The former
+							guards &amp; patroles are <pb n="18" type="ms"/>yet continued. Every
+							body else wears the three coloured cockade.</p>
+						<p>Dined at <persRef ref="willink-wilhem">M<hi rend="superscript">r:</hi> W.
+								Willink’s</persRef>.— <persRef ref="bourne-sylvanus">M<hi rend="superscript"
+									>r:</hi> Bourne</persRef>, <persRef ref="hubbard-nicholas">M<hi
+									rend="superscript">r</hi> Hubbard</persRef>, <persRef ref="u">M<hi
+									rend="superscript">r:</hi> M’Evers</persRef>, and a Dutch Gentleman
+							&amp; Lady unknown.— Towards the Evening a troop of the people passing
+							before the House, gave it a cheer, and made demand of some money to
+							drink, which M<hi rend="superscript">r:</hi> Willink accordingly gave.
+							Conversation with Mess<hi rend="superscript">rs:</hi> Willink &amp; Hubbard,
+							respecting our American Affairs. Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-20">
+					<head>20 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>The day perfectly tranquil. Every thing hitherto has
+							past without the smallest disorder. <persRef ref="pichegru-charles"
+								>General Pichegru</persRef>, and about two or three thousand of the
+							french troops entered the City this afternoon. The General is lodged at
+							the house of <persRef ref="hope-henry">M<hi rend="superscript">r:</hi>
+								Hope</persRef>, which was vacant. The commissioners lodge next door
+							at <persRef ref="u">M<hi rend="superscript">r:</hi> Muilman’s</persRef>. The
+							troops are quartered upon the citizens. Any further arrangements civil
+							and military are equally unknown.</p>
+						<p>Visit from <persRef ref="u">M<hi rend="superscript">r:</hi> Scholten</persRef>;
+							father in Law of <persRef ref="greenleaf-james">M<hi rend="superscript">r:</hi>
+								Greenleaf</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Girard</persRef> &amp;c— Day chiefly at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-21">
+					<head>21 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>Conversation with <persRef ref="bourne-sylvanus">M<hi
+									rend="superscript">r:</hi> Bourne</persRef> upon the State of affairs.
+							He was to dine with us but was called away to the Stad house, to a
+							public dinner, given to the Representants du peuple françois. <persRef
+								ref="u">M<hi rend="superscript">r.</hi> M’Evers</persRef> dined with us. He
+							went afterwards with <persRef key="adams-thomas">my <pb n="19" type="ms"
+								/>brother</persRef> to the play which opens this Even<hi rend="superscript"
+								>g:</hi> with Gaston et Bayard in Dutch. The news there received of
+							Breda &amp; Bergenop Zoom being taken, acclamations thereupon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-22">
+					<head>22 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Jay Treaty (Anglo-American Commercial Treaty of 1795)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Paid a visit with <persRef ref="bourne-sylvanus">M<hi
+									rend="superscript">r:</hi> Bourne</persRef> &amp; <persRef
+								key="adams-thomas">my brother</persRef> to the Representants du
+							peuple françois, and was received with civility. Principally
+							complimentary in their fashionable cant, which I adopted in all its
+							forms. They told me they received the visit of the <hi rend="italic"
+								>citoyen ministre</hi> of a free people, the friend of the <hi
+								rend="italic">peuple françois</hi> with much pleasure. That they
+							considered it <hi rend="italic">tout à fait</hi> as a <hi rend="italic"
+								>visite fraternelle</hi>; I told them that hearing of their arrival,
+							I felt myself obliged to present my respects to the citoyens
+							Representans of the peuple françois, for whom my fellow-citizens had the
+							greatest attachment, and to whom they felt grateful for the obligations
+							under which they felt themselves to the french nation, &amp;c. The
+							substance of the business was that I demanded safety and protection to
+							all american persons and property in this Country: and that they told me
+							it would be under the safeguard in common with <hi rend="italic">the</hi> <pb n="20" type="ms"
+							/>those of the Country and of other strangers here. That all property
+							would invariably be respected, as well as persons and opinions. That if
+							hereafter there should be any occasion for exceptions they would make
+							the strongest representations to their constituents in behalf of
+							americans.</p>
+						<p>They spoke of the <persRef ref="washington-george">President</persRef>,
+							whom like all Europeans, they called General Washington; enquired his
+							age, and on being told, said he might still long enjoy his glory. That
+							he was a great man and they had great veneration for his character
+							&amp;c. They observed that a Treaty of Commerce had lately been
+							concluded, between Great Britain and the United States, by <persRef
+								ref="jay-john">M<hi rend="superscript">r:</hi> Jay</persRef>.— They were
+							emulous to surpass one another in expressions of inveteracy against
+							England. one said She was their most obstinate enemy. Another that she
+							was their <hi rend="italic">only</hi> remaining enemy; a third that she
+							had always been their enemy, a fourth that she was the Enemy of all the
+							maritime powers. They said however that America, not having a navy
+							sufficient to protect <pb n="21" type="ms"/>her commerce against
+							Britain, and <hi rend="italic">having no possessions of that power near
+								them which she could attack by land</hi>, was right in maintaining
+							peace. They acquiesced in the observation of M<hi rend="superscript">r:</hi>
+							Bourne that this peace was even for the interest of France, because it
+							enabled us to supply her with provisions and other necessary articles
+							which in case we were at war could not be done.</p>
+						<p>They spoke of <persRef key="monroe-james">M<hi rend="superscript">r:</hi>
+								Monroe’s</persRef> reception by the national Convention, “<hi
+								rend="italic">parbleu</hi> said one it was a <hi rend="italic">scene
+								attendrissante</hi>. It was<hi rend="italic">une des plus fameuse
+								séances</hi> of the convention. There were more than 10,000 persons
+							present. He shed tears, he was so much affected. I saw him cry.” “Ah:
+							said another c’etait aussi bien de quoi faire pleurer.” Then they said
+							one of the flags had been sent to America.— In short the national
+							character appeared in nothing more conspicuous than in the manner in
+							which they spoke of this recurrence.</p>
+						<p>They enquired if <persRef ref="morris-gouverneur">M<hi rend="superscript">r:</hi>
+								Morris</persRef> was in Swizerland. I answered them I did not know.
+							That I had no personal acquaintance with M<hi rend="superscript">r:</hi> Morris.
+							Ah said the Citoyen who appeared to be at the head of the deputation “La
+							France, sait parfaitement qu’il est en Suisse.” He spoke with a peculiar
+							emphasis, but I did not think <pb n="22" type="ms"/>proper to make any
+							further enquiry of him on the subject.</p>
+						<p>They asked me if I had ever been in France; I answered that I had. That I
+							received part of my education there, and had resided there several
+							years: that I had therefore from my infancy every possible reason to
+							form sentiments of admiration and of affection for the french Nation.
+							Whereupon they replied that the Representants du peuple françois were
+							delighted to hear me say so.</p>
+						<p>Thus ended the conversation upon which we withdrew.— <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Faesch</persRef> paid me a visit; &amp;
+							mentioned some particulars of the <persRef ref="wiliam-v"
+								>Stadtholder’s</persRef> quitting the Hague. The circumstance
+							appears to affect him.</p>
+						<p>We dined together at old <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Scholten’s</persRef>, with M<hi rend="superscript">r:</hi> Bourne, <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Girard</persRef>. <persRef ref="u;u"
+								>M. &amp; Madame Toelaer</persRef> and <persRef ref="u">M<hi
+									rend="superscript">lle:</hi> Schimmelpenninck</persRef>. We had a
+							Siberian cold during the whole time. and early after dinner we
+							retired</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-23">
+					<head>23 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date>Weather still excessively cold. Dined with <persRef
+								ref="hubbard-nicholas">M<hi rend="superscript">r:</hi> Hubbard</persRef>.
+							Went in the afternoon with <persRef ref="willink-wilhem">M<hi rend="superscript"
+									>r</hi> W. Willink</persRef> to the concert “felix meritis,” a <pb n="23" type="ms"/>patriotic society, where the Representants du
+							peuple françois, the Etat Major &amp;c. were present. <persRef
+								ref="visscher-carel">M<hi rend="superscript">r:</hi> Visscher</persRef> who
+							has now the post of grand officier was there. The Marseilloise hymn was
+							very well performed. there was some clapping hands, some testimonies of
+							applause, but they were faint, cold and lifeless. Yet all here were
+							patriots.— Between 7 and 8 before the close of the concert we retired,
+							&amp; went to <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Girard’s</persRef> where we spent the remainder of the evening, and
+							supped. Home late.</p>
+						<p>I forgot to observe that as we were going to M<hi rend="superscript">r:</hi>
+							Hubbard’s, we saw a Jew, laying in the Street apparently at the point of
+							Death. Three or four persons were round him, Christians &amp; Jews, who
+							seemed to throw upon each other the burden of giving him any assistance
+							whatever. They said he had the falling sickness; but upon a piece of
+							bread being held to his mouth, the convulsive manner in which he snapped
+							at it, though he had apparently lost his senses, discovered that his
+							only falling sickness was hunger. After some altercation whose <hi
+								rend="italic">business</hi> it was to relieve him he was carried
+							into a neighbouring tavern, and recommended to the care of the woman who
+							kept it.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-24">
+					<head>24 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="24" type="ms"/>
+						<p><date>24. </date>Visited <persRef ref="schimmelpenninck-rutger">M<hi
+									rend="superscript">r:</hi> Schimmelpenninck</persRef> this morning, at
+							9. and had a short conversation with him upon the present state of
+							affairs. He said he believed the <hi rend="italic">substance</hi> of the
+							old institutions, would still be retained here, simply changing the high
+							sounding names for more civic expressions. That the french commissaries
+							concurred in the opinion with them that this would be the best
+							provisional mode of proceeding, and had promised to support them in
+							it.</p>
+						<p> Remainder of the day at home writing letters. <persRef ref="u">M<hi
+									rend="superscript">r:</hi> M’Evers</persRef> with us in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-25">
+					<head>25 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-25"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>25. </date>At home the whole day writing. Visit from <persRef
+								ref="bourne-sylvanus">M<hi rend="superscript">r:</hi> Bourne</persRef>,
+								<persRef ref="dutilh-christian">M<hi rend="superscript">r:</hi>
+								Dutilh</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								S’Gravenswerd</persRef>. <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Alstorphius</persRef>, who appears to be in fine Spirits. Patriote à
+							bruler, he said he was, when I was here before. He is much pleased with
+							his french visitors, and as to the quartering the troops; he tells his
+							neighbours if they do not like their guests to send them to him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-26">
+					<head>26 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Visit to <persRef ref="willink-wilhem">M<hi rend="superscript"
+									>r:</hi> W. Willink</persRef>, who was not at home, but at whose
+							house I found his brother <persRef ref="willink-jan">John</persRef>. He
+							has within these few days lost his father in Law, and appears to be
+							afflicted with the misfortune. The <pb n="25" type="ms"/>eldest brother
+							is upon the new Committee of finance.</p>
+						<p>Visit to <persRef ref="hubbard-nicholas">M<hi rend="superscript">r:</hi>
+								Hubbard</persRef>. he quarters a chef de brigade du génie. He says
+							the new States of Holland are to meet immediately, at the Hague. The
+							Commissaries are now there lodged in the palais Stadhouderien, &amp;
+								<persRef ref="pichegru-charles">General Pichegru</persRef> at the
+							vieille Cour.— <persRef ref="u">M<hi rend="superscript">r:</hi> Faesch</persRef>
+							was not at home.</p>
+						<p>Went to the play in the Evening. The tragedy of Hypermnestra, with the
+							comic opera Les deux chasseurs et la laitiere in Dutch were performed.
+							The house thin. The patriotic airs were performed; a ballet representing
+							the erection of the tree of liberty, was received with much applause.— I
+							was not a little surprized to see <persRef ref="vanderspiegel-laurens"
+									>M<hi rend="superscript">r:</hi> van der Spiegel</persRef> the
+								ci-devant<hi rend="underline"> </hi>pensionary of Holland a mistake
+								<hi rend="italic">in the house</hi>: His name was once called out
+							from the galleries, with abusive epithets, but a murmur of
+							disapprobation, almost all over the house prevented the repetition of
+							the insult.</p>
+						<p>Remainder of the Evening after the play, with <persRef ref="u">M<hi
+									rend="superscript">r:</hi> M’Evers</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-27">
+					<head>27 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb n="26" type="ms"/><date>27. </date>Letter from <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Scholten</persRef>, which was answered. Visit
+							to <persRef ref="u">M<hi rend="superscript">r:</hi> S’Gravenveert</persRef>.—
+								<persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef>, &amp; <persRef ref="u">M<hi rend="superscript">r:</hi>
+								M’Evers</persRef> dined with us. Weather grown moderate.— Visit from
+								<persRef ref="hubbard-nicholas">M<hi rend="superscript">r:</hi>
+								Hubbard</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-28">
+					<head>28 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Visit from <persRef ref="willink-jan">M<hi rend="superscript"
+									>r:</hi> J. Willink</persRef>, <persRef ref="willink-wilhem">his
+								brother</persRef> very busy in the Committee of finance. Posts to
+							France, will go to-morrow.— Dined with <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> S’Gravenweert</persRef>. <persRef ref="bourne-sylvanus"
+									>M<hi rend="superscript">r:</hi> Bourne</persRef>.— <persRef ref="u"
+									>M<hi rend="superscript">r:</hi> Chabanel</persRef>, furious democrat.—
+							S’Gravenweert appears to be a man of intelligence and information. He
+							spoke of the finances of the State, which are in prodigious disorder.
+							The East India Company in the year 1779, after all their debts paid
+							would have had a fund of 35 millions of guilders. in 1780. they would
+							have had about 5 millions. In 1790. nothing &amp; 100 millions in debt.
+							Part of this he said was owing to the last English war; but principally
+							to bad management; waste, profusion which pervaded every part of the
+							public administration</p>
+						<p>The powers of the councillor pensionary of Holland, are contained in an
+								<hi rend="italic">Instruction</hi> from the States of the Province.
+							it is to be found in several books.</p>
+						<p>Part of the Evening with <persRef ref="u">M<hi rend="superscript">r:</hi>
+								M’Evers</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-29">
+					<head>29 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>Wrote in the morning. Visits in the forenoon. <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Alstorphius</persRef>: saw one of
+							his Sisters. Appears to be much of a politician. At <persRef
+								ref="crommelin-daniel">Mess<hi rend="superscript">rs:</hi>
+								Crommelin’s</persRef>. Permission to <pb n="27" type="ms"/>to import
+							flour spoken of.— Always prohibited hitherto under the severest
+							penalties: The employment of industry by the working of mills here; one
+							reason. The revenue raised by Government upon the grinding another.—
+							Pass’d the Evening and supp’d at <persRef ref="hubbard-nicholas">M<hi
+									rend="superscript">r:</hi> Hubbard’s</persRef>. He quarters a chef de
+							brigade du génie, who was with us, as was <persRef
+								ref="vaneeghen-christiaan">M<hi rend="superscript">r:</hi> Van
+								Eeghen</persRef>. Both very sensible men. The officer’s name is
+								<persRef ref="u">Verrine</persRef>; a man of great simplicity of
+							manners. He was a Lieutenant at the beginning of the revolution, and has
+							now become a general officer. Has been in the War of the Vendee, in the
+							campaigns of <persRef ref="custine-adam">Custine</persRef>, and in the
+							last campaign of eighteen months. Neither Custine nor <persRef
+								ref="dumouriez-charles">Dumouriez</persRef> he says were great
+							Generals, but Custine, was personally brave at least at times.— His
+							observations upon many subjects were cool and rational. But his
+							discretion was as remarkable as his modesty.— He read us however in
+							answer to some questions relating to the actions of the 8<hi rend="superscript"
+								>th.</hi> &amp; 9<hi rend="superscript">th:</hi> inst<hi rend="superscript">ts:</hi>
+							some passages in his Journal; and in one instance where he mentioned a
+							mistake of the General in Chief he had added “ainsi les rapports du
+							General ne sont pas ce qu’il y a de plus sur au monde.” His principal
+							attention appears to be towards military subjects. There appeared to be
+							no sort of enthusiasm about him.</p>
+						<p>Van Eeghen is a member of the new Committee <pb n="28" type="ms"/>of
+							finance, and appears tolerably well reconciled to the Revolution, and
+							present course of things. Even the established rule of allowing no
+							refusal to offices, he thinks was necessary on the present occasion,
+							although he was compelled by it reluctantly to engage in public affairs.
+							He seems with others to be deeply sensible of the deranged state of
+							finances here. The deficiencies must be greater than they expected.</p>
+						<p>Hubbard is dissatisfied with every thing but the Committee of finance. He
+							has hardly discretion enough in concealing or disguising his sentiments.
+								<persRef ref="u">His wife</persRef> is still less so, and said if
+							they put her in requisition she would kill herself. Madam said the
+							french officer, “your children put you in requisition every day.”— The
+							subject of requisitions is terrible. That of Assignats as bad; and the
+							Stadhouderien party’s policy, now is to make the greatest outcry
+							possible, at the smallest inconvenience <hi rend="strikethrough"
+								>possible</hi>. they will before long discover the operation of this
+							system; which will assuredly not help them. The quartering of troops was
+							the first complaint. But this evil being really light people have
+							accustomed themselves to it. At every new measure, the Orangists will
+							certainly yell. <pb n="29" type="ms"/>The patriots will in time grow
+							angry. They have the power in their hands—and then—</p>
+						<p>Upon my observing to the Officer, that their army was under a very good
+							discipline—he answered that they were partly so. That offences which
+							immediately affected operations against the Enemy were punished with
+							sufficient severity. Every act of <hi rend="italic">Pillage</hi>—of <hi
+								rend="italic">Drunkenness</hi>,—and of <hi rend="italic"
+								>Cowardice</hi> is capital; all upon the same principle; because
+							they render the offender <hi rend="strikethrough">of</hi> incapable to
+							do his duty, and be at all times prepared for action. But the deficiency
+							is with respect to minor faults, and the small police of regularity.
+							They want cleanliness, exact subordination, attention &amp; economy of
+							clothing. The consequence is unfavourable to their health, and occasions
+							a prodigious waste— Their shoes—their coats their linen does not last a
+							fourth part of the time they ought. The army under proper regulation
+							would not cost a tenth part what it has—and of all this the Convention
+							takes no notice whatever.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-30">
+					<head>30 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Spent the day at home altogether. except a visit in the
+							Evening to <persRef ref="u">M<hi rend="superscript">r:</hi> Scholten</persRef>,
+							when I did not find him at home.— Writing.— <persRef
+								ref="bourne-sylvanus">M<hi rend="superscript">r:</hi> Bourne</persRef>
+							visited us.— <persRef ref="u">M<hi rend="superscript">r:</hi> M’Evers</persRef>
+							in the Evening. gave him a packet for America.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v20-1795-01-31">
+					<head>31 January 1795</head>
+					<bibl><author>JQA</author><date type="creation" when="1795-01-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="30" type="ms"/>
+						<p><date>31. </date>Took passage in the Post-waggon at 9 this morning for
+							the Hague. We had two companions in the carriage, Germans, speaking no
+							other language than their own. Of course we had not much conversation.
+							Arrived at the Hague between 4 &amp; 5. P.M. We had scarce got into the
+							house when two persons came from <persRef ref="beeldemaker-jan">M<hi
+									rend="superscript">r:</hi> Beeldemaker</persRef>, to ask for him an
+							introduction to the Representatives of the french People. Wrote a line
+							for him accordingly. Hearing of an opportunity for England wrote to
+								<persRef ref="johnson-joshua">M<hi rend="superscript">r:</hi>
+								Johnson</persRef> and enclosed my packets. Paid a visit to <persRef
+								ref="dumas-charles">M<hi rend="superscript">r:</hi> Dumas</persRef>; found
+							him sick, but in good spirits. The Revolution has gratified almost all
+							his passions</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

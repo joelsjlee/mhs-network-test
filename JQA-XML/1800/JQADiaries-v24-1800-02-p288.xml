@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1800-02">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="288"  mhs:precedingFile="JQADiaries-v24-1800-01-p286.xml" mhs:followingFile="JQADiaries-v24-1800-03-p290.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1800-02-01" to="1800-02-28"/></bibl>
+
+				<!-- D/JQA/24.1990 -->
+			
+
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-01">
+					<head>1 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-01"/><editor
+						role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>1. Feb<hi rend="superscript">y:</hi></date>
+							<persRef ref="u">M<hi rend="superscript">r:</hi> Catel</persRef> in the morning—
+							Wrote to <persRef ref="bourne-sylvanus">M<hi rend="superscript">r:</hi>
+								Bourne</persRef>— A very fine day— Walk’d in the park. Assembly in
+							the evening at the Minister <persRef ref="vonheinitz-friedrich"
+								>Heinitz’s</persRef>— Play’d whist with three ladies— Home at 9.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-02">
+					<head>2 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">February 1800.</hi></dateline>
+						<p>1.— Written above— </p>
+						<p><date>2. </date><persRef ref="u">D<hi rend="superscript">r:</hi>
+								Ellison</persRef> dined with us, and went in the Evening with
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> to <persRef ref="brown-charles">D<hi rend="superscript"
+									>r:</hi> Brown’s</persRef>. <persRef ref="louiseauguste"
+								>Queen’s</persRef> Court held at the royal palace— Played piquet at
+							the queen’s table; with <persRef ref="vonbruhl-sophia">Countess
+								Brühl</persRef>, <persRef ref="vonmollendorf-richard">Marshall
+								Möllendorf</persRef>, The high <persRef ref="vongoldbeck-heinrich"
+								>Chancellor Goldbeck</persRef>, and <persRef
+								ref="beurnonville-pierre">General Beurnonville</persRef>— Upon
+							coming home received letters from <persRef ref="king-rufus">M<hi
+									rend="superscript">r:</hi> King</persRef> and <persRef
+								ref="pitcairn-joseph">M<hi rend="superscript">r:</hi> Pitcairn</persRef>
+							with the melancholy tidings of the Death of <persRef
+								ref="washington-george">General Washington</persRef> on the 15<hi
+								rend="superscript">th:</hi> of December—which affected me strongly.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-03">
+					<head>3 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>The first representation of the second Opera, which I did
+							not attend.— Pass’d the Evening at home. Read in <persRef
+								ref="spencer-edmund">Spenser</persRef> the first Canto of the legend
+							of <persRef ref="sirguyon">Sir Guyon</persRef>; and found in one of the
+							first Stanza’s an allusion to <persRef ref="sirhuonofbordeaux">Sir
+								Huon</persRef>, and <persRef ref="oberon">king Oberon</persRef>—
+							Read likewise a book of the Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-04">
+					<head>4 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-04"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>4. </date>Redoute night; which I did not go to— Spent about an hour
+							this afternoon at the Casino. Evening at home. Read part of a book in
+							the Iliad.— The translation from Oberon almost entirely prevents me from
+							reading.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-05">
+					<head>5 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-05"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef ref="swan-james">Colonel Swan</persRef>, of
+							Boston call’d upon me this morning.— A ball this Evening at the Minister
+								<persRef ref="vonheinitz-friedrich">Heinitz’s</persRef>. Played
+							whist with the Minister <persRef ref="u">Buchholtz</persRef>, <persRef
+								ref="u">Countess Moltke</persRef>, and <persRef ref="bylandt-willem"
+								>Count Byland</persRef>— Spoke to <persRef ref="u">Count
+								Podewils</persRef> the Grand Marshall; about Col<hi rend="superscript"
+								>l.</hi> Swan’s being presented to the <persRef
+								ref="frederick-william-iii">king</persRef>— He fixed upon Sunday
+							next at the <persRef ref="louiseauguste">Queen’s</persRef> ball.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-06">
+					<head>6 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-06"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>6. </date>Called this morning upon <persRef ref="swan-james"
+								>Colonel Swan</persRef>; and he came in the afternoon to pay a visit
+							to <persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>. Ball at the <persRef ref="frederica-louise2">Queen
+								Mother’s</persRef>— The <persRef ref="frederick-william-iii"
+								>king</persRef> appeared to be not in perfect good temper— <persRef
+								ref="ofarrillyherrera-gonzalo">M<hi rend="superscript">r:</hi>
+								O’Farril</persRef> brought me home quite early— Read the second
+							Canto of <persRef ref="sirguyon">Sir Guyon</persRef>, and finished a
+							book of the Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-07">
+					<head>7 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Sent round cards with <persRef ref="swan-james">Colonel
+								Swan</persRef>— Was in the Evening at the Opera— Tigrane—the Music
+							much better than that of the last— The scenery very handsome, and in
+							considerable variety— Weather indifferent so that I could walk but
+							little.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-08">
+					<head>8 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Concluded not to pay the visits to the Grande
+							Maitresses.— Evening at the Assembly at <persRef
+								ref="alvensleben-philipp">Count Alvensleben’s</persRef>— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> spent it at <persRef ref="brown-mary">M<hi
+									rend="superscript">rs:</hi> Brown’s</persRef>.— Did not play cards— Had
+							some conversation with <persRef ref="krudener-bourkhardt">Baron
+								Krüdener</persRef>, and <persRef ref="araujo-antonio">M.
+								d’Araujo</persRef>.— Wrote <persRef ref="king-rufus">M<hi rend="superscript"
+									>r:</hi> King</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-09">
+					<head>9 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="289" type="ms"/>
+						<p><date>9. </date><persRef ref="swan-james">Col<hi
+									rend="superscript">l.</hi> Swan</persRef>, and <persRef ref="u">D<hi
+									rend="superscript">r:</hi> Ellison</persRef> dined with us. <persRef
+								ref="brown-mary">M<hi rend="superscript">rs:</hi> Brown</persRef> and
+								<persRef ref="brown-isabella;brown-fanny;brown-margaret">her
+								daughters</persRef> spent the Evening with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs</hi>
+							Adams</persRef>— Ball at the <persRef ref="louiseauguste"
+								>Queen’s</persRef>— I introduced Col<hi rend="superscript">l:</hi> Swan to
+							Court.— Play’d whist with <persRef ref="haugwitz-johanna">Countess
+								Haugwitz</persRef>, <persRef ref="u">Madame de Heinitz</persRef>,
+							and <persRef ref="reden-friedrich">Count Reder</persRef>— Letters from
+								<persRef key="adams-abigail">my mother</persRef> and <persRef
+								key="adams-thomas">brother</persRef>— I had another sleepless
+							night—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-10">
+					<head>10 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Fine weather, but cold— Dined at <persRef
+								ref="schulenburgkehnert-frederick">Count Schulenburg’s</persRef>: a
+							company of about 30 persons.— Conversed with the <persRef ref="u"
+								>Chevalier d’Aguilar</persRef>— Evening at the Opera— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> out for the first time— Came home before the play
+							finished.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-11">
+					<head>11 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date>Thermometer at 9. below 0. Weather fine— Redoute night—
+							The evening party and supper at the Minister <persRef ref="vonvoss-otto"
+								>Voss’s</persRef>— The <persRef ref="louiseauguste">queen</persRef>
+							appeared in the dress of an Indian lady— The theatrical dress— <persRef
+								ref="lucchesini-carlotta">Madame de Lucchesini</persRef> and
+								<persRef ref="vonengstrom-rozalia">Madame d’Engeström</persRef> as
+							female peasants of the isle of Chio, or Cos, one of the islands
+							antiently devoted to the worship of <persRef ref="venus"
+							>Venus</persRef>.— Played chess with <persRef ref="vonbruhl-karl">Count
+								Brühl</persRef>.— <persRef ref="lucchesini-girolamo"
+								>Lucchesini</persRef> compared the character of <persRef
+								ref="washington-george">General Washington</persRef> with that of
+								<persRef ref="doria-andrea">Andrew Doria</persRef>.— I came home
+							before supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-12">
+					<head>12 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>12. </date><persRef ref="swan-james">Col<hi rend="superscript">l.</hi>
+								Swan</persRef> called to see me this morning— <persRef
+								ref="haugwitz-johanna">Countess Haugwitz</persRef> paid a visit to
+								<persRef key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— In the Evening at a large ball at <persRef ref="u"
+								>Madame de Wangenheim’s</persRef>— All the royal family there—
+							Played whist with <persRef ref="u">Madame de Heinitz</persRef>, <persRef
+								ref="u">Madame de Bredow</persRef>, and <persRef
+								ref="arnim-friedrich">Count Arnim</persRef>.— Thermometer this
+							morning at 10. below 0.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-13">
+					<head>13 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-13"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>13. </date>Short walk before dinner— Dined with <persRef
+								ref="swan-james">Col<hi rend="superscript">l:</hi> Swan</persRef> at the
+							Minister, <persRef ref="vonhardenberg-karl">Baron de
+								Hardenberg’s</persRef>— Met there a <persRef ref="zollner-johann"
+									>M<hi rend="superscript">r:</hi> Zollner</persRef>, a celebrated
+							clergyman— <persRef ref="u">M<hi rend="superscript">r:</hi> Reiche</persRef>, a
+							medical professor of Erlangen; <persRef ref="iffland-august">M<hi
+									rend="superscript">r:</hi> Iffland</persRef>, the dramatic author and
+							player, and two others— At the play this Evening— A translation from the
+							french, of Azenia, and the New century of <persRef ref="kotzbue-august"
+								>Kotzebue</persRef>, a farce with some humour. Afterwards a couple
+							of hours at <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef>— <persRef ref="arbuthnot-robert">M<hi rend="superscript"
+									>r:</hi> Arbuthnot</persRef>, <persRef ref="cohen-ephraim">M<hi
+									rend="superscript">r:</hi> Cohen</persRef>, and <persRef ref="u">Miss
+								Bisschoffwerder</persRef> were there— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							had a distressing letter from <persRef ref="johnson-catherine">her
+								mother</persRef>—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-14">
+					<head>14 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-14"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>14. </date>Went with <persRef ref="swan-james">Col<hi rend="superscript"
+									>l:</hi> Swan</persRef> to the Opera—to night is the last time
+							of performance.— The <persRef
+								ref="brown-isabella;brown-fanny;brown-margaret">Miss
+								Brown’s</persRef> pass’d the Evening with <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>— Weather moderating.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-15">
+					<head>15 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-15"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>15. </date><persRef ref="u">M<hi rend="superscript">r:</hi> Catel</persRef>
+							this morning— Finish’d the 5<hi rend="superscript">th:</hi> book of Oberon, and
+							began the 6<hi rend="superscript">th:</hi>— <persRef ref="swan-james">Col<hi
+									rend="superscript">l:</hi> Swan</persRef> called to pay us a visit— Was
+							about an hour at the Grand Marshall <persRef ref="u">Count
+								Podewils’s</persRef> assembly— <persRef ref="louiseofbrandenburg">Princess Ferdinand</persRef> told me that I was
+							in mourning for a <persRef ref="washington-george">great man</persRef>,
+							and that she mourn’d for him at heart too— <persRef
+								ref="ofarrillyherrera-gonzalo">M<hi rend="superscript">r:</hi>
+								O’Farrill</persRef> took me home— Read a book of the Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-16">
+					<head>16 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-16"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>16. </date>Read in the morning a sermon of <persRef
+								ref="tillotson-john">Tillotson</persRef>— Went through seven
+							Stanza’s of Oberon— Long walk. No court this Evening. Read part of a
+							book of the Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-17">
+					<head>17 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-17"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>17. </date><persRef ref="golovkin-gabriel">Count
+							Golowkin</persRef>, who lived in the house with us, died this morning
+							instantaneously, of an apoplectic fit.— At home the whole day— Read in
+							the Evening a canto of the Faery Queen; the remainder of the 13<hi
+								rend="superscript">th:</hi> and the 14<hi rend="superscript">th:</hi> books of the
+							Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-18">
+					<head>18 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-18"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>18. </date>Dined at <persRef ref="haugwitz-christian">Count
+								Haugwitz’s</persRef> with a large company— Visit in the afternoon to
+								<persRef ref="u">Madame O’Farrill</persRef>— A number of other
+							visitors came in while I was there— Evening at the <persRef
+								ref="engstrom-lars">Swedish Minister’s</persRef>; a very large
+							party— Play’d whist with <persRef ref="u">Madame de Seldern</persRef>,
+							the chancellor <persRef ref="vongoldbeck-heinrich">Goldbeck</persRef>,
+							and the <persRef ref="u">Chevalier d’Aguilar</persRef>— Did not stay to
+							supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-19">
+					<head>19 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date>Had a bad night’s rest— In the Evening at a ball at
+								<persRef ref="vonredern-sigismund">Count Redern’s</persRef>— All the
+							royal family there. Play’d whist with <persRef ref="beurnonville-pierre"
+								>General Beurnonville</persRef>, <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Knoblauch</persRef>, and a Danish Gentleman <persRef
+								ref="u">M<hi rend="superscript">r:</hi> Blome</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-20">
+					<head>20 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-20"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>20. </date>Had another indifferent night, and was somewhat unwell
+							this day— <persRef ref="vonbruhl-sophia">Countess Brühl</persRef>, spent
+							part of the evening with <persRef key="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> Adams</persRef>— <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Schickler</persRef> likewise called— Weather
+							fine, but cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-21">
+					<head>21 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-21"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>21. </date>Took a longer walk than usual— Spent the Evening at
+								<persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef>, it being <persRef ref="brown-isabella"
+								>Bell’s</persRef> birth day— <persRef ref="vonbruhl-karl">Count
+									Brühl</persRef> and <persRef ref="vonbruhl-fanny;bruhl-maria;vonbruhl-sophia">his family</persRef>, <persRef ref="u">M<hi rend="superscript"
+									>rs:</hi> Schickler</persRef>, and <persRef ref="cohen-ephraim"
+									>M<hi rend="superscript">r:</hi> Cohen</persRef> &amp; <persRef ref="u"
+								>his son</persRef> were there— Play’d chess with M<hi rend="superscript"
+								>r:</hi> Cohen.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-22">
+					<head>22 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date><persRef ref="swan-james">Col<hi rend="superscript">l:</hi>
+								Swan</persRef> called on me in the forenoon— <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							had a tooth drawn— Went in the Evening with Col<hi rend="superscript">l:</hi>
+							Swan to <persRef ref="augustusferdinand">Prince Ferdinand’s</persRef>— Play’d whist with <persRef ref="u">Madame de
+								Wangenheim</persRef>, <persRef ref="u">Madame de Bredow</persRef>,
+							and the Minister <persRef ref="vonheinitz-friedrich"
+							>Heinitz</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-23">
+					<head>23 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="290" type="ms"/>
+						<p><date>23. </date>Fine and moderate weather—
+								<persRef ref="wilhelminaofhesse">Princess Henry’s</persRef> birth
+							day— Court at the <persRef ref="louiseauguste">Queen’s</persRef>— Held
+							rather later than usual— Played Whist with <persRef ref="u">M. de
+								Blome</persRef> and two other Gentlemen. <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							spent the Evening at <persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+								Brown’s</persRef>— I called there for her and spent an hour there—
+								<persRef ref="vonlusi-spiridon">Count Lusi</persRef> introduced
+							himself to me at Court.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-24">
+					<head>24 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-24"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>24. </date><persRef ref="beurnonville-pierre">General
+								Beurnonville</persRef>, his aid de camps and Secretaries came to
+							make me a formal visit upon the occasion of <persRef
+								ref="washington-george">General Washington’s</persRef> death— I was
+							not at home— Dined at the <persRef ref="rosenkrantz-niels">Danish
+								Ministers</persRef> A small diplomatic company.— Saw Beurnonville
+							there— Evening at home. Visit from <persRef ref="swan-james">Col<hi
+									rend="superscript">l:</hi> Swan</persRef> and <persRef ref="u">M<hi
+									rend="superscript">rs:</hi> Schickler</persRef> to <persRef
+								key="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>—
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Ellison</persRef> this
+							morning, with a pamphlet.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-25">
+					<head>25 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date>Shrove-Tuesday—it is understood here to be the last day
+							of the carnival— A masqued ball, at <persRef ref="radziwill-anton"
+								>Prince Radziwill’s</persRef>; but with scarcely and masks— Three
+							Quadrille’s—Of Cossacks—of Asiatic Nations, and of the Italian Comedy.—
+								<persRef ref="augustusfrederick">Prince Augustus</persRef>
+							afterwards came as a <persRef ref="bacchus">Bacchus</persRef> upon a
+							tun— And after supper as <persRef ref="dulcinea">Dulcinea</persRef>—
+								<persRef ref="u">Rothenburg</persRef> appeared as <persRef
+								ref="donquixote">Don Quixote</persRef>, and <persRef
+								ref="perponcher-hendrik">Perponcher</persRef> as <persRef
+								ref="sancho">Sancho</persRef>. <persRef key="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> A</persRef>— went home before supper—
+							I play’d whist with <persRef ref="beurnonville-pierre">General
+								Beurnonville</persRef>, <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Knoblauch</persRef> and <persRef ref="u">M<hi rend="superscript">r:</hi>
+								Blome</persRef>.— In the morning I called upon General Beurnonville,
+							and his legation to return their visit.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-26">
+					<head>26 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26.— </date>Have a cold and a troublesome head-ache all day— It was
+							the first time I had been out late at night this winter, and I suffer
+							now from every variation from the regularity of my life— Weather again
+							cold and snowy— At home all day.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-27">
+					<head>27 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-27"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>27. </date><persRef ref="swan-james">M<hi rend="superscript">r:</hi>
+								Swan</persRef> and his friend called upon me this forenoon— Weather
+							disagreeable— Yet I took a long walk.— Read in the Evening a Canto of
+							the faery queene, and part of a book in the Iliad— Writing some
+							observations upon a pamphlet brought me by <persRef ref="u">M<hi
+									rend="superscript">r:</hi> Ellison</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-28">
+					<head>28 February 1800</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Finished the observations upon the pamphlet— Snowed
+							almost all day.— Walked however in the park— Read another Canto of the
+							faery queene, and the remainder of the 15<hi rend="superscript">th.</hi>
+							Iliad.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1800-02-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1800-02"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>—</date> As of the last month, and
+							December.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

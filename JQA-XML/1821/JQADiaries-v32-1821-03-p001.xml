@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  
+            href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v32-1821-03">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="001" mhs:precedingFile=""
+				mhs:followingFile="JQADiaries-v32-1821-04-p006.xml" mhs:volume="32">
+				<bibl n="metadata"><date from="1821-03-21" to="1821-03-31"/></bibl>
+				<!-- D/JQA/32.1 -->
+
+				<!-- March 1821 -->
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-21">
+					<head>21 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="1"/>
+						<dateline><hi rend="italic">Washington 21. March 1821. Wednesday.</hi></dateline>
+						<p>14[symbols]</p>
+						<p><date>V:</date><persRef ref="canning-stratford">M<hi rend="superscript"
+									>r</hi> Stratford Canning</persRef>, the British Minister had a
+							Letter from the <persRef ref="george-iv">King of Great-Britain</persRef>
+							to present, announcing the birth of <persRef ref="elizabeth2">a
+								daughter</persRef> to the <persRef ref="william">Duke of
+								Clarence</persRef>. I presented him to the <persRef
+								key="monroe-james">President</persRef>; at One O’Clock this day,
+							when he delivered the Letter. <persRef key="crawford-william-harris"
+									>M<hi rend="superscript">r</hi> Crawford</persRef> happened to
+							call at the President’s about the same time and we met him there—
+								<persRef ref="stewart-charles">Commodore Stewart</persRef> and
+								<persRef ref="tudor-william2">M<hi rend="superscript">r</hi> William
+								Tudor</persRef> called together at the Office— Stewart is to sit
+							upon a Court of Enquiry concerning Commodore <persRef ref="barron-james"
+								>James Barron</persRef>, upon his application to be restored to his
+							command in the Navy— Tudor, who is M<hi rend="superscript">rs</hi>
+							Stewart’s brother, and a man of good talents came with Stewart, and
+							wishes to obtain some public employment— <persRef ref="calhoun-john"
+									>M<hi rend="superscript">r</hi> Calhoun</persRef> the Secretary
+							of War called at the Office and brought a copy of his Instructions to
+								<persRef ref="jackson-andrew">General Jackson</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-22">
+					<head>22 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-22"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject">Florida
+							Annexation</note></bibl>
+					<div type="docbody">
+						<p><date>22. V.</date> I removed from my writing Chamber, upon which the
+							Carpenters are engaged in making repairs and in opening a door from the
+							new part of my house, and wrote in the dining room below. I am now
+							struggling to redeem the arrears of my diary; but write so slow; and
+							with so much difficulty and pain that I fear I shall never effectually
+							accomplish it. <persRef ref="calhoun-john">M<hi rend="superscript"
+									>r</hi> Calhoun</persRef> called at my house and I went to the
+							Navy Department, to complete the arrangements for taking possession of
+							the Florida’s. We have stipulated to transport the Spanish Officers and
+							troops with their baggage to the Havanna, and by a liberal construction
+							of the Article, have considered this engagement as including that of
+							furnishing provisions for them on the passage. We have also engaged to
+							provide an escort for them. The Secretary at War issues through the
+							Quarter Master’s department, orders for hiring the transports and
+							supplying the provisions, and the <persRef ref="thompson-smith"
+								>Secretary of the Navy</persRef> issues the orders for the escort—
+							They are all to be provided at two points; one for Pensacola, and the
+							other for S<hi rend="superscript">t.</hi> Augustine— I returned at
+								<persRef ref="oneal-william">O’Neil’s</persRef> Hotel the visits of
+								<persRef ref="stewart-charles">Commodore Stewart</persRef> and
+								<persRef ref="tudor-william2">W. Tudor</persRef>; the latter of whom
+							only I found at his lodgings. We had half an hours conversation, chiefly
+							upon literary subjects. I was engaged the remainder of the day, in
+							Office hours, in drafting a Note to the <persRef
+								key="hyde-de-neuville-jean">Baron Hyde de Neuville</persRef>, upon
+							the subject of the Negotiation with him.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-23">
+					<head>23 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-23"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><pb type="ms" n="2"/><date>23. V:</date><persRef ref="rice-luther">M<hi
+									rend="superscript">r</hi> Luther Rice</persRef> and <persRef
+								ref="brown-obadiah">M<hi rend="superscript">r</hi> Obadiah B.
+								Brown</persRef> the Baptist Clergymen who had applied to me on the
+								8<hi rend="superscript">th.</hi> of December last for my
+							Subscription to their Society for literary purposes, which I then
+							declined came this day, and requested not a subscription, but a
+							certificate or written recommendation of their Institution—which they
+							have now curtailed into a College, and for which they have at the late
+							Session of Congress obtained an Act of Incorporation by the name of the
+							Columbian College. I told them that I regretted that I could not comply
+							with their request, for two reasons— One that having declined upon
+							Considerations which I had fully explained, subscribing to their
+							Institution, I thought I could not with any propriety recommend with my
+							name that for which I had not seen fit to give my money— The other was a
+							general rule that I had prescribed to myself to give no written
+							recommendations of this kind for any thing. I believed that things very
+							useful would make their way without needing any recommendation; and if I
+							should indulge myself in the practice of giving any recommendations, I
+							should be bound to decline them whenever I should not approve the object
+							for which the object would be required, or should not have a knowledge
+							of its merits— Both these cases would lead to very awkward discussions
+							upon special occasions— They led to unpleasant controversy. A general
+							rule could give offence to none— These Gentlemen were of course not
+							satisfied— Brown was far less urgent than Rice. He said if I had made it
+							a general rule to give no written recommendations they could not urge it
+							upon me now. Rice said that they had applied to the <persRef
+								key="monroe-james">President</persRef> who had also declined giving
+							a written recommendation; but he had promised to write a private Letter
+							to one of them expressing a favourable opinion of their undertaking,
+							with permission to them to publish it— Rice further said that they had
+							already collected subscriptions sufficient to enable them to open very
+							shortly their College—that in a late tour through some of the Southern
+							States, he had collected for eight successive weeks upwards of a
+							thousand dollars a week; and their prospects were of the most flattering
+							success. I told them that their general object the promotion of the
+							education of youth had my hearty concurrence and good-wishes, as they
+							must have those of every friend of humanity. Upon this they took their
+							leave— It was one of those occasions upon which it is not in my nature
+							to give graciousness to refusal, and I suppose the chilling coldness of
+							my manner was more offensive than the refusal itself. I avoid at least
+							with studied intention all displeasing words, but of the forbidding
+							countenance and manner I never could divest myself— Before going to my
+							Office, I called to see at his house <persRef
+								key="smith-william-steuben">W. S. Smith</persRef> who is confined by
+							illness to his chamber— <persRef ref="stewart-charles">Commodore
+								Stewart</persRef> and <persRef ref="lee-william">William
+								Lee</persRef> came to my Office— Attended an evening party at
+								<persRef ref="tayloe-john">Col<hi rend="superscript">l.</hi>
+								Tayloe’s</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-24">
+					<head>24 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-24"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Louisiana Purchase</note></bibl>
+					<div type="docbody">
+						<p><date>24. IV:15.</date> A <persRef ref="taylor-unknown3">M<hi
+									rend="superscript">r</hi> Taylor</persRef> of Alexandria, came
+							to the Office, on account of some claim. And <persRef ref="fenwick-f"
+									>M<hi rend="superscript">r</hi> Columbus Fenwick</persRef>,
+							about his application for the appointment of Consul at Nantes. I am now
+							employed upon the draft of a Letter to the <persRef
+								key="hyde-de-neuville-jean">Baron Hyde de Neuville</persRef>, on the
+							subject of a claim to exclusive privileges in the Ports of Louisiana for
+							which there is a plausible colour, but only a colour in the 8<hi
+								rend="superscript">th.</hi> Article of the Cession Treaty. This
+							claim was first advanced by him in December 1817. and was then answered
+							by me. He replied by a long Note insisting upon it in June 1818. The
+							discussion was then useless, and I left this second Note unanswered—
+							When the commercial Negotiation was commenced last Summer with <persRef
+								ref="gallatin-albert">M<hi rend="superscript">r</hi>
+								Gallatin</persRef> the French Government immediately brought forward
+							this claim; and as he was not instructed upon it they made it a pretence
+							for transferring the Negotiation to this place, and for sending back de
+							Neuville— It will make a volume of diplomatic altercation to no earthly
+							purpose. We spent this Evening at the Baron’s House; at the weekly
+							evening party of <persRef key="hyde-de-neuville-ann">his Lady</persRef>—
+							I lost two games at Chess; playing with <persRef ref="todd-john">M<hi
+									rend="superscript">r</hi> Payne Todd</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-25">
+					<head>25 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-25"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Religion</note></bibl>
+					<div type="docbody">
+						<p><pb type="ms" n="3"/><date>25. VI:</date> I went with <persRef
+								ref="thornton-william">D<hi rend="superscript">r.</hi>
+								Thornton</persRef> this Morning to the Quaker Meeting. There were
+							from forty to fifty men present, and about as many females. We sat
+							nearly two hours in perfect silence— No moving of the Spirit, and I
+							seldom in the course of my life passed two hours more wearily— Perhaps
+							from not having been enured to this mode of public worship, I found
+							myself quite unable to reduce my mind to that musing meditation which
+							forms the essence of this form of devotion— It was rambling from this
+							world to the next, and from the next back to this, chance-directed, and
+							curious to know what was really passing in the minds of those around me.
+							I asked Doctor Thornton after we came out what he had been thinking of
+							while we had been there— He said he did not know; he had been much
+							inclined to sleep. Solitude and Silence are natural allies, and social
+							Silence may be properly allied with social labour— But social meditation
+							is an incongruity— I felt on coming from this Meeting as if I had wasted
+							precious time— Passed the remainder of the day at home, assiduously
+							writing. <persRef key="adams-louisa-catherine">M<hi rend="superscript"
+									>rs</hi> Adams</persRef> spent the Evening at <persRef
+								key="smith-william-steuben">W. S. Smith’s</persRef>— He is yet
+							confined to his chamber.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-26">
+					<head>26 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-26"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note><note type="subject">Florida
+							Annexation</note><note type="subject">Louisiana Purchase</note></bibl>
+					<div type="docbody">
+						<p><date>26. V:</date> I had sent to the <persRef key="monroe-james"
+								>President</persRef> on Saturday Evening my draft of a Letter to the
+								<persRef key="hyde-de-neuville-jean">Baron Hyde de
+								Neuville</persRef> on the claim of France under the Louisiana
+							cession Treaty; and I received this Morning a Note from the President,
+							directing a Cabinet Meeting at his house at twelve O’Clock this day— It
+							was accordingly held; and attended by all the members of the
+							Administration except <persRef ref="wirt-william">M<hi
+									rend="superscript">r</hi> Wirt</persRef> the Attorney General,
+							who is confined by illness to his house. My draft was a reply to de
+							Neuville’s Letter of 6. June 1818. Both were read, and both contain
+							elaborate counter-arguments. I requested that my draft might be severely
+							scrutinized, particularly with regard to the ground of argument which it
+							assumed— The French claim has a strong colour of plausibility, and it
+							was important that we should in resisting it take no stand from which we
+							might hereafter find it necessary to withdraw— There was no diversity of
+							opinion, upon the discussion. There are two untenable points in the
+							claim—one that it is broader than the stipulation upon which it is
+							founded—the other, that upon a promise of equal favour it claims
+							gratuitously that which has been granted to others for an equivalent.
+								<persRef key="crawford-william-harris">M<hi rend="superscript"
+									>r</hi> Crawford</persRef> made a sound objection to one
+							expression in the draft, as too harsh and I immediately altered it— The
+							rest was approved. But the Baron de Neuville appears determined to pick
+							a quarrel upon another affair— The seizure of the Apollon in S<hi
+								rend="superscript">t.</hi> Mary’s river— Although he came without
+							any Instructions from his Government on the subject he has repeatedly
+							hinted that satisfaction must be given to France concerning it before he
+							can agree to any arrangement of a merely commercial interest. He wrote
+							me a Note some weeks since to enquire whether another vessel, called the
+							Edmond, which grounded in the attempt to enter S<hi rend="superscript"
+								>t.</hi> Augustine, and then went and entered as in distress at
+							Amelia Island, could there take in a Cargo from the United States
+							without being molested— This has led to a correspondence in one Note of
+							which de Neuville asserts that a <hi rend="italic">grave error</hi> has
+							been committed, referring to the case of the Apollon, and meaning, by
+							the American Government— I am to reply also to this Note— The Edmond has
+							not been allowed to ship goods from the United States into
+							Amelia-Island; but the disposition of the President and most especially
+							of M<hi rend="superscript">r</hi> Crawford is to give up the Apollon—
+							She was seized under an order from the Treasury of 6. May 1818. but they
+							seem to think that order was not warranted by Law— I think otherwise,
+							but the District Attorney in Georgia, <persRef ref="habersham-richard"
+								>Habersham</persRef> countenances the opinion that there is no law
+							to reach the case. It had been determined after the seizure of the
+							Apollon to have the case tried in the District and Circuit Courts, and
+							if the decision in them should be against the Government to bring it up
+							by appeal to the Supreme Court— The final decision could not have been
+							had in less than two or three years, and in the mean time the fraudulent
+							use of the Florida <pb type="ms" n="4"/>territory could not have been
+							made for evading and defeating the Laws of the Union— The main object of
+							this profligate scheme would have been disconcerted, and if the <persRef
+								ref="edon-unknown">Captain</persRef> and owners of the Apollon must
+							finally be indemnified by the Government, it would cost only a trifling
+							sum in comparison with the heavy loss to the public by the success and
+							impunity of the project. But since the ratification by Spain of the
+							Florida Treaty, the same object will be attained by another process. The
+							boundary is transferred from the S<hi rend="superscript">t.</hi> Mary’s
+							to the Sabine river— Florida becomes our own and offers no longer a
+							lurking hole for foreign smugglers. There is no motive for keeping the
+							decision upon the case of the Apollon suspended; and as the legality of
+							the Treasury order of 6. May 1818 is questionable, it was now concluded
+							that I should direct the District Attorney in Georgia to dismiss the
+							appeal from the decision of the District Court, which was only a decree
+							pro forma, and order the restoration of the Apollon to her Captain,
+							leaving him to his action against the <persRef ref="clark-archibald"
+								>Collector</persRef> for indemnity— I was convinced this would in no
+							wise satisfy de Neuville, and only acquiesced in, without approving the
+							measure— I am also to enclose to de Neuville copies of the papers
+							communicated with my answer to <persRef ref="vives-don">General
+								Vives</persRef> on the case of the Apollon.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-27">
+					<head>27 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-27"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note></bibl>
+					<div type="docbody">
+						<p><date>27. IV:45.</date><persRef ref="calhoun-john">M<hi
+									rend="superscript">r</hi> Calhoun</persRef> called this morning
+							at my house with <persRef ref="preston-james">General Preston</persRef>
+							of Virginia; who informed me that he was desirous of obtaining hereafter
+							an appointment under the general Government. This Gentleman has been
+							Governor of the State of Virginia, and might have been a General in the
+							Army, but for some question about rank— He has just received a temporary
+							appointment as Commissioner under a recent Treaty with the Creek
+							Indians, and his intimation to me was that as it was expected <persRef
+								ref="jackson-andrew">General Jackson</persRef> did not intend to
+							hold long the Office of Governor of the Florida’s, in case of his
+							resignation, M<hi rend="superscript">r</hi> Preston would be willing to
+							succeed him— But he said it was as object of peculiar concern to him,
+							and which he wished might be considered before any appointment should be
+							conferred upon him, that he wished for no office, in which the
+							Government should not be entirely satisfied that his services would
+							yield to the public an ample equivalent for his appointment— This is
+							some thing like asking for a favour and giving notice that it will not
+							be received as a favour— Independence asks no favours— It will be woo’d
+							and not unsought be won. The <persRef key="monroe-james"
+								>President</persRef> called at the Office to speak about the
+							appointment of the Commissioners under the Florida Treaty— He has given
+							up the idea of appointing <persRef ref="rodney-caesar">C. A.
+								Rodney</persRef>, and <persRef ref="johnson-chapman">Chapman
+								Johnson</persRef>; and now spoke of <persRef ref="wheaton-henry">H.
+								Wheaton</persRef> of New-York, and <persRef ref="white-hugh">H. L.
+								White</persRef> of Tennessee. He said that M<hi rend="superscript"
+								>r</hi> Johnson was fully qualified for the Office, but as the
+							recommendations for him and those for <persRef ref="hay-george">M<hi
+									rend="superscript">r</hi> Hay</persRef> seemed to have been
+							given as in a sort of mutual opposition to each other, he had thought
+							best as he did not appoint M<hi rend="superscript">r</hi> Hay, to avoid
+							also the appointment of his rival. To Wheaton he said the only objection
+							was, that he belonged to one of the large cities where the principal
+							losses had been sustained— If one Commissioner should be selected from
+							one of them, and none from another, the sufferers of the neglected city
+							would complain of partiality, and be jealous of the decisions— And he
+							asked me if this was not my opinion— I said it was a view of the Subject
+							deserving great consideration— But there was also another view of it,
+							which should not be passed over— All the difficult questions which will
+							be presented for the decision of the Commissioners, will be questions of
+							commercial or maritime Law— Questions in which the Lawyers of the large
+							Cities are peculiarly conversant, and M<hi rend="superscript">r</hi>
+							Wheaton probably more than any other man in the Union— The lawyers of
+							the interior however learned and well qualified in other respects would
+							not be so familiar with that so familiar with that special branch of the
+							Law, and for that reason probably their decisions might be less
+							satisfactory to the Sufferers— Nor did I think there would be any solid
+							reason for complaint if one Commissioner should be taken from one of the
+							Cities, and none from the others—the important question would be, the
+							qualifications of <pb type="ms" n="5"/>the person selected; and if they
+							should be eminently suited to the appointment, as in the case of M<hi
+								rend="superscript">r</hi> Wheaton they certainly would be, I thought
+							the little jealousies of rival cities might safely be disregarded— There
+							was a <persRef ref="alvey-unknown">M<hi rend="superscript">r</hi>
+								Alvey</persRef> came to the Office having a claim upon the Spanish
+							Government, for certain provisions taken by force from him for the
+							supply of Spanish troops in South-America. <persRef ref="mason-john"
+								>General John Mason</persRef> also came, and stating that he was the
+							Agent of many claimants under the Florida Treaty requested that he might
+							have access to their documents filed in the Department of State: to
+							which I assented.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-28">
+					<head>28 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-28"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note></bibl>
+					<div type="docbody">
+						<p><date>28. IV.</date><persRef ref="fenwick-f">M<hi rend="superscript"
+									>r</hi> F. C. Fenwick</persRef> was at the Office again upon his
+							solicitation for the appointment of Consul at Nantes and <persRef
+								ref="scott-alexander">Alexander Scott</persRef> of Georgetown to
+							importune for that of Secretary to the Commission of Claims under the
+							Florida Treaty— The act of Congress requires that the Secretary should
+							be conversant with the French and Spanish languages— Scott who has some
+							knowledge of French, but scarcely any of Spanish still presses to be
+							appointed, and now gravely came and shewed me a Letter from a Spanish
+							South American named Orrea, now at Philadelphia. Scott’s proposal was
+							that he should send for this <persRef ref="orrea-unknown">M<hi
+									rend="superscript">r</hi> Orrea</persRef> to come and live with
+							him; and being perfectly familiar with our language as well as with his
+							own, that he should be Scott’s proxy for every thing in which the
+							knowledge of Spanish might be required— I told him I thought this would
+							not answer the requirement of the Law. I made the draft of a second
+							Letter to the <persRef key="hyde-de-neuville-jean">Baron Hyde de
+								Neuville</persRef>; this being upon the seizure of the Apollon.
+								<persRef ref="thornton-william">D<hi rend="superscript">r</hi>
+								Thornton</persRef> passed the Evening with us, and beat me at
+							Chess.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-29">
+					<head>29 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-29"/><editor
+							role="transcription">Neal Millikan</editor><note type="subject"
+							>Adams-Onis Treaty</note></bibl>
+					<div type="docbody">
+						<p><date>29. VI:</date> I received this morning a Note from the <persRef
+								key="monroe-james">President</persRef>, returning the draft of the
+							Letter to the <persRef key="hyde-de-neuville-jean">French
+								Minister</persRef>, with suggestions of a few alterations, all of
+							which I adopted, though in one instance with reluctance— In his Letter,
+							referring to our proceedings in the case of the Apollon, he had asserted
+							that <hi rend="italic">a grave error</hi> had been committed— This
+							imputation of error, to a Government, by a foreign Minister, accredited
+							to it, is so indecorous and offensive that I had answered it in the
+							draft, more sharply than the President thinks necessary— He alters it
+							therefore to “you appear to assume as a fact, <hi rend="italic">what
+								this Government can never admit</hi>, namely that a grave error has
+							been committed &amp;c.” there is a feebleness and a symptom of
+							hesitation in this turn of phrase, which de Neuville will seize upon, to
+							push us hard upon that point. In the draft, I had turned the attack upon
+							himself, and put him upon the defensive, for the imputation— I sent him
+							this day the long answer to his Letter of 6. June 1818 upon the
+							Louisiana Claim, and also received a Note from him— The President in his
+							Letter of this Morning also informed me, that he had concluded upon
+							appointing <persRef ref="white-hugh">Hugh Lawson White</persRef> of
+							Tennessee, <persRef ref="king-william">William King</persRef> of Maine,
+							and <persRef ref="green-john">John W. Green</persRef> of Virginia,
+							Commissioners of Claims, under the Florida Treaty. I directed
+							Commissions to be issued for them accordingly. Spent the Evening at
+								<persRef key="smith-william-steuben">W. S. Smith’s,</persRef> at
+							Chess— He is recovering from his illness.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-30">
+					<head>30 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. VI:45.</date><persRef ref="meigs-josiah">M<hi
+									rend="superscript">r</hi> Josiah Meigs</persRef> the
+							Commissioner of the Land Office, called this morning at my Office with a
+								<persRef ref="parr-unknown">M<hi rend="superscript">r</hi>
+								Parr</persRef>, an Englishman, a native and inhabitant of the town
+							of Boston in Lincolnshire, who has been some time travelling in the
+							United States— He told me he had lately been at <hi rend="italic"
+								>our</hi> Boston, and was highly gratified with the reception and
+							hospitality which he had experienced there; much of which he ascribed, I
+							have no doubt truly, to the name of the place whence he came— Boston in
+							New-England was originally named after Boston in Lincolnshire, because
+							it was the birth-place of <persRef ref="cotton-john">M<hi
+									rend="superscript">r</hi> Cotton</persRef> the Minister, and
+							probably of many other original settlers of Massachusetts— But two
+							hundred years wash out all the colour of kindred blood— The two Bostons
+							have become so strange to each other that this M<hi rend="superscript"
+								>r</hi> Parr, was the first English Bostonian I ever met with, and I
+							myself felt in <pb type="ms" n="6"/>in that circumstance a link of
+							association with him that I should not have felt for an Englishman from
+							any other place— He is about returning to England; and hinted the
+							intention of publishing some account of his travels in this Country.
+								<persRef ref="alvey-unknown">M<hi rend="superscript">r</hi>
+								Alvey</persRef> was at the Office again about his claim upon the
+							Spanish Government; and <persRef ref="fenwick-f">Fenwick</persRef> about
+							his Consulate— <persRef ref="way-andrew">M<hi rend="superscript">r</hi>
+								Andrew Way</persRef> called and brought me a new Deed of the House
+							and Lots in F. Street, executed by himself and <persRef
+								ref="way-andrew2">his father</persRef>— I was at the <persRef
+								key="monroe-james">President’s</persRef>, and met there <persRef
+								ref="hay-george">M<hi rend="superscript">r</hi> George Hay</persRef>
+							and <persRef ref="calhoun-john">M<hi rend="superscript">r</hi>
+								Calhoun.</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-31">
+					<head>31 March 1821</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03-31"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>31. VI:</date> A rainy day— <persRef ref="alvey-unknown">M<hi
+									rend="superscript">r</hi> Alvey</persRef> came again to the
+							Office, and was furnished with a Letter, recommending him and his claim
+							to <persRef ref="brent-thomas">Thomas L. L. Brent</persRef>, the Charge
+							d’Affaires at Madrid— I received a Letter from the <persRef
+								key="monroe-james">President</persRef> relating to some embarrassing
+							applications in behalf of <persRef ref="gracie-william">William
+								Gracie</persRef> of New-York. He married <persRef
+								ref="gracie-elizabeth">a daughter</persRef> of <persRef
+								ref="wolcott-oliver">Oliver Wolcott</persRef> now Governor of
+							Connecticut—but she died a year or two since— <persRef
+								ref="king-charles">Charles King</persRef>, son of <persRef
+								ref="king-rufus">Rufus</persRef> the Senator from New-York, married
+								<persRef ref="king-eliza">Gracie’s Sister</persRef>. I received a
+							few days ago a Letter from Charles King, saying that Gracie was going to
+							France, to pass some time, and expressing the wish that he might be
+							attached to the American Legation there; and a Letter from Gracie
+							himself offering to take despatches. The President had also received a
+							Letter from Governor Wolcott requesting the appointment of Gracie as
+							Secretary of Legation, and I have one from him, urging the interposition
+							of the Government again in behalf of the claim of <persRef
+								ref="gracie-archibald">Archibald Gracie</persRef> and C<hi
+								rend="superscript">o.</hi> for the seizure of a vessel and Cargo of
+							theirs at Antwerp— The President is apprehensive that both the special
+							interposition, and the attaching of Gracie to the Legation at Paris
+							would be displeasing to <persRef ref="gallatin-albert">M<hi
+									rend="superscript">r</hi> Gallatin</persRef>, and objectionable
+							to other claimants upon France, as shewing partial favour to Gracie’s
+							claim in preference to others equally well founded— He directs me
+							therefore if I give Gracie any Letter to M<hi rend="superscript">r</hi>
+							Gallatin to write it with special circumspection; and I wrote to Gracie
+							and Gallatin accordingly— I received from the <persRef
+								key="hyde-de-neuville-jean">Baron Hyde de Neuville</persRef> a
+							Letter in reply to mine upon the Louisiana claim. Without abandoning the
+							ground of his first demand, he now assumes another— His first claim was
+							that French vessels should be received in the Ports of Louisiana, paying
+							no higher duties than British vessels pay in all the Ports of the Union—
+							He now claims that if they are not entitled to this, they should at
+							least be exempted from the extra-tonnage duty which is not paid by
+							Nations with when we have no Treaty— This claim is more plausible but
+							not more sound than the other.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v32-1821-03-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1821-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<!-- This is a summary entry without a date.-->
+						<p><date><hi rend="italic">Day.</hi></date> The range of my rising hour through the Month has been
+							from four to seven O’Clock. The average Five and thirty-six minutes.
+							From that time till Noon I am engaged in writing with the interval of an
+							hour for breakfast; and almost always an hour or two wasted upon reading
+							and assorting Newspapers. The breach in this Diary of four Months and a
+							half by the indispensable occupation of the Morning hours upon other
+							writing, threatens to be irreparable— Yet I have resumed it, and am
+							labouring to retrieve the lost Time— About Noon I repair to my Office,
+							where I am employed upon its current business until 6. in the Evening;
+							calling when occasion requires at the <persRef key="monroe-james"
+								>President’s</persRef>; and attending at the Meetings of the Members
+							of the Administration there, which are likewise occasional. We dine
+							between six and seven, after which I read Newspapers, pay or receive
+							neighbourly visits, and now within these few days, revise the proof
+							Sheets of my Report upon Weights and Measures. Between ten and eleven is
+							the hour of retirement.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

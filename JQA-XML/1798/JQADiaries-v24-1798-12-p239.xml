@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.masshist.org/publications/pub/schema/codem-0.2-djqa.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mhs="http://www.masshist.org/ns/1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="v24-1798-12">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>John Quincy Adams Diary Digital Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DJQA SOURCE DESCRIPTION</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="month" mhs:startingPage="239"  mhs:precedingFile="JQADiaries-v24-1798-11-p236.xml" mhs:followingFile="JQADiaries-v24-1799-01-p244.xml" mhs:volume="24">
+				<bibl n="metadata"><date from="1798-12-01" to="1798-12-31"/></bibl>
+
+				<!-- D/JQA/24.1540 -->
+
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-01">
+					<head>1 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-01"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<dateline><hi rend="italic">December 1798</hi></dateline>
+						<p><date>1. </date>Wrote in the forenoon to <persRef ref="murray-william2"
+									>M<hi rend="superscript">r:</hi> Murray</persRef> and <persRef
+								ref="bourne-sylvanus">M<hi rend="superscript">r:</hi> Bourne</persRef>— Sent
+							likewise to <persRef ref="vancleef-pieter">Van Cleef</persRef>.— Evening
+							at the <persRef ref="u">Countess Eichstätt’s</persRef>— Whist with
+								<persRef ref="u">Madame de Zastrow</persRef>, <persRef
+								ref="vonschrotter-friedrich">The Minister Schrötter</persRef>, and
+								<persRef ref="livingston-edward2">M<hi rend="superscript">r:</hi>
+								Livingstone</persRef>— Came away at 9. and supped at <persRef
+								ref="brown-charles">D<hi rend="superscript">r:</hi> Brown’s</persRef>, where
+							I found <persRef ref="arbuthnot-robert">M<hi rend="superscript">r:</hi>
+								Arbuthnot</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-02">
+					<head>2 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-02"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>2. </date>Forenoon spent as usual— At the <persRef
+								ref="louiseauguste">Queen’s</persRef> Court in the Evening, and
+							previously at the Grande Maitresse’s. <hi rend="strikethrough">Whist
+								with</hi> Played at Casino, with the <persRef
+								ref="frederica-dorothea">Princess Radziwill</persRef>, <persRef
+								ref="u">Madame de Heinitz</persRef>, and the <persRef
+								ref="vonhardenberg-karl">Baron de Hardenberg</persRef>. The Baron
+							played against the Princess, and purposely lost, which his partner
+							discovered, and was all the time scolding him about it.— The Baron threw
+							all the fault upon his ill play; and said that whatever people might say
+							about Casino, he was sure there was a certain <hi rend="italic"
+								>finesse</hi> in the game that he did not understand. The Princess
+							appeared unwell, and much out of spirits— Since the disgrace which
+							befell her <persRef ref="radziwill-anton">husband</persRef>, he is
+							treated with so little respect or attention that it must very much
+							mortify her; and she perceives the effects of it in the deportment of
+							the Court towards herself.— The <persRef ref="frederick-william-iii"
+								>king</persRef> spoke to me of a young man here by the name of
+								<persRef ref="u">Washington</persRef>, and enquired, whether he was
+							a relation of the <persRef ref="washington-george">General</persRef>— He
+							enquired also what was the shortest time in which a passage between
+							Europe and America, could be performed.— <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> was invited and stayed to supper</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-03">
+					<head>3 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-03"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>3. </date>At the Casino before dinner.— Evening with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef> at <persRef ref="vonbruhl-sophia">Countess
+									Brühl’s</persRef>— <persRef ref="vonbruhl-karl">The Count</persRef> was not at home— We found <persRef
+								ref="livingston-edward2">M<hi rend="superscript">r:</hi>
+								Livingstone</persRef> there, but he soon went away. <persRef
+								ref="alvensleben-philipp">Baron Alvensleben</persRef> and <persRef
+								ref="perponcher-hendrik">M<hi rend="superscript">r:</hi>
+								Perponcher</persRef>, were also there great part of the Evening.— We
+							had some music— The <persRef ref="bruhl-maria">Countess Mary
+								Brühl</persRef> played on the Piano forte. Miss Brown and M<hi
+								rend="superscript">rs</hi> Adams sung.— Alvensleben very fond of music— He
+							is a ghost-seer too— M<hi rend="superscript">r:</hi> Livingstone amused himself
+							with a story A. had told him, about a vision of three beautiful women
+							appearing on the wall of his bed-chamber &amp;c &amp;c.— A Minister of
+							State!— But the thing is very common here— Scarce an individual of the
+							royal family, but firmly believes in ghosts, and apparitions, and all
+							the farrago of witchcraft— Successors of <persRef ref="frederick-ii"
+								>Frederic 2</persRef>!—</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-04">
+					<head>4 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-04"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>4. </date><persRef ref="zeinert-emily">Miss Emily
+							Zeunert</persRef>, called just after dinner and paid a visit to <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>.— I went to see the English <persRef
+								ref="augustusfrederick">Prince Augustus</persRef>, but he was so ill
+							that he could receive no company— Evening at the play— Saw <hi
+								rend="italic">Benjowsky</hi>, or the conspiracy at Kamschatka—of
+								<persRef ref="kotzbue-august">Kotzebue</persRef>— An interesting
+							Comedy—but very bad in point of moral— And the characters are too much
+							in extremes.— Stepanoff is the best drawn.— After returning home, read a
+							little of <persRef ref="gillies-john">Gillies</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-05">
+					<head>5 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-05"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>5. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> went this afternoon to pay a visit to
+							the <persRef ref="neale-josephine">Countess Neale</persRef>, upon her
+							return to town, with the <persRef ref="louiseofbrandenburg">Princess
+								Ferdinand</persRef>.— Began this day upon an answer to the last note
+							from the Cabinet Ministers.— Evening at home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-06">
+					<head>6 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-06"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<pb n="240" type="ms"/>
+						<p><date>6. </date>Spent this day and Evening again at home. Letters this
+							Evening from the <persRef ref="pickering-timothy">Secretary of
+								State</persRef>, <persRef ref="king-rufus">M<hi rend="superscript">r:</hi>
+								King</persRef>, and <persRef ref="pitcairn-joseph">M<hi rend="superscript"
+									>r:</hi> Pitcairn</persRef>; and at noon from <persRef
+								ref="murray-william2">M<hi rend="superscript">r:</hi> Murray</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-07">
+					<head>7 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-07"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Diplomacy/Diplomatic Activities</subject>
+						<subject>Quasi War (Franco-American)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>7. </date>Called upon <persRef ref="augustusfrederick">Prince
+								Augustus</persRef> this afternoon, and found him at home— He is well
+							informed upon the current topics of the time, and discovers much
+							moderation in his sentiments.— Afterwards went to see <persRef
+								ref="haugwitz-christian">Count Haugwiz</persRef> by appointment. He
+							told me he had a double regret in having been obliged to delay so long
+							an answer to my application for permission to export arms; and that at
+							last the answer is not such as he could wish. The permission cannot be
+							granted because the <persRef ref="frederick-william-iii"
+								>king’s</persRef> own troops, will want all that the manufacture can
+							produce for a year to come.— I had likewise considerable conversation
+							with him upon the ministerial answer to my last note— He agreed to every
+							thing— It is his universal practice always to say yes—but I have learnt
+							by constant experience that there is not the smallest dependence to be
+							placed upon what he says.— I never have relied upon him, for he has, a
+								<persRef ref="riqueti-honore">Mirabeau</persRef> says of the
+								<persRef ref="charleswilliamferdinand">Duke of Brunswic</persRef>,
+							une grande reputation de fausseté—and never was reputation more merited—
+							He concurred this time so decisively in every objection I made, that I
+							much question whether <hi rend="strikethrough">my</hi> his next official
+							answer, will yield in any one point— I shall soon try— He appeared very
+							much irritated against the french government, and spoke in particular
+							about their late decree, to treat as Pirates all neutral subjects in the
+							English or Russian naval service, who may fall into their hands, with a
+							bitterness, which in another man would have been an evidence of
+							sincerity.— I believe he is in truth dissatisfied with France, just at
+							this moment.— But she can whistle him back, when she pleases.— Evening
+							at a Ball, at the <persRef ref="vonheinitz-friedrich">Minister
+								Heinitz’s</persRef>— The king, <persRef ref="louiseauguste">queen</persRef> and
+							royal family all there— No supper— Party over at about ten.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-08">
+					<head>8 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-08"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>8. </date>Evening party at the <persRef ref="u">Princess de
+								Sachen’s</persRef>— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A</persRef>. did not go, but went to
+								<persRef ref="brown-mary">M<hi rend="superscript">rs:</hi>
+							Brown’s</persRef>.— Reversi with <persRef ref="u">Mad<hi rend="superscript"
+									>e</hi> de Hagen</persRef>—<persRef ref="muzquiz-ignacio"
+								>Marquis de Musquiz</persRef>, and <persRef ref="u">M. de
+								Wulsknitz</persRef>— <persRef ref="sieyes-emmanuel">Siéyés</persRef>
+							has produced a great change in the politics of Musquiz, who is now
+							little better than a mere frenchman— Did not stay to supper, but went to
+								<persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef>, where I found <persRef ref="vonbruhl-karl">Count
+								Brühl</persRef>, with his family; and <persRef
+								ref="deperusse-francois">General Descars</persRef>, a french
+							emigrant: but in the Prussian service. Very talkative—but it is to be
+							hoped he knows more about military science than poetry— He said he had
+							known Germans who thought <persRef ref="klopstock-gottlieb"
+								>Klopstock</persRef> superior to all the Poets in the world— And
+							that such Poets as <persRef ref="homer">Homer</persRef>, and <persRef
+								ref="milton-john">Milton</persRef> and <persRef ref="newton-john3"
+								>Newton</persRef>, were nothing, in comparison with him— Count Brühl
+							is a great musician, and performs remarkably well upon the violin.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-09">
+					<head>9 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-09"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>9. </date>Ball, this Evening at the <persRef ref="louiseauguste"
+								>Queen’s</persRef>.— The <persRef ref="frederica-louise2">Queen
+								mother</persRef> is come home and was present.— Whist with <persRef
+								ref="vonvoss-sophie">Madame de Voss</persRef>, <persRef
+								ref="engstrom-lars">Baron d’Engström</persRef> and Count<space/>a Gens
+							d’arme I believe— We came away before supper; but the Ball was continued
+							untill the morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-10">
+					<head>10 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-10"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Health and Illness</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>10. </date>Dined at <persRef ref="brown-charles">Doctor
+								Brown’s</persRef> with <persRef ref="augustusfrederick">Prince
+								Augustus</persRef>, and the English company now here.— The Prince
+							said if he ever had any money of his own he would settle for life at
+							Naples, where he enjoys better health than elsewhere. He has a <persRef
+								ref="u">Doctor Domeyer</persRef> with him from the University of
+							Gottingen, in whom he places great confidence. He made many enquiries
+							concerning the yellow fever, and said he was not satisfied with any of
+							the publications upon the subject that came from America— Not even with
+							that of <persRef ref="rush-benjamin">Doctor Rush</persRef>, who had
+							shewn distinguished talents in other works, but who on this occasion had
+							not reasoned at-all with a philosophic mind. He appeared fully convinced
+							that if <hi rend="italic">he</hi> were in America, there would be no
+							such thing as yellow fever, or that all its malignity would vanish
+							before his medical skill.— At dinner he took <persRef
+								ref="talbot-charles">Lord Talbot</persRef> to task, for drinking
+							heating, inflammatory wines, which he told him would shorten his life
+							&amp;c— We had music after dinner.— Came home at about 8, and passed the
+							remainder of the Evening by ourselves.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-11">
+					<head>11 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-11"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>11. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Washington</persRef> and <persRef ref="perponcher-hendrik">M<hi
+									rend="superscript">r:</hi> Perponcher</persRef> called in the afternoon,
+							and took tea with us.— Finished my first draft of a reply to the
+							ministerial notes I have lately received.— Read <persRef
+								ref="gillies-john">Gillies</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-12">
+					<head>12 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-12"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Foreign Relations</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="241" type="ms"/>
+						<p><date>12.— </date>Visit from <persRef ref="engstrom-lars">M<hi rend="superscript"
+									>r:</hi> Engeström</persRef> this morning.— Came to enquire
+							whether the United States would wish to purchase the island of S<hi
+								rend="superscript">t.</hi> Bartholomew.— At the Casino this Evening.—
+							Finished the third volume of <persRef ref="gillies-john"
+								>Gillies</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-13">
+					<head>13 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-13"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>13. </date>The English <persRef ref="augustusfrederick">Prince
+								Augustus</persRef> and his family, <persRef ref="talbot-charles"
+								>Lord Talbot</persRef>, <persRef ref="brown-charles">D<hi rend="superscript"
+									>r:</hi> Brown</persRef> and his family, <persRef
+								ref="garlike-benjamin">M<hi rend="superscript">r:</hi> Garlike</persRef>,
+							the two <persRef ref="vonompteda-ludwig">Barons Ompteda</persRef>, and
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Sloper</persRef> dined with
+							us.— The party very agreeable— The last part of the Evening, we were at
+								<persRef ref="alvensleben-philipp">Baron Alvensleben’s</persRef>
+							ball— The <persRef ref="frederick-william-iii">king</persRef> asked me
+							if there were many Poles now in America. Weather extremely cold.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-14">
+					<head>14 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-14"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>14. </date>Weather continues excessively cold.— Chief part of the
+							Evening at the Casino— Remainder at <persRef ref="brown-charles">D<hi
+									rend="superscript">r:</hi> Brown’s</persRef>, where we found <persRef
+								ref="vonbruhl-karl;vonbruhl-sophia">Count and Countess
+								Bruhl</persRef> and their <persRef ref="bruhl-maria;vonbruhl-fanny"
+								>daughters</persRef>.— The Count told us a number of anecdotes of
+							the seven years war when he was in the french army, and of the campaign
+							of 1793 when he was with the <persRef ref="charleswilliamferdinand">Duke
+								of Brunswic</persRef> in Champagne—shewing the propensity of all
+							soldiers to pillage.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-15">
+					<head>15 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-15"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>15. </date>Weather moderated at length.— Visit to <persRef ref="u"
+								>Madame de Goudi</persRef>, the grande maitresse of the <persRef
+								ref="frederica-louise2">Queen mother</persRef>— She is ill, and did
+							not see us.— To <persRef ref="u">Madame de Sartoris</persRef>, who was
+							not at home.— At the supper party at <persRef
+								ref="schulenburgkehnert-frederick">Count Schulenburg’s</persRef>
+							where were an immense crowd of People— We stayed not long, but passed
+							the rest of the Evening at <persRef ref="augustusferdinand ">Prince
+								Ferdinand’s</persRef>— Had some conversation with <persRef
+								ref="tempelhoff-georg">General Tempelhoff</persRef>, and <persRef
+								ref="u">Major Wortenberg</persRef>.— Whist with the <persRef
+								ref="vonredern-sigismund">Comte Redern</persRef>, <persRef ref="u"
+								>Comte Bronikowki</persRef> and <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Helbig</persRef>.— The second is a Pole recently from
+							Paris, who told us much of the manners and tone of Society prevailing
+							there.— We came away before supper.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-16">
+					<head>16 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-16"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Court Life and Society (European)</subject>
+						<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>16. </date>At Court this Evening, where I heard of the french
+							declaration of War against the kings of <persRef ref="ferdinand-i">Naples</persRef> &amp; <persRef ref="charlesemmanuel">Sardinia</persRef>. The last
+							quite unexpected.— Whist with <persRef ref="u">M<hi rend="superscript">lle:</hi>
+								de Viereck</persRef>, Madame<space/>and M<hi rend="superscript"
+							>r:</hi><space/>Called at <persRef ref="brown-charles">Doctor
+								Brown’s</persRef>, as I came home—found <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							there.— Heard this Evening of the Death of my <persRef
+								ref="shaw-elizabeth2">Cousin E Shaw</persRef>, and of my friend
+								<persRef ref="crafts-thomas">T. Crafts.</persRef>— My Cousin’s was
+							not unexpected.— Poor Crafts was the delight of his friends— A man of
+							original and peculiar humour, and a disposition that gave a charm to all
+							convivial parties where he was.— I shall always remember him with
+							tenderness, and regret his early death.— He was of my own age, or my
+							junior by a year.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-17">
+					<head>17 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-17"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>17. </date>Dined with <persRef ref="talbot-charles">Lord
+								Talbot</persRef>, at the Hotel de Russie, in the same apartment
+							where I witnessed and was part of such a distressing seen, but a year
+							ago.— <persRef ref="augustusfrederick">Prince Augustus</persRef> and his
+							Gentlemen, with his two newly arrived friends <persRef
+								ref="brummell-george">Brummell</persRef> and <persRef
+								ref="graves-thomas2">Graves</persRef>, and the other English now
+							here, were the company, together with the <persRef ref="u">Comte de S<hi
+									rend="superscript">t:</hi> George</persRef>, a Swiss Gentleman.— The
+							dinner was lively and gay, more than suited my temper of mind— They sung
+							several songs, which brought poor <persRef ref="crafts-thomas"
+								>Crafts</persRef> painfully to my mind, and which I have scarcely
+							heard since the time when I associated most with him.— When I came home,
+							I found the eldest Miss Brown’s with <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi>
+								Adams</persRef>, and they with <persRef ref="u">M<hi rend="superscript"
+									>r</hi> Richards</persRef> passed the Evening with us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-18">
+					<head>18 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-18"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>18. </date>Busily engaged in writing all the forenoon, and after
+							dinner. <persRef ref="zeinert-emily">Miss E. Zeunert</persRef> at tea.—
+								<persRef ref="vonbruhl-karl;vonbruhl-sophia">Count &amp; Countess
+									Brühl</persRef>, and <persRef ref="bruhl-maria">their eldest daughter</persRef>, passed the Evening here—
+							The Count is a son of the fam<unclear>ous</unclear> <persRef ref="vonbruhl-heinrich"
+								>Saxon Minister Count Brühl</persRef>, so known for his animosity
+							against <persRef ref="frederick-ii">Frederic II</persRef>— Yet this one,
+							was Governor of the <persRef ref="frederick-william-iii">present
+								king</persRef>, and is now a General of Cavalry.— The Countess is
+							the daughter of an <persRef ref="gomm-william">English Banker</persRef>
+							who was settled at Amsterdam, by the name of Gom.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-19">
+					<head>19 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-19"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>19. </date><persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> dined with the <persRef
+								ref="frederica-louise2">Queen mother</persRef>.— Evening party and
+							supper at <persRef ref="massow-julius">Mons<hi rend="superscript">r:</hi> de
+								Massow’s</persRef>.— Whist with <persRef ref="u">Madame de
+								Saldern</persRef>, <hi rend="strikethrough">Madam</hi>e the <persRef
+								ref="vongoldbeck-heinrich">Chancellor Goldbeck</persRef> and
+								<persRef ref="u">M: d’Aguilar</persRef>, a Portuguese Gentleman, and
+							relation to the <persRef ref="danadia-joao">Vicomte d’Anadia</persRef>.—
+							Did not stay to supper.— Called at <persRef ref="brown-charles">D<hi
+									rend="superscript">r:</hi> Brown’s</persRef> for M<hi rend="superscript"
+								>rs:</hi> A—as I came home.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-20">
+					<head>20 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-20"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="242" type="ms"/>
+						<p><date>20. </date><persRef ref="garlike-benjamin">M<hi rend="superscript">r:</hi>
+								Garlike</persRef> called on me this forenoon, and had some
+							conversation with me upon the present State of affairs: read me one of
+							his late dispatches.— Visit from <persRef ref="u">M<hi rend="superscript"
+									>r:</hi> Gorman</persRef>, an English Gentleman, who brought me
+							a letter of Introduction from <persRef ref="adams-thomas">my
+								brother</persRef>, whom he met at Hamburg.— Evening at <persRef
+								ref="alvensleben-philipp">Baron Alvensleben’s</persRef> ball; from
+							which, we went as engaged, to <persRef ref="augustusferdinand">Prince
+								Ferdinand’s</persRef>— But the <persRef ref="louiseofbrandenburg"
+								>Princess</persRef> unwilling to deprive <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A.</persRef>
+							of the pleasure of dancing, desired us to return to the Ball, which we
+							did— Danced one dance with <persRef ref="u">Miss Brühl</persRef>.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-21">
+					<head>21 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-21"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>21. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Gorman</persRef>, <persRef ref="livingston-edward2">M<hi rend="superscript"
+									>r:</hi> Livingston</persRef> and <persRef
+								ref="garlike-benjamin">M<hi rend="superscript">r:</hi> Garlike</persRef>
+							dined with us— <persRef ref="adams-louisa-catherine">M<hi rend="superscript"
+									>rs:</hi> Adams</persRef> went with <persRef
+								ref="vonengstrom-rozalia">Madame d’Engeström</persRef> to be
+							introduced to <persRef ref="rosenkrantz-varvara">Madame de
+								Rosenkranz</persRef>.— Most of the Evening at the Casino. Then
+							called at <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown’s</persRef> for M<hi rend="superscript">rs:</hi> A. and supped
+							there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-22">
+					<head>22 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-22"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>22. </date>Snowed all day, so that I could not walk out.— Evening
+							party and supper at the <persRef ref="u">Grand Marshall Count
+								Podewils’s</persRef>— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A.</persRef> did not go.— Whist with
+								<persRef ref="u">Madame de Saldern</persRef>, <persRef ref="u"
+								>Madame de Heinitz</persRef> and <persRef ref="u">M.
+								d’Aguilar</persRef>—did not stay to supper.— I called at 1/2 past
+							five upon <persRef ref="haugwitz-christian">Count Haugwitz</persRef>,
+							and gave him my reply to the last answer of the Cabinet Ministry,
+							concerning the Treaty. He desired me to leave it with him, and call
+							again on Monday at the same hour.— He appeared very much exasperated
+							against the french Government; especially on account of their late
+							declaration of War against the <persRef ref="charlesemmanuel">king of
+								Sardinia</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-23">
+					<head>23 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-23"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Court Life and Society (European)</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>23. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Gorman</persRef> called at about 2.— I went and introduced him at
+							the Casino.— Walk in the Park. At Court in the Evening. <persRef
+								ref="adams-louisa-catherine">M<hi rend="superscript">rs:</hi> A</persRef>.
+							did not go.— The weather, which very suddenly grew extremely cold in the
+							course of the day, furnished a subject of conversation both to the
+								<persRef ref="frederick-william-iii">king</persRef> and <persRef
+								ref="louiseauguste">queen</persRef>. Whist with <persRef
+								ref="vonkunheim-charlotte">Madame de Kunheim</persRef>, <persRef
+								ref="u">Madame de Rosiere</persRef>, and <persRef
+								ref="vonarmin-georg">M<hi rend="superscript">r:</hi> Armin de
+								Suckow</persRef></p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-24">
+					<head>24 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-24"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>24. </date>The Weather excessively cold.— Walked however before
+							dinner in the Park.— at 1/2 past 5. called again upon <persRef
+								ref="haugwitz-christian">Count Haugwitz</persRef>, who returned me
+							my note and desired me to present it— He said that it must again be
+							referred to the commercial department; but he believed there would be no
+							difficulty in coming to an arrangement, and for his own part, he was
+							personally altogether of my opinion, upon the points mentioned in the
+							note— He afterwards told me the Government had received this day a
+							communication that the french had made themselves masters of Turin,
+							seized the <persRef ref="frederick-william-iii">king</persRef>, and sent
+							him to Sardinia, and established a provisional Government in Piedmont.—
+							The Count talked with too much bitterness upon this business.— “Infamous
+							conduct—unexampled perfidy—senseless policy,” and many other epithets
+							equally harsh he applied without scruple or measure to the french
+							Government on this occasion. I have no doubt he is very angry, and will
+							be glad to see Austria go to War for it—but then he will come back to
+							the favourite system of neutrality.— At home the remainder of the
+							Evening— <persRef ref="talbot-charles">Lord Talbot</persRef> called on
+							us.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-25">
+					<head>25 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-25"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+						<subject>Diplomacy/Diplomatic Activities</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>25. </date><persRef ref="u">M<hi rend="superscript">r:</hi>
+								Gorman</persRef> and <persRef ref="brown-william5">William
+								Brown</persRef> called upon us this forenoon. Went at 1/2 past 12 to
+								<persRef ref="vonfinckenstein-karl">Count Finkenstein</persRef>, and
+							delivered to him, my third Note, concerning the renewal of the Treaty—
+							He told me that it would be necessary to concert with <persRef
+								ref="vonstruensee-carl">M<hi rend="superscript">r:</hi> Struensée</persRef>,
+							who is at the head of the commercial department, before I could have an
+							answer; but he was generally expeditious, and our arrangements might be
+							made without further difficulty. The old Count is not so lavish of his
+							word as his colleague <persRef ref="haugwitz-christian"
+								>Haugwitz</persRef>, and I place more dependance upon what he says.—
+							He spoke of my application for permission to export muskets, and said
+							that it was much regretted, that the necessities of the <persRef
+								ref="frederick-william-iii">king’s</persRef> own troops would not
+							allow him to give the permission.— Evening at <persRef
+								ref="brown-charles">Doctor Brown’s</persRef>— <persRef
+								ref="vonbruhl-karl">Count Brühl</persRef> and his family, <persRef
+								ref="talbot-charles">Lord Talbot</persRef>, <persRef
+								ref="garlike-benjamin">M<hi rend="superscript">r:</hi> Garlike</persRef>,
+								<persRef ref="u">M<hi rend="superscript">r:</hi> Gorman</persRef>, &amp;
+								<persRef ref="u">Miss Bishopswerder</persRef> were there— We danced,
+							part of the Evening.— Weather cold in extreme— <persRef
+								ref="reaumur-rene">Réaumur’s</persRef> thermometer 19 below 0.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-26">
+					<head>26 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-26"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>26. </date>Weather continues excessively cold, though rather less
+							than yesterday.— Evening party and supper at <persRef ref="u">Madame de
+								Bredow’s</persRef>.— <persRef ref="adams-louisa-catherine">M<hi
+									rend="superscript">rs:</hi> A</persRef>. did not go. The <persRef
+								ref="brown-fanny;brown-isabella;brown-margaret">Miss
+								Brown’s</persRef>, and <persRef ref="arbuthnot-robert">M<hi
+									rend="superscript">r:</hi> Arbuthnot</persRef>, passed the evening with
+							her. Whist with <persRef ref="u">Madame de Marwitz</persRef>; <persRef
+								ref="u">M<hi rend="superscript">lle:</hi> de Hagen</persRef>, and <persRef
+								ref="u">M. de Zastrow</persRef>—did not stay to supper.—
+							Conversation with <persRef ref="u">M. d’Aguilar</persRef>, who is
+							sensible, though aukward in his manners.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-27">
+					<head>27 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-27"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<pb n="243" type="ms"/>
+						<p><date>27. </date>Weather continues to moderate; though still very cold—
+							Letter from <persRef ref="murray-william2">M<hi rend="superscript">r:</hi>
+								Murray</persRef>—mentions the Death of <persRef ref="wescott-elizabeth">Miss Westcott</persRef> and <persRef
+								ref="breck-lucy">Miss Breck</persRef>— Letter likewise from <persRef
+								ref="pitcairn-joseph">Pitcairn</persRef>.— Evening at <persRef
+								ref="alvensleben-philipp">Baron Alvensleben’s</persRef> ball. The
+								<persRef ref="frederick-william-iii">king</persRef> unwell, and was
+							not there— The <persRef ref="louiseauguste">queen</persRef> went away
+							early.— Reversi with <persRef ref="u">Madame de Hagen</persRef>,
+								<persRef ref="u">Madame de Pannewitz</persRef> and <persRef
+								ref="vondergoltz-august">Count Goltz</persRef>.— Home at ten.</p>
+					</div>
+				</div>
+
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-28">
+					<head>28 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-28"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>28. </date>Went to a concert this afternoon at the Ville de Paris,
+							to hear an instrument of new Invention. found it very indifferent. Met
+								<persRef ref="bakunin-paul;bakunin-ekaterina">M. and Madame de
+								Bacounin</persRef> there.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-29">
+					<head>29 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-29"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>29. </date>Rose this morning very unwell, and continued so the
+							whole day. Dined however at <persRef ref="vonfinckenstein-karl">Count
+								Finkenstein’s</persRef>. About 20 persons in the company. A
+							Colonel<space/>son in Law of the old Count, was very conversible, but I
+							could not much attend to him— Home immediately after dinner.— Could not
+							go in the Evening either to <persRef ref="vonredern-sigismund">Count
+								Redern’s</persRef> party or to <persRef ref="augustusferdinand"
+								>Prince Ferdinand’s</persRef>— <persRef ref="adams-louisa-catherine"
+									>M<hi rend="superscript">rs:</hi> A.</persRef> went to make my excuse at
+							the last. <persRef ref="brown-charles">D<hi rend="superscript">r:</hi>
+								Brown</persRef> called on me in the Evening.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-30">
+					<head>30 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-30"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date>30. </date>Find myself quite recovered, but did not go out this
+							day.— There was no Court, both the <persRef ref="frederick-william-iii"
+								>king</persRef> and <persRef ref="louiseauguste">queen</persRef>
+							being unwell. <persRef ref="brown-charles">Doctor Brown</persRef> called
+							again this morning. Read as customary in the forenoon, and some of
+								<persRef ref="pope-alexander">Pope’s</persRef> poetry in the
+							evening— Received Letters from the <persRef ref="pickering-timothy"
+									>Sec<hi rend="superscript">y:</hi> of State</persRef>—from <persRef
+								ref="king-rufus">M<hi rend="superscript">r:</hi> King</persRef>, &amp; from
+								<persRef ref="pitcairn-joseph">Pitcairn</persRef>.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-31">
+					<head>31 December 1798</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12-31"/><editor
+							role="transcription">Neal Millikan</editor>
+					<subject>Recreation</subject>
+					</bibl>
+					<div type="docbody">
+						<p><date>31. </date>Walk in the park before dinner.— Ball in the Evening,
+							given by <persRef ref="talbot-charles">Lord Talbot</persRef>, to a small
+							party, at the Hotel de Russie.— We danced till two in the morning. The
+							supper very elegant.— <persRef ref="augustusfrederick">Prince
+								Augustus</persRef> there; and stayed very late.— Finished <persRef
+								ref="u">Buchholz</persRef>. 2. Vol: this morning.</p>
+					</div>
+				</div>
+				<div type="entry" xml:id="jqadiaries-v24-1798-12-xx">
+					<head>Day</head>
+					<bibl><author>JQA</author><date type="creation" when="1798-12"/><editor
+							role="transcription">Neal Millikan</editor></bibl>
+					<div type="docbody">
+						<p><date><hi rend="italic">Day</hi>.—</date> The forenoon, the same as the
+							months past— The only difference of the Evening is that now we have
+							scarcely one from one end of the month to the other, without some
+							engagement in company.— This kind of life so contrary to that which my
+							inclination would dictate, is unavoidable— The year has not in any
+							respect been a profitable one to me— The only acquisition of any value
+							that it has afforded is that of reading German very indifferently.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
