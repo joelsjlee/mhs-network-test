@@ -1,16 +1,10 @@
-import re, json, glob, csv, sys, os, warnings
+import json, sys, os, warnings
 import pandas as pd
 import numpy as np
-import itertools as iter
 import networkx as nx
-import xml.etree.ElementTree as ET
-import seaborn as sns
-import matplotlib.pyplot as plt
 from networkx.algorithms import community
 from networkx.readwrite import json_graph
-from json import JSONEncoder
 from operator import itemgetter
-from collections import Counter
 import requests
 import argparse
 # Import project-specific functions. 
@@ -180,7 +174,6 @@ def main():
     args = parser.parse_args()
 
     print('Grabbing files')
-    print(type(args.length))
     files = grabFiles(args.folder, args.length)
     print('Creating Dataframe')
     df = createDataframe(files)
