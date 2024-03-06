@@ -7,6 +7,7 @@ from networkx.readwrite import json_graph
 from operator import itemgetter
 import requests
 import argparse
+import time
 # Import project-specific functions. 
 # Python files (.py) have to be in same folder to work.
 lib_path = os.path.abspath(os.path.dirname('scripts/JQA_XML_parser.py'))
@@ -180,7 +181,9 @@ def main():
     print('Creating Adjancency Matrix')
     df_graph = createAdjMatrix(df)
     print('Creating Graph Object')
+    start_time = time.time()
     data = createGraphObject(df_graph)
+    print("Creating Graph Object time:", time.time() - start_time, "seconds.")
     print('Adding Names from MHS PSC API')
     addNames(data)
     print('Saving data as json')
