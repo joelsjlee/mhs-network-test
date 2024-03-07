@@ -17,9 +17,11 @@ from JQA_XML_parser import *
 def grabFiles(folder, length):
     '''Takes in the folder for the XML docs and how many xml documents you would like to use.'''
     files = []
+    # The way this folder is laid out may change because its different than the other authors.
     for dirpath, dirnames, filenames in os.walk(folder):
         for filename in [f for f in filenames if f.endswith(".xml")]:
             files.append(os.path.join(dirpath, filename))
+    # I'm using list indices here as a stop gap to test on lower lists. You could also use a random sample for variety
     return files[:length]
 
 def createDataframe(files):
@@ -141,19 +143,27 @@ def addNames(data):
     the ids and the names of the people. Load the file, and check if the current nodes are tracked in the json file, and if
     not, we call the PSC names database API to fill in the names and add it to the json.
     '''
+    # Open idtoname json and load it.
     with open('data/idtoname.json') as f:
         d = json.load(f)
+    # Iterate over all of the nodes
     for node in data['nodes']:
+        # If the node already exists in our json, then we can just add the name to the node
+        # This can be edited if we want additional information from the PSC API in the node 
         if node['id'] in d:
             node['name'] = (d[node['id']]['given_name'] + " " + d[node['id']]['family_name'])
         else:
+            # Otherwise, we make a requests call to the PSC database API to grab the names information
             request_url = "https://primarysourcecoop.org/mhs-api/ext/names?huscs={}".format(node['id'])
             try:
                 response = requests.get(request_url)
             except requests.exceptions.RequestException as e:  # This is the correct syntax
                 raise SystemExit(e)
+            # Now we similar add the name to the node
             node['name'] = response.json()['data'][node['id']]['given_name'] + " " + response.json()['data'][node['id']]['family_name']
+            # And we add the name API response to our json for safe keeping
             d[node['id']] = response.json()['data'][node['id']]
+            # Write out to the json
             with open('data/idtoname.json', 'w') as f:
                 json.dump(d, f)
 
@@ -178,7 +188,7 @@ def main():
     files = grabFiles(args.folder, args.length)
     print('Creating Dataframe')
     df = createDataframe(files)
-    print('Creating Adjancency Matrix')
+    print('Creating Adjacency Matrix')
     df_graph = createAdjMatrix(df)
     print('Creating Graph Object')
     start_time = time.time()
