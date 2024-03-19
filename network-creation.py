@@ -121,9 +121,9 @@ def createGraphObject(df_graph):
     nx.set_node_attributes(subgraph, degree_cent_dict, 'degree_cent')
 
     # Find communities. naive_greedy_modularity_communities
-    communities = community.naive_greedy_modularity_communities(subgraph)
+    # communities = community.naive_greedy_modularity_communities(subgraph)
     # communities = community.k_clique_communities(subgraph, 5)
-    # communities = community.greedy_modularity_communities(subgraph)
+    communities = community.greedy_modularity_communities(subgraph)
     # communities = community.kernighan_lin_bisection(subgraph)
 
     # Create a dictionary that maps nodes to their community.
@@ -167,9 +167,9 @@ def addNames(data):
             with open('data/idtoname.json', 'w') as f:
                 json.dump(d, f)
 
-def save(data):
+def save(data, filename):
     '''Simple function just to save the json file to the data folder.'''
-    with open("data/jqa_coRef-network.json", "w") as f:
+    with open(filename, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def main():
@@ -182,6 +182,9 @@ def main():
         'length',
         type=int,
         help='How many of the XML files you want to process.')
+    parser.add_argument(
+        'filename',
+        help='The output json filename')
     args = parser.parse_args()
 
     print('Grabbing files')
@@ -197,7 +200,7 @@ def main():
     print('Adding Names from MHS PSC API')
     addNames(data)
     print('Saving data as json')
-    save(data)
+    save(data, args.filename)
 
 if __name__ == "__main__":
     main()
