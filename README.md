@@ -2,17 +2,17 @@
 This repository is to test a small portion of Bill Quinn's MHS PSC work. The idea is to create a small workflow where data is taken in XML form, transformed with Bill Quinn's scripts, and displayed with his d3.js code.
 
 ## Background
-To keep this example as small as possible, we decided just to look at the JQA papers and the network visualization. To do this, we first need to transform the .ipynb that Bill Quinn experimented with, into a .py script, this is the `network-creation.py` file. This 
+To keep this example as small as possible, we decided just to look at the JQA papers and the network visualization. To do this, we first need to transform the .ipynb that Bill Quinn experimented with, into a .py script, this is the `jqa-network.py` file. This 
 file also calls upon the `JQA_XML_parser.py` file in the scripts folder. It takes the XML files in the JQA-XML folder and transforms them to a flat json file of data for nodes and edges (This is the `data/jqa-coRef-network.json` file).
 
 ## Running the script
-To run the script, you can run `python3 network-creation.py JQA-XML {length} data/jqa_coRef-network.json` where the length is how many documents you want to process (a simple python indices is called).
+To run the script, you can run `python3 jqa-network.py JQA-XML {length} data/jqa_coRef-network.json` where the length is how many documents you want to process (a simple python indices is called).
 
 Then, the `index.html` file and the `network-coRef.js` files work together to produce the visualization from the `data/jqa_coRef-network.json` file, along with the styles folder. Note that the name of json file is currently hard coded into the js file, I'll need to change this later.
 
 I've also added a requirements.txt folder for the dependencies. You can run this with `pip install -r requirements.txt`
 
-One thing I have added is that the `network-creation.py` file also calls upon the PSC names database. This is to pass along the names of the individuals, as well as some other helpful information if needed. This is the one notable change I've
+One thing I have added is that the `read_write_helper_utils.py` file also has a function that calls upon the PSC names database. This is to pass along the names of the individuals, as well as some other helpful information if needed. This is the one notable change I've
 made to the python javascript, the other one being that I also link a node click to go to the requisite PSC name link (although this is not fully fleshed out on the PSC side). To help with the names, I also have a idtonames json file that keeps 
 a record of the called API names so that multiple API calls to the same id is not needed.
 
