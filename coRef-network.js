@@ -28,7 +28,7 @@ function dragEnded(d, event) {
     d.fy = null;
 }
 
-d3.json('data/jqa_coRef-network.json').then(data => {
+d3.json(document.currentScript.getAttribute('data')).then(data => {
      // Build constants.
     let margin = {top: 30, right: 30, bottom: 30, left: 30},
         width = 960,
@@ -287,7 +287,7 @@ d3.json('data/jqa_coRef-network.json').then(data => {
 
     // This responds to click events by appending the associated node's id to the url and opening it.
     node.on('click', function(event, d) {
-        var url = "https://www.primarysourcecoop.org/publications/jqa/explore/person/"
+        var url = "https://www.primarysourcecoop.org/publications/coop/explore/person/"
         url += d.id
         window.open(url, "_blank")
     })
